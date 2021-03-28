@@ -4,4 +4,5 @@ Automated script for the download of OSM data with Overpass API to be used in uM
 
 ## List of map
 
-* Pietre d'inciampo italia: http://u.osmfr.org/m/411694/
+* Pietre d'inciampo in Italia: http://u.osmfr.org/m/411694/
+* Ecomusei in Italia: http://u.osmfr.org/m/472294/
