@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-14T03:09:08Z" areas="2021-04-14T02:49:54Z"/>
+<meta osm_base="2021-04-15T03:08:06Z" areas="2021-04-15T02:53:51Z"/>
 
   <way id="7980051">
     <bounds minlat="45.4675258" minlon="9.1815806" maxlat="45.4678853" maxlon="9.1819326"/>
@@ -1983,7 +1983,7 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="199118470">
-    <bounds minlat="45.4837207" minlon="9.1903431" maxlat="45.4853831" maxlon="9.1905200"/>
+    <bounds minlat="45.4837207" minlon="9.1903425" maxlat="45.4853847" maxlon="9.1905200"/>
     <nd ref="3962379889" lat="45.4837207" lon="9.1905200"/>
     <nd ref="6793892272" lat="45.4837960" lon="9.1905110"/>
     <nd ref="6794226903" lat="45.4839027" lon="9.1904997"/>
@@ -1992,7 +1992,7 @@
     <nd ref="6794149236" lat="45.4847424" lon="9.1904123"/>
     <nd ref="6793892271" lat="45.4850882" lon="9.1903743"/>
     <nd ref="6190078845" lat="45.4852995" lon="9.1903519"/>
-    <nd ref="2091579088" lat="45.4853831" lon="9.1903431"/>
+    <nd ref="2091579088" lat="45.4853847" lon="9.1903425"/>
     <tag k="access" v="no"/>
     <tag k="bicycle" v="yes"/>
     <tag k="fixme" v="ztl"/>
@@ -2016,8 +2016,8 @@
     <tag k="source" v="foto dall'alto + bing"/>
   </way>
   <way id="199526617">
-    <bounds minlat="45.4824693" minlon="9.1874548" maxlat="45.4833955" maxlon="9.1886077"/>
-    <nd ref="4824581341" lat="45.4827486" lon="9.1886077"/>
+    <bounds minlat="45.4824693" minlon="9.1874548" maxlat="45.4833955" maxlon="9.1886060"/>
+    <nd ref="4824581341" lat="45.4827357" lon="9.1886042"/>
     <nd ref="5143903127" lat="45.4827835" lon="9.1886060"/>
     <nd ref="5143903126" lat="45.4828216" lon="9.1885974"/>
     <nd ref="4824581191" lat="45.4828962" lon="9.1885637"/>
@@ -7965,6 +7965,7 @@
     <nd ref="4456453348" lat="45.4828309" lon="9.1894087"/>
     <nd ref="8614470607" lat="45.4828303" lon="9.1894962"/>
     <nd ref="8614470606" lat="45.4828491" lon="9.1896236"/>
+    <nd ref="8628762833" lat="45.4828715" lon="9.1897096"/>
     <nd ref="8614470605" lat="45.4829323" lon="9.1899434"/>
     <nd ref="8614470604" lat="45.4829680" lon="9.1901453"/>
     <nd ref="8614470603" lat="45.4829751" lon="9.1903418"/>
@@ -9118,7 +9119,9 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="526168079">
     <bounds minlat="45.4822783" minlon="9.2065068" maxlat="45.4825219" maxlon="9.2069096"/>
@@ -39743,13 +39746,27 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="698013242">
-    <bounds minlat="45.4810448" minlon="9.1903686" maxlat="45.4823357" maxlon="9.1920474"/>
+    <bounds minlat="45.4810448" minlon="9.1896531" maxlat="45.4828984" maxlon="9.1920474"/>
     <nd ref="6555324701" lat="45.4812331" lon="9.1903686"/>
     <nd ref="6555324700" lat="45.4810448" lon="9.1906839"/>
     <nd ref="6555324699" lat="45.4810453" lon="9.1907124"/>
     <nd ref="6555324698" lat="45.4821852" lon="9.1920466"/>
     <nd ref="6555324697" lat="45.4822119" lon="9.1920474"/>
     <nd ref="6555324696" lat="45.4823357" lon="9.1918248"/>
+    <nd ref="8628762846" lat="45.4824335" lon="9.1916332"/>
+    <nd ref="8628762845" lat="45.4824358" lon="9.1915997"/>
+    <nd ref="8628762844" lat="45.4827306" lon="9.1910646"/>
+    <nd ref="8628762843" lat="45.4827842" lon="9.1909406"/>
+    <nd ref="8628762842" lat="45.4828444" lon="9.1907280"/>
+    <nd ref="8628762841" lat="45.4828740" lon="9.1905275"/>
+    <nd ref="8628762840" lat="45.4828951" lon="9.1905054"/>
+    <nd ref="8628762839" lat="45.4828984" lon="9.1902485"/>
+    <nd ref="8628762838" lat="45.4828801" lon="9.1902251"/>
+    <nd ref="8628762837" lat="45.4828688" lon="9.1900896"/>
+    <nd ref="8628762830" lat="45.4827955" lon="9.1897537"/>
+    <nd ref="8628762836" lat="45.4827809" lon="9.1896866"/>
+    <nd ref="8628762835" lat="45.4827296" lon="9.1896531"/>
+    <nd ref="8628762834" lat="45.4826210" lon="9.1896565"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -77991,6 +78008,9 @@
     <nd ref="8532664024" lat="45.4899346" lon="9.1889906"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="918749154">
     <bounds minlat="45.4875037" minlon="9.1854987" maxlat="45.4877009" maxlon="9.1870292"/>
@@ -78077,40 +78097,31 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="918749169">
-    <bounds minlat="45.4881745" minlon="9.1856764" maxlat="45.4883673" maxlon="9.1871387"/>
+    <bounds minlat="45.4881745" minlon="9.1869544" maxlat="45.4881994" maxlon="9.1871387"/>
     <nd ref="8559848612" lat="45.4881745" lon="9.1871387"/>
     <nd ref="8532664086" lat="45.4881761" lon="9.1871258"/>
     <nd ref="8559848613" lat="45.4881766" lon="9.1871219"/>
     <nd ref="8532664080" lat="45.4881950" lon="9.1869881"/>
-    <nd ref="8532664067" lat="45.4883672" lon="9.1856773"/>
-    <nd ref="8532664085" lat="45.4883673" lon="9.1856764"/>
+    <nd ref="8628668500" lat="45.4881994" lon="9.1869544"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="918749170">
-    <bounds minlat="45.4882535" minlon="9.1857015" maxlat="45.4891749" maxlon="9.1874497"/>
-    <nd ref="8607575192" lat="45.4890626" lon="9.1873826"/>
-    <nd ref="8607575191" lat="45.4890521" lon="9.1874117"/>
+    <bounds minlat="45.4882535" minlon="9.1872304" maxlat="45.4890383" maxlon="9.1874497"/>
     <nd ref="8532664090" lat="45.4890383" lon="9.1874497"/>
     <nd ref="8607575182" lat="45.4890078" lon="9.1874412"/>
     <nd ref="8607575175" lat="45.4890032" lon="9.1874399"/>
     <nd ref="8559868064" lat="45.4882589" lon="9.1872327"/>
     <nd ref="8532664089" lat="45.4882535" lon="9.1872304"/>
-    <nd ref="8532664084" lat="45.4882816" lon="9.1870105"/>
-    <nd ref="8532664088" lat="45.4884486" lon="9.1857015"/>
-    <nd ref="8559868026" lat="45.4891313" lon="9.1858796"/>
-    <nd ref="8532664087" lat="45.4891749" lon="9.1858910"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="918749173">
-    <bounds minlat="45.4881755" minlon="9.1873809" maxlat="45.4890390" maxlon="9.1878208"/>
-    <nd ref="8532664099" lat="45.4881755" lon="9.1878208"/>
-    <nd ref="8559868054" lat="45.4882005" lon="9.1876286"/>
-    <nd ref="8559868061" lat="45.4882046" lon="9.1875974"/>
-    <nd ref="8532664098" lat="45.4882305" lon="9.1873987"/>
-    <nd ref="8559868062" lat="45.4882395" lon="9.1873870"/>
-    <nd ref="8532664097" lat="45.4882441" lon="9.1873809"/>
+    <bounds minlat="45.4882485" minlon="9.1873816" maxlat="45.4890390" maxlon="9.1877108"/>
     <nd ref="8532664095" lat="45.4882485" lon="9.1873816"/>
     <nd ref="8607575172" lat="45.4889879" lon="9.1875881"/>
     <nd ref="8607575185" lat="45.4889987" lon="9.1875912"/>
@@ -78119,6 +78130,8 @@
     <nd ref="8607575186" lat="45.4890339" lon="9.1877108"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="918749179">
     <bounds minlat="45.4880547" minlon="9.1878912" maxlat="45.4881635" maxlon="9.1887582"/>
@@ -78129,6 +78142,8 @@
     <nd ref="8532664103" lat="45.4881635" lon="9.1878912"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="918749182">
     <bounds minlat="45.4879813" minlon="9.1892293" maxlat="45.4888914" maxlon="9.1901734"/>
@@ -78667,11 +78682,14 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="922015173">
-    <bounds minlat="45.4881704" minlon="9.1871466" maxlat="45.4881732" maxlon="9.1871618"/>
-    <nd ref="8559868059" lat="45.4881704" lon="9.1871618"/>
+    <bounds minlat="45.4881218" minlon="9.1871466" maxlat="45.4881732" maxlon="9.1875767"/>
+    <nd ref="8559868060" lat="45.4881218" lon="9.1875767"/>
+    <nd ref="8559868059" lat="45.4881714" lon="9.1871620"/>
     <nd ref="8559848609" lat="45.4881732" lon="9.1871466"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="922015174">
     <bounds minlat="45.4885765" minlon="9.1833136" maxlat="45.4891867" maxlon="9.1855428"/>
@@ -78714,6 +78732,8 @@
     <nd ref="8532664110" lat="45.4879658" lon="9.1887398"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="922015188">
     <bounds minlat="45.4880902" minlon="9.1875767" maxlat="45.4881218" maxlon="9.1878041"/>
@@ -80299,6 +80319,10 @@
     <nd ref="8620663306" lat="45.4911899" lon="9.1848975"/>
     <nd ref="8606351686" lat="45.4911897" lon="9.1849143"/>
     <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661844">
     <bounds minlat="45.4910193" minlon="9.1839990" maxlat="45.4913716" maxlon="9.1846789"/>
@@ -80315,10 +80339,15 @@
     <nd ref="8606351648" lat="45.4913689" lon="9.1841111"/>
     <nd ref="8606351694" lat="45.4913612" lon="9.1840808"/>
     <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661845">
     <bounds minlat="45.4913011" minlon="9.1841385" maxlat="45.4930986" maxlon="9.1853689"/>
     <nd ref="8606351700" lat="45.4914129" lon="9.1853689"/>
+    <nd ref="8628693236" lat="45.4913949" lon="9.1853103"/>
     <nd ref="8606351633" lat="45.4913141" lon="9.1850479"/>
     <nd ref="8606351699" lat="45.4913011" lon="9.1850055"/>
     <nd ref="8620663303" lat="45.4913120" lon="9.1849520"/>
@@ -80345,9 +80374,12 @@
     <nd ref="8620993293" lat="45.4930981" lon="9.1848533"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661846">
-    <bounds minlat="45.4910585" minlon="9.1853723" maxlat="45.4913737" maxlon="9.1862226"/>
+    <bounds minlat="45.4910585" minlon="9.1853723" maxlat="45.4915314" maxlon="9.1862226"/>
     <nd ref="8606351707" lat="45.4912019" lon="9.1862179"/>
     <nd ref="8606351706" lat="45.4910975" lon="9.1862226"/>
     <nd ref="8606351618" lat="45.4910799" lon="9.1862098"/>
@@ -80358,8 +80390,13 @@
     <nd ref="8606351703" lat="45.4913058" lon="9.1853723"/>
     <nd ref="8606351702" lat="45.4913309" lon="9.1854025"/>
     <nd ref="8606351701" lat="45.4913737" lon="9.1855426"/>
+    <nd ref="8628693237" lat="45.4915314" lon="9.1860519"/>
+    <nd ref="8628693238" lat="45.4915260" lon="9.1860871"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661852">
     <bounds minlat="45.4891885" minlon="9.1861340" maxlat="45.4897526" maxlon="9.1876321"/>
@@ -80374,6 +80411,10 @@
     <nd ref="8606351739" lat="45.4897197" lon="9.1876321"/>
     <nd ref="8606351738" lat="45.4891885" lon="9.1874959"/>
     <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661859">
     <bounds minlat="45.4894673" minlon="9.1859932" maxlat="45.4908738" maxlon="9.1878312"/>
@@ -80396,6 +80437,10 @@
     <nd ref="8606351708" lat="45.4905453" lon="9.1876975"/>
     <nd ref="8606351780" lat="45.4905207" lon="9.1877957"/>
     <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661860">
     <bounds minlat="45.4906390" minlon="9.1863553" maxlat="45.4911925" maxlon="9.1878768"/>
@@ -80410,6 +80455,9 @@
     <nd ref="8606351781" lat="45.4911925" lon="9.1863553"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661861">
     <bounds minlat="45.4904328" minlon="9.1880424" maxlat="45.4907118" maxlon="9.1889839"/>
@@ -80426,6 +80474,9 @@
     <nd ref="8606351788" lat="45.4907118" lon="9.1889577"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661862">
     <bounds minlat="45.4899745" minlon="9.1878621" maxlat="45.4904601" maxlon="9.1886533"/>
@@ -80443,6 +80494,9 @@
     <nd ref="8606351796" lat="45.4900032" lon="9.1878621"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661870">
     <bounds minlat="45.4905551" minlon="9.1893976" maxlat="45.4914576" maxlon="9.1898992"/>
@@ -80454,6 +80508,9 @@
     <nd ref="8606351847" lat="45.4905551" lon="9.1894117"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661871">
     <bounds minlat="45.4905960" minlon="9.1891053" maxlat="45.4914233" maxlon="9.1896806"/>
@@ -80468,6 +80525,9 @@
     <nd ref="8606351873" lat="45.4914233" lon="9.1896739"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661872">
     <bounds minlat="45.4913777" minlon="9.1890214" maxlat="45.4914106" maxlon="9.1890285"/>
@@ -80482,6 +80542,9 @@
     <nd ref="8606351873" lat="45.4914233" lon="9.1896739"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661876">
     <bounds minlat="45.4913767" minlon="9.1890161" maxlat="45.4914635" maxlon="9.1896497"/>
@@ -80492,6 +80555,9 @@
     <nd ref="8606351863" lat="45.4913767" lon="9.1890161"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661878">
     <bounds minlat="45.4914816" minlon="9.1889785" maxlat="45.4915538" maxlon="9.1896724"/>
@@ -80502,6 +80568,9 @@
     <nd ref="8606351871" lat="45.4914816" lon="9.1889785"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661880">
     <bounds minlat="45.4914576" minlon="9.1898992" maxlat="45.4916790" maxlon="9.1919025"/>
@@ -80514,6 +80583,9 @@
     <nd ref="8606351884" lat="45.4915013" lon="9.1899146"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661881">
     <bounds minlat="45.4915538" minlon="9.1896724" maxlat="45.4930419" maxlon="9.1904526"/>
@@ -80521,6 +80593,9 @@
     <nd ref="8606351880" lat="45.4915538" lon="9.1896724"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927661884">
     <bounds minlat="45.4915704" minlon="9.1899186" maxlat="45.4930010" maxlon="9.1919792"/>
@@ -80528,10 +80603,14 @@
     <nd ref="8606351890" lat="45.4916052" lon="9.1899240"/>
     <nd ref="8606351889" lat="45.4915836" lon="9.1899186"/>
     <nd ref="8606351888" lat="45.4915704" lon="9.1899327"/>
+    <nd ref="8628450627" lat="45.4915717" lon="9.1899442"/>
     <nd ref="8606351812" lat="45.4918035" lon="9.1919622"/>
     <nd ref="8606351887" lat="45.4918054" lon="9.1919792"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="927819495">
     <bounds minlat="45.4889347" minlon="9.1891241" maxlat="45.4889349" maxlon="9.1892474"/>
@@ -80561,9 +80640,9 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="927819505">
-    <bounds minlat="45.4891596" minlon="9.1874438" maxlat="45.4891885" maxlon="9.1874959"/>
-    <nd ref="8607575188" lat="45.4891596" lon="9.1874438"/>
-    <nd ref="8607575187" lat="45.4891696" lon="9.1874879"/>
+    <bounds minlat="45.4891514" minlon="9.1874384" maxlat="45.4891885" maxlon="9.1874959"/>
+    <nd ref="8607575188" lat="45.4891514" lon="9.1874384"/>
+    <nd ref="8607575187" lat="45.4891665" lon="9.1874869"/>
     <nd ref="8607575168" lat="45.4891814" lon="9.1874929"/>
     <nd ref="8606351738" lat="45.4891885" lon="9.1874959"/>
     <tag k="footway" v="sidewalk"/>
@@ -80638,6 +80717,9 @@
     <nd ref="4551486402" lat="45.4899483" lon="9.1903941"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="928793203">
     <bounds minlat="45.4902569" minlon="9.1911183" maxlat="45.4903005" maxlon="9.1911400"/>
@@ -80747,7 +80829,19 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="928812324">
-    <bounds minlat="45.4865123" minlon="9.1852008" maxlat="45.4867624" maxlon="9.1867535"/>
+    <bounds minlat="45.4860527" minlon="9.1852008" maxlat="45.4867624" maxlon="9.1867535"/>
+    <nd ref="8628690374" lat="45.4860727" lon="9.1866477"/>
+    <nd ref="8628690372" lat="45.4860672" lon="9.1866302"/>
+    <nd ref="8628690373" lat="45.4860646" lon="9.1866221"/>
+    <nd ref="8628690375" lat="45.4860527" lon="9.1865843"/>
+    <nd ref="8628690376" lat="45.4860925" lon="9.1864948"/>
+    <nd ref="8628690377" lat="45.4861665" lon="9.1863295"/>
+    <nd ref="8628690378" lat="45.4862384" lon="9.1861733"/>
+    <nd ref="8628690379" lat="45.4863191" lon="9.1859969"/>
+    <nd ref="8628690380" lat="45.4864056" lon="9.1858078"/>
+    <nd ref="8628690381" lat="45.4864904" lon="9.1856274"/>
+    <nd ref="8628690382" lat="45.4865682" lon="9.1854548"/>
+    <nd ref="8628690383" lat="45.4866573" lon="9.1852667"/>
     <nd ref="8614397610" lat="45.4867140" lon="9.1852008"/>
     <nd ref="8614397604" lat="45.4867385" lon="9.1852117"/>
     <nd ref="8614397603" lat="45.4867624" lon="9.1852536"/>
@@ -80804,11 +80898,12 @@
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="928818767">
-    <bounds minlat="45.4878428" minlon="9.1894077" maxlat="45.4879574" maxlon="9.1895264"/>
+    <bounds minlat="45.4878236" minlon="9.1893879" maxlat="45.4879574" maxlon="9.1895264"/>
     <nd ref="8614509967" lat="45.4879574" lon="9.1895264"/>
     <nd ref="8532664130" lat="45.4879494" lon="9.1895181"/>
     <nd ref="8559868045" lat="45.4878992" lon="9.1894661"/>
-    <nd ref="8614509965" lat="45.4878428" lon="9.1894077"/>
+    <nd ref="8628683725" lat="45.4878742" lon="9.1894507"/>
+    <nd ref="8614509965" lat="45.4878236" lon="9.1893879"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="smoothness" v="intermediate"/>
@@ -80849,6 +80944,7 @@
     <bounds minlat="45.4879813" minlon="9.1889996" maxlat="45.4880114" maxlon="9.1892293"/>
     <nd ref="8532664128" lat="45.4879813" lon="9.1892293"/>
     <nd ref="8532664127" lat="45.4880086" lon="9.1890228"/>
+    <nd ref="8628683718" lat="45.4880093" lon="9.1890172"/>
     <nd ref="8532664126" lat="45.4880114" lon="9.1889996"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
@@ -80894,13 +80990,17 @@
   <way id="929557882">
     <bounds minlat="45.4873786" minlon="9.1886719" maxlat="45.4879658" maxlon="9.1887398"/>
     <nd ref="8532664110" lat="45.4879658" lon="9.1887398"/>
+    <nd ref="8628668508" lat="45.4879502" lon="9.1887375"/>
+    <nd ref="8628668512" lat="45.4879220" lon="9.1887332"/>
     <nd ref="8607575156" lat="45.4873786" lon="9.1886719"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="929557884">
-    <bounds minlat="45.4872800" minlon="9.1888766" maxlat="45.4875507" maxlon="9.1912034"/>
-    <nd ref="8532664032" lat="45.4875507" lon="9.1912034"/>
+    <bounds minlat="45.4872800" minlon="9.1888766" maxlat="45.4875489" maxlon="9.1911880"/>
+    <nd ref="8629034495" lat="45.4875489" lon="9.1911880"/>
     <nd ref="8559868037" lat="45.4875443" lon="9.1911481"/>
     <nd ref="8620754112" lat="45.4874389" lon="9.1902420"/>
     <nd ref="8620754113" lat="45.4874383" lon="9.1902370"/>
@@ -80918,6 +81018,7 @@
   <way id="929557890">
     <bounds minlat="45.4874428" minlon="9.1891782" maxlat="45.4876382" maxlon="9.1908789"/>
     <nd ref="8532664131" lat="45.4876382" lon="9.1891958"/>
+    <nd ref="8628683727" lat="45.4874485" lon="9.1891787"/>
     <nd ref="8532664034" lat="45.4874428" lon="9.1891782"/>
     <nd ref="8559868044" lat="45.4874450" lon="9.1892017"/>
     <nd ref="8620754115" lat="45.4875467" lon="9.1902685"/>
@@ -80945,14 +81046,14 @@
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="929560506">
-    <bounds minlat="45.4862958" minlon="9.1885804" maxlat="45.4866350" maxlon="9.1913744"/>
-    <nd ref="8620810558" lat="45.4862958" lon="9.1885804"/>
+    <bounds minlat="45.4862934" minlon="9.1885690" maxlat="45.4865997" maxlon="9.1913590"/>
+    <nd ref="8620810558" lat="45.4862934" lon="9.1885690"/>
     <nd ref="8620810557" lat="45.4863308" lon="9.1888458"/>
     <nd ref="8620810556" lat="45.4863769" lon="9.1893721"/>
     <nd ref="8620810555" lat="45.4864733" lon="9.1901808"/>
-    <nd ref="8620810554" lat="45.4865391" lon="9.1907870"/>
-    <nd ref="8620810552" lat="45.4866138" lon="9.1912081"/>
-    <nd ref="8620810551" lat="45.4866350" lon="9.1913744"/>
+    <nd ref="8620810554" lat="45.4865592" lon="9.1909762"/>
+    <nd ref="8620810552" lat="45.4865863" lon="9.1912038"/>
+    <nd ref="8620810551" lat="45.4865997" lon="9.1913590"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="smoothness" v="good"/>
@@ -81104,18 +81205,14 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="929584306">
-    <bounds minlat="45.4925405" minlon="9.1848533" maxlat="45.4930981" maxlon="9.1856023"/>
+  <way id="929584308">
+    <bounds minlat="45.4920602" minlon="9.1848533" maxlat="45.4930981" maxlon="9.1859079"/>
+    <nd ref="8620993271" lat="45.4920602" lon="9.1859079"/>
+    <nd ref="8620993270" lat="45.4925210" lon="9.1856159"/>
+    <nd ref="8620993269" lat="45.4925315" lon="9.1856086"/>
     <nd ref="8620993268" lat="45.4925405" lon="9.1856023"/>
     <nd ref="8620993267" lat="45.4929995" lon="9.1853215"/>
     <nd ref="8620993293" lat="45.4930981" lon="9.1848533"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-  </way>
-  <way id="929584307">
-    <bounds minlat="45.4920602" minlon="9.1856159" maxlat="45.4925210" maxlon="9.1859079"/>
-    <nd ref="8620993271" lat="45.4920602" lon="9.1859079"/>
-    <nd ref="8620993270" lat="45.4925210" lon="9.1856159"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -81304,12 +81401,430 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="930344090">
-    <bounds minlat="45.4858190" minlon="9.1939341" maxlat="45.4859442" maxlon="9.1940685"/>
+  <way id="930606068">
+    <bounds minlat="45.4884486" minlon="9.1857015" maxlat="45.4891749" maxlon="9.1858910"/>
+    <nd ref="8532664088" lat="45.4884486" lon="9.1857015"/>
+    <nd ref="8559868026" lat="45.4891313" lon="9.1858796"/>
+    <nd ref="8532664087" lat="45.4891749" lon="9.1858910"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="930606069">
+    <bounds minlat="45.4881994" minlon="9.1856764" maxlat="45.4883673" maxlon="9.1869544"/>
+    <nd ref="8628668500" lat="45.4881994" lon="9.1869544"/>
+    <nd ref="8532664067" lat="45.4883672" lon="9.1856773"/>
+    <nd ref="8532664085" lat="45.4883673" lon="9.1856764"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="930606070">
+    <bounds minlat="45.4882535" minlon="9.1857015" maxlat="45.4884486" maxlon="9.1872304"/>
+    <nd ref="8532664089" lat="45.4882535" lon="9.1872304"/>
+    <nd ref="8532664084" lat="45.4882816" lon="9.1870105"/>
+    <nd ref="8532664088" lat="45.4884486" lon="9.1857015"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="930606071">
+    <bounds minlat="45.4890383" minlon="9.1873826" maxlat="45.4890626" maxlon="9.1874497"/>
+    <nd ref="8607575192" lat="45.4890626" lon="9.1873826"/>
+    <nd ref="8607575191" lat="45.4890521" lon="9.1874117"/>
+    <nd ref="8532664090" lat="45.4890383" lon="9.1874497"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="930606072">
+    <bounds minlat="45.4882305" minlon="9.1873809" maxlat="45.4882485" maxlon="9.1873987"/>
+    <nd ref="8532664098" lat="45.4882305" lon="9.1873987"/>
+    <nd ref="8559868062" lat="45.4882395" lon="9.1873870"/>
+    <nd ref="8532664097" lat="45.4882441" lon="9.1873809"/>
+    <nd ref="8532664095" lat="45.4882485" lon="9.1873816"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="930606073">
+    <bounds minlat="45.4881755" minlon="9.1873987" maxlat="45.4882305" maxlon="9.1878208"/>
+    <nd ref="8532664099" lat="45.4881755" lon="9.1878208"/>
+    <nd ref="8559868054" lat="45.4882005" lon="9.1876286"/>
+    <nd ref="8559868061" lat="45.4882046" lon="9.1875974"/>
+    <nd ref="8532664098" lat="45.4882305" lon="9.1873987"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="930606075">
+    <bounds minlat="45.4878742" minlon="9.1889896" maxlat="45.4879104" maxlon="9.1894507"/>
+    <nd ref="8628683725" lat="45.4878742" lon="9.1894507"/>
+    <nd ref="8628683726" lat="45.4878807" lon="9.1892598"/>
+    <nd ref="8628683730" lat="45.4879104" lon="9.1889896"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="930606078">
+    <bounds minlat="45.4874177" minlon="9.1889276" maxlat="45.4879104" maxlon="9.1891787"/>
+    <nd ref="8628683730" lat="45.4879104" lon="9.1889896"/>
+    <nd ref="8628668513" lat="45.4879101" lon="9.1889898"/>
+    <nd ref="8628683729" lat="45.4876866" lon="9.1889879"/>
+    <nd ref="8628683728" lat="45.4874177" lon="9.1889276"/>
+    <nd ref="8628683724" lat="45.4874229" lon="9.1889702"/>
+    <nd ref="8628683727" lat="45.4874485" lon="9.1891787"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="930606841">
+    <bounds minlat="45.4858193" minlon="9.1929549" maxlat="45.4859195" maxlon="9.1939386"/>
+    <nd ref="8628673012" lat="45.4858193" lon="9.1929549"/>
+    <nd ref="8630109166" lat="45.4858243" lon="9.1929968"/>
+    <nd ref="8628673011" lat="45.4858703" lon="9.1933854"/>
+    <nd ref="8628673010" lat="45.4859195" lon="9.1937750"/>
+    <nd ref="8628673009" lat="45.4858457" lon="9.1939386"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smothness" v="intermediate"/>
+    <tag k="surface" v="asfalto"/>
+  </way>
+  <way id="930606842">
+    <bounds minlat="45.4853896" minlon="9.1903682" maxlat="45.4858193" maxlon="9.1929549"/>
+    <nd ref="8628690325" lat="45.4853896" lon="9.1903682"/>
+    <nd ref="8628690324" lat="45.4854917" lon="9.1904779"/>
+    <nd ref="8628690323" lat="45.4855029" lon="9.1905184"/>
+    <nd ref="8628690322" lat="45.4855203" lon="9.1906522"/>
+    <nd ref="8628690321" lat="45.4855857" lon="9.1911773"/>
+    <nd ref="8628690320" lat="45.4856341" lon="9.1915521"/>
+    <nd ref="8628690319" lat="45.4856482" lon="9.1916507"/>
+    <nd ref="8628690318" lat="45.4856853" lon="9.1919444"/>
+    <nd ref="8628690317" lat="45.4857201" lon="9.1921965"/>
+    <nd ref="8628673016" lat="45.4857406" lon="9.1923474"/>
+    <nd ref="8630109165" lat="45.4857654" lon="9.1925267"/>
+    <nd ref="8628673015" lat="45.4857929" lon="9.1927261"/>
+    <nd ref="8628673012" lat="45.4858193" lon="9.1929549"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="930606844">
+    <bounds minlat="45.4852227" minlon="9.1881929" maxlat="45.4855042" maxlon="9.1902955"/>
+    <nd ref="8628690344" lat="45.4855042" lon="9.1881929"/>
+    <nd ref="8628690343" lat="45.4854940" lon="9.1882014"/>
+    <nd ref="8628690342" lat="45.4853784" lon="9.1882248"/>
+    <nd ref="8628690341" lat="45.4853398" lon="9.1882550"/>
+    <nd ref="8628690340" lat="45.4852660" lon="9.1883428"/>
+    <nd ref="8628690339" lat="45.4852227" lon="9.1884863"/>
+    <nd ref="8628690338" lat="45.4852500" lon="9.1887063"/>
+    <nd ref="8628690337" lat="45.4852839" lon="9.1889745"/>
+    <nd ref="8628690336" lat="45.4853055" lon="9.1891462"/>
+    <nd ref="8628690335" lat="45.4852857" lon="9.1892950"/>
+    <nd ref="8628690334" lat="45.4853422" lon="9.1897899"/>
+    <nd ref="8628690333" lat="45.4853798" lon="9.1899844"/>
+    <nd ref="8628690332" lat="45.4853976" lon="9.1900823"/>
+    <nd ref="8628690331" lat="45.4853596" lon="9.1901748"/>
+    <nd ref="8628690330" lat="45.4853795" lon="9.1902754"/>
+    <nd ref="8628690328" lat="45.4853730" lon="9.1902813"/>
+    <nd ref="8628690329" lat="45.4853574" lon="9.1902955"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smothness" v="intermediate"/>
+    <tag k="surface" v="asfalto"/>
+  </way>
+  <way id="930606846">
+    <bounds minlat="45.4855532" minlon="9.1882050" maxlat="45.4856449" maxlon="9.1882607"/>
+    <nd ref="8628690352" lat="45.4856449" lon="9.1882607"/>
+    <nd ref="8628690351" lat="45.4855551" lon="9.1882255"/>
+    <nd ref="8628690349" lat="45.4855543" lon="9.1882167"/>
+    <nd ref="8628690350" lat="45.4855532" lon="9.1882050"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smothness" v="good"/>
+    <tag k="surface" v="asfalto"/>
+  </way>
+  <way id="930606848">
+    <bounds minlat="45.4857152" minlon="9.1867647" maxlat="45.4859956" maxlon="9.1882892"/>
+    <nd ref="8628690368" lat="45.4859956" lon="9.1867647"/>
+    <nd ref="8628690367" lat="45.4859656" lon="9.1867699"/>
+    <nd ref="8628690366" lat="45.4859564" lon="9.1867892"/>
+    <nd ref="8628690365" lat="45.4858734" lon="9.1869783"/>
+    <nd ref="8628690364" lat="45.4858508" lon="9.1870319"/>
+    <nd ref="8628690363" lat="45.4858558" lon="9.1873142"/>
+    <nd ref="8628690362" lat="45.4858626" lon="9.1875087"/>
+    <nd ref="8628690361" lat="45.4858635" lon="9.1876609"/>
+    <nd ref="8628690360" lat="45.4858090" lon="9.1878476"/>
+    <nd ref="8628690359" lat="45.4857171" lon="9.1882496"/>
+    <nd ref="8628690356" lat="45.4857157" lon="9.1882760"/>
+    <nd ref="8628690358" lat="45.4857152" lon="9.1882868"/>
+    <nd ref="8628690357" lat="45.4857335" lon="9.1882892"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smothness" v="intermediate"/>
+    <tag k="surface" v="asfalto"/>
+  </way>
+  <way id="930607243">
+    <bounds minlat="45.4914129" minlon="9.1853689" maxlat="45.4916296" maxlon="9.1860502"/>
+    <nd ref="8628693241" lat="45.4916296" lon="9.1860502"/>
+    <nd ref="8606351700" lat="45.4914129" lon="9.1853689"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930607244">
+    <bounds minlat="45.4916296" minlon="9.1860502" maxlat="45.4916762" maxlon="9.1861508"/>
+    <nd ref="8620993274" lat="45.4916762" lon="9.1861464"/>
+    <nd ref="8628693242" lat="45.4916625" lon="9.1861508"/>
+    <nd ref="8628693241" lat="45.4916296" lon="9.1860502"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930616106">
+    <bounds minlat="45.4826178" minlon="9.1887358" maxlat="45.4828462" maxlon="9.1893198"/>
+    <nd ref="8628762824" lat="45.4826178" lon="9.1893198"/>
+    <nd ref="8628762825" lat="45.4827311" lon="9.1893145"/>
+    <nd ref="8628762826" lat="45.4828462" lon="9.1887780"/>
+    <nd ref="8628762827" lat="45.4827188" lon="9.1887358"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="source" v="foto dall'alto + bing"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="930643273">
+    <bounds minlat="45.4875228" minlon="9.1912601" maxlat="45.4875279" maxlon="9.1912939"/>
+    <nd ref="8629034487" lat="45.4875279" lon="9.1912939"/>
+    <nd ref="8629034486" lat="45.4875228" lon="9.1912601"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643275">
+    <bounds minlat="45.4875312" minlon="9.1913514" maxlat="45.4875345" maxlon="9.1913826"/>
+    <nd ref="8629034489" lat="45.4875345" lon="9.1913826"/>
+    <nd ref="8629034488" lat="45.4875312" lon="9.1913514"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643277">
+    <bounds minlat="45.4875398" minlon="9.1914359" maxlat="45.4875465" maxlon="9.1914844"/>
+    <nd ref="8629034502" lat="45.4875465" lon="9.1914844"/>
+    <nd ref="8629034494" lat="45.4875398" lon="9.1914359"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643278">
+    <bounds minlat="45.4875098" minlon="9.1911941" maxlat="45.4875155" maxlon="9.1912205"/>
+    <nd ref="8629034493" lat="45.4875098" lon="9.1911941"/>
+    <nd ref="8629034492" lat="45.4875155" lon="9.1912205"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643280">
+    <bounds minlat="45.4867338" minlon="9.1913439" maxlat="45.4867386" maxlon="9.1913918"/>
+    <nd ref="8629054920" lat="45.4867338" lon="9.1913439"/>
+    <nd ref="8629034504" lat="45.4867386" lon="9.1913918"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643281">
+    <bounds minlat="45.4867429" minlon="9.1914348" maxlat="45.4867466" maxlon="9.1914654"/>
+    <nd ref="8629034507" lat="45.4867466" lon="9.1914654"/>
+    <nd ref="8629034506" lat="45.4867429" lon="9.1914348"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643283">
+    <bounds minlat="45.4867519" minlon="9.1915213" maxlat="45.4867546" maxlon="9.1915524"/>
+    <nd ref="8629034509" lat="45.4867546" lon="9.1915524"/>
+    <nd ref="8629034508" lat="45.4867519" lon="9.1915213"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643285">
+    <bounds minlat="45.4867595" minlon="9.1915954" maxlat="45.4867675" maxlon="9.1916627"/>
+    <nd ref="8629054918" lat="45.4867675" lon="9.1916627"/>
+    <nd ref="8629034511" lat="45.4867595" lon="9.1915954"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643287">
+    <bounds minlat="45.4867300" minlon="9.1914777" maxlat="45.4875764" maxlon="9.1916688"/>
+    <nd ref="8629054936" lat="45.4867300" lon="9.1916688"/>
+    <nd ref="8629054918" lat="45.4867675" lon="9.1916627"/>
+    <nd ref="8629054917" lat="45.4868392" lon="9.1916487"/>
+    <nd ref="8629034516" lat="45.4869100" lon="9.1916356"/>
+    <nd ref="8629034515" lat="45.4869913" lon="9.1916188"/>
+    <nd ref="8629034514" lat="45.4870893" lon="9.1916007"/>
+    <nd ref="8629034513" lat="45.4871758" lon="9.1915796"/>
+    <nd ref="8629034512" lat="45.4872515" lon="9.1915591"/>
+    <nd ref="8629034503" lat="45.4874102" lon="9.1915246"/>
+    <nd ref="8629034502" lat="45.4875465" lon="9.1914844"/>
+    <nd ref="8629034501" lat="45.4875712" lon="9.1914777"/>
+    <nd ref="8629034500" lat="45.4875764" lon="9.1915628"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643288">
+    <bounds minlat="45.4866893" minlon="9.1911880" maxlat="45.4875489" maxlon="9.1913593"/>
+    <nd ref="8629054921" lat="45.4866893" lon="9.1913593"/>
+    <nd ref="8629054920" lat="45.4867338" lon="9.1913439"/>
+    <nd ref="8629054919" lat="45.4868781" lon="9.1913120"/>
+    <nd ref="8629034499" lat="45.4869970" lon="9.1912866"/>
+    <nd ref="8629034498" lat="45.4871436" lon="9.1912564"/>
+    <nd ref="8629034497" lat="45.4872630" lon="9.1912312"/>
+    <nd ref="8629034496" lat="45.4874553" lon="9.1912027"/>
+    <nd ref="8629034493" lat="45.4875098" lon="9.1911941"/>
+    <nd ref="8629034495" lat="45.4875489" lon="9.1911880"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643291">
+    <bounds minlat="45.4865997" minlon="9.1913590" maxlat="45.4868754" maxlon="9.1937428"/>
+    <nd ref="8629054966" lat="45.4868728" lon="9.1937428"/>
+    <nd ref="8629054935" lat="45.4868754" lon="9.1937244"/>
+    <nd ref="8629054934" lat="45.4868750" lon="9.1937016"/>
+    <nd ref="8629054933" lat="45.4868646" lon="9.1936685"/>
+    <nd ref="8629054932" lat="45.4866759" lon="9.1919940"/>
+    <nd ref="8629054931" lat="45.4866568" lon="9.1917690"/>
+    <nd ref="8629054930" lat="45.4866679" lon="9.1917432"/>
+    <nd ref="8629054929" lat="45.4866660" lon="9.1916946"/>
+    <nd ref="8629054928" lat="45.4866343" lon="9.1916973"/>
+    <nd ref="8629054927" lat="45.4866072" lon="9.1914995"/>
+    <nd ref="8629054924" lat="45.4866025" lon="9.1914102"/>
+    <nd ref="8620810551" lat="45.4865997" lon="9.1913590"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643294">
+    <bounds minlat="45.4867226" minlon="9.1916688" maxlat="45.4868737" maxlon="9.1929554"/>
+    <nd ref="8629054945" lat="45.4868737" lon="9.1929554"/>
+    <nd ref="8629054944" lat="45.4868614" lon="9.1928758"/>
+    <nd ref="8629054943" lat="45.4868339" lon="9.1926451"/>
+    <nd ref="8629054942" lat="45.4868228" lon="9.1925718"/>
+    <nd ref="8629054941" lat="45.4868012" lon="9.1924332"/>
+    <nd ref="8629054940" lat="45.4867766" lon="9.1921995"/>
+    <nd ref="8629054939" lat="45.4867487" lon="9.1919492"/>
+    <nd ref="8629054938" lat="45.4867306" lon="9.1917851"/>
+    <nd ref="8629054937" lat="45.4867226" lon="9.1917015"/>
+    <nd ref="8629054936" lat="45.4867300" lon="9.1916688"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643295">
+    <bounds minlat="45.4868846" minlon="9.1930285" maxlat="45.4869539" maxlon="9.1937347"/>
+    <nd ref="8629054953" lat="45.4869539" lon="9.1937347"/>
+    <nd ref="8629054952" lat="45.4869441" lon="9.1937061"/>
+    <nd ref="8629054951" lat="45.4869220" lon="9.1934950"/>
+    <nd ref="8629054950" lat="45.4869128" lon="9.1933663"/>
+    <nd ref="8629054949" lat="45.4869097" lon="9.1933381"/>
+    <nd ref="8629054948" lat="45.4869174" lon="9.1933225"/>
+    <nd ref="8629054947" lat="45.4869065" lon="9.1932037"/>
+    <nd ref="8629054946" lat="45.4868846" lon="9.1930285"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643297">
+    <bounds minlat="45.4864163" minlon="9.1938407" maxlat="45.4869499" maxlon="9.1941371"/>
+    <nd ref="8629054963" lat="45.4864163" lon="9.1941371"/>
+    <nd ref="8629054962" lat="45.4864240" lon="9.1941113"/>
+    <nd ref="8629054961" lat="45.4864485" lon="9.1940533"/>
+    <nd ref="8629054960" lat="45.4864550" lon="9.1940435"/>
+    <nd ref="8629054959" lat="45.4864723" lon="9.1940325"/>
+    <nd ref="8629054958" lat="45.4865590" lon="9.1939936"/>
+    <nd ref="8629054957" lat="45.4867450" lon="9.1939218"/>
+    <nd ref="8629054956" lat="45.4869499" lon="9.1938407"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643298">
+    <bounds minlat="45.4862831" minlon="9.1937428" maxlat="45.4868728" maxlon="9.1940586"/>
+    <nd ref="8629054983" lat="45.4862831" lon="9.1940414"/>
+    <nd ref="8629054974" lat="45.4863360" lon="9.1940586"/>
+    <nd ref="8629054973" lat="45.4864153" lon="9.1939743"/>
+    <nd ref="8629054972" lat="45.4864386" lon="9.1939596"/>
+    <nd ref="8629054971" lat="45.4865729" lon="9.1938960"/>
+    <nd ref="8629054970" lat="45.4867363" lon="9.1938343"/>
+    <nd ref="8629054969" lat="45.4868162" lon="9.1937985"/>
+    <nd ref="8629054968" lat="45.4868439" lon="9.1937820"/>
+    <nd ref="8629054967" lat="45.4868641" lon="9.1937582"/>
+    <nd ref="8629054966" lat="45.4868728" lon="9.1937428"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643299">
+    <bounds minlat="45.4858190" minlon="9.1939272" maxlat="45.4859432" maxlon="9.1940685"/>
     <nd ref="3307961470" lat="45.4858190" lon="9.1940685"/>
     <nd ref="4917194719" lat="45.4858489" lon="9.1940231"/>
     <nd ref="3307958655" lat="45.4858865" lon="9.1939806"/>
-    <nd ref="3307959951" lat="45.4859442" lon="9.1939341"/>
+    <nd ref="3307959951" lat="45.4859432" lon="9.1939272"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643301">
+    <bounds minlat="45.4862469" minlon="9.1941046" maxlat="45.4862699" maxlon="9.1941803"/>
+    <nd ref="8629054985" lat="45.4862699" lon="9.1941046"/>
+    <nd ref="8629054986" lat="45.4862469" lon="9.1941803"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643302">
+    <bounds minlat="45.4860291" minlon="9.1938719" maxlat="45.4862831" maxlon="9.1940414"/>
+    <nd ref="8629054979" lat="45.4860291" lon="9.1938719"/>
+    <nd ref="8629054977" lat="45.4860411" lon="9.1938938"/>
+    <nd ref="8629054980" lat="45.4860563" lon="9.1939165"/>
+    <nd ref="8629054981" lat="45.4861562" lon="9.1939916"/>
+    <nd ref="8629054978" lat="45.4861830" lon="9.1940204"/>
+    <nd ref="8629054982" lat="45.4862149" lon="9.1940372"/>
+    <nd ref="8629054983" lat="45.4862831" lon="9.1940414"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643305">
+    <bounds minlat="45.4857986" minlon="9.1944174" maxlat="45.4860365" maxlon="9.1947124"/>
+    <nd ref="8614464348" lat="45.4857986" lon="9.1944174"/>
+    <nd ref="8629054995" lat="45.4858607" lon="9.1944938"/>
+    <nd ref="8629054994" lat="45.4859242" lon="9.1945481"/>
+    <nd ref="8629054993" lat="45.4859907" lon="9.1945947"/>
+    <nd ref="8629054992" lat="45.4860057" lon="9.1946001"/>
+    <nd ref="8629054991" lat="45.4860250" lon="9.1946397"/>
+    <nd ref="8629054990" lat="45.4860365" lon="9.1947124"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643307">
+    <bounds minlat="45.4843431" minlon="9.1946420" maxlat="45.4845918" maxlon="9.1948542"/>
+    <nd ref="8620903861" lat="45.4845918" lon="9.1948003"/>
+    <nd ref="8629054999" lat="45.4845326" lon="9.1948542"/>
+    <nd ref="8629054998" lat="45.4843431" lon="9.1946420"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930643308">
+    <bounds minlat="45.4847727" minlon="9.1951803" maxlat="45.4847894" maxlon="9.1952082"/>
+    <nd ref="8620903889" lat="45.4847894" lon="9.1951803"/>
+    <nd ref="8620903888" lat="45.4847727" lon="9.1952082"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="930767185">
+    <bounds minlat="45.4745213" minlon="9.1510046" maxlat="45.4755412" maxlon="9.1512090"/>
+    <nd ref="8606059265" lat="45.4755412" lon="9.1511969"/>
+    <nd ref="8630029522" lat="45.4755092" lon="9.1511942"/>
+    <nd ref="8630029521" lat="45.4754810" lon="9.1512090"/>
+    <nd ref="8630029520" lat="45.4746544" lon="9.1511714"/>
+    <nd ref="8630029519" lat="45.4746215" lon="9.1511614"/>
+    <nd ref="8630029518" lat="45.4745975" lon="9.1511379"/>
+    <nd ref="8630029517" lat="45.4745213" lon="9.1510186"/>
+    <nd ref="8630017516" lat="45.4745322" lon="9.1510046"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
