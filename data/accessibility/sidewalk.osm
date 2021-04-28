@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-27T03:09:09Z" areas="2021-04-27T02:46:52Z"/>
+<meta osm_base="2021-04-28T03:10:05Z" areas="2021-04-28T02:30:28Z"/>
 
   <way id="7980051">
     <bounds minlat="45.4675258" minlon="9.1815806" maxlat="45.4678853" maxlon="9.1819326"/>
@@ -10941,8 +10941,8 @@
     <tag k="surface" v="paved"/>
   </way>
   <way id="594527608">
-    <bounds minlat="45.4685169" minlon="9.2325188" maxlat="45.4690229" maxlon="9.2343400"/>
-    <nd ref="5669001943" lat="45.4685169" lon="9.2325188"/>
+    <bounds minlat="45.4685170" minlon="9.2325850" maxlat="45.4690229" maxlon="9.2343400"/>
+    <nd ref="5669001943" lat="45.4685170" lon="9.2325850"/>
     <nd ref="5669001942" lat="45.4685207" lon="9.2329493"/>
     <nd ref="5669001941" lat="45.4690229" lon="9.2343400"/>
     <tag k="footway" v="sidewalk"/>
@@ -74215,6 +74215,8 @@
     <nd ref="8337546450" lat="45.5044657" lon="9.2016748"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="897120210">
     <bounds minlat="45.5032813" minlon="9.1984310" maxlat="45.5041741" maxlon="9.1989889"/>
@@ -82764,6 +82766,17 @@
     <nd ref="8668944949" lat="45.4862605" lon="9.1588637"/>
     <nd ref="8668944952" lat="45.4862622" lon="9.1588406"/>
     <nd ref="8668944956" lat="45.4862838" lon="9.1588104"/>
+    <tag k="footway" v="sidewalk"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="935734985">
+    <bounds minlat="45.4864428" minlon="9.2370006" maxlat="45.4865384" maxlon="9.2371428"/>
+    <nd ref="3764242008" lat="45.4864428" lon="9.2370006"/>
+    <nd ref="8671198323" lat="45.4864517" lon="9.2370393"/>
+    <nd ref="3764242004" lat="45.4864632" lon="9.2370704"/>
+    <nd ref="8671198321" lat="45.4864782" lon="9.2371112"/>
+    <nd ref="3764242005" lat="45.4865083" lon="9.2371419"/>
+    <nd ref="3764242009" lat="45.4865384" lon="9.2371428"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
