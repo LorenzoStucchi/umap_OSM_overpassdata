@@ -15,3 +15,4 @@ wget -O raised.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%
 wget -O sidewalk.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A300%5D%3Barea%283600044915%29%2D%3E%2EsearchArea%3Bway%5B%22footway%22%3D%22sidewalk%22%5D%28area%2EsearchArea%29%3Bout%20geom%3B%0A"
 sleep 300
 wget -O crossing.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A300%5D%3Barea%283600044915%29%2D%3E%2EsearchArea%3Bway%5B%22footway%22%3D%22crossing%22%5D%28area%2EsearchArea%29%3Bout%20geom%3B%0A"
+wget -O kerb.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A300%5D%3Barea%283600044915%29%2D%3E%2EsearchArea%3Bnode%5B%22kerb%22%5D%28area%2EsearchArea%29%3Bout%20geom%3B%0A"
