@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-30T03:13:25Z" areas="2021-04-30T02:09:13Z"/>
+<meta osm_base="2021-05-01T03:14:58Z" areas="2021-05-01T02:42:03Z"/>
 
   <node id="249453715" lat="45.4886900" lon="9.1260108">
     <tag k="barrier" v="kerb"/>
@@ -19387,13 +19387,15 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="smoothness" v="good"/>
-    <tag k="surface" v="concrete"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
   </node>
   <node id="8559868039" lat="45.4876024" lon="9.1911393">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="smoothness" v="good"/>
-    <tag k="surface" v="concrete"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
   </node>
   <node id="8559868042" lat="45.4873273" lon="9.1891802">
     <tag k="barrier" v="kerb"/>
@@ -21541,12 +21543,16 @@
   <node id="8620664742" lat="45.4895246" lon="9.1907503">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
   </node>
   <node id="8620664743" lat="45.4894916" lon="9.1906222">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
   </node>
   <node id="8620810578" lat="45.4864940" lon="9.1869011">
     <tag k="barrier" v="kerb"/>
@@ -21571,6 +21577,34 @@
     <tag k="kerb" v="lowered"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asfalto"/>
+  </node>
+  <node id="8620903863" lat="45.4846140" lon="9.1948981">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="sett"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8620903872" lat="45.4844309" lon="9.1951984">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8620903880" lat="45.4846474" lon="9.1955013">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8620903892" lat="45.4848432" lon="9.1951592">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
   </node>
   <node id="8620993275" lat="45.4916833" lon="9.1861757">
     <tag k="barrier" v="kerb"/>
@@ -21753,6 +21787,90 @@
     <tag k="kerb" v="lowered"/>
     <tag k="surface" v="sett"/>
   </node>
+  <node id="8629034485" lat="45.4875186" lon="9.1912378">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8629034505" lat="45.4867402" lon="9.1914079">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629034510" lat="45.4867576" lon="9.1915784">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054954" lat="45.4869420" lon="9.1937422">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054955" lat="45.4868866" lon="9.1937427">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054965" lat="45.4863603" lon="9.1940824">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054975" lat="45.4860199" lon="9.1939011">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054976" lat="45.4859537" lon="9.1939236">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054984" lat="45.4862764" lon="9.1940735">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054988" lat="45.4861131" lon="9.1945632">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054989" lat="45.4860406" lon="9.1945881">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8629054996" lat="45.4857927" lon="9.1943691">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
   <node id="8643339667" lat="45.4898057" lon="9.1877846">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
@@ -21794,6 +21912,92 @@
     <tag k="kerb" v="lowered"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8644980802" lat="45.4890286" lon="9.1911347">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8644980804" lat="45.4889378" lon="9.1910905">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8644980808" lat="45.4888099" lon="9.1908751">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8644980812" lat="45.4887401" lon="9.1909694">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8645026217" lat="45.4887560" lon="9.1911417">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8645026229" lat="45.4882709" lon="9.1912465">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8645026233" lat="45.4882558" lon="9.1910755">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8645026236" lat="45.4882294" lon="9.1913344">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8645026237" lat="45.4881827" lon="9.1913493">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8645026253" lat="45.4876526" lon="9.1912117">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8645026260" lat="45.4876711" lon="9.1913818">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8645026266" lat="45.4876356" lon="9.1914687">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8645026267" lat="45.4875948" lon="9.1914744">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
   </node>
   <node id="8647623410" lat="45.4890486" lon="9.1876258">
     <tag k="barrier" v="kerb"/>
@@ -21963,6 +22167,41 @@
     <tag k="smoothness" v="excellent"/>
     <tag k="surface" v="cobblestone"/>
   </node>
+  <node id="8650369443" lat="45.4893264" lon="9.1910186">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8650369447" lat="45.4891833" lon="9.1909315">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8650369476" lat="45.4893454" lon="9.1918991">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8650369484" lat="45.4900596" lon="9.1917870">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8650369488" lat="45.4890572" lon="9.1902903">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8650369489" lat="45.4889179" lon="9.1901599">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
   <node id="8650373580" lat="45.4863440" lon="9.1886182">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
@@ -22034,6 +22273,78 @@
     <tag k="kerb" v="lowered"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+  </node>
+  <node id="8677512420" lat="45.4923402" lon="9.1930655">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512426" lat="45.4924510" lon="9.1926397">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512429" lat="45.4924000" lon="9.1928431">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="bad"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512430" lat="45.4923778" lon="9.1929375">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512434" lat="45.4928180" lon="9.1925901">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512443" lat="45.4926457" lon="9.1932402">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512444" lat="45.4925858" lon="9.1932819">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512449" lat="45.4923669" lon="9.1931654">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512459" lat="45.4897277" lon="9.1917871">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512469" lat="45.4892614" lon="9.1915021">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8677512506" lat="45.4870072" lon="9.1937541">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8677512507" lat="45.4870162" lon="9.1937978">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
   </node>
   <node id="8678996593" lat="45.4856511" lon="9.2060379">
     <tag k="barrier" v="kerb"/>
@@ -22130,6 +22441,55 @@
   <node id="8680321271" lat="45.4841507" lon="9.2068528">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8684835696" lat="45.4901906" lon="9.1913414">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8684835697" lat="45.4902133" lon="9.1912537">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8684835698" lat="45.4901064" lon="9.1916679">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8684835699" lat="45.4901371" lon="9.1915574">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8684835700" lat="45.4894735" lon="9.1919942">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8684835703" lat="45.4875367" lon="9.1914054">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8684835704" lat="45.4862398" lon="9.1943939">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8684835705" lat="45.4858025" lon="9.1941087">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="paving_stones"/>
   </node>
 
 </osm>

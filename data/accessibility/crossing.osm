@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-30T03:23:42Z" areas="2021-04-30T03:14:27Z"/>
+<meta osm_base="2021-05-01T03:25:03Z" areas="2021-05-01T02:42:03Z"/>
 
   <way id="4604822">
     <bounds minlat="45.4522524" minlon="9.1782934" maxlat="45.4522711" maxlon="9.1782952"/>
@@ -3645,22 +3645,18 @@
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="266409352">
-    <bounds minlat="45.4900540" minlon="9.1911146" maxlat="45.4902505" maxlon="9.1918026"/>
+    <bounds minlat="45.4902133" minlon="9.1911146" maxlat="45.4902505" maxlon="9.1912537"/>
     <nd ref="4551486400" lat="45.4902505" lon="9.1911146"/>
     <nd ref="21294875" lat="45.4902317" lon="9.1911826"/>
     <nd ref="2719666965" lat="45.4902177" lon="9.1912366"/>
-    <nd ref="2719666966" lat="45.4901995" lon="9.1913069"/>
-    <nd ref="1474104303" lat="45.4901737" lon="9.1914066"/>
-    <nd ref="1474104302" lat="45.4901475" lon="9.1915201"/>
-    <nd ref="2719666969" lat="45.4901007" lon="9.1916882"/>
-    <nd ref="1484998916" lat="45.4900826" lon="9.1917355"/>
-    <nd ref="8650369484" lat="45.4900596" lon="9.1917870"/>
-    <nd ref="8650369486" lat="45.4900540" lon="9.1918026"/>
+    <nd ref="8684835697" lat="45.4902133" lon="9.1912537"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="268647343">
     <bounds minlat="45.4853905" minlon="9.2092663" maxlat="45.4854342" maxlon="9.2093347"/>
@@ -5294,17 +5290,25 @@
     <nd ref="3307961857" lat="45.4862456" lon="9.1942199"/>
     <nd ref="3307961856" lat="45.4862422" lon="9.1943195"/>
     <nd ref="3307958658" lat="45.4862403" lon="9.1943781"/>
+    <nd ref="8684835704" lat="45.4862398" lon="9.1943939"/>
     <nd ref="4305611665" lat="45.4862395" lon="9.1944012"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="324043233">
     <bounds minlat="45.4857825" minlon="9.1940685" maxlat="45.4858190" maxlon="9.1941854"/>
     <nd ref="8614464341" lat="45.4857825" lon="9.1941854"/>
     <nd ref="3307958654" lat="45.4857854" lon="9.1941505"/>
+    <nd ref="8684835705" lat="45.4858025" lon="9.1941087"/>
     <nd ref="3307961470" lat="45.4858190" lon="9.1940685"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="324044468">
     <bounds minlat="45.4880398" minlon="9.1954609" maxlat="45.4881486" maxlon="9.1957459"/>
@@ -8139,6 +8143,17 @@
     <tag k="crossing" v="traffic_signals"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="413448901">
+    <bounds minlat="45.4370010" minlon="9.2396065" maxlat="45.4371003" maxlon="9.2397716"/>
+    <nd ref="4147686708" lat="45.4371003" lon="9.2396065"/>
+    <nd ref="2101408019" lat="45.4370726" lon="9.2396528"/>
+    <nd ref="2101408036" lat="45.4370234" lon="9.2397354"/>
+    <nd ref="4147686723" lat="45.4370010" lon="9.2397716"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_calming" v="table"/>
   </way>
   <way id="416169960">
     <bounds minlat="45.4627671" minlon="9.1898387" maxlat="45.4627783" maxlon="9.1901022"/>
@@ -36476,6 +36491,7 @@
     <tag k="lit" v="yes"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="867839248">
     <bounds minlat="45.4930010" minlon="9.1904526" maxlat="45.4930419" maxlon="9.1906442"/>
@@ -37876,6 +37892,7 @@
     <tag k="lit" v="yes"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="871716961">
     <bounds minlat="45.4925675" minlon="9.1923765" maxlat="45.4926422" maxlon="9.1924191"/>
@@ -37890,6 +37907,7 @@
     <tag k="lit" v="yes"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="871716962">
     <bounds minlat="45.4928734" minlon="9.1921052" maxlat="45.4929099" maxlon="9.1922369"/>
@@ -45227,8 +45245,9 @@
     <nd ref="8559868030" lat="45.4888475" lon="9.1904482"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
-    <tag k="smoothness" v="excellent"/>
+    <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="922015182">
     <bounds minlat="45.4875443" minlon="9.1911352" maxlat="45.4876294" maxlon="9.1911481"/>
@@ -45241,6 +45260,7 @@
     <tag k="highway" v="footway"/>
     <tag k="smoothness" v="excellent"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="922015183">
     <bounds minlat="45.4873151" minlon="9.1891779" maxlat="45.4874450" maxlon="9.1892017"/>
@@ -48188,7 +48208,7 @@
     <nd ref="8620664734" lat="45.4899333" lon="9.1904032"/>
     <nd ref="8620664733" lat="45.4899537" lon="9.1904139"/>
     <tag k="footway" v="crossing"/>
-    <tag k="highway" v="cycleway"/>
+    <tag k="highway" v="footway"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
     <tag k="tactile_paving" v="no"/>
@@ -48201,10 +48221,24 @@
     <nd ref="8620664738" lat="45.4899024" lon="9.1908031"/>
     <nd ref="8620664737" lat="45.4898798" lon="9.1908225"/>
     <tag k="footway" v="crossing"/>
-    <tag k="highway" v="cycleway"/>
+    <tag k="highway" v="footway"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
-    <tag k="tactile_paving" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="929540297">
+    <bounds minlat="45.4894802" minlon="9.1905778" maxlat="45.4895334" maxlon="9.1907844"/>
+    <nd ref="8620664744" lat="45.4894802" lon="9.1905778"/>
+    <nd ref="8620664743" lat="45.4894916" lon="9.1906222"/>
+    <nd ref="21226990" lat="45.4895084" lon="9.1906874"/>
+    <nd ref="8620664742" lat="45.4895246" lon="9.1907503"/>
+    <nd ref="8677512500" lat="45.4895334" lon="9.1907844"/>
+    <tag k="cycleway" v="crossing"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929560509">
     <bounds minlat="45.4864920" minlon="9.1867535" maxlat="45.4865123" maxlon="9.1869174"/>
@@ -48239,6 +48273,9 @@
     <nd ref="8620903862" lat="45.4846055" lon="9.1948505"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572790">
     <bounds minlat="45.4847305" minlon="9.1950805" maxlat="45.4847847" maxlon="9.1951461"/>
@@ -48247,6 +48284,9 @@
     <nd ref="8620903890" lat="45.4847847" lon="9.1951461"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572796">
     <bounds minlat="45.4845747" minlon="9.1950172" maxlat="45.4846128" maxlon="9.1950822"/>
@@ -48255,6 +48295,9 @@
     <nd ref="8620903869" lat="45.4846128" lon="9.1950172"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572798">
     <bounds minlat="45.4844175" minlon="9.1951915" maxlat="45.4844724" maxlon="9.1952197"/>
@@ -48264,6 +48307,9 @@
     <nd ref="1684675769" lat="45.4844175" lon="9.1951915"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572799">
     <bounds minlat="45.4844988" minlon="9.1951017" maxlat="45.4845620" maxlon="9.1952088"/>
@@ -48272,6 +48318,9 @@
     <nd ref="8620903871" lat="45.4845620" lon="9.1951017"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572801">
     <bounds minlat="45.4845759" minlon="9.1953313" maxlat="45.4846342" maxlon="9.1954004"/>
@@ -48280,6 +48329,9 @@
     <nd ref="8620903878" lat="45.4845759" lon="9.1953313"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572805">
     <bounds minlat="45.4845068" minlon="9.1952489" maxlat="45.4845378" maxlon="9.1952891"/>
@@ -48288,6 +48340,9 @@
     <nd ref="8620903876" lat="45.4845068" lon="9.1952489"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572806">
     <bounds minlat="45.4846472" minlon="9.1954440" maxlat="45.4846476" maxlon="9.1955429"/>
@@ -48305,6 +48360,9 @@
     <nd ref="8620903885" lat="45.4846607" lon="9.1954001"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572808">
     <bounds minlat="45.4847181" minlon="9.1952082" maxlat="45.4847727" maxlon="9.1952991"/>
@@ -48313,6 +48371,9 @@
     <nd ref="8620903887" lat="45.4847181" lon="9.1952991"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572809">
     <bounds minlat="45.4846530" minlon="9.1949977" maxlat="45.4847162" maxlon="9.1950624"/>
@@ -48321,6 +48382,9 @@
     <nd ref="8620903864" lat="45.4847162" lon="9.1950624"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="929572810">
     <bounds minlat="45.4848062" minlon="9.1951436" maxlat="45.4848800" maxlon="9.1951748"/>
@@ -48503,6 +48567,9 @@
     <nd ref="8629054977" lat="45.4860411" lon="9.1938938"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930579855">
     <bounds minlat="45.4914635" minlon="9.1896323" maxlat="45.4915342" maxlon="9.1896440"/>
@@ -48677,23 +48744,33 @@
     <nd ref="8629034487" lat="45.4875279" lon="9.1912939"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643276">
     <bounds minlat="45.4875345" minlon="9.1913826" maxlat="45.4875398" maxlon="9.1914359"/>
     <nd ref="8629034494" lat="45.4875398" lon="9.1914359"/>
-    <nd ref="8629034491" lat="45.4875397" lon="9.1914354"/>
+    <nd ref="8684835703" lat="45.4875367" lon="9.1914054"/>
     <nd ref="8629034490" lat="45.4875359" lon="9.1913976"/>
     <nd ref="8629034489" lat="45.4875345" lon="9.1913826"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643279">
     <bounds minlat="45.4875155" minlon="9.1912205" maxlat="45.4875228" maxlon="9.1912601"/>
     <nd ref="8629034486" lat="45.4875228" lon="9.1912601"/>
+    <nd ref="8684835702" lat="45.4875216" lon="9.1912540"/>
     <nd ref="8629034485" lat="45.4875186" lon="9.1912378"/>
     <nd ref="8629034492" lat="45.4875155" lon="9.1912205"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643282">
     <bounds minlat="45.4867466" minlon="9.1914654" maxlat="45.4867519" maxlon="9.1915213"/>
@@ -48702,6 +48779,9 @@
     <nd ref="8629034507" lat="45.4867466" lon="9.1914654"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643284">
     <bounds minlat="45.4867386" minlon="9.1913918" maxlat="45.4867429" maxlon="9.1914348"/>
@@ -48711,6 +48791,9 @@
     <nd ref="8629034504" lat="45.4867386" lon="9.1913918"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643286">
     <bounds minlat="45.4867546" minlon="9.1915524" maxlat="45.4867595" maxlon="9.1915954"/>
@@ -48720,6 +48803,9 @@
     <nd ref="8629034509" lat="45.4867546" lon="9.1915524"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643289">
     <bounds minlat="45.4866025" minlon="9.1913593" maxlat="45.4866893" maxlon="9.1914102"/>
@@ -48730,6 +48816,9 @@
     <nd ref="8629054921" lat="45.4866893" lon="9.1913593"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643290">
     <bounds minlat="45.4866660" minlon="9.1916688" maxlat="45.4867300" maxlon="9.1916946"/>
@@ -48740,6 +48829,9 @@
     <nd ref="8629054936" lat="45.4867300" lon="9.1916688"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643292">
     <bounds minlat="45.4868737" minlon="9.1929554" maxlat="45.4868846" maxlon="9.1930285"/>
@@ -48748,6 +48840,9 @@
     <nd ref="8629054945" lat="45.4868737" lon="9.1929554"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643293">
     <bounds minlat="45.4868728" minlon="9.1937347" maxlat="45.4869539" maxlon="9.1937428"/>
@@ -48758,6 +48853,9 @@
     <nd ref="8629054953" lat="45.4869539" lon="9.1937347"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643296">
     <bounds minlat="45.4863360" minlon="9.1940586" maxlat="45.4864163" maxlon="9.1941371"/>
@@ -48768,6 +48866,9 @@
     <nd ref="8629054963" lat="45.4864163" lon="9.1941371"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643300">
     <bounds minlat="45.4862699" minlon="9.1940414" maxlat="45.4862831" maxlon="9.1941046"/>
@@ -48777,6 +48878,9 @@
     <nd ref="8629054985" lat="45.4862699" lon="9.1941046"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643304">
     <bounds minlat="45.4860057" minlon="9.1945562" maxlat="45.4861343" maxlon="9.1946001"/>
@@ -48788,6 +48892,9 @@
     <nd ref="8629054987" lat="45.4861343" lon="9.1945562"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930643306">
     <bounds minlat="45.4857798" minlon="9.1942631" maxlat="45.4857986" maxlon="9.1944174"/>
@@ -48798,6 +48905,9 @@
     <nd ref="8614464348" lat="45.4857986" lon="9.1944174"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="930767184">
     <bounds minlat="45.4745102" minlon="9.1509729" maxlat="45.4745322" maxlon="9.1510046"/>
@@ -48921,6 +49031,9 @@
     <nd ref="8644980806" lat="45.4889041" lon="9.1909402"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613699">
     <bounds minlat="45.4889253" minlon="9.1910844" maxlat="45.4890506" maxlon="9.1911454"/>
@@ -48931,6 +49044,9 @@
     <nd ref="8644980801" lat="45.4890506" lon="9.1911454"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613701">
     <bounds minlat="45.4887440" minlon="9.1910276" maxlat="45.4887521" maxlon="9.1910859"/>
@@ -48939,6 +49055,9 @@
     <nd ref="8644980814" lat="45.4887440" lon="9.1910276"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613703">
     <bounds minlat="45.4887543" minlon="9.1911167" maxlat="45.4887584" maxlon="9.1911763"/>
@@ -48948,6 +49067,9 @@
     <nd ref="8644980816" lat="45.4887543" lon="9.1911167"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613705">
     <bounds minlat="45.4887358" minlon="9.1909131" maxlat="45.4887423" maxlon="9.1909976"/>
@@ -48957,6 +49079,9 @@
     <nd ref="8645026245" lat="45.4887358" lon="9.1909131"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613710">
     <bounds minlat="45.4882593" minlon="9.1911117" maxlat="45.4882768" maxlon="9.1913154"/>
@@ -48966,6 +49091,9 @@
     <nd ref="8645026228" lat="45.4882768" lon="9.1913154"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613711">
     <bounds minlat="45.4882505" minlon="9.1910086" maxlat="45.4882578" maxlon="9.1911005"/>
@@ -48975,6 +49103,9 @@
     <nd ref="8645026231" lat="45.4882578" lon="9.1911005"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613712">
     <bounds minlat="45.4881552" minlon="9.1913265" maxlat="45.4882545" maxlon="9.1913580"/>
@@ -48985,6 +49116,9 @@
     <nd ref="8645026235" lat="45.4882545" lon="9.1913265"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613715">
     <bounds minlat="45.4876507" minlon="9.1911873" maxlat="45.4876546" maxlon="9.1912372"/>
@@ -48994,6 +49128,9 @@
     <nd ref="8645026252" lat="45.4876507" lon="9.1911873"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613716">
     <bounds minlat="45.4876567" minlon="9.1912651" maxlat="45.4876641" maxlon="9.1913251"/>
@@ -49002,6 +49139,9 @@
     <nd ref="8645026256" lat="45.4876567" lon="9.1912651"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613718">
     <bounds minlat="45.4876670" minlon="9.1913523" maxlat="45.4876741" maxlon="9.1914066"/>
@@ -49011,6 +49151,9 @@
     <nd ref="8645026258" lat="45.4876670" lon="9.1913523"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932613721">
     <bounds minlat="45.4875712" minlon="9.1914653" maxlat="45.4876598" maxlon="9.1914777"/>
@@ -49021,6 +49164,9 @@
     <nd ref="8645026265" lat="45.4876598" lon="9.1914653"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="932892354">
     <bounds minlat="45.4890380" minlon="9.1876242" maxlat="45.4891527" maxlon="9.1876407"/>
@@ -49232,6 +49378,9 @@
     <nd ref="8650369446" lat="45.4892710" lon="9.1909868"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="933209134">
     <bounds minlat="45.4892957" minlon="9.1910012" maxlat="45.4893373" maxlon="9.1910247"/>
@@ -49241,6 +49390,9 @@
     <nd ref="8650369442" lat="45.4893373" lon="9.1910247"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="933209135">
     <bounds minlat="45.4890776" minlon="9.1910465" maxlat="45.4891475" maxlon="9.1911484"/>
@@ -49252,24 +49404,35 @@
     <nd ref="8650369457" lat="45.4891475" lon="9.1910465"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="933209139">
     <bounds minlat="45.4890282" minlon="9.1911742" maxlat="45.4890650" maxlon="9.1913197"/>
     <nd ref="8650369468" lat="45.4890282" lon="9.1913197"/>
+    <nd ref="8684835701" lat="45.4890347" lon="9.1912941"/>
     <nd ref="135839856" lat="45.4890526" lon="9.1912232"/>
     <nd ref="8650369466" lat="45.4890605" lon="9.1911920"/>
     <nd ref="8650369465" lat="45.4890650" lon="9.1911742"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="933209141">
     <bounds minlat="45.4893370" minlon="9.1918929" maxlat="45.4894865" maxlon="9.1920038"/>
     <nd ref="8650369478" lat="45.4894865" lon="9.1920038"/>
+    <nd ref="8684835700" lat="45.4894735" lon="9.1919942"/>
     <nd ref="1484981644" lat="45.4894155" lon="9.1919512"/>
     <nd ref="8650369476" lat="45.4893454" lon="9.1918991"/>
     <nd ref="8650369475" lat="45.4893370" lon="9.1918929"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="933209143">
     <bounds minlat="45.4888907" minlon="9.1901346" maxlat="45.4890632" maxlon="9.1902958"/>
@@ -49280,6 +49443,9 @@
     <nd ref="8650369487" lat="45.4890632" lon="9.1902958"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="933210190">
     <bounds minlat="45.4863409" minlon="9.1886174" maxlat="45.4863936" maxlon="9.1886307"/>
@@ -49425,6 +49591,9 @@
     <nd ref="8677512432" lat="45.4923547" lon="9.1930176"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491115">
     <bounds minlat="45.4924805" minlon="9.1925051" maxlat="45.4924929" maxlon="9.1925444"/>
@@ -49433,6 +49602,9 @@
     <nd ref="8677512424" lat="45.4924929" lon="9.1925051"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491117">
     <bounds minlat="45.4924307" minlon="9.1926397" maxlat="45.4924510" maxlon="9.1927340"/>
@@ -49441,6 +49613,9 @@
     <nd ref="8677512426" lat="45.4924510" lon="9.1926397"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491119">
     <bounds minlat="45.4924000" minlon="9.1927534" maxlat="45.4924242" maxlon="9.1928431"/>
@@ -49449,6 +49624,9 @@
     <nd ref="8677512428" lat="45.4924242" lon="9.1927534"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491121">
     <bounds minlat="45.4923646" minlon="9.1929375" maxlat="45.4923778" maxlon="9.1929760"/>
@@ -49457,6 +49635,9 @@
     <nd ref="8677512430" lat="45.4923778" lon="9.1929375"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491122">
     <bounds minlat="45.4925028" minlon="9.1924032" maxlat="45.4925191" maxlon="9.1924729"/>
@@ -49466,6 +49647,9 @@
     <nd ref="8677512421" lat="45.4925191" lon="9.1924032"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491124">
     <bounds minlat="45.4927834" minlon="9.1926786" maxlat="45.4927942" maxlon="9.1927249"/>
@@ -49474,6 +49658,9 @@
     <nd ref="8677512436" lat="45.4927942" lon="9.1926786"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491126">
     <bounds minlat="45.4927364" minlon="9.1928154" maxlat="45.4927583" maxlon="9.1928969"/>
@@ -49482,6 +49669,9 @@
     <nd ref="8677512438" lat="45.4927583" lon="9.1928154"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491128">
     <bounds minlat="45.4927007" minlon="9.1929277" maxlat="45.4927272" maxlon="9.1930163"/>
@@ -49490,6 +49680,9 @@
     <nd ref="8677512440" lat="45.4927272" lon="9.1929277"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491130">
     <bounds minlat="45.4926406" minlon="9.1931071" maxlat="45.4926753" maxlon="9.1932634"/>
@@ -49499,6 +49692,9 @@
     <nd ref="8677512442" lat="45.4926753" lon="9.1931071"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491131">
     <bounds minlat="45.4928027" minlon="9.1925708" maxlat="45.4928232" maxlon="9.1926468"/>
@@ -49508,6 +49704,9 @@
     <nd ref="8677512433" lat="45.4928232" lon="9.1925708"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491133">
     <bounds minlat="45.4924450" minlon="9.1932121" maxlat="45.4925025" maxlon="9.1932426"/>
@@ -49516,6 +49715,9 @@
     <nd ref="8677512446" lat="45.4925025" lon="9.1932426"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491135">
     <bounds minlat="45.4923539" minlon="9.1931576" maxlat="45.4924255" maxlon="9.1932007"/>
@@ -49525,6 +49727,9 @@
     <nd ref="8677512448" lat="45.4924255" lon="9.1932007"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491136">
     <bounds minlat="45.4925218" minlon="9.1932526" maxlat="45.4925942" maxlon="9.1932858"/>
@@ -49534,6 +49739,9 @@
     <nd ref="8643481344" lat="45.4925942" lon="9.1932858"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491138">
     <bounds minlat="45.4892436" minlon="9.1906730" maxlat="45.4892675" maxlon="9.1907386"/>
@@ -49543,6 +49751,9 @@
     <nd ref="8677512450" lat="45.4892436" lon="9.1907386"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491140">
     <bounds minlat="45.4892801" minlon="9.1904868" maxlat="45.4893183" maxlon="9.1906334"/>
@@ -49552,6 +49763,9 @@
     <nd ref="8677512453" lat="45.4892801" lon="9.1906334"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491142">
     <bounds minlat="45.4896901" minlon="9.1916017" maxlat="45.4897406" maxlon="9.1918518"/>
@@ -49562,6 +49776,9 @@
     <nd ref="8677512458" lat="45.4897406" lon="9.1918518"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491145">
     <bounds minlat="45.4892381" minlon="9.1913972" maxlat="45.4893700" maxlon="9.1915170"/>
@@ -49572,6 +49789,9 @@
     <nd ref="8677512467" lat="45.4893700" lon="9.1913972"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491148">
     <bounds minlat="45.4893457" minlon="9.1913119" maxlat="45.4893612" maxlon="9.1913718"/>
@@ -49581,6 +49801,9 @@
     <nd ref="8677512473" lat="45.4893457" lon="9.1913718"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491149">
     <bounds minlat="45.4893662" minlon="9.1912291" maxlat="45.4893859" maxlon="9.1912913"/>
@@ -49591,6 +49814,9 @@
     <nd ref="8677512476" lat="45.4893662" lon="9.1912913"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936491150">
     <bounds minlat="45.4894953" minlon="9.1907844" maxlat="45.4895334" maxlon="9.1908698"/>
@@ -49611,6 +49837,9 @@
     <nd ref="8677512505" lat="45.4869997" lon="9.1937180"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
   <way id="936646969">
     <bounds minlat="45.4851671" minlon="9.2057157" maxlat="45.4852119" maxlon="9.2057613"/>
@@ -49828,6 +50057,68 @@
     <tag k="lit" v="yes"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="937064956">
+    <bounds minlat="45.4341353" minlon="9.2405135" maxlat="45.4341721" maxlon="9.2408660"/>
+    <nd ref="8682607547" lat="45.4341353" lon="9.2408660"/>
+    <nd ref="2101423962" lat="45.4341414" lon="9.2407978"/>
+    <nd ref="2101423939" lat="45.4341531" lon="9.2407035"/>
+    <nd ref="8682607548" lat="45.4341721" lon="9.2405135"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="937070439">
+    <bounds minlat="45.4376758" minlon="9.2404501" maxlat="45.4377837" maxlon="9.2406071"/>
+    <nd ref="4147685846" lat="45.4377837" lon="9.2404501"/>
+    <nd ref="2101408016" lat="45.4377452" lon="9.2404882"/>
+    <nd ref="2101408027" lat="45.4377006" lon="9.2405731"/>
+    <nd ref="4147685865" lat="45.4376758" lon="9.2406071"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_calming" v="table"/>
+  </way>
+  <way id="937070440">
+    <bounds minlat="45.4383561" minlon="9.2412587" maxlat="45.4384509" maxlon="9.2414426"/>
+    <nd ref="4147550326" lat="45.4383561" lon="9.2414426"/>
+    <nd ref="2101408023" lat="45.4383665" lon="9.2413916"/>
+    <nd ref="2101408029" lat="45.4384161" lon="9.2413089"/>
+    <nd ref="4147549872" lat="45.4384377" lon="9.2412909"/>
+    <nd ref="4147549833" lat="45.4384509" lon="9.2412587"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_calming" v="table"/>
+  </way>
+  <way id="937325121">
+    <bounds minlat="45.4901371" minlon="9.1913414" maxlat="45.4901906" maxlon="9.1915574"/>
+    <nd ref="8684835696" lat="45.4901906" lon="9.1913414"/>
+    <nd ref="1474104303" lat="45.4901737" lon="9.1914066"/>
+    <nd ref="1474104302" lat="45.4901475" lon="9.1915201"/>
+    <nd ref="8684835699" lat="45.4901371" lon="9.1915574"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
+  </way>
+  <way id="937325123">
+    <bounds minlat="45.4900540" minlon="9.1916679" maxlat="45.4901064" maxlon="9.1918026"/>
+    <nd ref="8684835698" lat="45.4901064" lon="9.1916679"/>
+    <nd ref="2719666969" lat="45.4901007" lon="9.1916882"/>
+    <nd ref="1484998916" lat="45.4900826" lon="9.1917355"/>
+    <nd ref="8650369484" lat="45.4900596" lon="9.1917870"/>
+    <nd ref="8650369486" lat="45.4900540" lon="9.1918026"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tactile_paving" v="no"/>
   </way>
 
 </osm>
