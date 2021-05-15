@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-14T08:38:28Z" areas="2021-05-14T06:51:26Z"/>
+<meta osm_base="2021-05-15T03:22:05Z" areas="2021-05-15T02:43:12Z"/>
 
   <node id="539453683" lat="45.4678144" lon="9.1777602" version="7" timestamp="2020-11-30T01:17:16Z" changeset="95007548" uid="454306" user="dega180">
     <tag k="barrier" v="kerb"/>
@@ -3488,17 +3488,23 @@
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="paving_stones"/>
   </node>
-  <node id="8091803681" lat="45.4940121" lon="9.1880279" version="6" timestamp="2021-02-21T14:55:42Z" changeset="99683820" uid="89897" user="airon90">
+  <node id="8091803681" lat="45.4940121" lon="9.1880279" version="7" timestamp="2021-05-14T08:57:43Z" changeset="104675230" uid="12057787" user="ViaLibera_Student08">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
+    <tag k="kerb:height" v="1 cm"/>
+    <tag k="material" v="reinforced_concrete"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="sett"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8091803685" lat="45.4939881" lon="9.1881196" version="6" timestamp="2021-02-21T14:55:42Z" changeset="99683820" uid="89897" user="airon90">
+  <node id="8091803685" lat="45.4939881" lon="9.1881196" version="7" timestamp="2021-05-14T08:57:43Z" changeset="104675230" uid="12057787" user="ViaLibera_Student08">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
+    <tag k="kerb:height" v="10 cm"/>
+    <tag k="material" v="reinforced_concrete"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="sett"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="8109479188" lat="45.4946940" lon="9.1885161" version="4" timestamp="2021-02-21T14:55:42Z" changeset="99683820" uid="89897" user="airon90">
     <tag k="barrier" v="kerb"/>
@@ -4111,6 +4117,14 @@
     <tag k="kerb" v="raised"/>
     <tag k="surface" v="paving_stones"/>
   </node>
+  <node id="8621197161" lat="45.4915269" lon="9.1838959" version="4" timestamp="2021-05-14T09:09:32Z" changeset="104675764" uid="12796743" user="ViaLibera_Student23">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="kerb:height" v="0.05"/>
+    <tag k="material" v="asphalt"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
   <node id="8628683721" lat="45.4873077" lon="9.1889772" version="1" timestamp="2021-04-14T10:16:27Z" changeset="102921851" uid="12058126" user="ViaLibera_Student20">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
@@ -4149,6 +4163,20 @@
   <node id="8680321244" lat="45.4846885" lon="9.2055741" version="1" timestamp="2021-04-29T16:03:44Z" changeset="103856715" uid="4890411" user="phaerrax">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8727637277" lat="45.4890273" lon="9.1828602" version="2" timestamp="2021-05-14T09:24:34Z" changeset="104676544" uid="12796743" user="ViaLibera_Student23">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="kerb:height" v="0.13 m"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
+  </node>
+  <node id="8727637278" lat="45.4889966" lon="9.1830189" version="2" timestamp="2021-05-14T09:39:53Z" changeset="104677191" uid="12796743" user="ViaLibera_Student23">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="kerb:height" v="0.02 m"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="surface" v="paving_stones"/>
   </node>
 
 </osm>
