@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-19T03:27:57Z" areas="2021-05-19T02:39:01Z"/>
+<meta osm_base="2021-05-20T03:28:40Z" areas="2021-05-20T03:07:12Z"/>
 
   <way id="4604822" version="12" timestamp="2019-06-11T09:22:31Z" changeset="71132704" uid="9631702" user="sara di giorgio">
     <bounds minlat="45.4522524" minlon="9.1782934" maxlat="45.4522711" maxlon="9.1782952"/>
@@ -991,8 +991,8 @@
     <tag k="highway" v="footway"/>
   </way>
   <way id="172812606" version="6" timestamp="2021-02-21T17:09:31Z" changeset="99690021" uid="36030" user="WinstonSmith">
-    <bounds minlat="45.4844836" minlon="9.2364567" maxlat="45.4845848" maxlon="9.2367259"/>
-    <nd ref="1836642972" lat="45.4844836" lon="9.2364567"/>
+    <bounds minlat="45.4844847" minlon="9.2364583" maxlat="45.4845848" maxlon="9.2367259"/>
+    <nd ref="1836642972" lat="45.4844847" lon="9.2364583"/>
     <nd ref="1836632709" lat="45.4845064" lon="9.2365174"/>
     <nd ref="2549202215" lat="45.4845203" lon="9.2365542"/>
     <nd ref="1836634958" lat="45.4845429" lon="9.2366144"/>
@@ -1596,6 +1596,32 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="188391799" version="4" timestamp="2021-05-19T10:25:11Z" changeset="104951747" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5153321" minlon="9.2443930" maxlat="45.5156189" maxlon="9.2448746"/>
+    <nd ref="1932040044" lat="45.5154260" lon="9.2448746"/>
+    <nd ref="1932040133" lat="45.5153636" lon="9.2446127"/>
+    <nd ref="8745414328" lat="45.5153321" lon="9.2444800"/>
+    <nd ref="1932040075" lat="45.5154234" lon="9.2444358"/>
+    <nd ref="1932048975" lat="45.5154716" lon="9.2444124"/>
+    <nd ref="8745414333" lat="45.5155116" lon="9.2443930"/>
+    <nd ref="8745414329" lat="45.5155400" lon="9.2444416"/>
+    <nd ref="1932040106" lat="45.5155574" lon="9.2445122"/>
+    <nd ref="1932040080" lat="45.5156189" lon="9.2447706"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="188391806" version="2" timestamp="2021-05-19T10:25:11Z" changeset="104951747" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5170934" minlon="9.2436557" maxlat="45.5171712" maxlon="9.2439736"/>
+    <nd ref="8745414330" lat="45.5170934" lon="9.2436557"/>
+    <nd ref="1838905869" lat="45.5171058" lon="9.2437195"/>
+    <nd ref="1932040065" lat="45.5171712" lon="9.2439736"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
   </way>
   <way id="188745802" version="11" timestamp="2020-11-17T20:02:56Z" changeset="94304961" uid="12058049" user="ViaLibera_Student18">
     <bounds minlat="45.5003441" minlon="9.1879664" maxlat="45.5003889" maxlon="9.1879858"/>
@@ -7601,16 +7627,13 @@
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="403077381" version="2" timestamp="2021-05-18T11:38:22Z" changeset="104888112" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4449468" minlon="9.2294370" maxlat="45.4450668" maxlon="9.2298597"/>
+  <way id="403077381" version="3" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4449468" minlon="9.2294370" maxlat="45.4449627" maxlon="9.2296197"/>
     <nd ref="1973603379" lat="45.4449627" lon="9.2294370"/>
     <nd ref="8742218794" lat="45.4449591" lon="9.2294893"/>
     <nd ref="1973583754" lat="45.4449539" lon="9.2295403"/>
     <nd ref="8742218793" lat="45.4449468" lon="9.2296053"/>
-    <nd ref="4054596358" lat="45.4449591" lon="9.2296776"/>
-    <nd ref="1973583760" lat="45.4449839" lon="9.2297142"/>
-    <nd ref="8742218792" lat="45.4450057" lon="9.2297548"/>
-    <nd ref="4054596366" lat="45.4450668" lon="9.2298597"/>
+    <nd ref="8746663185" lat="45.4449492" lon="9.2296197"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -9719,25 +9742,25 @@
     <tag k="lit" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="543009146" version="5" timestamp="2021-03-29T13:32:14Z" changeset="101920857" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4361012" minlon="9.2350686" maxlat="45.4361510" maxlon="9.2352940"/>
+  <way id="543009146" version="6" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4361266" minlon="9.2350686" maxlat="45.4361510" maxlon="9.2351790"/>
     <nd ref="5265195280" lat="45.4361510" lon="9.2350686"/>
     <nd ref="8571819317" lat="45.4361468" lon="9.2350875"/>
     <nd ref="4054637838" lat="45.4361370" lon="9.2351319"/>
     <nd ref="8571819319" lat="45.4361280" lon="9.2351725"/>
-    <nd ref="8571819318" lat="45.4361216" lon="9.2352016"/>
-    <nd ref="4054628862" lat="45.4361149" lon="9.2352318"/>
-    <nd ref="8571776916" lat="45.4361077" lon="9.2352645"/>
-    <nd ref="4931556477" lat="45.4361012" lon="9.2352940"/>
+    <nd ref="8746663173" lat="45.4361266" lon="9.2351790"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="544169462" version="1" timestamp="2017-12-02T16:51:15Z" changeset="54275404" uid="1476146" user="Alecs01">
-    <bounds minlat="45.4343448" minlon="9.2363193" maxlat="45.4344789" maxlon="9.2364355"/>
-    <nd ref="4054628882" lat="45.4343448" lon="9.2363193"/>
-    <nd ref="2782449042" lat="45.4344230" lon="9.2363870"/>
-    <nd ref="5260331765" lat="45.4344789" lon="9.2364355"/>
+  <way id="544169462" version="2" timestamp="2021-05-19T16:26:33Z" changeset="104974125" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4343051" minlon="9.2362927" maxlat="45.4343717" maxlon="9.2363458"/>
+    <nd ref="8746500688" lat="45.4343051" lon="9.2362927"/>
+    <nd ref="8746500689" lat="45.4343192" lon="9.2363021"/>
+    <nd ref="4054628882" lat="45.4343349" lon="9.2363139"/>
+    <nd ref="8746500690" lat="45.4343684" lon="9.2363429"/>
+    <nd ref="8746500685" lat="45.4343717" lon="9.2363458"/>
+    <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
@@ -14076,17 +14099,14 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="683893005" version="2" timestamp="2021-03-26T17:54:40Z" changeset="101809631" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4349706" minlon="9.2350579" maxlat="45.4351103" maxlon="9.2353682"/>
+  <way id="683893005" version="3" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4350520" minlon="9.2350579" maxlat="45.4351103" maxlon="9.2351869"/>
     <nd ref="3012700753" lat="45.4351103" lon="9.2350579"/>
     <nd ref="6406326822" lat="45.4351058" lon="9.2350679"/>
     <nd ref="1271987329" lat="45.4350747" lon="9.2351364"/>
     <nd ref="6406326823" lat="45.4350551" lon="9.2351795"/>
-    <nd ref="6406326824" lat="45.4350392" lon="9.2352175"/>
-    <nd ref="2152998317" lat="45.4350200" lon="9.2352572"/>
-    <nd ref="6406326826" lat="45.4349706" lon="9.2353682"/>
+    <nd ref="8746663171" lat="45.4350520" lon="9.2351869"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -43600,23 +43620,6 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="904845577" version="1" timestamp="2021-02-07T21:17:21Z" changeset="98866053" uid="4890411" user="phaerrax">
-    <bounds minlat="45.4333142" minlon="9.2383497" maxlat="45.4333574" maxlon="9.2383847"/>
-    <nd ref="8403147652" lat="45.4333142" lon="9.2383497"/>
-    <nd ref="8403147675" lat="45.4333574" lon="9.2383847"/>
-    <tag k="covered" v="yes"/>
-    <tag k="footway" v="crossing"/>
-    <tag k="highway" v="footway"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-  <way id="904845582" version="2" timestamp="2021-04-05T18:16:54Z" changeset="102351694" uid="36030" user="WinstonSmith">
-    <bounds minlat="45.4332585" minlon="9.2383046" maxlat="45.4332886" maxlon="9.2383290"/>
-    <nd ref="8403147674" lat="45.4332585" lon="9.2383046"/>
-    <nd ref="8403147676" lat="45.4332886" lon="9.2383290"/>
-    <tag k="footway" v="crossing"/>
-    <tag k="highway" v="footway"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
   <way id="905771535" version="3" timestamp="2021-03-29T15:08:42Z" changeset="101925174" uid="8540010" user="Khanev!">
     <bounds minlat="45.4376803" minlon="9.2191955" maxlat="45.4377893" maxlon="9.2192850"/>
     <nd ref="8572076594" lat="45.4376803" lon="9.2192850"/>
@@ -43834,12 +43837,12 @@
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="912448535" version="2" timestamp="2021-03-29T15:08:42Z" changeset="101925174" uid="8540010" user="Khanev!">
+  <way id="912448535" version="3" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
     <bounds minlat="45.4398115" minlon="9.2237731" maxlat="45.4399303" maxlon="9.2239097"/>
     <nd ref="8458525145" lat="45.4399303" lon="9.2237731"/>
     <nd ref="8476278455" lat="45.4398976" lon="9.2238107"/>
     <nd ref="355234580" lat="45.4398759" lon="9.2238356"/>
-    <nd ref="8572076521" lat="45.4398314" lon="9.2238868"/>
+    <nd ref="8746663210" lat="45.4398400" lon="9.2238769"/>
     <nd ref="8476278435" lat="45.4398115" lon="9.2239097"/>
     <tag k="crossing" v="traffic_signals"/>
     <tag k="footway" v="crossing"/>
@@ -44736,18 +44739,14 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="920998344" version="1" timestamp="2021-03-22T17:51:37Z" changeset="101521546" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4409111" minlon="9.2143579" maxlat="45.4411274" maxlon="9.2144212"/>
+  <way id="920998344" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4409111" minlon="9.2143972" maxlat="45.4410092" maxlon="9.2144212"/>
     <nd ref="8551019526" lat="45.4409111" lon="9.2144124"/>
     <nd ref="8551019525" lat="45.4409417" lon="9.2144212"/>
     <nd ref="2608167300" lat="45.4409725" lon="9.2144103"/>
     <nd ref="8551019524" lat="45.4410024" lon="9.2143996"/>
-    <nd ref="8551019527" lat="45.4410247" lon="9.2143919"/>
-    <nd ref="2608167288" lat="45.4410609" lon="9.2143799"/>
-    <nd ref="8551019528" lat="45.4411109" lon="9.2143633"/>
-    <nd ref="8551019529" lat="45.4411274" lon="9.2143579"/>
+    <nd ref="8746698947" lat="45.4410092" lon="9.2143972"/>
     <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -44861,41 +44860,33 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="921325467" version="1" timestamp="2021-03-23T13:29:45Z" changeset="101577732" uid="8540010" user="Khanev!">
-    <bounds minlat="45.4410490" minlon="9.2153453" maxlat="45.4412644" maxlon="9.2154162"/>
+  <way id="921325467" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4411632" minlon="9.2153453" maxlat="45.4412644" maxlon="9.2153786"/>
     <nd ref="8553881337" lat="45.4412644" lon="9.2153453"/>
     <nd ref="8553881336" lat="45.4412454" lon="9.2153515"/>
     <nd ref="2608167277" lat="45.4412111" lon="9.2153628"/>
     <nd ref="8553881335" lat="45.4411715" lon="9.2153759"/>
-    <nd ref="8553881334" lat="45.4411484" lon="9.2153834"/>
-    <nd ref="2608167298" lat="45.4411175" lon="9.2153936"/>
-    <nd ref="8553881333" lat="45.4410892" lon="9.2154029"/>
-    <nd ref="8553881332" lat="45.4410490" lon="9.2154162"/>
+    <nd ref="8746698946" lat="45.4411632" lon="9.2153786"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="921325468" version="1" timestamp="2021-03-23T13:29:45Z" changeset="101577732" uid="8540010" user="Khanev!">
-    <bounds minlat="45.4410955" minlon="9.2155478" maxlat="45.4413052" maxlon="9.2156451"/>
+  <way id="921325468" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4410955" minlon="9.2155924" maxlat="45.4412040" maxlon="9.2156451"/>
     <nd ref="8553881342" lat="45.4410955" lon="9.2156451"/>
     <nd ref="8553881341" lat="45.4411378" lon="9.2156225"/>
     <nd ref="2608167297" lat="45.4411673" lon="9.2156091"/>
     <nd ref="8553881340" lat="45.4411978" lon="9.2155952"/>
-    <nd ref="8553881339" lat="45.4412140" lon="9.2155878"/>
-    <nd ref="2608167284" lat="45.4412516" lon="9.2155707"/>
-    <nd ref="8553881338" lat="45.4412761" lon="9.2155602"/>
-    <nd ref="8553881350" lat="45.4413052" lon="9.2155478"/>
+    <nd ref="8746698943" lat="45.4412040" lon="9.2155924"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="921325469" version="1" timestamp="2021-03-23T13:29:45Z" changeset="101577732" uid="8540010" user="Khanev!">
-    <bounds minlat="45.4413052" minlon="9.2155478" maxlat="45.4413697" maxlon="9.2156170"/>
-    <nd ref="8553881350" lat="45.4413052" lon="9.2155478"/>
+  <way id="921325469" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4413137" minlon="9.2155562" maxlat="45.4413697" maxlon="9.2156170"/>
+    <nd ref="8746698941" lat="45.4413137" lon="9.2155562"/>
     <nd ref="8553881346" lat="45.4413174" lon="9.2155610"/>
     <nd ref="8553881349" lat="45.4413263" lon="9.2155705"/>
     <nd ref="8553881347" lat="45.4413524" lon="9.2155985"/>
@@ -44904,13 +44895,13 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="921325470" version="1" timestamp="2021-03-23T13:29:45Z" changeset="101577732" uid="8540010" user="Khanev!">
-    <bounds minlat="45.4412809" minlon="9.2153956" maxlat="45.4413052" maxlon="9.2155478"/>
+  <way id="921325470" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4412809" minlon="9.2153956" maxlat="45.4413024" maxlon="9.2155309"/>
     <nd ref="8553881343" lat="45.4412809" lon="9.2153956"/>
     <nd ref="8553881344" lat="45.4412840" lon="9.2154153"/>
     <nd ref="1522937524" lat="45.4412923" lon="9.2154670"/>
     <nd ref="8553881345" lat="45.4413011" lon="9.2155226"/>
-    <nd ref="8553881350" lat="45.4413052" lon="9.2155478"/>
+    <nd ref="8746698942" lat="45.4413024" lon="9.2155309"/>
     <tag k="crossing" v="traffic_signals"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -45425,34 +45416,26 @@
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="922073721" version="1" timestamp="2021-03-25T12:24:21Z" changeset="101718925" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4433172" minlon="9.2215581" maxlat="45.4433747" maxlon="9.2217477"/>
+  <way id="922073721" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4433172" minlon="9.2215581" maxlat="45.4433448" maxlon="9.2216492"/>
     <nd ref="8560368098" lat="45.4433172" lon="9.2215581"/>
     <nd ref="8560368092" lat="45.4433244" lon="9.2215819"/>
     <nd ref="2875937671" lat="45.4433342" lon="9.2216145"/>
     <nd ref="8560368091" lat="45.4433435" lon="9.2216449"/>
-    <nd ref="8560368090" lat="45.4433500" lon="9.2216664"/>
-    <nd ref="1505037275" lat="45.4433603" lon="9.2217005"/>
-    <nd ref="8560368089" lat="45.4433696" lon="9.2217311"/>
-    <nd ref="8560368088" lat="45.4433747" lon="9.2217477"/>
+    <nd ref="8746663199" lat="45.4433448" lon="9.2216492"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="922073722" version="1" timestamp="2021-03-25T12:24:21Z" changeset="101718925" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4434090" minlon="9.2217618" maxlat="45.4435986" maxlon="9.2217892"/>
-    <nd ref="8560368102" lat="45.4435986" lon="9.2217618"/>
+  <way id="922073722" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4435031" minlon="9.2217644" maxlat="45.4435802" maxlon="9.2217756"/>
+    <nd ref="8746663194" lat="45.4435802" lon="9.2217644"/>
     <nd ref="8560368097" lat="45.4435753" lon="9.2217651"/>
     <nd ref="2406966017" lat="45.4435368" lon="9.2217707"/>
     <nd ref="8560368096" lat="45.4435058" lon="9.2217752"/>
-    <nd ref="8560368095" lat="45.4434863" lon="9.2217780"/>
-    <nd ref="1505037290" lat="45.4434533" lon="9.2217828"/>
-    <nd ref="8560368094" lat="45.4434155" lon="9.2217883"/>
-    <nd ref="8560368093" lat="45.4434090" lon="9.2217892"/>
+    <nd ref="8746663197" lat="45.4435031" lon="9.2217756"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
@@ -45469,46 +45452,37 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="922073724" version="1" timestamp="2021-03-25T12:24:21Z" changeset="101718925" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4435986" minlon="9.2217618" maxlat="45.4436587" maxlon="9.2218643"/>
-    <nd ref="8560368102" lat="45.4435986" lon="9.2217618"/>
+  <way id="922073724" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4436077" minlon="9.2217777" maxlat="45.4436587" maxlon="9.2218643"/>
+    <nd ref="8746663193" lat="45.4436077" lon="9.2217777"/>
     <nd ref="8560368101" lat="45.4436166" lon="9.2217933"/>
     <nd ref="3408916047" lat="45.4436351" lon="9.2218245"/>
     <nd ref="8560368100" lat="45.4436511" lon="9.2218516"/>
     <nd ref="8560368099" lat="45.4436587" lon="9.2218643"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="922073725" version="1" timestamp="2021-03-25T12:24:21Z" changeset="101718925" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4435289" minlon="9.2215442" maxlat="45.4435986" maxlon="9.2217618"/>
+  <way id="922073725" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4435289" minlon="9.2215442" maxlat="45.4435552" maxlon="9.2216354"/>
     <nd ref="8560368107" lat="45.4435289" lon="9.2215442"/>
     <nd ref="8560368106" lat="45.4435326" lon="9.2215573"/>
     <nd ref="2875937676" lat="45.4435447" lon="9.2215991"/>
     <nd ref="8560368105" lat="45.4435539" lon="9.2216310"/>
-    <nd ref="8560368104" lat="45.4435610" lon="9.2216549"/>
-    <nd ref="2875937677" lat="45.4435695" lon="9.2216850"/>
-    <nd ref="8560368103" lat="45.4435843" lon="9.2217366"/>
-    <nd ref="8560368102" lat="45.4435986" lon="9.2217618"/>
+    <nd ref="8746663203" lat="45.4435552" lon="9.2216354"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="922073726" version="1" timestamp="2021-03-25T12:24:21Z" changeset="101718925" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4433172" minlon="9.2215227" maxlat="45.4434994" maxlon="9.2215581"/>
+  <way id="922073726" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4434134" minlon="9.2215227" maxlat="45.4434994" maxlon="9.2215349"/>
     <nd ref="8560368115" lat="45.4434994" lon="9.2215227"/>
     <nd ref="8560368114" lat="45.4434846" lon="9.2215248"/>
     <nd ref="2875937675" lat="45.4434440" lon="9.2215306"/>
     <nd ref="8560368113" lat="45.4434163" lon="9.2215345"/>
-    <nd ref="8560368112" lat="45.4433962" lon="9.2215374"/>
-    <nd ref="2875937673" lat="45.4433655" lon="9.2215418"/>
-    <nd ref="8560368111" lat="45.4433285" lon="9.2215471"/>
-    <nd ref="8560368098" lat="45.4433172" lon="9.2215581"/>
+    <nd ref="8746663201" lat="45.4434134" lon="9.2215349"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
@@ -45553,19 +45527,23 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="922073740" version="1" timestamp="2021-03-25T12:24:21Z" changeset="101718925" uid="12810516" user="Marco_Belluschi">
+  <way id="922073740" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
     <bounds minlat="45.4458036" minlon="9.2174870" maxlat="45.4458081" maxlon="9.2175916"/>
     <nd ref="8560385783" lat="45.4458081" lon="9.2175916"/>
+    <nd ref="8746663204" lat="45.4458078" lon="9.2175843"/>
     <nd ref="8560385777" lat="45.4458053" lon="9.2175264"/>
+    <nd ref="8746663205" lat="45.4458040" lon="9.2174957"/>
     <nd ref="8560385779" lat="45.4458036" lon="9.2174870"/>
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="922073741" version="1" timestamp="2021-03-25T12:24:21Z" changeset="101718925" uid="12810516" user="Marco_Belluschi">
+  <way id="922073741" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
     <bounds minlat="45.4457780" minlon="9.2168961" maxlat="45.4457823" maxlon="9.2169963"/>
     <nd ref="8560385778" lat="45.4457823" lon="9.2169963"/>
+    <nd ref="8746663206" lat="45.4457820" lon="9.2169894"/>
     <nd ref="8560385776" lat="45.4457802" lon="9.2169468"/>
+    <nd ref="8746663207" lat="45.4457782" lon="9.2169003"/>
     <nd ref="8560385780" lat="45.4457780" lon="9.2168961"/>
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
@@ -45693,16 +45671,13 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="922513050" version="1" timestamp="2021-03-26T14:10:07Z" changeset="101796870" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4407621" minlon="9.2197342" maxlat="45.4409002" maxlon="9.2200096"/>
+  <way id="922513050" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4407621" minlon="9.2197342" maxlat="45.4408164" maxlon="9.2198424"/>
     <nd ref="8564222701" lat="45.4407621" lon="9.2197342"/>
     <nd ref="8564222700" lat="45.4407683" lon="9.2197465"/>
     <nd ref="1272025506" lat="45.4407831" lon="9.2197760"/>
     <nd ref="8564222699" lat="45.4408076" lon="9.2198249"/>
-    <nd ref="8564222698" lat="45.4408484" lon="9.2199063"/>
-    <nd ref="1272025578" lat="45.4408710" lon="9.2199514"/>
-    <nd ref="8564222697" lat="45.4408897" lon="9.2199887"/>
-    <nd ref="8564222696" lat="45.4409002" lon="9.2200096"/>
+    <nd ref="8746698917" lat="45.4408164" lon="9.2198424"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -45773,32 +45748,26 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="922513066" version="2" timestamp="2021-03-26T16:09:14Z" changeset="101803011" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4398861" minlon="9.2158316" maxlat="45.4400501" maxlon="9.2160221"/>
-    <nd ref="8564225967" lat="45.4398861" lon="9.2158316"/>
-    <nd ref="8564225966" lat="45.4398863" lon="9.2158409"/>
-    <nd ref="1496309684" lat="45.4398873" lon="9.2158919"/>
-    <nd ref="8564225965" lat="45.4398884" lon="9.2159418"/>
-    <nd ref="8564225968" lat="45.4398862" lon="9.2159659"/>
+  <way id="922513066" version="3" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4398930" minlon="9.2159671" maxlat="45.4400501" maxlon="9.2160221"/>
+    <nd ref="8746698938" lat="45.4398930" lon="9.2159671"/>
     <nd ref="8564225964" lat="45.4399030" lon="9.2159688"/>
     <nd ref="1496309685" lat="45.4399644" lon="9.2159914"/>
     <nd ref="8564225963" lat="45.4400450" lon="9.2160209"/>
     <nd ref="8564225962" lat="45.4400501" lon="9.2160221"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="922513067" version="2" timestamp="2021-03-26T16:09:14Z" changeset="101803011" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4398210" minlon="9.2159659" maxlat="45.4398862" maxlon="9.2160393"/>
+  <way id="922513067" version="3" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4398210" minlon="9.2159727" maxlat="45.4398796" maxlon="9.2160393"/>
     <nd ref="8564225976" lat="45.4398210" lon="9.2160393"/>
     <nd ref="8564225970" lat="45.4398251" lon="9.2160346"/>
     <nd ref="1496309681" lat="45.4398429" lon="9.2160140"/>
     <nd ref="8564225969" lat="45.4398715" lon="9.2159809"/>
-    <nd ref="8564225968" lat="45.4398862" lon="9.2159659"/>
+    <nd ref="8746698937" lat="45.4398796" lon="9.2159727"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
@@ -46056,18 +46025,14 @@
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="922559172" version="1" timestamp="2021-03-26T16:24:52Z" changeset="101802897" uid="8540010" user="Khanev!">
-    <bounds minlat="45.4392809" minlon="9.2224498" maxlat="45.4394192" maxlon="9.2227446"/>
+  <way id="922559172" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4393602" minlon="9.2226189" maxlat="45.4394192" maxlon="9.2227446"/>
     <nd ref="8564682553" lat="45.4394192" lon="9.2227446"/>
     <nd ref="8564682546" lat="45.4394164" lon="9.2227387"/>
     <nd ref="8564682555" lat="45.4393928" lon="9.2226882"/>
     <nd ref="8564682543" lat="45.4393765" lon="9.2226536"/>
-    <nd ref="8564682544" lat="45.4393124" lon="9.2225170"/>
-    <nd ref="8564682554" lat="45.4393041" lon="9.2224993"/>
-    <nd ref="8564682545" lat="45.4392873" lon="9.2224635"/>
-    <nd ref="8476278452" lat="45.4392809" lon="9.2224498"/>
+    <nd ref="8746698918" lat="45.4393602" lon="9.2226189"/>
     <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -46123,18 +46088,14 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="922686172" version="2" timestamp="2021-03-31T14:52:21Z" changeset="102063570" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4410647" minlon="9.2275816" maxlat="45.4411821" maxlon="9.2277784"/>
+  <way id="922686172" version="3" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4411373" minlon="9.2275816" maxlat="45.4411821" maxlon="9.2276565"/>
     <nd ref="6411432705" lat="45.4411821" lon="9.2275816"/>
     <nd ref="8579413012" lat="45.4411754" lon="9.2275927"/>
     <nd ref="8579413011" lat="45.4411577" lon="9.2276223"/>
     <nd ref="8579413010" lat="45.4411418" lon="9.2276490"/>
-    <nd ref="8579413009" lat="45.4411112" lon="9.2277001"/>
-    <nd ref="2701260110" lat="45.4410913" lon="9.2277334"/>
-    <nd ref="8579413008" lat="45.4410696" lon="9.2277697"/>
-    <nd ref="8579413007" lat="45.4410647" lon="9.2277784"/>
+    <nd ref="8746663179" lat="45.4411373" lon="9.2276565"/>
     <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -46204,33 +46165,25 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="923387932" version="1" timestamp="2021-03-29T13:32:14Z" changeset="101920857" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4364939" minlon="9.2348533" maxlat="45.4365902" maxlon="9.2351049"/>
+  <way id="923387932" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4364939" minlon="9.2348533" maxlat="45.4365427" maxlon="9.2349809"/>
     <nd ref="5265195279" lat="45.4364939" lon="9.2348533"/>
     <nd ref="8571819324" lat="45.4365122" lon="9.2349011"/>
     <nd ref="3978396887" lat="45.4365274" lon="9.2349408"/>
     <nd ref="8571819323" lat="45.4365401" lon="9.2349739"/>
-    <nd ref="8571819322" lat="45.4365488" lon="9.2349968"/>
-    <nd ref="3978396892" lat="45.4365650" lon="9.2350391"/>
-    <nd ref="8571819321" lat="45.4365734" lon="9.2350611"/>
-    <nd ref="4931556518" lat="45.4365902" lon="9.2351049"/>
+    <nd ref="8746663175" lat="45.4365427" lon="9.2349809"/>
     <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="923387933" version="1" timestamp="2021-03-29T13:32:14Z" changeset="101920857" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4368367" minlon="9.2347396" maxlat="45.4369019" maxlon="9.2350091"/>
+  <way id="923387933" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4368766" minlon="9.2347396" maxlat="45.4369019" maxlon="9.2348534"/>
     <nd ref="8571819330" lat="45.4369019" lon="9.2347396"/>
     <nd ref="8571819329" lat="45.4368845" lon="9.2347833"/>
     <nd ref="2727498118" lat="45.4368835" lon="9.2348094"/>
     <nd ref="8571819328" lat="45.4368805" lon="9.2348470"/>
-    <nd ref="8571819327" lat="45.4368596" lon="9.2348812"/>
-    <nd ref="2727498117" lat="45.4368508" lon="9.2349121"/>
-    <nd ref="8571819326" lat="45.4368410" lon="9.2349469"/>
-    <nd ref="8571819325" lat="45.4368367" lon="9.2350091"/>
+    <nd ref="8746663177" lat="45.4368766" lon="9.2348534"/>
     <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -46360,29 +46313,21 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="923411286" version="2" timestamp="2021-03-31T12:49:16Z" changeset="102056941" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4368827" minlon="9.2239490" maxlat="45.4368966" maxlon="9.2245386"/>
-    <nd ref="8571964976" lat="45.4368907" lon="9.2239490"/>
-    <nd ref="8571964975" lat="45.4368966" lon="9.2240001"/>
-    <nd ref="1271995816" lat="45.4368954" lon="9.2240451"/>
-    <nd ref="8571964974" lat="45.4368949" lon="9.2240678"/>
-    <nd ref="8571964973" lat="45.4368927" lon="9.2241495"/>
-    <nd ref="8571964972" lat="45.4368920" lon="9.2241764"/>
-    <nd ref="8571964971" lat="45.4368917" lon="9.2241904"/>
-    <nd ref="8571964980" lat="45.4368912" lon="9.2242159"/>
+  <way id="923411286" version="3" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4368827" minlon="9.2242285" maxlat="45.4368909" maxlon="9.2245386"/>
+    <nd ref="8746663211" lat="45.4368909" lon="9.2242285"/>
     <nd ref="8579090904" lat="45.4368870" lon="9.2243710"/>
     <nd ref="8571964969" lat="45.4368865" lon="9.2243913"/>
     <nd ref="2721489222" lat="45.4368849" lon="9.2244510"/>
     <nd ref="8571964968" lat="45.4368834" lon="9.2245091"/>
     <nd ref="8571964967" lat="45.4368827" lon="9.2245386"/>
     <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="923411288" version="1" timestamp="2021-03-29T14:43:12Z" changeset="101924603" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4368912" minlon="9.2242134" maxlat="45.4370544" maxlon="9.2242159"/>
-    <nd ref="8571964980" lat="45.4368912" lon="9.2242159"/>
+  <way id="923411288" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4368963" minlon="9.2242134" maxlat="45.4370544" maxlon="9.2242155"/>
+    <nd ref="8746663212" lat="45.4368963" lon="9.2242152"/>
     <nd ref="8571964958" lat="45.4369028" lon="9.2242142"/>
     <nd ref="8571964957" lat="45.4369752" lon="9.2242134"/>
     <nd ref="8571964956" lat="45.4370050" lon="9.2242140"/>
@@ -46781,51 +46726,39 @@
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="923434569" version="1" timestamp="2021-03-29T16:14:11Z" changeset="101928520" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4365866" minlon="9.2163996" maxlat="45.4367070" maxlon="9.2166345"/>
+  <way id="923434569" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4366904" minlon="9.2163996" maxlat="45.4367070" maxlon="9.2165706"/>
     <nd ref="8572236618" lat="45.4367070" lon="9.2163996"/>
     <nd ref="8572236617" lat="45.4367057" lon="9.2164095"/>
     <nd ref="2706201860" lat="45.4367055" lon="9.2164393"/>
     <nd ref="8572221016" lat="45.4367067" lon="9.2164966"/>
     <nd ref="8572221015" lat="45.4366930" lon="9.2165671"/>
-    <nd ref="1737802644" lat="45.4366617" lon="9.2166001"/>
-    <nd ref="8572221014" lat="45.4366022" lon="9.2166328"/>
-    <nd ref="8572221013" lat="45.4365866" lon="9.2166345"/>
+    <nd ref="8746698934" lat="45.4366904" lon="9.2165706"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="923434572" version="1" timestamp="2021-03-29T16:14:11Z" changeset="101928520" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4365566" minlon="9.2168266" maxlat="45.4367994" maxlon="9.2169908"/>
+  <way id="923434572" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4367478" minlon="9.2168440" maxlat="45.4367994" maxlon="9.2169908"/>
     <nd ref="8572236633" lat="45.4367994" lon="9.2169908"/>
     <nd ref="8572236632" lat="45.4367947" lon="9.2169788"/>
     <nd ref="1272057824" lat="45.4367681" lon="9.2168973"/>
     <nd ref="8572236631" lat="45.4367551" lon="9.2168507"/>
-    <nd ref="8572236629" lat="45.4367288" lon="9.2168266"/>
-    <nd ref="1272057815" lat="45.4366815" lon="9.2168329"/>
-    <nd ref="8572236628" lat="45.4365763" lon="9.2168494"/>
-    <nd ref="8572236627" lat="45.4365566" lon="9.2168520"/>
+    <nd ref="8746698931" lat="45.4367478" lon="9.2168440"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
   </way>
-  <way id="923434573" version="1" timestamp="2021-03-29T16:14:11Z" changeset="101928520" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4369201" minlon="9.2163624" maxlat="45.4369584" maxlon="9.2168482"/>
+  <way id="923434573" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4369454" minlon="9.2166832" maxlat="45.4369584" maxlon="9.2168482"/>
     <nd ref="8572236639" lat="45.4369584" lon="9.2168482"/>
     <nd ref="8572236638" lat="45.4369573" lon="9.2168337"/>
     <nd ref="4063974622" lat="45.4369515" lon="9.2167610"/>
     <nd ref="8572236637" lat="45.4369473" lon="9.2167070"/>
     <nd ref="8572236630" lat="45.4369454" lon="9.2166832"/>
-    <nd ref="8572236636" lat="45.4369320" lon="9.2165132"/>
-    <nd ref="2704924350" lat="45.4369269" lon="9.2164485"/>
-    <nd ref="8572236635" lat="45.4369228" lon="9.2163966"/>
-    <nd ref="8572236634" lat="45.4369201" lon="9.2163624"/>
     <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="traffic_signals:arrow" v="yes"/>
@@ -46865,30 +46798,15 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="923434578" version="1" timestamp="2021-03-29T16:14:11Z" changeset="101928520" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4369253" minlon="9.2174343" maxlat="45.4370063" maxlon="9.2178090"/>
-    <nd ref="8572236660" lat="45.4370063" lon="9.2178090"/>
-    <nd ref="8572236655" lat="45.4370041" lon="9.2177506"/>
-    <nd ref="8572236654" lat="45.4369532" lon="9.2175139"/>
-    <nd ref="2932933803" lat="45.4369253" lon="9.2174343"/>
-    <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
-    <tag k="footway" v="crossing"/>
-    <tag k="highway" v="footway"/>
-  </way>
-  <way id="923434579" version="1" timestamp="2021-03-29T16:14:11Z" changeset="101928520" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4369164" minlon="9.2173935" maxlat="45.4370332" maxlon="9.2179330"/>
+  <way id="923434579" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4369905" minlon="9.2177357" maxlat="45.4370332" maxlon="9.2179330"/>
     <nd ref="8572236663" lat="45.4370332" lon="9.2179330"/>
     <nd ref="8572236662" lat="45.4370290" lon="9.2179140"/>
     <nd ref="8572236661" lat="45.4370252" lon="9.2178964"/>
     <nd ref="8572236660" lat="45.4370063" lon="9.2178090"/>
     <nd ref="8572236659" lat="45.4369950" lon="9.2177566"/>
-    <nd ref="8572236658" lat="45.4369435" lon="9.2175185"/>
-    <nd ref="2932933803" lat="45.4369253" lon="9.2174343"/>
-    <nd ref="8572236657" lat="45.4369185" lon="9.2174029"/>
-    <nd ref="8572236656" lat="45.4369164" lon="9.2173935"/>
+    <nd ref="8746698929" lat="45.4369905" lon="9.2177357"/>
     <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -47505,17 +47423,14 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="924381343" version="1" timestamp="2021-03-31T13:53:24Z" changeset="102060227" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4316288" minlon="9.2241656" maxlat="45.4316683" maxlon="9.2243314"/>
-    <nd ref="8579266685" lat="45.4316288" lon="9.2241656"/>
-    <nd ref="8579266684" lat="45.4316392" lon="9.2242066"/>
-    <nd ref="8579266683" lat="45.4316430" lon="9.2242220"/>
+  <way id="924381343" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4316480" minlon="9.2242426" maxlat="45.4316683" maxlon="9.2243314"/>
+    <nd ref="8746663208" lat="45.4316480" lon="9.2242426"/>
     <nd ref="8579266682" lat="45.4316488" lon="9.2242460"/>
     <nd ref="8579266681" lat="45.4316541" lon="9.2242678"/>
     <nd ref="8579266680" lat="45.4316635" lon="9.2243129"/>
     <nd ref="8579266679" lat="45.4316683" lon="9.2243314"/>
     <tag k="crossing" v="uncontrolled"/>
-    <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
@@ -47816,14 +47731,6 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="loc_ref" v="7461_12597"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-  <way id="926309934" version="1" timestamp="2021-04-05T18:16:54Z" changeset="102351694" uid="36030" user="WinstonSmith">
-    <bounds minlat="45.4332886" minlon="9.2383290" maxlat="45.4333142" maxlon="9.2383497"/>
-    <nd ref="8403147676" lat="45.4332886" lon="9.2383290"/>
-    <nd ref="8403147652" lat="45.4333142" lon="9.2383497"/>
-    <tag k="footway" v="crossing"/>
-    <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="926309970" version="1" timestamp="2021-04-05T18:16:54Z" changeset="102351694" uid="36030" user="WinstonSmith">
@@ -51971,34 +51878,24 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="943942975" version="1" timestamp="2021-05-17T15:57:14Z" changeset="104836452" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4445247" minlon="9.2280363" maxlat="45.4447295" maxlon="9.2280765"/>
+  <way id="943942975" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4446335" minlon="9.2280363" maxlat="45.4447295" maxlon="9.2280551"/>
     <nd ref="8739806622" lat="45.4447295" lon="9.2280363"/>
     <nd ref="8739806621" lat="45.4447105" lon="9.2280400"/>
     <nd ref="3004514641" lat="45.4446691" lon="9.2280481"/>
     <nd ref="8739806620" lat="45.4446391" lon="9.2280540"/>
-    <nd ref="8739806619" lat="45.4446180" lon="9.2280581"/>
-    <nd ref="3004514640" lat="45.4445829" lon="9.2280650"/>
-    <nd ref="8739806618" lat="45.4445447" lon="9.2280725"/>
-    <nd ref="8739806617" lat="45.4445247" lon="9.2280765"/>
+    <nd ref="8746663190" lat="45.4446335" lon="9.2280551"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="943942976" version="2" timestamp="2021-05-18T11:38:22Z" changeset="104888112" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4444958" minlon="9.2292109" maxlat="45.4448388" maxlon="9.2293058"/>
+  <way id="943942976" version="3" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4444958" minlon="9.2292814" maxlat="45.4446001" maxlon="9.2293058"/>
     <nd ref="8739806630" lat="45.4444958" lon="9.2293058"/>
     <nd ref="8739806629" lat="45.4445094" lon="9.2293024"/>
     <nd ref="1973583710" lat="45.4445410" lon="9.2292942"/>
     <nd ref="8739806628" lat="45.4445832" lon="9.2292834"/>
-    <nd ref="8739806627" lat="45.4446617" lon="9.2292740"/>
-    <nd ref="1973583736" lat="45.4446942" lon="9.2292581"/>
-    <nd ref="8739806626" lat="45.4447300" lon="9.2292405"/>
-    <nd ref="8742218795" lat="45.4447583" lon="9.2292513"/>
-    <nd ref="8739806625" lat="45.4447845" lon="9.2292613"/>
-    <nd ref="1973597277" lat="45.4448057" lon="9.2292416"/>
-    <nd ref="8739806624" lat="45.4448257" lon="9.2292230"/>
-    <nd ref="8739806623" lat="45.4448388" lon="9.2292109"/>
+    <nd ref="8746663186" lat="45.4446001" lon="9.2292814"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -52135,6 +52032,17 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
+  <way id="943943004" version="2" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4427748" minlon="9.2253909" maxlat="45.4428180" maxlon="9.2254546"/>
+    <nd ref="8739806732" lat="45.4428180" lon="9.2254546"/>
+    <nd ref="8746006203" lat="45.4428131" lon="9.2254474"/>
+    <nd ref="8746006202" lat="45.4427917" lon="9.2254158"/>
+    <nd ref="8746006201" lat="45.4427798" lon="9.2253984"/>
+    <nd ref="8746006200" lat="45.4427748" lon="9.2253909"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
   <way id="943943013" version="1" timestamp="2021-05-17T15:57:14Z" changeset="104836452" uid="12810516" user="Marco_Belluschi">
     <bounds minlat="45.4430502" minlon="9.2249367" maxlat="45.4430993" maxlon="9.2249979"/>
     <nd ref="8739806757" lat="45.4430502" lon="9.2249367"/>
@@ -52142,6 +52050,17 @@
     <nd ref="8739806755" lat="45.4430681" lon="9.2249589"/>
     <nd ref="8739806754" lat="45.4430910" lon="9.2249875"/>
     <nd ref="8739806760" lat="45.4430993" lon="9.2249979"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="943943016" version="2" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4434969" minlon="9.2256812" maxlat="45.4435166" maxlon="9.2257583"/>
+    <nd ref="8739806762" lat="45.4434969" lon="9.2256812"/>
+    <nd ref="8746013272" lat="45.4434979" lon="9.2256891"/>
+    <nd ref="2701189638" lat="45.4434994" lon="9.2257050"/>
+    <nd ref="8746013271" lat="45.4435139" lon="9.2257484"/>
+    <nd ref="8739806788" lat="45.4435166" lon="9.2257583"/>
     <tag k="crossing" v="unmarked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -52223,16 +52142,13 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="943943032" version="1" timestamp="2021-05-17T15:57:14Z" changeset="104836452" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4444185" minlon="9.2265838" maxlat="45.4446161" maxlon="9.2266260"/>
+  <way id="943943032" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4445269" minlon="9.2265838" maxlat="45.4446161" maxlon="9.2266028"/>
     <nd ref="8739806830" lat="45.4446161" lon="9.2265838"/>
     <nd ref="8739806821" lat="45.4446009" lon="9.2265870"/>
     <nd ref="6405233883" lat="45.4445643" lon="9.2265948"/>
     <nd ref="8739806820" lat="45.4445340" lon="9.2266013"/>
-    <nd ref="8739806819" lat="45.4445086" lon="9.2266068"/>
-    <nd ref="6405233884" lat="45.4444785" lon="9.2266132"/>
-    <nd ref="8739806818" lat="45.4444318" lon="9.2266232"/>
-    <nd ref="8739806817" lat="45.4444185" lon="9.2266260"/>
+    <nd ref="8746663192" lat="45.4445269" lon="9.2266028"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -52271,16 +52187,13 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="943943036" version="1" timestamp="2021-05-17T15:57:14Z" changeset="104836452" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4447198" minlon="9.2114245" maxlat="45.4449237" maxlon="9.2115339"/>
+  <way id="943943036" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4448492" minlon="9.2114245" maxlat="45.4449237" maxlon="9.2114848"/>
     <nd ref="4230926075" lat="45.4449237" lon="9.2114245"/>
     <nd ref="8739806848" lat="45.4449097" lon="9.2114340"/>
     <nd ref="1460519085" lat="45.4448770" lon="9.2114632"/>
     <nd ref="8739806847" lat="45.4448589" lon="9.2114809"/>
-    <nd ref="8739806846" lat="45.4448090" lon="9.2115010"/>
-    <nd ref="1460519084" lat="45.4447649" lon="9.2115184"/>
-    <nd ref="8739806845" lat="45.4447347" lon="9.2115279"/>
-    <nd ref="4230926024" lat="45.4447198" lon="9.2115339"/>
+    <nd ref="8746698950" lat="45.4448492" lon="9.2114848"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -52399,16 +52312,13 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="944190767" version="1" timestamp="2021-05-18T09:51:51Z" changeset="104880264" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4438837" minlon="9.2313675" maxlat="45.4440722" maxlon="9.2314450"/>
+  <way id="944190767" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4438837" minlon="9.2313675" maxlat="45.4439670" maxlon="9.2314268"/>
     <nd ref="8741924853" lat="45.4438837" lon="9.2313675"/>
     <nd ref="8741924852" lat="45.4438946" lon="9.2313758"/>
     <nd ref="1973583709" lat="45.4439154" lon="9.2313917"/>
     <nd ref="8741924851" lat="45.4439575" lon="9.2314238"/>
-    <nd ref="8741924850" lat="45.4439895" lon="9.2314339"/>
-    <nd ref="1973583742" lat="45.4440289" lon="9.2314392"/>
-    <nd ref="8741924849" lat="45.4440612" lon="9.2314435"/>
-    <nd ref="1973591427" lat="45.4440722" lon="9.2314450"/>
+    <nd ref="8746663180" lat="45.4439670" lon="9.2314268"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -52556,16 +52466,13 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="944233205" version="1" timestamp="2021-05-18T11:38:22Z" changeset="104888112" uid="12810516" user="Marco_Belluschi">
-    <bounds minlat="45.4444482" minlon="9.2301295" maxlat="45.4446409" maxlon="9.2302595"/>
+  <way id="944233205" version="2" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4445573" minlon="9.2301668" maxlat="45.4446409" maxlon="9.2302595"/>
     <nd ref="8742218801" lat="45.4446409" lon="9.2302595"/>
     <nd ref="8742218800" lat="45.4446232" lon="9.2302356"/>
     <nd ref="1973583737" lat="45.4445859" lon="9.2301890"/>
     <nd ref="8742218799" lat="45.4445653" lon="9.2301705"/>
-    <nd ref="8742218798" lat="45.4445291" lon="9.2301538"/>
-    <nd ref="1973583738" lat="45.4444934" lon="9.2301431"/>
-    <nd ref="8742218797" lat="45.4444629" lon="9.2301339"/>
-    <nd ref="8742218796" lat="45.4444482" lon="9.2301295"/>
+    <nd ref="8746663182" lat="45.4445573" lon="9.2301668"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -52613,6 +52520,598 @@
     <nd ref="8742403321" lat="45.4300112" lon="9.2263342"/>
     <nd ref="8742403320" lat="45.4299947" lon="9.2262924"/>
     <nd ref="8742403328" lat="45.4299895" lon="9.2262793"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944584637" version="1" timestamp="2021-05-19T09:28:46Z" changeset="104946716" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5164397" minlon="9.2478113" maxlat="45.5164741" maxlon="9.2479466"/>
+    <nd ref="1932059634" lat="45.5164397" lon="9.2478113"/>
+    <nd ref="8745214454" lat="45.5164622" lon="9.2478999"/>
+    <nd ref="8745214453" lat="45.5164741" lon="9.2479466"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944584638" version="1" timestamp="2021-05-19T09:28:46Z" changeset="104946716" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5156145" minlon="9.2489545" maxlat="45.5156952" maxlon="9.2490158"/>
+    <nd ref="8745214457" lat="45.5156952" lon="9.2490158"/>
+    <nd ref="2651815604" lat="45.5156483" lon="9.2489802"/>
+    <nd ref="8745214458" lat="45.5156145" lon="9.2489545"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944584640" version="1" timestamp="2021-05-19T09:28:46Z" changeset="104946716" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5157679" minlon="9.2485140" maxlat="45.5158660" maxlon="9.2485776"/>
+    <nd ref="8745214459" lat="45.5157679" lon="9.2485140"/>
+    <nd ref="1932059704" lat="45.5158032" lon="9.2485356"/>
+    <nd ref="8745214456" lat="45.5158459" lon="9.2485641"/>
+    <nd ref="8745214455" lat="45.5158660" lon="9.2485776"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944605033" version="1" timestamp="2021-05-19T10:25:11Z" changeset="104951747" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5137012" minlon="9.2411892" maxlat="45.5138429" maxlon="9.2412564"/>
+    <nd ref="8745414259" lat="45.5138429" lon="9.2411892"/>
+    <nd ref="1932048993" lat="45.5137803" lon="9.2412189"/>
+    <nd ref="8745414260" lat="45.5137012" lon="9.2412564"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944605035" version="1" timestamp="2021-05-19T10:25:11Z" changeset="104951747" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5132409" minlon="9.2389609" maxlat="45.5133772" maxlon="9.2390245"/>
+    <nd ref="8745414263" lat="45.5133772" lon="9.2389609"/>
+    <nd ref="1383473521" lat="45.5133150" lon="9.2389899"/>
+    <nd ref="8745414264" lat="45.5132409" lon="9.2390245"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944605036" version="1" timestamp="2021-05-19T10:25:11Z" changeset="104951747" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5129278" minlon="9.2374582" maxlat="45.5130631" maxlon="9.2375181"/>
+    <nd ref="3976985364" lat="45.5130631" lon="9.2374582"/>
+    <nd ref="1932048982" lat="45.5130054" lon="9.2374837"/>
+    <nd ref="8745414266" lat="45.5129278" lon="9.2375181"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944605037" version="1" timestamp="2021-05-19T10:25:11Z" changeset="104951747" uid="8716397" user="f_gonella">
+    <bounds minlat="45.5137922" minlon="9.2417764" maxlat="45.5138394" maxlon="9.2420167"/>
+    <nd ref="1838907755" lat="45.5137922" lon="9.2417764"/>
+    <nd ref="1932048988" lat="45.5138125" lon="9.2418799"/>
+    <nd ref="1932048990" lat="45.5138291" lon="9.2419645"/>
+    <nd ref="8745414267" lat="45.5138394" lon="9.2420167"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686588" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4485153" minlon="9.2284268" maxlat="45.4485888" maxlon="9.2284871"/>
+    <nd ref="8746006128" lat="45.4485888" lon="9.2284871"/>
+    <nd ref="8746006127" lat="45.4485823" lon="9.2284818"/>
+    <nd ref="2917033046" lat="45.4485420" lon="9.2284487"/>
+    <nd ref="8746006126" lat="45.4485224" lon="9.2284326"/>
+    <nd ref="8746006125" lat="45.4485153" lon="9.2284268"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686589" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4485946" minlon="9.2283721" maxlat="45.4486407" maxlon="9.2284747"/>
+    <nd ref="8746006134" lat="45.4485946" lon="9.2284747"/>
+    <nd ref="8746006129" lat="45.4486003" lon="9.2284586"/>
+    <nd ref="8746006130" lat="45.4486175" lon="9.2284202"/>
+    <nd ref="8746006131" lat="45.4486356" lon="9.2283829"/>
+    <nd ref="8746006133" lat="45.4486407" lon="9.2283721"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686591" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4473660" minlon="9.2303721" maxlat="45.4474435" maxlon="9.2304481"/>
+    <nd ref="8746006149" lat="45.4473660" lon="9.2303721"/>
+    <nd ref="8746006148" lat="45.4473749" lon="9.2303808"/>
+    <nd ref="2701157561" lat="45.4474011" lon="9.2304065"/>
+    <nd ref="8746006147" lat="45.4474297" lon="9.2304345"/>
+    <nd ref="8746006146" lat="45.4474435" lon="9.2304481"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686596" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4431674" minlon="9.2268582" maxlat="45.4431940" maxlon="9.2269300"/>
+    <nd ref="8746006210" lat="45.4431940" lon="9.2269300"/>
+    <nd ref="8746006209" lat="45.4431923" lon="9.2269253"/>
+    <nd ref="8746006208" lat="45.4431848" lon="9.2269050"/>
+    <nd ref="8746006207" lat="45.4431728" lon="9.2268729"/>
+    <nd ref="8746006206" lat="45.4431674" lon="9.2268582"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686597" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4427766" minlon="9.2270464" maxlat="45.4427789" maxlon="9.2271403"/>
+    <nd ref="8746006216" lat="45.4427766" lon="9.2270464"/>
+    <nd ref="8746006214" lat="45.4427768" lon="9.2270565"/>
+    <nd ref="8746006213" lat="45.4427777" lon="9.2270904"/>
+    <nd ref="8746006212" lat="45.4427785" lon="9.2271256"/>
+    <nd ref="8739806707" lat="45.4427789" lon="9.2271403"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686603" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4425324" minlon="9.2268714" maxlat="45.4425781" maxlon="9.2269563"/>
+    <nd ref="8746013234" lat="45.4425781" lon="9.2268714"/>
+    <nd ref="8746013233" lat="45.4425733" lon="9.2268808"/>
+    <nd ref="8746013232" lat="45.4425574" lon="9.2269086"/>
+    <nd ref="8746013231" lat="45.4425381" lon="9.2269452"/>
+    <nd ref="8746013230" lat="45.4425324" lon="9.2269563"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686604" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4427810" minlon="9.2259363" maxlat="45.4428340" maxlon="9.2260051"/>
+    <nd ref="8746013252" lat="45.4428340" lon="9.2260051"/>
+    <nd ref="8746013238" lat="45.4428251" lon="9.2259917"/>
+    <nd ref="8746013237" lat="45.4427996" lon="9.2259577"/>
+    <nd ref="8746013236" lat="45.4427865" lon="9.2259420"/>
+    <nd ref="8746013235" lat="45.4427810" lon="9.2259363"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686613" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4433051" minlon="9.2256973" maxlat="45.4433066" maxlon="9.2257736"/>
+    <nd ref="6405233757" lat="45.4433059" lon="9.2256973"/>
+    <nd ref="8746013275" lat="45.4433052" lon="9.2257046"/>
+    <nd ref="6405233756" lat="45.4433051" lon="9.2257286"/>
+    <nd ref="8746013274" lat="45.4433059" lon="9.2257639"/>
+    <nd ref="8746013273" lat="45.4433066" lon="9.2257736"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686614" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4432417" minlon="9.2259384" maxlat="45.4432978" maxlon="9.2259406"/>
+    <nd ref="8746013280" lat="45.4432978" lon="9.2259384"/>
+    <nd ref="8746013279" lat="45.4432912" lon="9.2259387"/>
+    <nd ref="8746013278" lat="45.4432706" lon="9.2259395"/>
+    <nd ref="8746013277" lat="45.4432496" lon="9.2259403"/>
+    <nd ref="8746013276" lat="45.4432417" lon="9.2259406"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686615" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4432536" minlon="9.2262329" maxlat="45.4433291" maxlon="9.2262378"/>
+    <nd ref="8746013285" lat="45.4433291" lon="9.2262329"/>
+    <nd ref="8746013284" lat="45.4433220" lon="9.2262334"/>
+    <nd ref="8746013283" lat="45.4432798" lon="9.2262361"/>
+    <nd ref="8746013282" lat="45.4432600" lon="9.2262374"/>
+    <nd ref="8746013281" lat="45.4432536" lon="9.2262378"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944686616" version="1" timestamp="2021-05-19T13:26:56Z" changeset="104965424" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4432892" minlon="9.2266785" maxlat="45.4433515" maxlon="9.2266812"/>
+    <nd ref="8746013290" lat="45.4433515" lon="9.2266785"/>
+    <nd ref="8746013289" lat="45.4433475" lon="9.2266786"/>
+    <nd ref="8746013288" lat="45.4433250" lon="9.2266796"/>
+    <nd ref="8746013287" lat="45.4432957" lon="9.2266809"/>
+    <nd ref="8746013286" lat="45.4432892" lon="9.2266812"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944747290" version="1" timestamp="2021-05-19T16:26:33Z" changeset="104974125" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4337581" minlon="9.2378306" maxlat="45.4338520" maxlon="9.2380412"/>
+    <nd ref="8746500652" lat="45.4338520" lon="9.2378306"/>
+    <nd ref="8746500651" lat="45.4338454" lon="9.2378455"/>
+    <nd ref="4931556510" lat="45.4338136" lon="9.2379165"/>
+    <nd ref="8746500650" lat="45.4337776" lon="9.2379982"/>
+    <nd ref="8746500649" lat="45.4337581" lon="9.2380412"/>
+    <tag k="crossing" v="unmarked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944747291" version="1" timestamp="2021-05-19T16:26:33Z" changeset="104974125" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4332585" minlon="9.2383046" maxlat="45.4333574" maxlon="9.2383847"/>
+    <nd ref="8403147674" lat="45.4332585" lon="9.2383046"/>
+    <nd ref="8746500654" lat="45.4332639" lon="9.2383090"/>
+    <nd ref="8403147676" lat="45.4332886" lon="9.2383290"/>
+    <nd ref="8746500653" lat="45.4333189" lon="9.2383535"/>
+    <nd ref="8403147675" lat="45.4333574" lon="9.2383847"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944747294" version="1" timestamp="2021-05-19T16:26:33Z" changeset="104974125" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4339761" minlon="9.2372694" maxlat="45.4340683" maxlon="9.2373473"/>
+    <nd ref="8746500683" lat="45.4339761" lon="9.2372694"/>
+    <nd ref="8746500682" lat="45.4339840" lon="9.2372761"/>
+    <nd ref="8746500681" lat="45.4340080" lon="9.2372963"/>
+    <nd ref="8746500680" lat="45.4340312" lon="9.2373160"/>
+    <nd ref="8746500679" lat="45.4340683" lon="9.2373473"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944747296" version="1" timestamp="2021-05-19T16:26:33Z" changeset="104974125" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4343969" minlon="9.2363644" maxlat="45.4344789" maxlon="9.2364355"/>
+    <nd ref="8746500684" lat="45.4343969" lon="9.2363644"/>
+    <nd ref="8746500691" lat="45.4344002" lon="9.2363672"/>
+    <nd ref="2782449042" lat="45.4344230" lon="9.2363870"/>
+    <nd ref="8746500692" lat="45.4344659" lon="9.2364243"/>
+    <nd ref="5260331765" lat="45.4344789" lon="9.2364355"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="944770660" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4349706" minlon="9.2352102" maxlat="45.4350423" maxlon="9.2353682"/>
+    <nd ref="8746663170" lat="45.4350423" lon="9.2352102"/>
+    <nd ref="6406326824" lat="45.4350392" lon="9.2352175"/>
+    <nd ref="2152998317" lat="45.4350200" lon="9.2352572"/>
+    <nd ref="6406326826" lat="45.4349706" lon="9.2353682"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770662" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4361012" minlon="9.2351953" maxlat="45.4361230" maxlon="9.2352940"/>
+    <nd ref="8746663172" lat="45.4361230" lon="9.2351953"/>
+    <nd ref="8571819318" lat="45.4361216" lon="9.2352016"/>
+    <nd ref="4054628862" lat="45.4361149" lon="9.2352318"/>
+    <nd ref="8571776916" lat="45.4361077" lon="9.2352645"/>
+    <nd ref="4931556477" lat="45.4361012" lon="9.2352940"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770664" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4365465" minlon="9.2349908" maxlat="45.4365902" maxlon="9.2351049"/>
+    <nd ref="8746663174" lat="45.4365465" lon="9.2349908"/>
+    <nd ref="8571819322" lat="45.4365488" lon="9.2349968"/>
+    <nd ref="3978396892" lat="45.4365650" lon="9.2350391"/>
+    <nd ref="8571819321" lat="45.4365734" lon="9.2350611"/>
+    <nd ref="4931556518" lat="45.4365902" lon="9.2351049"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770666" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4368367" minlon="9.2348742" maxlat="45.4368639" maxlon="9.2350091"/>
+    <nd ref="8746663176" lat="45.4368639" lon="9.2348742"/>
+    <nd ref="8571819327" lat="45.4368596" lon="9.2348812"/>
+    <nd ref="2727498117" lat="45.4368508" lon="9.2349121"/>
+    <nd ref="8571819326" lat="45.4368410" lon="9.2349469"/>
+    <nd ref="8571819325" lat="45.4368367" lon="9.2350091"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770668" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4410647" minlon="9.2276901" maxlat="45.4411172" maxlon="9.2277784"/>
+    <nd ref="8746663178" lat="45.4411172" lon="9.2276901"/>
+    <nd ref="8579413009" lat="45.4411112" lon="9.2277001"/>
+    <nd ref="2701260110" lat="45.4410913" lon="9.2277334"/>
+    <nd ref="8579413008" lat="45.4410696" lon="9.2277697"/>
+    <nd ref="8579413007" lat="45.4410647" lon="9.2277784"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770670" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4439817" minlon="9.2314314" maxlat="45.4440722" maxlon="9.2314450"/>
+    <nd ref="8746663181" lat="45.4439817" lon="9.2314314"/>
+    <nd ref="8741924850" lat="45.4439895" lon="9.2314339"/>
+    <nd ref="1973583742" lat="45.4440289" lon="9.2314392"/>
+    <nd ref="8741924849" lat="45.4440612" lon="9.2314435"/>
+    <nd ref="1973591427" lat="45.4440722" lon="9.2314450"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770672" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4444482" minlon="9.2301295" maxlat="45.4445334" maxlon="9.2301558"/>
+    <nd ref="8746663183" lat="45.4445334" lon="9.2301558"/>
+    <nd ref="8742218798" lat="45.4445291" lon="9.2301538"/>
+    <nd ref="1973583738" lat="45.4444934" lon="9.2301431"/>
+    <nd ref="8742218797" lat="45.4444629" lon="9.2301339"/>
+    <nd ref="8742218796" lat="45.4444482" lon="9.2301295"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770674" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4449567" minlon="9.2296635" maxlat="45.4450668" maxlon="9.2298597"/>
+    <nd ref="8746663184" lat="45.4449567" lon="9.2296635"/>
+    <nd ref="4054596358" lat="45.4449591" lon="9.2296776"/>
+    <nd ref="1973583760" lat="45.4449839" lon="9.2297142"/>
+    <nd ref="8742218792" lat="45.4450057" lon="9.2297548"/>
+    <nd ref="4054596366" lat="45.4450668" lon="9.2298597"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770676" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4446473" minlon="9.2292405" maxlat="45.4447431" maxlon="9.2292757"/>
+    <nd ref="8746663187" lat="45.4446473" lon="9.2292757"/>
+    <nd ref="8739806627" lat="45.4446617" lon="9.2292740"/>
+    <nd ref="1973583736" lat="45.4446942" lon="9.2292581"/>
+    <nd ref="8739806626" lat="45.4447300" lon="9.2292405"/>
+    <nd ref="8746663188" lat="45.4447431" lon="9.2292455"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770678" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4447715" minlon="9.2292109" maxlat="45.4448388" maxlon="9.2292613"/>
+    <nd ref="8742218795" lat="45.4447715" lon="9.2292560"/>
+    <nd ref="8739806625" lat="45.4447845" lon="9.2292613"/>
+    <nd ref="1973597277" lat="45.4448057" lon="9.2292416"/>
+    <nd ref="8739806624" lat="45.4448257" lon="9.2292230"/>
+    <nd ref="8739806623" lat="45.4448388" lon="9.2292109"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770680" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4445247" minlon="9.2280574" maxlat="45.4446215" maxlon="9.2280765"/>
+    <nd ref="8746663189" lat="45.4446215" lon="9.2280574"/>
+    <nd ref="8739806619" lat="45.4446180" lon="9.2280581"/>
+    <nd ref="3004514640" lat="45.4445829" lon="9.2280650"/>
+    <nd ref="8739806618" lat="45.4445447" lon="9.2280725"/>
+    <nd ref="8739806617" lat="45.4445247" lon="9.2280765"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770682" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4444185" minlon="9.2266061" maxlat="45.4445117" maxlon="9.2266260"/>
+    <nd ref="8746663191" lat="45.4445117" lon="9.2266061"/>
+    <nd ref="8739806819" lat="45.4445086" lon="9.2266068"/>
+    <nd ref="6405233884" lat="45.4444785" lon="9.2266132"/>
+    <nd ref="8739806818" lat="45.4444318" lon="9.2266232"/>
+    <nd ref="8739806817" lat="45.4444185" lon="9.2266260"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770687" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4434090" minlon="9.2217776" maxlat="45.4434894" maxlon="9.2217892"/>
+    <nd ref="8746663196" lat="45.4434894" lon="9.2217776"/>
+    <nd ref="8560368095" lat="45.4434863" lon="9.2217780"/>
+    <nd ref="1505037290" lat="45.4434533" lon="9.2217828"/>
+    <nd ref="8560368094" lat="45.4434155" lon="9.2217883"/>
+    <nd ref="8560368093" lat="45.4434090" lon="9.2217892"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770689" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4433492" minlon="9.2216636" maxlat="45.4433747" maxlon="9.2217477"/>
+    <nd ref="8746663198" lat="45.4433492" lon="9.2216636"/>
+    <nd ref="8560368090" lat="45.4433500" lon="9.2216664"/>
+    <nd ref="1505037275" lat="45.4433603" lon="9.2217005"/>
+    <nd ref="8560368089" lat="45.4433696" lon="9.2217311"/>
+    <nd ref="8560368088" lat="45.4433747" lon="9.2217477"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770691" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4433172" minlon="9.2215369" maxlat="45.4433995" maxlon="9.2215581"/>
+    <nd ref="8746663200" lat="45.4433995" lon="9.2215369"/>
+    <nd ref="8560368112" lat="45.4433962" lon="9.2215374"/>
+    <nd ref="2875937673" lat="45.4433655" lon="9.2215418"/>
+    <nd ref="8560368111" lat="45.4433285" lon="9.2215471"/>
+    <nd ref="8560368098" lat="45.4433172" lon="9.2215581"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770693" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4435596" minlon="9.2216501" maxlat="45.4435926" maxlon="9.2217512"/>
+    <nd ref="8746663202" lat="45.4435596" lon="9.2216501"/>
+    <nd ref="8560368104" lat="45.4435610" lon="9.2216549"/>
+    <nd ref="2875937677" lat="45.4435695" lon="9.2216850"/>
+    <nd ref="8560368103" lat="45.4435843" lon="9.2217366"/>
+    <nd ref="8746663195" lat="45.4435926" lon="9.2217512"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770696" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4316288" minlon="9.2241656" maxlat="45.4316443" maxlon="9.2242275"/>
+    <nd ref="8579266685" lat="45.4316288" lon="9.2241656"/>
+    <nd ref="8579266684" lat="45.4316392" lon="9.2242066"/>
+    <nd ref="8579266683" lat="45.4316430" lon="9.2242220"/>
+    <nd ref="8746663209" lat="45.4316443" lon="9.2242275"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770699" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4368914" minlon="9.2241356" maxlat="45.4368931" maxlon="9.2242080"/>
+    <nd ref="8746663214" lat="45.4368931" lon="9.2241356"/>
+    <nd ref="8571964973" lat="45.4368927" lon="9.2241495"/>
+    <nd ref="8571964972" lat="45.4368920" lon="9.2241764"/>
+    <nd ref="8571964971" lat="45.4368917" lon="9.2241904"/>
+    <nd ref="8746663213" lat="45.4368914" lon="9.2242080"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770701" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4368907" minlon="9.2239490" maxlat="45.4368966" maxlon="9.2240833"/>
+    <nd ref="8571964976" lat="45.4368907" lon="9.2239490"/>
+    <nd ref="8571964975" lat="45.4368966" lon="9.2240001"/>
+    <nd ref="1271995816" lat="45.4368954" lon="9.2240451"/>
+    <nd ref="8571964974" lat="45.4368949" lon="9.2240678"/>
+    <nd ref="8746663215" lat="45.4368945" lon="9.2240833"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770702" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4408438" minlon="9.2198971" maxlat="45.4409002" maxlon="9.2200096"/>
+    <nd ref="8746663216" lat="45.4408438" lon="9.2198971"/>
+    <nd ref="8564222698" lat="45.4408484" lon="9.2199063"/>
+    <nd ref="1272025578" lat="45.4408710" lon="9.2199514"/>
+    <nd ref="8564222697" lat="45.4408897" lon="9.2199887"/>
+    <nd ref="8564222696" lat="45.4409002" lon="9.2200096"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770704" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4392809" minlon="9.2224498" maxlat="45.4393236" maxlon="9.2225409"/>
+    <nd ref="8746698919" lat="45.4393236" lon="9.2225409"/>
+    <nd ref="8564682544" lat="45.4393124" lon="9.2225170"/>
+    <nd ref="8564682554" lat="45.4393041" lon="9.2224993"/>
+    <nd ref="8564682545" lat="45.4392873" lon="9.2224635"/>
+    <nd ref="8476278452" lat="45.4392809" lon="9.2224498"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770706" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4369999" minlon="9.2177311" maxlat="45.4370380" maxlon="9.2179339"/>
+    <nd ref="8746698923" lat="45.4370380" lon="9.2179339"/>
+    <nd ref="8746698924" lat="45.4370341" lon="9.2179131"/>
+    <nd ref="8746698925" lat="45.4370306" lon="9.2178938"/>
+    <nd ref="8746698926" lat="45.4370149" lon="9.2178092"/>
+    <nd ref="8572236655" lat="45.4370041" lon="9.2177506"/>
+    <nd ref="8746698930" lat="45.4369999" lon="9.2177311"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770707" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4369164" minlon="9.2173935" maxlat="45.4369467" maxlon="9.2175333"/>
+    <nd ref="8746698927" lat="45.4369467" lon="9.2175333"/>
+    <nd ref="8572236658" lat="45.4369435" lon="9.2175185"/>
+    <nd ref="2932933803" lat="45.4369253" lon="9.2174343"/>
+    <nd ref="8572236657" lat="45.4369185" lon="9.2174029"/>
+    <nd ref="8572236656" lat="45.4369164" lon="9.2173935"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770709" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4369184" minlon="9.2173921" maxlat="45.4369564" maxlon="9.2175288"/>
+    <nd ref="8746698922" lat="45.4369184" lon="9.2173921"/>
+    <nd ref="8746698920" lat="45.4369207" lon="9.2174016"/>
+    <nd ref="8746698921" lat="45.4369274" lon="9.2174299"/>
+    <nd ref="8572236654" lat="45.4369523" lon="9.2175142"/>
+    <nd ref="8746698928" lat="45.4369564" lon="9.2175288"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770711" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4365566" minlon="9.2168266" maxlat="45.4367367" maxlon="9.2168520"/>
+    <nd ref="8746698932" lat="45.4367367" lon="9.2168338"/>
+    <nd ref="8572236629" lat="45.4367288" lon="9.2168266"/>
+    <nd ref="1272057815" lat="45.4366815" lon="9.2168329"/>
+    <nd ref="8572236628" lat="45.4365763" lon="9.2168494"/>
+    <nd ref="8572236627" lat="45.4365566" lon="9.2168520"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770713" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4365866" minlon="9.2165809" maxlat="45.4366827" maxlon="9.2166345"/>
+    <nd ref="8746698933" lat="45.4366827" lon="9.2165809"/>
+    <nd ref="8746698935" lat="45.4366794" lon="9.2165853"/>
+    <nd ref="1737802644" lat="45.4366617" lon="9.2166001"/>
+    <nd ref="8572221014" lat="45.4366022" lon="9.2166328"/>
+    <nd ref="8572221013" lat="45.4365866" lon="9.2166345"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770715" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4369201" minlon="9.2163624" maxlat="45.4369345" maxlon="9.2165445"/>
+    <nd ref="8746698936" lat="45.4369345" lon="9.2165445"/>
+    <nd ref="8572236636" lat="45.4369320" lon="9.2165132"/>
+    <nd ref="2704924350" lat="45.4369269" lon="9.2164485"/>
+    <nd ref="8572236635" lat="45.4369228" lon="9.2163966"/>
+    <nd ref="8572236634" lat="45.4369201" lon="9.2163624"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770720" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4398861" minlon="9.2158316" maxlat="45.4398884" maxlon="9.2159562"/>
+    <nd ref="8564225967" lat="45.4398861" lon="9.2158316"/>
+    <nd ref="8564225966" lat="45.4398863" lon="9.2158409"/>
+    <nd ref="1496309684" lat="45.4398873" lon="9.2158919"/>
+    <nd ref="8564225965" lat="45.4398884" lon="9.2159418"/>
+    <nd ref="8746698939" lat="45.4398871" lon="9.2159562"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770724" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4412090" minlon="9.2155562" maxlat="45.4412854" maxlon="9.2155901"/>
+    <nd ref="8746698944" lat="45.4412090" lon="9.2155901"/>
+    <nd ref="8553881339" lat="45.4412140" lon="9.2155878"/>
+    <nd ref="2608167284" lat="45.4412516" lon="9.2155707"/>
+    <nd ref="8553881338" lat="45.4412761" lon="9.2155602"/>
+    <nd ref="8746698940" lat="45.4412854" lon="9.2155562"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770726" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4410490" minlon="9.2153812" maxlat="45.4411553" maxlon="9.2154162"/>
+    <nd ref="8746698945" lat="45.4411553" lon="9.2153812"/>
+    <nd ref="8553881334" lat="45.4411484" lon="9.2153834"/>
+    <nd ref="2608167298" lat="45.4411175" lon="9.2153936"/>
+    <nd ref="8553881333" lat="45.4410892" lon="9.2154029"/>
+    <nd ref="8553881332" lat="45.4410490" lon="9.2154162"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
+  </way>
+  <way id="944770728" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4410172" minlon="9.2143579" maxlat="45.4411274" maxlon="9.2143945"/>
+    <nd ref="8746698948" lat="45.4410172" lon="9.2143945"/>
+    <nd ref="8551019527" lat="45.4410247" lon="9.2143919"/>
+    <nd ref="2608167288" lat="45.4410609" lon="9.2143799"/>
+    <nd ref="8551019528" lat="45.4411109" lon="9.2143633"/>
+    <nd ref="8551019529" lat="45.4411274" lon="9.2143579"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="944770730" version="1" timestamp="2021-05-19T17:08:50Z" changeset="104976043" uid="12810516" user="Marco_Belluschi">
+    <bounds minlat="45.4447198" minlon="9.2114976" maxlat="45.4448175" maxlon="9.2115339"/>
+    <nd ref="8746698949" lat="45.4448175" lon="9.2114976"/>
+    <nd ref="8739806846" lat="45.4448090" lon="9.2115010"/>
+    <nd ref="1460519084" lat="45.4447649" lon="9.2115184"/>
+    <nd ref="8739806845" lat="45.4447347" lon="9.2115279"/>
+    <nd ref="4230926024" lat="45.4447198" lon="9.2115339"/>
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
