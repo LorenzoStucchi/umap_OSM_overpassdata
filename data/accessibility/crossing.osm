@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-24T03:38:55Z" areas="2021-05-24T02:50:49Z"/>
+<meta osm_base="2021-05-25T03:49:11Z" areas="2021-05-25T03:20:41Z"/>
 
   <way id="4604822" version="12" timestamp="2019-06-11T09:22:31Z" changeset="71132704" uid="9631702" user="sara di giorgio">
     <bounds minlat="45.4522524" minlon="9.1782934" maxlat="45.4522711" maxlon="9.1782952"/>
@@ -53618,6 +53618,16 @@
     <nd ref="281447772" lat="45.5133463" lon="9.1586509"/>
     <nd ref="8754224140" lat="45.5133947" lon="9.1586910"/>
     <tag k="crossing" v="uncontrolled"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="946556665" version="1" timestamp="2021-05-24T17:52:17Z" changeset="105243358" uid="13401384" user="Ale_poliba">
+    <bounds minlat="45.4986785" minlon="9.1717470" maxlat="45.4986898" maxlon="9.1718449"/>
+    <nd ref="8762050910" lat="45.4986785" lon="9.1717470"/>
+    <nd ref="8762050907" lat="45.4986811" lon="9.1717638"/>
+    <nd ref="8762050906" lat="45.4986852" lon="9.1717963"/>
+    <nd ref="8762050905" lat="45.4986884" lon="9.1718258"/>
+    <nd ref="8762050915" lat="45.4986898" lon="9.1718449"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
