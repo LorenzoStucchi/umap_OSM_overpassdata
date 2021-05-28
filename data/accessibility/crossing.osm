@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-27T04:18:49Z" areas="2021-05-27T02:13:09Z"/>
+<meta osm_base="2021-05-28T04:47:58Z" areas="2021-05-28T04:24:26Z"/>
 
   <way id="4604822" version="12" timestamp="2019-06-11T09:22:31Z" changeset="71132704" uid="9631702" user="sara di giorgio">
     <bounds minlat="45.4522524" minlon="9.1782934" maxlat="45.4522711" maxlon="9.1782952"/>
@@ -497,9 +497,9 @@
     <tag k="surface" v="paved"/>
   </way>
   <way id="172129478" version="1" timestamp="2012-07-19T10:04:32Z" changeset="12317459" uid="113669" user="AnyFile">
-    <bounds minlat="45.5224495" minlon="9.1672243" maxlat="45.5225016" maxlon="9.1672598"/>
-    <nd ref="1830617616" lat="45.5224495" lon="9.1672243"/>
-    <nd ref="1830617618" lat="45.5224797" lon="9.1672456"/>
+    <bounds minlat="45.5224565" minlon="9.1672337" maxlat="45.5225016" maxlon="9.1672598"/>
+    <nd ref="1830617616" lat="45.5224565" lon="9.1672337"/>
+    <nd ref="1830617618" lat="45.5224792" lon="9.1672510"/>
     <nd ref="1830617619" lat="45.5225016" lon="9.1672598"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
@@ -1300,6 +1300,15 @@
     <tag k="crossing" v="traffic_signals"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="181449321" version="8" timestamp="2021-05-27T12:47:10Z" changeset="105427480" uid="506470" user="LuSirto">
+    <bounds minlat="45.4616064" minlon="9.2440012" maxlat="45.4616580" maxlon="9.2440871"/>
+    <nd ref="1918722715" lat="45.4616064" lon="9.2440012"/>
+    <nd ref="2571122705" lat="45.4616580" lon="9.2440871"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="loc_ref" v="no"/>
+    <tag k="name" v="Piazza Artigianato"/>
   </way>
   <way id="182573185" version="4" timestamp="2019-10-30T07:40:56Z" changeset="76378415" uid="6817530" user="Mzzntn">
     <bounds minlat="45.4462132" minlon="9.1942589" maxlat="45.4464813" maxlon="9.1942910"/>
@@ -53682,6 +53691,15 @@
     <nd ref="8762050913" lat="45.4986344" lon="9.1718821"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="947747737" version="1" timestamp="2021-05-27T12:47:10Z" changeset="105427480" uid="506470" user="LuSirto">
+    <bounds minlat="45.4616064" minlon="9.2438956" maxlat="45.4616472" maxlon="9.2440012"/>
+    <nd ref="2571122704" lat="45.4616472" lon="9.2438956"/>
+    <nd ref="1918722715" lat="45.4616064" lon="9.2440012"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="loc_ref" v="no"/>
+    <tag k="name" v="Piazza Artigianato"/>
   </way>
 
 </osm>
