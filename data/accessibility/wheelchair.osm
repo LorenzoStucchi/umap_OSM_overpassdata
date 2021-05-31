@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-30T05:21:54Z" areas="2021-05-30T04:31:48Z"/>
+<meta osm_base="2021-05-31T05:28:12Z" areas="2021-05-31T04:46:22Z"/>
 
   <node id="21225880" lat="45.4602351" lon="9.1494640" version="4" timestamp="2018-09-15T13:57:09Z" changeset="62612693" uid="3580055" user="Camilleh9">
     <tag k="crossing" v="traffic_signals"/>
@@ -20,6 +20,13 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q801185"/>
     <tag k="wikipedia" v="it:Stazione di Milano Cadorna"/>
+  </node>
+  <node id="21226440" lat="45.4662957" lon="9.1548216" version="7" timestamp="2021-05-30T22:36:49Z" changeset="105586703" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="1klT99QWAYNNDQncmRBa9A"/>
+    <tag k="survey:date" v="2019-11-20"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="21226812" lat="45.4800762" lon="9.1415069" version="6" timestamp="2019-07-03T13:00:06Z" changeset="71859088" uid="9632811" user="ManuePebble">
     <tag k="highway" v="crossing"/>
@@ -187,9 +194,22 @@
     <tag k="survey:date" v="2019-11-11"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="31331678" lat="45.5023487" lon="9.1432581" version="6" timestamp="2021-05-30T16:27:42Z" changeset="105574976" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="pwLLpCfssqyWrsY_4RA8Hw"/>
+    <tag k="survey:date" v="2019-06-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="31331687" lat="45.5047621" lon="9.1406250" version="5" timestamp="2021-05-27T01:39:38Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="78476351" lat="45.4914744" lon="9.1676449" version="12" timestamp="2021-05-30T17:47:35Z" changeset="105577803" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="i1SNAYfaKc9DmXjf2Hl_SQ"/>
+    <tag k="survey:date" v="2020-03-03"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="88229208" lat="45.5135308" lon="9.2142511" version="6" timestamp="2020-06-28T19:22:16Z" changeset="87259177" uid="4737701" user="Astreos">
@@ -250,6 +270,14 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="91OOZz8JqrKzNDvvoyuBec"/>
     <tag k="survey:date" v="2020-10-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="206144167" lat="45.4839049" lon="9.2024345" version="10" timestamp="2021-05-30T21:55:10Z" changeset="105585662" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="wKcXqnA4IqoGD4FUqSYmnw"/>
+    <tag k="survey:date" v="2019-07-10"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="206144490" lat="45.4845423" lon="9.2045575" version="8" timestamp="2021-05-29T03:42:40Z" changeset="105517665" uid="8338121" user="KetoCat">
@@ -701,10 +729,28 @@
     <tag k="survey:date" v="2019-10-04"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="261990884" lat="45.4445633" lon="9.2387266" version="5" timestamp="2021-05-30T20:36:51Z" changeset="105583501" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="HGTItZnlRZMH0669HqKbGW"/>
+    <tag k="survey:date" v="2021-03-21"/>
+    <tag k="wheelchair" v="half"/>
+  </node>
+  <node id="261993332" lat="45.4447995" lon="9.2505966" version="5" timestamp="2021-05-30T20:38:40Z" changeset="105583552" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="v7PtF0CY4JLawqza24qf9g"/>
+    <tag k="survey:date" v="2019-03-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="262985694" lat="45.4841579" lon="9.2410014" version="5" timestamp="2019-04-30T21:08:19Z" changeset="69751546" uid="295439" user="mikki65">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="nAkkD5Mz9WSefbiUZ777ag"/>
     <tag k="survey:date" v="2017-07-15"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="263777974" lat="45.5052860" lon="9.2464291" version="4" timestamp="2021-05-30T22:07:15Z" changeset="105586021" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="R1jKKDCb09LRpsJAIMl3E7"/>
+    <tag k="survey:date" v="2021-02-13"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="264634953" lat="45.4935500" lon="9.2340495" version="5" timestamp="2018-10-07T14:36:27Z" changeset="63280891" uid="436158" user="jeepneysurvey">
@@ -1069,6 +1115,13 @@
     <tag k="survey:date" v="2020-01-12"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="283056709" lat="45.4789942" lon="9.1781598" version="8" timestamp="2021-05-30T19:11:23Z" changeset="105580774" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="WOVKDnvfkjTVsQbx404O7Q"/>
+    <tag k="survey:date" v="2020-01-17"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="285538852" lat="45.4792733" lon="9.2467029" version="4" timestamp="2020-07-03T07:45:09Z" changeset="87488755" uid="11436078" user="SineNautaNavis">
     <tag k="amenity" v="bank"/>
@@ -1539,6 +1592,13 @@
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="364829864" lat="45.4288077" lon="9.1588749" version="8" timestamp="2021-05-30T21:46:02Z" changeset="105585434" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="W5B9WgtPoMDA6Uvo3d8i9t"/>
+    <tag k="survey:date" v="2020-11-24"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="370450216" lat="45.4404926" lon="9.1176716" version="5" timestamp="2019-10-05T17:20:00Z" changeset="75324004" uid="104519" user="Rupert Swarbrick">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="XBZziyJ_CNMJuju5j_bH1A"/>
@@ -2002,6 +2062,10 @@
     <tag k="shop" v="laundry"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="542492331" lat="45.4857596" lon="9.1607827" version="4" timestamp="2021-05-30T23:27:02Z" changeset="105587426" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="564907643" lat="45.4702025" lon="9.1926653" version="5" timestamp="2019-09-13T09:46:59Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Montenapoleone"/>
     <tag k="railway" v="subway_entrance"/>
@@ -2132,6 +2196,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="mRNV9ypcQQiTyR8FKfQ1_Q"/>
     <tag k="survey:date" v="2018-01-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="598609353" lat="45.4910952" lon="9.2375342" version="6" timestamp="2021-05-30T17:03:59Z" changeset="105576291" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ifl4iLLDjVutnGVVe7SGhw"/>
+    <tag k="survey:date" v="2020-01-13"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="611067534" lat="45.4538646" lon="9.1872123" version="3" timestamp="2020-10-28T14:44:41Z" changeset="93180978" uid="290680" user="wheelmap_visitor">
@@ -2530,6 +2601,13 @@
     <tag k="towards" v="Lotto"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="734055970" lat="45.5009376" lon="9.1903476" version="5" timestamp="2021-05-30T17:17:47Z" changeset="105576748" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="vCsSV6o6DDqfmz6HG9irD1"/>
+    <tag k="survey:date" v="2020-10-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="736901179" lat="45.4984213" lon="9.1534690" version="5" timestamp="2020-03-04T14:36:16Z" changeset="81780391" uid="576807" user="Cerrotorre1974">
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
@@ -2563,6 +2641,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="3c0KggeD6Vis6GSFqccQWw"/>
     <tag k="survey:date" v="2019-10-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="763454088" lat="45.5159430" lon="9.1258787" version="4" timestamp="2021-05-30T17:41:57Z" changeset="105577614" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="GS243M0hJ5IA816x200zWB"/>
+    <tag k="survey:date" v="2020-07-07"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="776998622" lat="45.4729829" lon="9.1272891" version="4" timestamp="2021-02-26T08:33:27Z" changeset="100032683" uid="89897" user="airon90">
@@ -2639,6 +2723,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="b_I4bMk22F5i6UHkPCrCkA"/>
     <tag k="survey:date" v="2017-07-15"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="882437812" lat="45.4859177" lon="9.1968465" version="5" timestamp="2021-05-30T22:36:18Z" changeset="105586696" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="0CehZ_RMEwDnVDC9Xkw8Zg"/>
+    <tag k="survey:date" v="2019-12-23"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="895947217" lat="45.4716017" lon="9.1821111" version="7" timestamp="2020-12-02T21:55:10Z" changeset="95178991" uid="454306" user="dega180">
@@ -2746,6 +2836,13 @@
     <tag k="survey:date" v="2019-12-08"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1025568008" lat="45.4989571" lon="9.1983051" version="5" timestamp="2021-05-30T23:37:20Z" changeset="105587586" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="-XtQ79ufyJ6kf9LPsidrcg"/>
+    <tag k="survey:date" v="2019-10-14"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1025568065" lat="45.4986548" lon="9.1982620" version="4" timestamp="2019-09-26T08:03:31Z" changeset="74942997" uid="2622321" user="baptabl">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -2758,6 +2855,14 @@
     <tag k="highway" v="crossing"/>
     <tag k="image" v="https://storage3.openstreetcam.org/files/photo/2019/1/15/lth/1325871_0_5fcf6_30.jpg"/>
     <tag k="survey:date" v="2019-01-15"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1025575378" lat="45.4949425" lon="9.1960917" version="8" timestamp="2021-05-30T22:46:57Z" changeset="105586871" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="yD7_ve-cjTkbkTWYiGj5Sg"/>
+    <tag k="survey:date" v="2019-12-23"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1028305247" lat="45.4679827" lon="9.1654542" version="9" timestamp="2021-02-16T14:04:40Z" changeset="99387684" uid="89897" user="airon90">
@@ -2847,6 +2952,15 @@
     <tag k="survey:date" v="2018-01-07"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1110324096" lat="45.5113718" lon="9.2555065" version="4" timestamp="2021-05-30T20:43:18Z" changeset="105583668" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="wARYAtXGF5tiC3kWyBy0AW"/>
+    <tag k="survey:date" v="2021-05-16"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1119444491" lat="45.4560300" lon="9.1817180" version="9" timestamp="2020-01-12T20:44:04Z" changeset="79487125" uid="567632" user="vittomg">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -2911,6 +3025,23 @@
     <tag k="survey:date" v="2018-04-22"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1171087299" lat="45.5199132" lon="9.2110595" version="2" timestamp="2021-05-30T19:59:13Z" changeset="105582380" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="YNnKCxHIM0eY7czaJLjlf1"/>
+    <tag k="survey:date" v="2020-07-27"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1171087307" lat="45.5177567" lon="9.2099779" version="3" timestamp="2021-05-30T18:26:09Z" changeset="105579098" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="qHQ4GE8tQ72Uu7Hhujdk0w"/>
+    <tag k="source" v="survey"/>
+    <tag k="survey:date" v="2019-08-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1171087370" lat="45.5179020" lon="9.2100572" version="3" timestamp="2021-05-27T03:31:31Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="crossing_ref" v="zebra"/>
@@ -2961,6 +3092,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="wVdMxnoR5U9SU0wF4XZ2MQ"/>
     <tag k="survey:date" v="2019-05-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1172153924" lat="45.4601965" lon="9.1131667" version="4" timestamp="2021-05-30T20:47:31Z" changeset="105583776" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="MRZhVDw5rMjPDLB3oW8D1g"/>
+    <tag k="survey:date" v="2020-01-17"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1178826499" lat="45.4923918" lon="9.1073069" version="8" timestamp="2019-07-19T18:04:52Z" changeset="72441923" uid="212494" user="Almtesh">
@@ -3131,6 +3268,12 @@
     <tag k="survey:date" v="2018-04-28"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1270568950" lat="45.5015957" lon="9.1937995" version="4" timestamp="2021-05-30T17:36:16Z" changeset="105577394" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="voDkmvyCl97QNpptMQuDZg"/>
+    <tag k="survey:date" v="2019-12-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1270568966" lat="45.5006229" lon="9.1969646" version="5" timestamp="2020-09-08T11:23:57Z" changeset="90584004" uid="77804" user="holgerd">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -3209,6 +3352,15 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="byEOFqqVcrsxBLEt-YRGWg"/>
     <tag k="survey:date" v="2019-06-04"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1270585604" lat="45.4952275" lon="9.2075012" version="5" timestamp="2021-05-30T17:34:48Z" changeset="105577351" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="rq-ZDU4e_MzupZYZwbF_nA"/>
+    <tag k="survey:date" v="2020-01-29"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -3432,6 +3584,13 @@
     <tag k="survey:date" v="2019-12-05"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="1273022494" lat="45.4619191" lon="9.1510789" version="5" timestamp="2021-05-30T20:59:36Z" changeset="105584136" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="nA9YPOYUaW12NoL3LjolmQ"/>
+    <tag k="survey:date" v="2019-11-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1273022511" lat="45.4619467" lon="9.1446843" version="4" timestamp="2020-05-13T20:10:34Z" changeset="85163107" uid="11117405" user="Heilbronnx">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="V5sTiqZrOPYf37U6-FEcPQ"/>
@@ -3448,6 +3607,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="huOO0taVe-k7UjV1pfj6WA"/>
     <tag k="survey:date" v="2018-04-29"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1273117521" lat="45.4811103" lon="9.1458077" version="3" timestamp="2021-05-30T17:33:22Z" changeset="105577306" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="HLB6q2HMBplTuw0dYbFSPg"/>
+    <tag k="survey:date" v="2019-09-24"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1273702768" lat="45.4684571" lon="9.1608125" version="5" timestamp="2021-03-17T13:16:42Z" changeset="101191852" uid="1013267" user="edwinpc">
@@ -3474,6 +3640,12 @@
     <tag k="mapillary" v="sYCcM9AuYx9qGu3YY9NYdA"/>
     <tag k="survey:date" v="2018-04-01"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1277742464" lat="45.4402076" lon="9.2237542" version="3" timestamp="2021-05-30T10:49:40Z" changeset="105562587" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="6QRUA4G3KM2kvBCbq8Ozig"/>
+    <tag k="survey:date" v="2019-05-01"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1277742478" lat="45.4459202" lon="9.2141267" version="8" timestamp="2020-08-06T15:15:20Z" changeset="89046602" uid="309382" user="Diego Sanguinetti">
     <tag k="name" v="Milano Porta Romana"/>
@@ -3603,6 +3775,13 @@
     <tag k="survey:date" v="2019-12-02"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1278042594" lat="45.4813469" lon="9.2026142" version="3" timestamp="2021-05-30T20:48:59Z" changeset="105583819" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="zgHnXLH-voeVrpV0pAiZ4A"/>
+    <tag k="survey:date" v="2019-10-22"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1278042598" lat="45.4787644" lon="9.2062854" version="5" timestamp="2020-04-08T05:58:28Z" changeset="83229570" uid="10518122" user="Matsayz">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -3700,6 +3879,13 @@
     <tag k="shelter" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="1280138429" lat="45.4698777" lon="9.1451381" version="6" timestamp="2021-05-30T18:36:36Z" changeset="105579436" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="CgFc3BJoSIH4wLu_x-8v7Q"/>
+    <tag k="survey:date" v="2019-11-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1280231345" lat="45.4578233" lon="9.1563923" version="4" timestamp="2019-04-05T10:45:58Z" changeset="68916517" uid="214436" user="PanierAvide">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="SQc9vEzc9-CqSinN1emDWA"/>
@@ -3761,6 +3947,13 @@
     <tag k="survey:date" v="2017-07-23"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1281220185" lat="45.4566223" lon="9.1618053" version="6" timestamp="2021-05-30T17:43:34Z" changeset="105577656" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="wW0jGNVDPRr3Ns3c4qjZTA"/>
+    <tag k="survey:date" v="2018-06-19"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1281613161" lat="45.4497663" lon="9.2161860" version="4" timestamp="2021-04-08T18:43:31Z" changeset="102585012" uid="3270936" user="TobyL86">
     <tag k="highway" v="crossing"/>
@@ -4429,6 +4622,13 @@
     <tag k="survey:date" v="2019-07-05"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1363483866" lat="45.5123722" lon="9.1642978" version="5" timestamp="2021-05-30T19:52:49Z" changeset="105582156" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="xY93kIOb3eOdvgH3XtogwU"/>
+    <tag k="survey:date" v="2020-09-15"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1364451073" lat="45.4680906" lon="9.1771309" version="5" timestamp="2017-02-03T16:13:03Z" changeset="45782646" uid="1476146" user="Alecs01">
     <tag k="artist_name" v="Claes Oldenburg, Coosje van Bruggen"/>
     <tag k="artwork_type" v="sculpture"/>
@@ -4694,6 +4894,14 @@
     <tag k="traffic_signals:sound" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1432445882" lat="45.4921404" lon="9.1998270" version="6" timestamp="2021-05-30T17:08:13Z" changeset="105576449" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="AC7NfhCq6neOMcQnmOY8EQ"/>
+    <tag k="survey:date" v="2019-07-07"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1432468566" lat="45.4907179" lon="9.2026239" version="3" timestamp="2021-05-27T15:01:30Z" changeset="105433003" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="QNp8fiUPUQwoppM57fzPqg"/>
@@ -4768,6 +4976,20 @@
     <tag k="mapillary" v="WAtsIxSchuJoqaCET05q9d"/>
     <tag k="survey:date" v="2021-02-13"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1448242176" lat="45.4885967" lon="9.2370020" version="5" timestamp="2021-05-30T23:24:41Z" changeset="105587384" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="dvdiEopsYbfBTJxK4THVcQ"/>
+    <tag k="survey:date" v="2018-09-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1455077210" lat="45.4914533" lon="9.2367916" version="3" timestamp="2021-05-30T23:35:54Z" changeset="105587564" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="luZfvlsFmEMmYm8A1aizXA"/>
+    <tag k="survey:date" v="2019-06-28"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1458043393" lat="45.4872495" lon="9.1303130" version="6" timestamp="2019-10-18T20:11:45Z" changeset="75911550" uid="478872" user="mcheck">
     <tag k="highway" v="crossing"/>
@@ -4997,6 +5219,14 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="gxmRn79fOe5pF5TdfAFW9U"/>
     <tag k="survey:date" v="2020-09-09"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1474104302" lat="45.4901475" lon="9.1915201" version="8" timestamp="2021-05-30T17:03:22Z" changeset="105576276" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="48XivWQ4mYxc1e4IAQqCY7"/>
+    <tag k="survey:date" v="2021-03-04"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1474104323" lat="45.4888470" lon="9.1909007" version="4" timestamp="2021-05-14T15:37:00Z" changeset="104693569" uid="8654993" user="ati1">
@@ -5252,6 +5482,13 @@
     <tag k="survey:date" v="2018-11-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1481236095" lat="45.4997283" lon="9.1485606" version="8" timestamp="2021-05-30T18:36:55Z" changeset="105579451" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="jq1WMe5UGZ71f0M4hsKFXw"/>
+    <tag k="survey:date" v="2019-06-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1481270174" lat="45.4779228" lon="9.1806463" version="10" timestamp="2021-05-27T15:53:18Z" changeset="105433003" uid="8338121" user="KetoCat">
     <tag k="accessibility_source" v="kimap"/>
     <tag k="button_operated" v="no"/>
@@ -5481,6 +5718,13 @@
     <tag k="survey:date" v="2019-07-07"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1485794977" lat="45.4958200" lon="9.1813152" version="5" timestamp="2021-05-30T21:42:49Z" changeset="105585337" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="PdM_WiJIEWIfTQsdGnUCrw"/>
+    <tag k="survey:date" v="2019-07-07"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1485843580" lat="45.5205833" lon="9.1693293" version="6" timestamp="2020-10-04T20:06:42Z" changeset="91944988" uid="9491165" user="TheTreeofPasts">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -5500,6 +5744,20 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="dCmkTzbMVNoDtZLIjbCoQJ"/>
     <tag k="survey:date" v="2020-10-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1486097192" lat="45.5028424" lon="9.1800059" version="3" timestamp="2021-05-30T16:54:38Z" changeset="105575921" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="VAlN1cHEt1vpRw2nLfr4jA"/>
+    <tag k="survey:date" v="2019-12-30"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1486113804" lat="45.5023404" lon="9.1781554" version="5" timestamp="2021-05-30T21:26:55Z" changeset="105584951" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ZMguj04PKkdTHbZ31u1aVA"/>
+    <tag k="survey:date" v="2019-12-30"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1486120717" lat="45.5025415" lon="9.1765208" version="5" timestamp="2021-05-11T12:47:27Z" changeset="104513679" uid="11780919" user="ViaLibera_LorenzoStucchi">
@@ -5542,6 +5800,12 @@
     <tag k="mapillary" v="F8diQsKhiAOi2ka4cRT3KD"/>
     <tag k="survey:date" v="2020-10-20"/>
     <tag k="wheelchair" v="half"/>
+  </node>
+  <node id="1486453908" lat="45.5050834" lon="9.1860361" version="4" timestamp="2021-05-30T21:23:59Z" changeset="105584877" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Cc3tCozC9UyreSk4Sg04CX"/>
+    <tag k="survey:date" v="2020-10-13"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1487249974" lat="45.4989730" lon="9.2014103" version="3" timestamp="2021-05-27T01:36:16Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
@@ -5803,6 +6067,12 @@
     <tag k="survey:date" v="2019-07-29"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1489745961" lat="45.4400189" lon="9.1878628" version="3" timestamp="2021-05-30T17:11:17Z" changeset="105576539" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="D9xIvpOFccZ4ek111ge5Gi"/>
+    <tag k="survey:date" v="2021-03-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1489759347" lat="45.4369792" lon="9.1894964" version="4" timestamp="2018-09-09T17:41:15Z" changeset="62429355" uid="214436" user="PanierAvide">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="TYPbzzPC24ogCZFwxNJWSw"/>
@@ -5849,6 +6119,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="d5LGzqxA5TL5k42X49HLUA"/>
     <tag k="survey:date" v="2019-02-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1489783254" lat="45.4374171" lon="9.1855597" version="3" timestamp="2021-05-30T18:41:30Z" changeset="105579645" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="NkozGXoeAuZbcQOMpklvhw"/>
+    <tag k="survey:date" v="2019-05-06"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1489814934" lat="45.4388160" lon="9.1999827" version="2" timestamp="2020-10-24T11:22:47Z" changeset="92985253" uid="9629951" user="volpit">
@@ -5903,6 +6179,12 @@
     <tag k="survey:date" v="2018-01-20"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1489921419" lat="45.4468138" lon="9.1851652" version="4" timestamp="2021-05-30T22:25:25Z" changeset="105586485" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="M8iN3fHSV4uqeEdgNSoo5g"/>
+    <tag k="survey:date" v="2020-12-19"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1489926165" lat="45.4464512" lon="9.1946679" version="5" timestamp="2020-03-17T14:45:13Z" changeset="82307355" uid="50624" user="David Crochet">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -5914,6 +6196,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="bNromAfNcqrWidbc12WiKA"/>
     <tag k="survey:date" v="2018-04-22"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1489953913" lat="45.4481624" lon="9.1891956" version="5" timestamp="2021-05-30T19:02:25Z" changeset="105580402" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="bnKukjm-AQWq8Zi5eBZFVA"/>
+    <tag k="survey:date" v="2019-11-30"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1490014706" lat="45.4497842" lon="9.1857061" version="2" timestamp="2019-09-20T20:53:08Z" changeset="74734820" uid="290271" user="Zverik">
@@ -5949,6 +6237,24 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="VBV7J_hI9jxE0Xmtj-hcuQ"/>
     <tag k="survey:date" v="2017-06-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1490584513" lat="45.5113909" lon="9.1908933" version="3" timestamp="2021-05-30T16:42:18Z" changeset="105575540" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="JYT31IhDFWVyp6IlJn7XTg"/>
+    <tag k="survey:date" v="2020-03-06"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1490628245" lat="45.5074055" lon="9.1915746" version="5" timestamp="2021-05-30T18:30:32Z" changeset="105579241" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="NJyyduIOgOhPZ5WpJHmT1k"/>
+    <tag k="survey:date" v="2020-09-22"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1490635403" lat="45.5063301" lon="9.1882383" version="4" timestamp="2021-05-30T17:42:57Z" changeset="105577641" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="GIch3oxPpYRwVW5CWpAssT"/>
+    <tag k="survey:date" v="2020-10-13"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1490859594" lat="45.4928719" lon="9.2379547" version="2" timestamp="2021-05-27T10:33:15Z" changeset="105414379" uid="8338121" user="KetoCat">
@@ -6159,6 +6465,14 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="_JmEj_xrKt7vOp_iicsZ4g"/>
     <tag k="survey:date" v="2019-10-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1492509842" lat="45.4779395" lon="9.2429541" version="8" timestamp="2021-05-30T17:35:43Z" changeset="105577375" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="crossing:island" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="nxdfHKAqle9Rnxt1I1L5Pw"/>
+    <tag k="survey:date" v="2019-05-13"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1492509915" lat="45.4809908" lon="9.2415630" version="3" timestamp="2019-10-18T20:29:41Z" changeset="75911550" uid="478872" user="mcheck">
@@ -6525,6 +6839,12 @@
     <tag k="survey:date" v="2018-01-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1497258287" lat="45.4388658" lon="9.1529062" version="3" timestamp="2021-05-30T21:51:13Z" changeset="105585554" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="wF0yIremGT6M9fhjrWfxoA"/>
+    <tag k="survey:date" v="2019-10-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1497814360" lat="45.5057076" lon="9.2424700" version="3" timestamp="2021-05-27T01:28:01Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="HEm-YEcqszKp8t3QPZTang"/>
@@ -6729,6 +7049,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="7cgcslUEAlt1hH7OPxGZpQ"/>
     <tag k="survey:date" v="2019-07-31"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1503239846" lat="45.4815897" lon="9.2119988" version="4" timestamp="2021-05-30T22:10:59Z" changeset="105586135" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="panS8g_jirQNof-2Oa7CbA"/>
+    <tag k="survey:date" v="2019-10-08"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1503290644" lat="45.4914965" lon="9.1896385" version="6" timestamp="2021-04-14T08:59:12Z" changeset="102915982" uid="12057825" user="ViaLibera_Student11">
@@ -7890,6 +8217,15 @@
     <tag k="survey:date" v="2019-01-08"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1525008411" lat="45.5054808" lon="9.2005362" version="6" timestamp="2021-05-30T16:22:35Z" changeset="105574794" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ZrHBd4JsvhABGNW4veuyMX"/>
+    <tag k="survey:date" v="2020-09-22"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1525008650" lat="45.5068680" lon="9.1979487" version="6" timestamp="2021-05-30T01:32:12Z" changeset="105552563" uid="8338121" user="KetoCat">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -8332,6 +8668,12 @@
     <tag k="survey:date" v="2019-12-05"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1544024733" lat="45.4741297" lon="9.1169806" version="4" timestamp="2021-05-30T23:16:19Z" changeset="105587270" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="bSetDuAocV5HZLUu8F2_VQ"/>
+    <tag k="survey:date" v="2020-06-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1544050432" lat="45.4692383" lon="9.1167741" version="2" timestamp="2020-02-25T20:41:50Z" changeset="81472140" uid="6817530" user="Mzzntn">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="zxYO5UMNhumMV9rt2BeLNw"/>
@@ -8507,6 +8849,12 @@
     <tag k="survey:date" v="2018-01-13"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="1550836783" lat="45.5190803" lon="9.1350064" version="2" timestamp="2021-05-30T18:38:26Z" changeset="105579509" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ue4MUCm2zB39W4Efxj47fg"/>
+    <tag k="survey:date" v="2020-06-15"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1552284249" lat="45.5142646" lon="9.1365528" version="7" timestamp="2021-05-29T01:00:49Z" changeset="105516188" uid="8338121" user="KetoCat">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -8536,6 +8884,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="nKf64KPHL8YB53D3UUy7a5"/>
     <tag k="survey:date" v="2020-07-07"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1553543360" lat="45.4942691" lon="9.2109088" version="4" timestamp="2021-05-30T21:08:25Z" changeset="105584418" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="TSoL2YdcJS1TRfem4f5Ly2"/>
+    <tag k="survey:date" v="2020-10-08"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1553543542" lat="45.4967802" lon="9.2125457" version="3" timestamp="2020-03-22T14:35:49Z" changeset="82484219" uid="8155596" user="Lanthanus">
@@ -8606,6 +8961,14 @@
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="half"/>
   </node>
+  <node id="1556036743" lat="45.4975434" lon="9.1842970" version="3" timestamp="2021-05-30T19:50:34Z" changeset="105582070" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="QfFP04RtNn8Rk0un6nfoaW"/>
+    <tag k="survey:date" v="2020-10-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1556036756" lat="45.4974633" lon="9.1840582" version="4" timestamp="2020-05-16T06:13:40Z" changeset="85290171" uid="1337142" user="Nordpfeil">
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="traffic_signals"/>
@@ -8620,6 +8983,12 @@
     <tag k="mapillary" v="RmFQQZY6fHbGG23KopL4ot"/>
     <tag k="survey:date" v="2020-09-15"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1557197466" lat="45.5258632" lon="9.2144226" version="2" timestamp="2021-05-30T18:55:10Z" changeset="105580108" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="cJmC_SjphsTBfo_zesokDw"/>
+    <tag k="survey:date" v="2019-10-14"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1558101559" lat="45.5010987" lon="9.2408247" version="2" timestamp="2020-08-07T14:03:56Z" changeset="89095933" uid="9486229" user="znrgl">
@@ -8693,6 +9062,14 @@
     <tag k="ref:vatin" v="IT13195220150"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1558461333" lat="45.5035406" lon="9.1697848" version="6" timestamp="2021-05-30T16:45:12Z" changeset="105575615" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="dzerClT7swC5YQ0VNH6o1A"/>
+    <tag k="survey:date" v="2019-07-07"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="1558581649" lat="45.5033061" lon="9.1611256" version="4" timestamp="2021-02-26T19:26:36Z" changeset="100071420" uid="8540010" user="Khanev!">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -8706,6 +9083,14 @@
     <tag k="mapillary" v="6iYvGyEu9cDrgw7PwzfHxX"/>
     <tag k="survey:date" v="2020-09-15"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1558581947" lat="45.5050793" lon="9.1601711" version="5" timestamp="2021-05-30T23:17:45Z" changeset="105587287" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="zBEuz1vBijrhM6wvv8kmcw"/>
+    <tag k="survey:date" v="2019-07-05"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1559815657" lat="45.4933474" lon="9.1448186" version="3" timestamp="2018-09-07T22:33:55Z" changeset="62390095" uid="508222" user="Zorglub67">
     <tag k="highway" v="crossing"/>
@@ -8732,6 +9117,16 @@
     <tag k="survey:date" v="2020-02-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1561516584" lat="45.4953179" lon="9.1394952" version="3" timestamp="2021-05-30T17:44:57Z" changeset="105577711" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="GEJNwWRXuPnQAjGK5PgOiw"/>
+    <tag k="survey:date" v="2020-06-10"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1561516586" lat="45.4954371" lon="9.1397108" version="3" timestamp="2021-05-30T20:42:40Z" changeset="105583651" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="wheelchair" v="half"/>
+  </node>
   <node id="1561516654" lat="45.4963403" lon="9.1380066" version="5" timestamp="2021-04-30T08:01:57Z" changeset="103893264" uid="9629951" user="volpit">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -8755,6 +9150,12 @@
   <node id="1561732833" lat="45.4323946" lon="9.1614127" version="4" timestamp="2021-05-27T10:06:39Z" changeset="105414379" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="hjiBgvQzm1MS6fQf30rnag"/>
+    <tag k="survey:date" v="2020-11-24"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1561732838" lat="45.4324495" lon="9.1608060" version="3" timestamp="2021-05-30T10:44:10Z" changeset="105562406" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="1VXfhLaOEi4IE7bk49Hrvm"/>
     <tag k="survey:date" v="2020-11-24"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -8965,6 +9366,11 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="2L-4XF5cfZlWSnpKL24ZLQ"/>
     <tag k="survey:date" v="2018-02-10"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1585759421" lat="45.5020045" lon="9.1973264" version="7" timestamp="2021-05-30T22:17:27Z" changeset="105586300" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1585759439" lat="45.5014933" lon="9.1987404" version="7" timestamp="2020-01-06T21:35:41Z" changeset="79266103" uid="700086" user="keronos">
@@ -9941,6 +10347,13 @@
     <tag k="name" v="Ponte di Brera"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="1726760090" lat="45.4466585" lon="9.1978318" version="7" timestamp="2021-05-30T19:01:17Z" changeset="105580352" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="JJ_Lv8tciO3HSJ84ib_ziA"/>
+    <tag k="survey:date" v="2019-04-06"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1727480540" lat="45.4610226" lon="9.1913482" version="4" timestamp="2020-08-07T14:10:15Z" changeset="89095933" uid="9486229" user="znrgl">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -10118,6 +10531,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="ct2XcWKRPIZkv9fZAidnVA"/>
     <tag k="survey:date" v="2019-07-11"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1754980556" lat="45.4912230" lon="9.2230993" version="2" timestamp="2021-05-30T23:22:03Z" changeset="105587352" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="8spvOALJAbfZdNChSCWT7L"/>
+    <tag k="survey:date" v="2018-08-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1756208679" lat="45.4927944" lon="9.1459996" version="4" timestamp="2018-11-27T21:46:38Z" changeset="64952437" uid="999995" user="pkoby">
@@ -10419,6 +10839,13 @@
     <tag k="survey:date" v="2020-09-17"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1766604865" lat="45.5159624" lon="9.2029694" version="4" timestamp="2021-05-30T20:56:26Z" changeset="105584036" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="_fnHN_CDGMEF5iNGEem_7Q"/>
+    <tag k="survey:date" v="2020-02-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1766615568" lat="45.5015276" lon="9.1970848" version="4" timestamp="2020-01-06T21:37:06Z" changeset="79266103" uid="700086" user="keronos">
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
@@ -10559,6 +10986,13 @@
     <tag k="survey:date" v="2019-09-29"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1780527804" lat="45.4681370" lon="9.2071262" version="4" timestamp="2021-05-30T22:32:21Z" changeset="105586624" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="0fkK_A8iG2ugOKx_hjvddw"/>
+    <tag k="survey:date" v="2018-07-27"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1780527839" lat="45.4706881" lon="9.2058458" version="5" timestamp="2019-11-27T15:03:13Z" changeset="77640624" uid="9631702" user="sara di giorgio">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -10586,6 +11020,11 @@
     <tag k="mapillary" v="5OV7FIM9xO32GSUwWBgVOw"/>
     <tag k="survey:date" v="2019-04-13"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1790586945" lat="45.4829310" lon="9.1812430" version="3" timestamp="2021-05-30T20:50:57Z" changeset="105583886" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1790677195" lat="45.4440208" lon="9.1677781" version="5" timestamp="2014-10-20T10:28:48Z" changeset="26209819" uid="113669" user="AnyFile">
     <tag k="comment" v="closed after 21"/>
@@ -10627,6 +11066,13 @@
     <tag k="operator" v="comune milano"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1796089612" lat="45.4888707" lon="9.1903234" version="6" timestamp="2021-05-30T21:21:24Z" changeset="105584807" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="QoLgFmQASghn7N3OGTtD54"/>
+    <tag k="survey:date" v="2021-03-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1796089630" lat="45.4892939" lon="9.1905806" version="4" timestamp="2021-05-14T15:27:37Z" changeset="104693569" uid="8654993" user="ati1">
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
@@ -10660,6 +11106,13 @@
     <tag k="survey:date" v="2019-06-08"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1806277795" lat="45.5113381" lon="9.1415985" version="5" timestamp="2021-05-30T20:53:28Z" changeset="105583959" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="dmRQBXIbFWYsjM638PM1BA"/>
+    <tag k="survey:date" v="2021-03-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1806319736" lat="45.5006980" lon="9.1711829" version="8" timestamp="2021-05-11T13:22:09Z" changeset="104515552" uid="11780919" user="ViaLibera_LorenzoStucchi">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="crossing:island" v="no"/>
@@ -10667,6 +11120,12 @@
     <tag k="mapillary" v="huTCf3dAreF73qBk960RAQ"/>
     <tag k="survey:date" v="2019-07-05"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1816150317" lat="45.4452716" lon="9.1144435" version="3" timestamp="2021-05-30T17:47:04Z" changeset="105577780" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Zz_UFN7LGLaASMNySD6Ucw"/>
+    <tag k="survey:date" v="2019-06-04"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1821278115" lat="45.4444758" lon="9.2144425" version="4" timestamp="2021-02-21T15:02:42Z" changeset="99684120" uid="89897" user="airon90">
@@ -10998,6 +11457,13 @@
     <tag k="survey:date" v="2019-08-29"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1831261946" lat="45.4600136" lon="9.2027458" version="6" timestamp="2021-05-30T22:08:13Z" changeset="105586050" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="NuDUwUUiawo3aqw69KL3vw"/>
+    <tag k="survey:date" v="2019-05-10"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1831279281" lat="45.4596920" lon="9.2073569" version="6" timestamp="2020-06-04T18:42:18Z" changeset="86204870" uid="3969219" user="Tomohisaka">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -11080,6 +11546,13 @@
     <tag k="mapillary" v="Xh_KUI8SSltaDYi1wdNqtg"/>
     <tag k="survey:date" v="2019-10-17"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1831323538" lat="45.4609929" lon="9.2036964" version="6" timestamp="2021-05-30T17:04:41Z" changeset="105576319" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="UDchUCvl3FfGg_FkurlVew"/>
+    <tag k="survey:date" v="2018-06-10"/>
+    <tag k="wheelchair" v="half"/>
   </node>
   <node id="1831778018" lat="45.4623311" lon="9.1980912" version="4" timestamp="2020-08-17T06:03:55Z" changeset="89496194" uid="9075733" user="Ryan1613">
     <tag k="crossing" v="traffic_signals"/>
@@ -11364,6 +11837,13 @@
     <tag k="survey:date" v="2018-02-17"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1840005679" lat="45.5008340" lon="9.1900730" version="4" timestamp="2021-05-30T22:33:32Z" changeset="105586649" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="JjeBCy1df4aLhf44baVzON"/>
+    <tag k="survey:date" v="2020-10-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1843088150" lat="45.4655146" lon="9.1954687" version="9" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
     <tag k="brand" v="Zara"/>
     <tag k="brand:wikidata" v="Q147662"/>
@@ -11390,6 +11870,14 @@
     <tag k="image" v="http://storage9.openstreetcam.org/files/photo/2018/10/29/lth/1302669_bd863_2905.jpg"/>
     <tag k="survey:date" v="2018-11-16"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1851461998" lat="45.4657247" lon="9.1864354" version="7" timestamp="2021-05-30T22:29:24Z" changeset="105586576" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="KFKiiQ0w0tBrWinHXMbWVw"/>
+    <tag k="survey:date" v="2018-06-10"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1852190911" lat="45.4705795" lon="9.1793270" version="14" timestamp="2019-05-19T08:45:57Z" changeset="70404322" uid="1861652" user="pippo67">
     <tag k="addr:city" v="Milano"/>
@@ -11696,6 +12184,13 @@
     <tag k="survey:date" v="2019-01-19"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1893394033" lat="45.4914742" lon="9.2115558" version="4" timestamp="2021-05-30T21:55:47Z" changeset="105585690" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="WlpbqHDVYA3jRGGsnRpo-A"/>
+    <tag k="survey:date" v="2020-03-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1893394053" lat="45.4915402" lon="9.2134243" version="3" timestamp="2020-03-22T14:33:28Z" changeset="82484219" uid="8155596" user="Lanthanus">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="x-ROLhh0ZOO4VIXM8uyxxA"/>
@@ -11954,6 +12449,15 @@
     <tag k="highway" v="crossing"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1904605264" lat="45.4716935" lon="9.1821741" version="7" timestamp="2021-05-30T19:04:46Z" changeset="105580525" uid="8338121" user="KetoCat">
+    <tag k="accessibility_source" v="kimap"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="pUbvxkxc_LaN5YZFd5sIrg"/>
+    <tag k="source" v="kimap"/>
+    <tag k="survey:date" v="2019-04-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1904676454" lat="45.4668587" lon="9.1814134" version="5" timestamp="2019-09-23T19:40:43Z" changeset="74824461" uid="2554501" user="Andrea Gagna">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -11992,6 +12496,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="cXwxuTvQEry0_cGyoAa-JQ"/>
     <tag k="survey:date" v="2020-01-18"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1908752322" lat="45.5184799" lon="9.1351236" version="5" timestamp="2021-05-30T17:46:20Z" changeset="105577757" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="i5MCxVFruBozgDT9IOtDAQ"/>
+    <tag k="survey:date" v="2020-06-10"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1911379576" lat="45.4791388" lon="9.1670911" version="5" timestamp="2020-10-05T10:42:20Z" changeset="91979085" uid="5479911" user="Pollux17">
@@ -12293,6 +12804,12 @@
     <tag k="operator" v="Banca Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1942944040" lat="45.4569832" lon="9.2015879" version="3" timestamp="2021-05-30T17:32:20Z" changeset="105577274" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="r46FKXegYBE5j0U-PdCZWA"/>
+    <tag k="survey:date" v="2019-08-22"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1942968993" lat="45.4578286" lon="9.2055122" version="4" timestamp="2019-05-24T12:19:17Z" changeset="70584563" uid="1977737" user="koen20">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="Ejec5tprVGGplfjIUX3VdQ"/>
@@ -12538,6 +13055,13 @@
     <tag k="survey:date" v="2019-09-29"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1988306992" lat="45.4921028" lon="9.2043460" version="4" timestamp="2021-05-30T21:42:05Z" changeset="105585316" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="EzxWhFsg4mDjoq6jbSblRO"/>
+    <tag k="survey:date" v="2021-03-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1988307015" lat="45.4922939" lon="9.2039531" version="2" timestamp="2021-05-29T22:47:37Z" changeset="105550817" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="abYFbUkuKhOmbQ4OurruLQ"/>
@@ -12741,6 +13265,13 @@
     <tag k="survey:date" v="2019-08-01"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2027856737" lat="45.5132307" lon="9.1741009" version="5" timestamp="2021-05-30T22:01:19Z" changeset="105585787" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="bhMmcqR5GSwy8PPj17O6YA"/>
+    <tag k="survey:date" v="2020-02-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2027868507" lat="45.5012238" lon="9.1827480" version="7" timestamp="2021-04-30T07:59:07Z" changeset="103893264" uid="9629951" user="volpit">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="crossing:island" v="no"/>
@@ -12876,6 +13407,18 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="WLDDreHNLt0u4OxBS8uJ5Q"/>
     <tag k="survey:date" v="2017-05-18"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2076591092" lat="45.4863676" lon="9.1369638" version="7" timestamp="2021-05-30T20:48:16Z" changeset="105583799" uid="8338121" user="KetoCat">
+    <tag k="barrier" v="kerb"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="mapillary" v="aVB_5GO-kVmDnUDjXQ3ixg"/>
+    <tag k="supervised" v="no"/>
+    <tag k="survey:date" v="2019-09-24"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2079502879" lat="45.4930103" lon="9.1446601" version="3" timestamp="2021-05-27T04:22:53Z" changeset="105383843" uid="8338121" user="KetoCat">
@@ -13327,6 +13870,13 @@
     <tag k="survey:date" v="2019-06-07"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2105357568" lat="45.4901648" lon="9.1833199" version="4" timestamp="2021-05-30T22:05:20Z" changeset="105585967" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="iQtlkGcFWPGGVHjB0iHhEI"/>
+    <tag k="survey:date" v="2021-03-01"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2106249902" lat="45.4838639" lon="9.1872016" version="2" timestamp="2014-02-09T23:27:20Z" changeset="20475310" uid="245439" user="adirricor">
     <tag k="bicycle" v="no"/>
     <tag k="comment" v="access to railway station Porta Garibaldi (superficie) and Porta Garibaldi Sotterranea (Passante) and underground line M2- stairs only"/>
@@ -13589,6 +14139,13 @@
     <tag k="tourism" v="artwork"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2161119650" lat="45.4805922" lon="9.1903146" version="6" timestamp="2021-05-30T22:35:26Z" changeset="105586677" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="rmnorsrkU46pGeMYRdZg2g"/>
+    <tag k="survey:date" v="2019-12-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2162623485" lat="45.5225589" lon="9.2093554" version="3" timestamp="2018-08-05T15:23:37Z" changeset="61376685" uid="143280" user="jeandeaual">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="_nzYxtL6OMwc9oFn__yErg"/>
@@ -13652,6 +14209,15 @@
     <tag k="survey:date" v="2019-01-15"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2181279952" lat="45.4830613" lon="9.2016349" version="3" timestamp="2021-05-30T22:26:32Z" changeset="105586519" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Pk9h6mQ_LtY9QRCJlNJA-A"/>
+    <tag k="survey:date" v="2019-12-14"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2181279963" lat="45.4837633" lon="9.2028164" version="4" timestamp="2019-09-13T09:16:10Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -13659,6 +14225,15 @@
   <node id="2181279965" lat="45.4838001" lon="9.2027456" version="5" timestamp="2019-09-13T09:16:04Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2181279968" lat="45.4838403" lon="9.2023684" version="9" timestamp="2021-05-30T22:02:04Z" changeset="105585871" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="-P-3RqocE9e0s1UiPksQDg"/>
+    <tag k="survey:date" v="2019-12-14"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2181279985" lat="45.4841763" lon="9.2019810" version="4" timestamp="2019-09-13T09:55:09Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="entrance" v="emergency"/>
@@ -13820,6 +14395,18 @@
     <tag k="cuisine" v="indian"/>
     <tag k="name" v="Taj Mahal"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2207003800" lat="45.5083375" lon="9.2551028" version="3" timestamp="2021-05-30T16:49:38Z" changeset="105575734" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="nwPlfMmtLuxmEP3snhf3ti"/>
+    <tag k="survey:date" v="2020-11-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2208065904" lat="45.4303428" lon="9.2050140" version="3" timestamp="2021-05-30T17:29:52Z" changeset="105577191" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="amuVMdkvMlKzKlnccqx_uA"/>
+    <tag k="survey:date" v="2019-02-07"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2208093947" lat="45.4802242" lon="9.1864125" version="5" timestamp="2020-05-20T17:28:45Z" changeset="85512134" uid="4838813" user="LorenzoStucchi">
     <tag k="addr:city" v="Milano"/>
@@ -14030,6 +14617,13 @@
     <tag k="website" v="http://www.piscinin.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2280611931" lat="45.5124718" lon="9.1610164" version="4" timestamp="2021-05-30T17:21:09Z" changeset="105576869" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="S7X1m3ZK3twAsqnwqafogw"/>
+    <tag k="survey:date" v="2019-07-05"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2282219030" lat="45.4923455" lon="9.1930482" version="4" timestamp="2021-04-28T19:22:34Z" changeset="103798022" uid="12057605" user="ViaLibera_Student03">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -14147,6 +14741,12 @@
     <tag k="ref:vatin" v="IT04520840960"/>
     <tag k="shop" v="department_store"/>
     <tag k="website" v="https://www.mujionline.eu/it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2330486796" lat="45.4995512" lon="9.1019615" version="2" timestamp="2021-05-30T22:16:05Z" changeset="105586266" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="LfsZqSd49I-Bf32itfSVzw"/>
+    <tag k="survey:date" v="2019-06-05"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2330549351" lat="45.4537048" lon="9.1155581" version="5" timestamp="2019-10-18T20:17:47Z" changeset="75911550" uid="478872" user="mcheck">
@@ -14386,6 +14986,14 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="traffic_signals:sound" v="no"/>
     <tag k="traffic_signals:vibration" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2380827574" lat="45.4966043" lon="9.2383989" version="4" timestamp="2021-05-30T22:22:16Z" changeset="105586414" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="H5lPdQEPCUfOG3zSsMa1ow"/>
+    <tag k="survey:date" v="2018-09-05"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2380920420" lat="45.4851249" lon="9.1925788" version="8" timestamp="2020-12-01T22:43:22Z" changeset="95119730" uid="454306" user="dega180">
@@ -15230,6 +15838,12 @@
     <tag k="mapillary" v="MLO4ByidFHom31I4rCU6Dg"/>
     <tag k="railway" v="crossing"/>
     <tag k="survey:date" v="2020-03-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2441280160" lat="45.4921134" lon="9.1878129" version="3" timestamp="2021-05-30T17:49:40Z" changeset="105577854" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="mJ195p816Gsa6vg4ARnwIF"/>
+    <tag k="survey:date" v="2021-03-04"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2441280164" lat="45.4931438" lon="9.1848712" version="5" timestamp="2021-04-12T07:59:06Z" changeset="102783491" uid="12057739" user="ViaLibera_Student07">
@@ -16202,6 +16816,13 @@
     <tag k="amenity" v="toilets"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2505049195" lat="45.4681989" lon="9.1953756" version="4" timestamp="2021-05-30T16:34:35Z" changeset="105575249" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="UIgJVsjmaV6O8kLsDMWMFQ"/>
+    <tag k="survey:date" v="2019-07-11"/>
+    <tag k="wheelchair" v="half"/>
+  </node>
   <node id="2505052027" lat="45.4698361" lon="9.1982910" version="5" timestamp="2020-04-23T19:02:04Z" changeset="84019218" uid="10518122" user="Matsayz">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -16275,6 +16896,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="o34DJ5CLcypDrNS5Mejk0g"/>
     <tag k="survey:date" v="2020-01-03"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2514198775" lat="45.4680366" lon="9.1821383" version="5" timestamp="2021-05-30T17:37:51Z" changeset="105577443" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="KJz8YpEuf7Adn7x3BP0FOw"/>
+    <tag k="survey:date" v="2019-04-20"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2514370015" lat="45.5042156" lon="9.1198670" version="2" timestamp="2021-02-26T08:33:27Z" changeset="100032683" uid="89897" user="airon90">
@@ -16383,6 +17011,12 @@
     <tag k="public_transport" v="platform"/>
     <tag k="shelter" v="yes"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2514834158" lat="45.5034186" lon="9.1221255" version="3" timestamp="2021-05-30T18:32:43Z" changeset="105579300" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="nxm2PV-BhU0ybhDhdF2-iA"/>
+    <tag k="survey:date" v="2020-03-06"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2514836402" lat="45.5018370" lon="9.1186652" version="3" timestamp="2020-05-16T06:09:13Z" changeset="85290171" uid="1337142" user="Nordpfeil">
@@ -16560,6 +17194,12 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2523378900" lat="45.4286514" lon="9.2505949" version="4" timestamp="2021-05-30T21:45:38Z" changeset="105585427" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="CHwIFyhMLvdCV6WwvfQwVN"/>
+    <tag k="survey:date" v="2021-01-24"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2525533923" lat="45.4350981" lon="9.2349393" version="5" timestamp="2021-03-29T13:32:14Z" changeset="101920857" uid="12810516" user="Marco_Belluschi">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="rWo30DF_S0zQDWwZ8wNgWw"/>
@@ -16585,6 +17225,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="image" v="http://storage1.openstreetcam.org/files/photo/2016/6/15/lth/7455_a2ff9_576174b412fb3.jpg"/>
     <tag k="survey:date" v="2016-06-15"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2530483333" lat="45.4836566" lon="9.2102277" version="3" timestamp="2021-05-30T22:10:01Z" changeset="105586112" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="TgowOn758pRnpC3r3cPgqd"/>
+    <tag k="survey:date" v="2020-12-02"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2531365878" lat="45.4696322" lon="9.1952660" version="10" timestamp="2020-07-18T20:34:09Z" changeset="88186047" uid="89897" user="airon90">
@@ -16900,6 +17547,12 @@
     <tag k="survey:date" v="2020-01-30"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2533514905" lat="45.4862593" lon="9.2425395" version="3" timestamp="2021-05-30T23:31:32Z" changeset="105587501" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="9iWTy2hUFitLH-YFuULu4w"/>
+    <tag k="survey:date" v="2020-01-30"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2533528351" lat="45.4935278" lon="9.2319990" version="3" timestamp="2021-05-27T02:45:05Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="bFMw-WntLIPkcJOB1h6uyw"/>
@@ -17123,6 +17776,12 @@
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2538844177" lat="45.4764114" lon="9.2038337" version="2" timestamp="2021-05-30T21:57:12Z" changeset="105585734" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="DXZXVFHTzSMvCxbawfbJCA"/>
+    <tag k="survey:date" v="2019-12-24"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2542087283" lat="45.4872700" lon="9.1973311" version="5" timestamp="2020-03-28T03:02:00Z" changeset="82739128" uid="1960718" user="apm-wa">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -17177,6 +17836,13 @@
     <tag k="survey:date" v="2016-06-15"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2542324506" lat="45.4779483" lon="9.2150413" version="5" timestamp="2021-05-30T17:26:41Z" changeset="105577047" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="dbdP2OPSCJvg2DXslVxpwg"/>
+    <tag k="survey:date" v="2019-08-01"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2542331133" lat="45.4778978" lon="9.2147173" version="5" timestamp="2021-05-27T04:13:34Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -17188,6 +17854,14 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="437Imd-2EOsz2V8xZ4a5wA"/>
     <tag k="survey:date" v="2020-01-06"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2542717587" lat="45.4748900" lon="9.2211497" version="4" timestamp="2021-05-30T22:19:00Z" changeset="105586342" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Zt1Wjvw2BgfXnE89jJ-Gcw"/>
+    <tag k="survey:date" v="2020-01-06"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2542750815" lat="45.4826963" lon="9.2147907" version="2" timestamp="2021-04-08T18:47:10Z" changeset="102585012" uid="3270936" user="TobyL86">
@@ -17251,6 +17925,20 @@
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2542787452" lat="45.4745454" lon="9.2112401" version="4" timestamp="2021-05-30T19:02:46Z" changeset="105580410" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ZNWEhJh-SYANuEY9ul1c6Q"/>
+    <tag k="survey:date" v="2018-10-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2542866753" lat="45.4870363" lon="9.2199290" version="3" timestamp="2021-05-30T16:36:32Z" changeset="105575304" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="NZ1MDQWxvSXm98KD5VB6wQ"/>
+    <tag k="survey:date" v="2020-03-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2542866756" lat="45.4905098" lon="9.2249391" version="3" timestamp="2020-07-02T22:42:58Z" changeset="87472774" uid="8314145" user="Multireligionvalsystem">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="hTNv3oXbDjuCdXnf0AgoZw"/>
@@ -17279,6 +17967,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="0E6VoF1tAOjvmak6m2b55A"/>
     <tag k="survey:date" v="2018-08-25"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2542916162" lat="45.4993081" lon="9.2363933" version="2" timestamp="2021-05-30T20:34:29Z" changeset="105583423" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="wOLd4wvQiCfINX2RNENxYA"/>
+    <tag k="survey:date" v="2019-08-02"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2542969143" lat="45.4791629" lon="9.2195076" version="4" timestamp="2021-05-11T04:19:34Z" changeset="104482665" uid="12608429" user="flexagoon">
@@ -17475,6 +18169,13 @@
     <tag k="survey:date" v="2020-01-18"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2548682608" lat="45.4537261" lon="9.2240120" version="7" timestamp="2021-05-30T21:06:26Z" changeset="105584358" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="xcJI08m9fCgPQe4cNBZ3Nw"/>
+    <tag k="survey:date" v="2019-10-30"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2548719716" lat="45.4561680" lon="9.2243843" version="4" timestamp="2021-05-11T08:19:19Z" changeset="104496846" uid="8716397" user="f_gonella">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="21Q2Eyp7iSDE0aXM8m9Bcg"/>
@@ -17589,6 +18290,19 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="7pLzGdYV9DUmwz8sZWGeXg"/>
     <tag k="survey:date" v="2017-07-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2549085337" lat="45.4759022" lon="9.2082827" version="3" timestamp="2021-05-30T22:37:41Z" changeset="105586717" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="zNb4qjnZTw3pjK0_3YHnsA"/>
+    <tag k="survey:date" v="2019-07-09"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2549086260" lat="45.4762113" lon="9.2076958" version="5" timestamp="2021-05-30T21:47:27Z" changeset="105585465" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="nwSH7Sxf3lDkzhem2JInqQ"/>
+    <tag k="survey:date" v="2019-07-27"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2549137700" lat="45.4669448" lon="9.2005376" version="4" timestamp="2019-08-25T21:12:21Z" changeset="73726829" uid="2111087" user="asturksever">
@@ -17713,6 +18427,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="c01D48pFkj6TmZCnF0I5dg"/>
     <tag k="survey:date" v="2020-01-14"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2550308089" lat="45.4855486" lon="9.2101869" version="2" timestamp="2021-05-30T10:43:22Z" changeset="105562383" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ZrPvXdobl0uaDwQ5I95LBT"/>
+    <tag k="survey:date" v="2020-12-02"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2550332248" lat="45.4856709" lon="9.2127206" version="4" timestamp="2019-07-29T14:51:10Z" changeset="72774202" uid="212494" user="Almtesh">
@@ -17990,6 +18710,12 @@
     <tag k="survey:date" v="2019-06-08"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2563135979" lat="45.4898812" lon="9.1514696" version="2" timestamp="2021-05-30T23:18:55Z" changeset="105587304" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="XXMG3sVjMlCoI_PZuoLgXA"/>
+    <tag k="survey:date" v="2019-04-09"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2563135984" lat="45.4902537" lon="9.1514453" version="2" timestamp="2021-05-14T16:30:59Z" changeset="104693569" uid="8654993" user="ati1">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="r8Eh4WK44MdXYfpIiOVNTg"/>
@@ -18018,6 +18744,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="lB1QuOIvDXcBz9l3HLMs1g"/>
     <tag k="survey:date" v="2017-07-28"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2564456148" lat="45.4584096" lon="9.1481056" version="4" timestamp="2021-05-30T19:56:17Z" changeset="105582277" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ftLEkQLIHy17CAsQLTXWeA"/>
+    <tag k="survey:date" v="2019-11-20"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2564458244" lat="45.4583623" lon="9.1484376" version="4" timestamp="2020-10-24T11:26:13Z" changeset="92985253" uid="9629951" user="volpit">
@@ -18298,6 +19030,15 @@
     <tag k="survey:date" v="2019-07-27"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2585232035" lat="45.4812695" lon="9.1618919" version="8" timestamp="2021-05-30T17:12:38Z" changeset="105576588" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="wl7jYPoy1rjkQOiOEdVgvQ"/>
+    <tag k="survey:date" v="2019-06-07"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="traffic_calming" v="table"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2587833189" lat="45.5029670" lon="9.1619773" version="9" timestamp="2019-10-12T18:24:58Z" changeset="75607017" uid="238419" user="HubMiner">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -18333,6 +19074,13 @@
     <tag k="name" v="Carré Milano"/>
     <tag k="shop" v="yes"/>
     <tag k="survey:date" v="2020-01-18"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2588305415" lat="45.4584214" lon="9.1695022" version="4" timestamp="2021-05-30T18:31:19Z" changeset="105579254" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ZOcvTVQvfMSqY3oLzyTa7g"/>
+    <tag k="survey:date" v="2020-01-17"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2595013761" lat="45.5033347" lon="9.2112077" version="5" timestamp="2019-03-24T13:07:41Z" changeset="68470422" uid="9451067" user="b-jazz-bot">
@@ -18747,6 +19495,13 @@
     <tag k="survey:date" v="2017-10-17"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2610502413" lat="45.4782524" lon="9.2146190" version="4" timestamp="2021-05-30T21:18:08Z" changeset="105584714" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Snhv0YCZu9Ho_upYkcPObw"/>
+    <tag k="survey:date" v="2019-08-01"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2612147032" lat="45.4805351" lon="9.1984398" version="4" timestamp="2019-04-10T16:42:48Z" changeset="69089870" uid="366321" user="Peter Bremer">
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="traffic_signals"/>
@@ -18758,11 +19513,30 @@
     <tag k="traffic_signals:sound" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2613211246" lat="45.4935513" lon="9.1156143" version="4" timestamp="2021-05-30T21:17:01Z" changeset="105584673" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="3kuob68YYmsrb9AbRRsHHw"/>
+    <tag k="survey:date" v="2019-09-24"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2613211250" lat="45.4935471" lon="9.1154581" version="4" timestamp="2019-06-27T17:35:37Z" changeset="71681229" uid="2052228" user="Kauê de Moraes Vestena">
     <tag k="crossing" v="unmarked"/>
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="mGw0VIDxTxi0cSLdfwkX3A"/>
     <tag k="survey:date" v="2018-03-29"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2613211259" lat="45.4936028" lon="9.1157078" version="4" timestamp="2021-05-30T23:20:37Z" changeset="105587336" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="rQNHsnfQqH6FlR_DbKpKyw"/>
+    <tag k="survey:date" v="2020-02-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2613212779" lat="45.4928821" lon="9.1148463" version="4" timestamp="2021-05-30T19:08:34Z" changeset="105580678" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="R-c7AX-co8ECn5QpmHVjLA"/>
+    <tag k="survey:date" v="2020-02-04"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2613229329" lat="45.5014793" lon="9.1198444" version="2" timestamp="2020-05-16T06:10:25Z" changeset="85290171" uid="1337142" user="Nordpfeil">
@@ -18972,6 +19746,15 @@
     <tag k="survey:date" v="2020-10-12"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2614762682" lat="45.4768969" lon="9.1885013" version="5" timestamp="2021-05-30T16:49:07Z" changeset="105575711" uid="8338121" user="KetoCat">
+    <tag k="accessibility_source" v="kimap"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="nyQe1y-kWh4MTBBIbG9QPg"/>
+    <tag k="source" v="kimap"/>
+    <tag k="survey:date" v="2019-04-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2614762691" lat="45.4770992" lon="9.1878607" version="5" timestamp="2019-05-23T10:03:18Z" changeset="70545487" uid="9631702" user="sara di giorgio">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -18986,6 +19769,13 @@
     <tag k="mapillary" v="DQ6fV9-h0x4pN0E3zMY7SA"/>
     <tag k="source" v="kimap"/>
     <tag k="survey:date" v="2017-03-01"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2614762713" lat="45.4729633" lon="9.1836268" version="4" timestamp="2021-05-30T22:23:06Z" changeset="105586431" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="L6YIVtDFqd2-cYspDiQe0A"/>
+    <tag k="survey:date" v="2018-11-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2617512246" lat="45.4834709" lon="9.1881677" version="7" timestamp="2021-04-10T10:31:00Z" changeset="102691209" uid="12057577" user="ViaLibera_Student01">
@@ -19028,6 +19818,13 @@
     <tag k="public_transport" v="platform"/>
     <tag k="ref" v="11580"/>
     <tag k="shelter" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2622348675" lat="45.4676120" lon="9.1654390" version="3" timestamp="2021-05-30T22:28:02Z" changeset="105586548" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="0B3FpK_NWUOBqqzFVH1Vig"/>
+    <tag k="survey:date" v="2019-08-01"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2622398764" lat="45.4818421" lon="9.2341697" version="7" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
@@ -19284,6 +20081,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="43wAfM0MWP21Se986tJaCQ"/>
     <tag k="survey:date" v="2018-02-17"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2634945360" lat="45.4779390" lon="9.1068367" version="3" timestamp="2021-05-30T17:10:37Z" changeset="105576516" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="UiLiMWSW1FvsTHwchLjiOA"/>
+    <tag k="survey:date" v="2020-06-10"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2634991935" lat="45.4753397" lon="9.1109271" version="3" timestamp="2020-04-22T08:13:23Z" changeset="83924393" uid="10971610" user="Jawes">
@@ -19883,6 +20686,14 @@
     <tag k="survey:date" v="2021-01-29"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2701567563" lat="45.4989723" lon="9.1984399" version="2" timestamp="2021-05-30T22:27:10Z" changeset="105586531" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="2lAZfyvSKPQ050TfDDwavQ"/>
+    <tag k="survey:date" v="2019-08-05"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="2701604939" lat="45.4583730" lon="9.2407682" version="4" timestamp="2019-11-12T21:15:10Z" changeset="76982174" uid="6269670" user="eghirmai">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="KYcKanJXHpUDghjMooXcnw"/>
@@ -19907,6 +20718,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="-ahdwT9W-rL1aD6jYmcq3g"/>
     <tag k="survey:date" v="2017-05-18"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2702906463" lat="45.4417939" lon="9.2454987" version="3" timestamp="2021-05-30T16:37:57Z" changeset="105575355" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="SWeehTeAyc5WxYoBnydxQg"/>
+    <tag k="survey:date" v="2021-01-31"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2703110257" lat="45.4709242" lon="9.2272924" version="4" timestamp="2021-03-28T12:37:15Z" changeset="101871666" uid="6520581" user="pfez">
@@ -19989,6 +20806,12 @@
     <tag k="survey:date" v="2019-05-31"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2716089528" lat="45.4389924" lon="9.2266114" version="10" timestamp="2021-05-30T21:57:52Z" changeset="105585755" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="N3dmcAIawy98rtN5OAwRzQ"/>
+    <tag k="survey:date" v="2019-10-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2717303318" lat="45.5214380" lon="9.1526357" version="3" timestamp="2020-08-24T11:25:24Z" changeset="89854123" uid="11449631" user="SimoGine">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -20033,6 +20856,12 @@
     <tag k="name" v="MM5 - Isola"/>
     <tag k="operator" v="ATM"/>
     <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2719470192" lat="45.4857884" lon="9.2431653" version="3" timestamp="2021-05-30T16:21:34Z" changeset="105574758" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="7dTgFxcrluuVHjySCJZ6Eq"/>
+    <tag k="survey:date" v="2020-12-29"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2719628296" lat="45.4895296" lon="9.1888504" version="6" timestamp="2019-03-24T13:07:56Z" changeset="68470431" uid="9451067" user="b-jazz-bot">
@@ -20111,6 +20940,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="gqEsKyvzhdqJB5QnN4orgg"/>
     <tag k="survey:date" v="2019-09-29"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2724084311" lat="45.4819431" lon="9.1884884" version="4" timestamp="2021-05-30T19:05:26Z" changeset="105580554" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="oqNyp6dVJ6X9bebc49q9nQ"/>
+    <tag k="survey:date" v="2019-12-22"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2724178306" lat="45.4820332" lon="9.1871610" version="3" timestamp="2019-09-13T13:17:04Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -20358,6 +21194,12 @@
     <tag k="survey:date" v="2018-01-28"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2737141917" lat="45.4347221" lon="9.1645433" version="3" timestamp="2021-05-30T19:00:23Z" changeset="105580317" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="kh9syN2BYhCAHMcNQK0otZ"/>
+    <tag k="survey:date" v="2020-11-24"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2737150837" lat="45.4339453" lon="9.1717252" version="3" timestamp="2018-08-18T17:26:26Z" changeset="61775866" uid="1244453" user="Lt_Grillwurst">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="Qx7EMg9z29SMRtBQwrsmsw"/>
@@ -20530,6 +21372,13 @@
     <tag k="survey:date" v="2018-04-25"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2773073460" lat="45.5143714" lon="9.1733107" version="3" timestamp="2021-05-30T17:02:44Z" changeset="105576251" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="NihT4UiiMD988GRU8eJcfg"/>
+    <tag k="survey:date" v="2020-02-02"/>
+    <tag k="wheelchair" v="half"/>
+  </node>
   <node id="2775875539" lat="45.4760202" lon="9.2240466" version="2" timestamp="2017-12-05T14:37:49Z" changeset="54367163" uid="2111087" user="asturksever">
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="kebab"/>
@@ -20637,6 +21486,17 @@
     <tag k="survey:date" v="2019-05-06"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2794356870" lat="45.4861027" lon="9.1366224" version="7" timestamp="2021-05-30T16:39:29Z" changeset="105575409" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="mapillary" v="Mmnls-qvU2iaDNlUB2ogfQ"/>
+    <tag k="supervised" v="no"/>
+    <tag k="survey:date" v="2019-11-27"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2794356872" lat="45.4861959" lon="9.1374066" version="8" timestamp="2021-02-21T14:51:14Z" changeset="99683646" uid="89897" user="airon90">
     <tag k="barrier" v="kerb"/>
     <tag k="crossing" v="uncontrolled"/>
@@ -20704,6 +21564,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="ZLIUej9tYFealOqccZ1cmA"/>
     <tag k="survey:date" v="2018-02-17"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2796752606" lat="45.4659499" lon="9.1126631" version="3" timestamp="2021-05-30T17:36:55Z" changeset="105577410" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="r3ZKmkc51ybBRrhyKs3wlf"/>
+    <tag k="survey:date" v="2020-12-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2796752639" lat="45.4698419" lon="9.1096177" version="2" timestamp="2020-08-17T16:28:48Z" changeset="89528667" uid="1217770" user="heavygale">
@@ -21095,6 +21961,15 @@
     <tag k="survey:date" v="2018-04-08"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="2866157445" lat="45.5123039" lon="9.2671569" version="2" timestamp="2021-05-30T20:39:53Z" changeset="105583592" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="A94AFpL4bmq6_EkidPj2Ow"/>
+    <tag k="survey:date" v="2020-01-14"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2868331137" lat="45.4596208" lon="9.1294903" version="2" timestamp="2018-08-19T18:49:26Z" changeset="61800977" uid="3580055" user="Camilleh9">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="e1SL-DrqlSfzdX7sDxAQ8g"/>
@@ -21170,6 +22045,12 @@
     <tag k="survey:date" v="2019-09-25"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2879249088" lat="45.5039396" lon="9.1211931" version="3" timestamp="2021-05-30T21:18:58Z" changeset="105584737" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="98QvX_JooRR5n2nmZpyPKw"/>
+    <tag k="survey:date" v="2020-03-03"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2880043548" lat="45.5081446" lon="9.1393801" version="4" timestamp="2020-10-21T23:30:09Z" changeset="92857656" uid="4890411" user="phaerrax">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
@@ -21209,6 +22090,12 @@
     <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Via_Grosotto_Milan.jpg"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="2887425861" lat="45.4918070" lon="9.1480443" version="2" timestamp="2021-05-30T21:02:35Z" changeset="105584229" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="CcIazK-KbHQI61tbJKpJGw"/>
+    <tag k="survey:date" v="2019-10-25"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2887445051" lat="45.4932672" lon="9.1478773" version="2" timestamp="2019-06-15T08:48:31Z" changeset="71274550" uid="9632811" user="ManuePebble">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="17XGnXFYI7cL-5dsCwxm3Q"/>
@@ -21219,6 +22106,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="ySO5dREJPn98XrHogciZLA"/>
     <tag k="survey:date" v="2020-02-09"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2887448449" lat="45.4941911" lon="9.1527947" version="2" timestamp="2021-05-30T21:16:01Z" changeset="105584650" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="zb8b6Do-YpvQOPBicFAQRw"/>
+    <tag k="survey:date" v="2020-06-15"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2887674292" lat="45.4832832" lon="9.1422206" version="5" timestamp="2019-04-24T10:57:07Z" changeset="69521112" uid="1965370" user="marco_camagni">
@@ -21664,6 +22557,12 @@
     <tag k="survey:date" v="2018-02-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2923126647" lat="45.4769076" lon="9.2174748" version="4" timestamp="2021-05-30T18:25:00Z" changeset="105579068" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ohIOnA2whnubXC8WTkSI5w"/>
+    <tag k="survey:date" v="2019-11-21"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2923412441" lat="45.4657172" lon="9.1738467" version="4" timestamp="2019-04-24T14:30:46Z" changeset="69528686" uid="8540010" user="Khanev!">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -21812,6 +22711,14 @@
     <tag k="survey:date" v="2018-07-30"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2942185005" lat="45.5113731" lon="9.2151445" version="4" timestamp="2021-05-30T18:34:18Z" changeset="105579354" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="bMLHt-tVSI__iSd_OOwUQg"/>
+    <tag k="survey:date" v="2020-01-24"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2943507193" lat="45.4737525" lon="9.1197337" version="2" timestamp="2021-05-27T11:03:16Z" changeset="105414379" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="PjrdCYXwXh47TzmHZcVKb2"/>
@@ -21842,6 +22749,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="o34DJ5CLcypDrNS5Mejk0g"/>
     <tag k="survey:date" v="2020-01-03"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2951268633" lat="45.4805382" lon="9.2344529" version="4" timestamp="2021-05-30T23:12:58Z" changeset="105587229" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="G6aosnaIQr2nhMOvrubWVw"/>
+    <tag k="survey:date" v="2018-10-25"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2951281589" lat="45.4759362" lon="9.2237192" version="4" timestamp="2021-05-27T01:51:21Z" changeset="105383843" uid="8338121" user="KetoCat">
@@ -21935,6 +22849,13 @@
     <tag k="operator" v="Patty srl"/>
     <tag k="ref:vatin" v="IT07140740965"/>
     <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2972889007" lat="45.5078589" lon="9.1822958" version="3" timestamp="2021-05-30T23:25:24Z" changeset="105587395" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="VojhuNBWhztk9XcqCCKcBp"/>
+    <tag k="survey:date" v="2020-09-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2979072550" lat="45.5023296" lon="9.2108314" version="4" timestamp="2021-05-27T02:52:30Z" changeset="105383843" uid="8338121" user="KetoCat">
@@ -22483,6 +23404,12 @@
     <tag k="website" v="https://www.teslamotors.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3100174610" lat="45.4676342" lon="9.2172911" version="4" timestamp="2021-05-30T23:28:06Z" changeset="105587446" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="MUu64clGZ616vPrVgvH7bR"/>
+    <tag k="survey:date" v="2020-09-09"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3100180559" lat="45.4319554" lon="9.2440736" version="5" timestamp="2021-05-20T15:27:56Z" changeset="105037924" uid="602784" user="fedc">
     <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
@@ -22676,6 +23603,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="eIPa8uSgimUG1l3dgWlxGQ"/>
     <tag k="survey:date" v="2019-06-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3127868692" lat="45.5178197" lon="9.1197578" version="2" timestamp="2021-05-30T16:30:04Z" changeset="105575080" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="oDac1qBNpRIUzKjaSm8rt8"/>
+    <tag k="survey:date" v="2020-09-27"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3133041040" lat="45.4720638" lon="9.1867293" version="3" timestamp="2019-09-13T14:31:55Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -22954,6 +23887,21 @@
     <tag k="survey:date" v="2020-01-06"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="3152150125" lat="45.5133144" lon="9.2122801" version="4" timestamp="2021-05-30T21:20:43Z" changeset="105584789" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="m9O3TBWR0UxSSYMr8L_x7g"/>
+    <tag k="survey:date" v="2020-02-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3154586819" lat="45.5054682" lon="9.0940903" version="2" timestamp="2021-05-30T20:20:48Z" changeset="105583045" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="4p4sh-OqYy1-j727OsjYBj"/>
+    <tag k="survey:date" v="2018-10-01"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3162785276" lat="45.4721290" lon="9.1673969" version="4" timestamp="2020-05-11T23:41:08Z" changeset="85050027" uid="7344022" user="Ikkibird">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -23015,6 +23963,13 @@
     <tag k="mapillary" v="0Xh1iq-QlQdxaw4dbNLLiw"/>
     <tag k="survey:date" v="2020-02-18"/>
     <tag k="wheelchair" v="half"/>
+  </node>
+  <node id="3176821862" lat="45.4572308" lon="9.1709465" version="3" timestamp="2021-05-30T22:45:11Z" changeset="105586849" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="7LHewZbif1o90oFgARL7Cw"/>
+    <tag k="survey:date" v="2019-06-04"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3181896934" lat="45.5137917" lon="9.2149071" version="4" timestamp="2019-03-24T13:08:02Z" changeset="68470434" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
@@ -23413,6 +24368,13 @@
     <tag k="name" v="UBI Banca"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3217983540" lat="45.4810360" lon="9.1975951" version="2" timestamp="2021-05-30T10:45:19Z" changeset="105562445" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="xUG4p37KZzIuNQjf6kgMYx"/>
+    <tag k="survey:date" v="2020-12-13"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3217983680" lat="45.4829698" lon="9.1992679" version="2" timestamp="2020-04-21T07:11:43Z" changeset="83860518" uid="4350933" user="TkPx">
     <tag k="crossing" v="zebra"/>
     <tag k="highway" v="crossing"/>
@@ -23425,6 +24387,13 @@
     <tag k="cuisine" v="chinese"/>
     <tag k="name" v="688 Restaurant"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3218098430" lat="45.4828481" lon="9.1810123" version="4" timestamp="2021-05-30T22:06:06Z" changeset="105585987" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="DSNmmIn8Io51mjS_X11I9g"/>
+    <tag k="survey:date" v="2019-12-23"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3223159990" lat="45.4904882" lon="9.1658450" version="5" timestamp="2019-04-05T10:46:13Z" changeset="68916517" uid="214436" user="PanierAvide">
     <tag k="crossing" v="traffic_signals"/>
@@ -23562,6 +24531,20 @@
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3296328334" lat="45.5162166" lon="9.2064407" version="3" timestamp="2021-05-30T22:49:35Z" changeset="105586916" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="DoHrMrRaMuZDfie26VokaA"/>
+    <tag k="survey:date" v="2020-01-24"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3296328336" lat="45.5164775" lon="9.2065876" version="3" timestamp="2021-05-30T18:35:29Z" changeset="105579398" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="-hBH4ST8hHbC4YdaBmBaiA"/>
+    <tag k="survey:date" v="2020-01-24"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3296328337" lat="45.5165990" lon="9.2061625" version="3" timestamp="2019-05-28T19:36:22Z" changeset="70709443" uid="8312598" user="HiRes">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -23627,6 +24610,13 @@
     <tag k="brand:wikidata" v="Q23681835"/>
     <tag k="name" v="Christian Louboutin"/>
     <tag k="shop" v="shoes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3307145592" lat="45.4782589" lon="9.1889702" version="4" timestamp="2021-05-30T20:40:45Z" changeset="105583606" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="eHdmavmuAvnVhvl-hIamZQ"/>
+    <tag k="survey:date" v="2019-12-29"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3307145600" lat="45.4799733" lon="9.1887728" version="4" timestamp="2020-02-21T17:02:02Z" changeset="81326473" uid="561047" user="ggamba">
@@ -23914,6 +24904,12 @@
     <tag k="survey:date" v="2018-01-20"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3333720669" lat="45.4899470" lon="9.1550105" version="2" timestamp="2021-05-30T21:49:58Z" changeset="105585517" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="bqjS8A_UOSjJ5Qs_Z_naeQ"/>
+    <tag k="survey:date" v="2019-09-29"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3342844423" lat="45.4984001" lon="9.1866179" version="3" timestamp="2019-09-14T16:11:25Z" changeset="74471270" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Maciachini Nail"/>
     <tag k="shop" v="beauty"/>
@@ -23944,6 +24940,13 @@
     <tag k="public_transport" v="platform"/>
     <tag k="ref" v="11904"/>
     <tag k="shelter" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3352095892" lat="45.4940688" lon="9.2015184" version="2" timestamp="2021-05-30T16:46:07Z" changeset="105575635" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="L0XCvHnodh0FzjsauKbDGg"/>
+    <tag k="survey:date" v="2020-02-11"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3354703714" lat="45.4506044" lon="9.1487294" version="3" timestamp="2019-04-05T10:46:13Z" changeset="68916517" uid="214436" user="PanierAvide">
@@ -24233,6 +25236,12 @@
     <tag k="survey:date" v="2020-02-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3372962171" lat="45.4719281" lon="9.2174445" version="2" timestamp="2021-05-30T21:46:47Z" changeset="105585453" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="FB2l4TQD8UaHRzwGHpnk1C"/>
+    <tag k="survey:date" v="2020-08-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3372962174" lat="45.4732405" lon="9.2147405" version="4" timestamp="2020-02-25T20:42:13Z" changeset="81472140" uid="6817530" user="Mzzntn">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -24244,6 +25253,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="zVxnp1og_jl9vFsDyNeM-w"/>
     <tag k="survey:date" v="2019-07-27"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3372962177" lat="45.4718035" lon="9.2170781" version="2" timestamp="2021-05-30T16:05:03Z" changeset="105574173" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="fgNqS7yWQUzN3VEn97frDQ"/>
+    <tag k="survey:date" v="2020-07-18"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3372962180" lat="45.4721664" lon="9.2170726" version="3" timestamp="2021-05-29T03:44:49Z" changeset="105517692" uid="8338121" user="KetoCat">
@@ -24511,6 +25526,21 @@
     <tag k="survey:date" v="2018-02-10"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3395001843" lat="45.5028252" lon="9.2261582" version="4" timestamp="2021-05-30T22:47:44Z" changeset="105586887" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="4iwQfHSexG_PF2-Jlvyeng"/>
+    <tag k="survey:date" v="2019-05-10"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3395028482" lat="45.5089967" lon="9.2470116" version="3" timestamp="2021-05-30T17:54:39Z" changeset="105578032" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="vDN22PdHWei2GCb7H_3irw"/>
+    <tag k="survey:date" v="2020-02-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3396936272" lat="45.4653577" lon="9.1852606" version="4" timestamp="2019-11-26T16:20:37Z" changeset="77586625" uid="9631702" user="sara di giorgio">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -24623,11 +25653,25 @@
     <tag k="survey:date" v="2018-06-10"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3415012020" lat="45.4780479" lon="9.1693205" version="5" timestamp="2021-05-30T10:51:45Z" changeset="105562647" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="dOUCLlg9s1C7FoTTA0cWT5"/>
+    <tag k="survey:date" v="2020-09-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3415012024" lat="45.4781498" lon="9.1699113" version="5" timestamp="2019-06-28T22:26:38Z" changeset="71723649" uid="245439" user="adirricor">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
     <tag k="image" v="http://storage9.openstreetcam.org/files/photo/2018/10/29/lth/1302669_121da_2467.jpg"/>
     <tag k="survey:date" v="2018-11-16"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3415012025" lat="45.4782021" lon="9.1698635" version="5" timestamp="2021-05-30T17:38:50Z" changeset="105577479" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="5LmnG2HLhkHliWCfr-V3Mw"/>
+    <tag k="survey:date" v="2020-03-06"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3415012026" lat="45.4782376" lon="9.1697151" version="5" timestamp="2019-06-28T22:26:38Z" changeset="71723649" uid="245439" user="adirricor">
@@ -24977,6 +26021,14 @@
     <tag k="survey:date" v="2018-07-27"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3455715424" lat="45.4711988" lon="9.2190140" version="4" timestamp="2021-05-30T20:33:15Z" changeset="105583386" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="04Eno73_S2dJg4xS6HyIsx"/>
+    <tag k="survey:date" v="2018-10-20"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3455907760" lat="45.4842632" lon="9.2370439" version="2" timestamp="2019-06-02T20:11:03Z" changeset="70864991" uid="1514673" user="amilopowers">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="FAT01_A-SdCujtXHNRd8sg"/>
@@ -25154,6 +26206,12 @@
     <tag k="website" v="http://pianoterralab.org"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3475257666" lat="45.4745052" lon="9.1511779" version="2" timestamp="2021-05-30T23:32:49Z" changeset="105587524" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="LXMZYy572RyPMC7NyAiA2K"/>
+    <tag k="survey:date" v="2020-10-01"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3475257667" lat="45.4744679" lon="9.1514357" version="2" timestamp="2018-12-14T16:12:54Z" changeset="65478361" uid="9237472" user="Federica Luna">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="RcLYAWWWUJzhmGaX_SO69Q"/>
@@ -25216,6 +26274,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="PztlxjR4BDKzbZz5Ew7_mw"/>
     <tag k="survey:date" v="2017-10-17"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3476273458" lat="45.4734409" lon="9.2169220" version="2" timestamp="2021-05-30T17:09:49Z" changeset="105576494" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="DyyhQm-gJzolb19aYTMD5g"/>
+    <tag k="survey:date" v="2020-02-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3476284600" lat="45.4748871" lon="9.2109387" version="3" timestamp="2020-02-27T07:39:47Z" changeset="81536336" uid="10831576" user="ignanyo35">
@@ -25940,6 +27004,20 @@
     <tag k="survey:date" v="2020-01-17"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3605726468" lat="45.4821992" lon="9.1756140" version="4" timestamp="2021-05-30T20:33:54Z" changeset="105583408" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Bx16qE7L1GSa7X4Z0HbcZg"/>
+    <tag k="survey:date" v="2019-07-09"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3605728968" lat="45.4839885" lon="9.1774837" version="4" timestamp="2021-05-30T22:12:19Z" changeset="105586168" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="iNnw9F52Ju2UC54sEUtxlw"/>
+    <tag k="survey:date" v="2020-06-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3605730454" lat="45.4841808" lon="9.1799371" version="3" timestamp="2020-08-05T14:39:14Z" changeset="88988129" uid="43207" user="kdkeller">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -25973,6 +27051,12 @@
   <node id="3609491919" lat="45.4641346" lon="9.2174940" version="3" timestamp="2018-08-19T18:42:28Z" changeset="61800977" uid="3580055" user="Camilleh9">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3610662419" lat="45.4618970" lon="9.2351671" version="3" timestamp="2021-05-30T23:30:05Z" changeset="105587480" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="kEdng5tW77lfd0SPcSzpYw"/>
+    <tag k="survey:date" v="2020-06-22"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3610693293" lat="45.4429251" lon="9.1481110" version="3" timestamp="2018-12-14T16:12:02Z" changeset="65478348" uid="8110709" user="Lorenzo Giuliano Papale">
@@ -26166,6 +27250,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="0MNR7J5Ye9wnDflwDNkqZQ"/>
     <tag k="survey:date" v="2018-04-28"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3629071875" lat="45.4876146" lon="9.1721509" version="4" timestamp="2021-05-30T18:56:13Z" changeset="105580147" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="M1NFqc6KajzetvRWjApOyq"/>
+    <tag k="survey:date" v="2020-08-18"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3629228571" lat="45.4653944" lon="9.1901657" version="4" timestamp="2020-01-29T20:21:04Z" changeset="80277617" uid="9006927" user="francians">
@@ -26537,6 +27628,13 @@
     <tag k="website" v="http://www.myristoranteindiano.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3686979600" lat="45.4803871" lon="9.1795761" version="2" timestamp="2021-05-30T17:20:28Z" changeset="105576839" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="OfWfA4FflFcQsLR9dhupug"/>
+    <tag k="survey:date" v="2020-01-17"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3697236089" lat="45.4735864" lon="9.2344011" version="5" timestamp="2021-03-21T00:05:42Z" changeset="101422297" uid="6520581" user="pfez">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="crossing:island" v="no"/>
@@ -26626,6 +27724,12 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="yaow_dGE3Lu9DaLOPuE-cw"/>
     <tag k="survey:date" v="2019-04-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3699131493" lat="45.4597004" lon="9.2117712" version="2" timestamp="2021-05-30T20:58:15Z" changeset="105584098" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="yCH-kfuUw6IwJ7rAnua5SQ"/>
+    <tag k="survey:date" v="2019-08-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3699131496" lat="45.4593786" lon="9.2131951" version="2" timestamp="2020-09-05T21:49:05Z" changeset="90465025" uid="11449631" user="SimoGine">
@@ -27133,6 +28237,13 @@
     <tag k="survey:date" v="2020-01-02"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3731482520" lat="45.4978005" lon="9.1958724" version="3" timestamp="2021-05-30T19:06:09Z" changeset="105580577" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Vauk_CGUT2a4jgBfr4R-SQ"/>
+    <tag k="survey:date" v="2020-01-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3731490923" lat="45.4992552" lon="9.1968560" version="3" timestamp="2021-05-28T17:48:52Z" changeset="105506376" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="lqcwqTyYGUia856a2gv-3g"/>
@@ -27610,6 +28721,12 @@
     <tag k="survey:date" v="2019-08-27"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3780459571" lat="45.4292242" lon="9.2024816" version="2" timestamp="2021-05-30T17:26:04Z" changeset="105577026" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="X9-FjvOBytkibO9PQPfQlA"/>
+    <tag k="survey:date" v="2019-02-07"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3780474195" lat="45.4373278" lon="9.1903000" version="2" timestamp="2018-09-09T17:40:42Z" changeset="62429355" uid="214436" user="PanierAvide">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="rPDHnLyN8d0rx1qWCTmOTA"/>
@@ -27671,6 +28788,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="MShntEMgnG3DOLqqAF8ZqQ"/>
     <tag k="survey:date" v="2017-07-15"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3786661099" lat="45.4341571" lon="9.2426708" version="4" timestamp="2021-05-30T19:57:54Z" changeset="105582328" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="l5TWNhoD96jC7XdOTt3acZ"/>
+    <tag k="survey:date" v="2021-01-06"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3786661107" lat="45.4349009" lon="9.2418921" version="4" timestamp="2019-05-15T19:16:02Z" changeset="70290839" uid="6220204" user="Ysogo">
@@ -27913,6 +29037,13 @@
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3822594660" lat="45.4267235" lon="9.1775943" version="3" timestamp="2021-05-30T21:11:04Z" changeset="105584495" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="336guhvAKdVY3DCQE0sezy"/>
+    <tag k="survey:date" v="2021-03-08"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3822594857" lat="45.4268150" lon="9.1777535" version="2" timestamp="2021-05-29T23:28:13Z" changeset="105551381" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
@@ -28724,6 +29855,13 @@
     <tag k="survey:date" v="2020-01-12"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3898004595" lat="45.4895071" lon="9.2013061" version="2" timestamp="2021-05-30T23:26:03Z" changeset="105587408" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="TOX_RA6si3GUfYAp7P_xDA"/>
+    <tag k="survey:date" v="2020-01-03"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3898004596" lat="45.4896248" lon="9.2014187" version="3" timestamp="2019-05-28T21:49:41Z" changeset="70712796" uid="314109" user="JasonWi">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -29236,6 +30374,12 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q22811468"/>
   </node>
+  <node id="4018301792" lat="45.4649407" lon="9.1587548" version="2" timestamp="2021-05-30T16:50:49Z" changeset="105575772" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="R9TAJs55P3uqWu4rQWqEBQ"/>
+    <tag k="survey:date" v="2020-01-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4018301797" lat="45.4652869" lon="9.1588986" version="3" timestamp="2021-05-27T03:54:31Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="i1kaVO-CC9kprW0NQNfaLA"/>
@@ -29448,10 +30592,22 @@
     <tag k="survey:date" v="2019-04-18"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4056405185" lat="45.4460332" lon="9.2510559" version="2" timestamp="2021-05-30T20:54:40Z" changeset="105583983" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Ci4bBGPKnSsodPdc7wkaI5"/>
+    <tag k="survey:date" v="2020-11-01"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4056407210" lat="45.4510666" lon="9.2507046" version="3" timestamp="2019-05-28T17:46:09Z" changeset="70705842" uid="314109" user="JasonWi">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="KaO7bXy00qSbWN-SWfgEHw"/>
     <tag k="survey:date" v="2019-04-18"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4056407216" lat="45.4460755" lon="9.2510081" version="2" timestamp="2021-05-30T20:54:21Z" changeset="105583983" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Ci4bBGPKnSsodPdc7wkaI5"/>
+    <tag k="survey:date" v="2020-11-01"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4056827363" lat="45.4843346" lon="9.1855249" version="2" timestamp="2018-07-26T13:53:42Z" changeset="61088808" uid="214436" user="PanierAvide">
@@ -29495,6 +30651,12 @@
     <tag k="survey:date" v="2018-10-29"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4060097435" lat="45.4533340" lon="9.1868277" version="3" timestamp="2021-05-30T16:48:17Z" changeset="105575692" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="5CHKVEtILUawVqwHCytQ4Q"/>
+    <tag k="survey:date" v="2020-01-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4060117283" lat="45.4480131" lon="9.1868087" version="2" timestamp="2018-07-29T12:37:04Z" changeset="61163247" uid="214436" user="PanierAvide">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -29507,6 +30669,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="nG-uZakHXxcjdBG11c9kWQ"/>
     <tag k="survey:date" v="2018-03-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4061728680" lat="45.4700203" lon="9.1615725" version="4" timestamp="2021-05-30T22:38:17Z" changeset="105586731" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="xmnyJwmAI5-Lq_zhjz0vLw"/>
+    <tag k="survey:date" v="2020-01-17"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4061748621" lat="45.4682785" lon="9.1606239" version="4" timestamp="2021-03-17T13:15:41Z" changeset="101191852" uid="1013267" user="edwinpc">
@@ -29580,6 +30749,13 @@
     <tag k="survey:date" v="2019-04-06"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4065242687" lat="45.4299098" lon="9.1796539" version="2" timestamp="2021-05-30T23:14:00Z" changeset="105587242" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="zKy_a66j6E-Fz8coqnRh7Q"/>
+    <tag k="survey:date" v="2019-11-14"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4073817208" lat="45.4768399" lon="9.2009694" version="3" timestamp="2020-12-14T22:54:20Z" changeset="95836692" uid="454306" user="dega180">
     <tag k="brand" v="Euronics"/>
     <tag k="brand:wikidata" v="Q184860"/>
@@ -29607,6 +30783,13 @@
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="-Snhu83aTryTpDg86tWIEQ"/>
     <tag k="survey:date" v="2019-05-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4080203915" lat="45.4941276" lon="9.1579780" version="2" timestamp="2021-05-30T21:29:57Z" changeset="105585014" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="cExCQHyWxWwDYSKAOVk2Yn"/>
+    <tag k="survey:date" v="2020-08-18"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4080203919" lat="45.4941793" lon="9.1574374" version="2" timestamp="2021-05-29T23:43:21Z" changeset="105551548" uid="8338121" user="KetoCat">
@@ -29643,6 +30826,18 @@
     <tag k="mapillary" v="e2TXmiURrk9InLuaDOhYuA"/>
     <tag k="survey:date" v="2019-06-08"/>
     <tag k="wheelchair" v="half"/>
+  </node>
+  <node id="4080265012" lat="45.4880026" lon="9.1557476" version="2" timestamp="2021-05-30T17:53:14Z" changeset="105577986" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="RvoIyztAi3prSmNWEcz8Ng"/>
+    <tag k="survey:date" v="2019-12-31"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4080365989" lat="45.4886063" lon="9.1652047" version="2" timestamp="2021-05-30T16:35:16Z" changeset="105575268" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="fCMjJFGgsAZPml9pcyiSVA"/>
+    <tag k="survey:date" v="2020-06-15"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4080367451" lat="45.4895277" lon="9.1590952" version="3" timestamp="2021-04-06T21:46:59Z" changeset="102433809" uid="6739817" user="rayleigh1">
     <tag k="highway" v="crossing"/>
@@ -30089,6 +31284,13 @@
     <tag k="mapillary" v="NaN5cxoZvXOabnOtL2oDgQ"/>
     <tag k="survey:date" v="2018-02-15"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4142396709" lat="45.5185613" lon="9.2078547" version="3" timestamp="2021-05-30T16:32:54Z" changeset="105575185" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="i6JqC8ZBn-S7OVcUZEyuOQ"/>
+    <tag k="survey:date" v="2020-01-24"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4144127765" lat="45.4458750" lon="9.2131432" version="6" timestamp="2020-01-13T11:23:01Z" changeset="79513207" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
@@ -30957,6 +32159,22 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="4305610319" lat="45.4683389" lon="9.1908211" version="3" timestamp="2021-05-30T17:24:03Z" changeset="105576963" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="C4CPSBFtLYBF2IaPf_C1Pg"/>
+    <tag k="survey:date" v="2019-04-20"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4305611336" lat="45.4712018" lon="9.1925473" version="4" timestamp="2021-05-30T20:44:28Z" changeset="105583695" uid="8338121" user="KetoCat">
+    <tag k="accessibility_source" v="kimap"/>
+    <tag k="crossing" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="z_ogZwcH6VFb55ZZPbiXXg"/>
+    <tag k="source" v="kimap"/>
+    <tag k="survey:date" v="2019-07-11"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4305613403" lat="45.4717100" lon="9.1942795" version="2" timestamp="2019-09-13T09:34:40Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -31228,6 +32446,13 @@
     <tag k="name" v="Il Kaimano"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4360423538" lat="45.4554825" lon="9.1526267" version="2" timestamp="2021-05-30T21:23:11Z" changeset="105584852" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="rtB7vcHJQVFLbwjxjpDD5A"/>
+    <tag k="survey:date" v="2019-07-29"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4373256772" lat="45.4860060" lon="9.2046292" version="5" timestamp="2021-04-21T20:51:10Z" changeset="103364066" uid="4890411" user="phaerrax">
     <tag k="brand" v="Lush"/>
     <tag k="brand:wikidata" v="Q1585448"/>
@@ -31467,6 +32692,12 @@
     <tag k="survey:date" v="2018-04-29"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4458210722" lat="45.4896727" lon="9.1668364" version="2" timestamp="2021-05-30T17:40:03Z" changeset="105577528" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="eInlvZWGQYi3r-91X8craw"/>
+    <tag k="survey:date" v="2020-06-15"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4458210742" lat="45.4897509" lon="9.1670868" version="2" timestamp="2018-08-07T07:38:31Z" changeset="61424887" uid="361003" user="Cascafico">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="5o6n6GwPdAd2vADSJoz6tA"/>
@@ -31578,6 +32809,14 @@
     <tag k="website:booking" v="https://www.thefork.it/ristorante/ai-bastioni/266207"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4527543267" lat="45.4856774" lon="9.1416291" version="2" timestamp="2021-05-30T21:50:50Z" changeset="105585539" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="nZ3yz07ClRpeUJG9nV4jzw"/>
+    <tag k="survey:date" v="2019-11-26"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4529281897" lat="45.4924841" lon="9.1943101" version="2" timestamp="2021-03-16T22:35:07Z" changeset="101147153" uid="2288853" user="simarrou">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="highway" v="crossing"/>
@@ -31598,6 +32837,13 @@
     <tag k="mapillary" v="gfiKkwxo7XlwkxBJi0ynzg"/>
     <tag k="survey:date" v="2019-12-24"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4529295463" lat="45.4948255" lon="9.2007264" version="2" timestamp="2021-05-30T21:14:11Z" changeset="105584593" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="aIFGfUGTGNJHNS7SMLLv_A"/>
+    <tag k="survey:date" v="2019-08-02"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4535599593" lat="45.4750262" lon="9.1867599" version="3" timestamp="2019-09-13T14:49:31Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -32041,10 +33287,34 @@
     <tag k="shop" v="department_store"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4690874757" lat="45.4805893" lon="9.1608871" version="4" timestamp="2021-05-30T10:48:44Z" changeset="105562558" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="j39HW9gaj7iYBpADMpzt_Q"/>
+    <tag k="survey:date" v="2019-06-07"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4690876503" lat="45.4818552" lon="9.1623379" version="2" timestamp="2018-03-09T05:53:44Z" changeset="57020077" uid="524500" user="wheelmap_android">
     <tag k="name" v="Domodossola"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4690876712" lat="45.4822232" lon="9.1629983" version="5" timestamp="2021-05-30T21:50:21Z" changeset="105585526" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="VxbrD_rIMtzpbLAYqUTIVg"/>
+    <tag k="survey:date" v="2019-10-04"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4690876828" lat="45.4820902" lon="9.1631758" version="5" timestamp="2021-05-30T20:39:15Z" changeset="105583570" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="dQb4pXrW8lCwGrdKSzzJop"/>
+    <tag k="survey:date" v="2020-07-16"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4690876947" lat="45.4814810" lon="9.1622950" version="2" timestamp="2018-03-09T05:53:51Z" changeset="57020077" uid="524500" user="wheelmap_android">
     <tag k="name" v="Domodossola"/>
@@ -32625,6 +33895,13 @@
     <tag k="survey:date" v="2018-08-20"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4912632782" lat="45.4651078" lon="9.1863190" version="4" timestamp="2021-05-30T22:40:02Z" changeset="105586766" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="77Eq7VS3Tj40o3-XJW83ZA"/>
+    <tag k="survey:date" v="2020-01-26"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4916936129" lat="45.4520993" lon="9.1820534" version="4" timestamp="2020-10-28T15:26:54Z" changeset="93180978" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
@@ -32858,6 +34135,12 @@
     <tag k="mapillary" v="8waXoJ1swVXO8UAj8QBeER"/>
     <tag k="survey:date" v="2020-08-23"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5003261407" lat="45.4800933" lon="9.1238095" version="2" timestamp="2021-05-30T19:09:27Z" changeset="105580709" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="0896LEd9c4e78ZNZRHlO4L"/>
+    <tag k="survey:date" v="2021-03-12"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5015912580" lat="45.4917730" lon="9.1953179" version="2" timestamp="2019-09-13T13:21:01Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -33174,6 +34457,13 @@
     <tag k="shop" v="chemist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="5194531890" lat="45.4808795" lon="9.1663812" version="2" timestamp="2021-05-30T22:20:48Z" changeset="105586387" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="zowc3d6Ups0aVOLr0o6Qbd"/>
+    <tag k="survey:date" v="2020-08-06"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5198286603" lat="45.4802555" lon="9.1689904" version="3" timestamp="2020-11-30T01:28:25Z" changeset="95007636" uid="10064262" user="BJJr">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="e0BdNWD-biLnWSaJ5ItHWg"/>
@@ -33226,6 +34516,13 @@
     <tag k="mapillary" v="vuM6J-wpCOFBQO190m_W3Q"/>
     <tag k="survey:date" v="2020-01-09"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5209881112" lat="45.4774355" lon="9.1777058" version="3" timestamp="2021-05-30T21:59:14Z" changeset="105585787" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="f42zPNAnN72pt2OzSijNpA"/>
+    <tag k="survey:date" v="2019-11-20"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5212692302" lat="45.4646780" lon="9.1630746" version="3" timestamp="2019-10-18T20:16:52Z" changeset="75911550" uid="478872" user="mcheck">
     <tag k="crossing" v="uncontrolled"/>
@@ -33661,6 +34958,13 @@
     <tag k="survey:date" v="2020-12-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="5370505614" lat="45.4032168" lon="9.2088258" version="3" timestamp="2021-05-30T10:47:28Z" changeset="105562523" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="-S152UtMyjcB1sApvrATyg"/>
+    <tag k="survey:date" v="2020-01-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5371710267" lat="45.4561957" lon="9.2236804" version="2" timestamp="2019-10-18T19:52:44Z" changeset="75911550" uid="478872" user="mcheck">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="QrcbAogB67QHHIkDM2keMQ"/>
@@ -33689,6 +34993,13 @@
     <tag k="ref:vatin" v="IT02281510152"/>
     <tag k="shop" v="hardware"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5382583782" lat="45.4570114" lon="9.1695944" version="3" timestamp="2021-05-30T21:44:41Z" changeset="105585398" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="8qeWfM7Bbz5cazjB8g11Ug"/>
+    <tag k="survey:date" v="2020-01-18"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5382583785" lat="45.4571577" lon="9.1691688" version="4" timestamp="2019-06-24T14:19:54Z" changeset="71563617" uid="9631702" user="sara di giorgio">
     <tag k="crossing" v="traffic_signals"/>
@@ -33752,6 +35063,12 @@
     <tag k="shop" v="tea"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="5404216169" lat="45.4773907" lon="9.2463699" version="2" timestamp="2021-05-30T21:53:10Z" changeset="105585595" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ugBAdTVGXwGeL53T9V24pj"/>
+    <tag k="survey:date" v="2020-10-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5408572056" lat="45.4993141" lon="9.1781257" version="5" timestamp="2020-01-19T17:06:53Z" changeset="79760020" uid="561047" user="ggamba">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="yes"/>
@@ -33787,6 +35104,12 @@
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
     <tag k="website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5415299884" lat="45.4401635" lon="9.2238456" version="5" timestamp="2021-05-30T20:18:27Z" changeset="105582966" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="6QRUA4G3KM2kvBCbq8Ozig"/>
+    <tag k="survey:date" v="2019-05-01"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5432963106" lat="45.4838211" lon="9.1889467" version="2" timestamp="2019-09-13T13:05:54Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -34559,6 +35882,15 @@
     <tag k="survey:date" v="2020-09-30"/>
     <tag k="wheelchair" v="half"/>
   </node>
+  <node id="5712974795" lat="45.5066329" lon="9.2006730" version="4" timestamp="2021-05-30T20:29:24Z" changeset="105583282" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="s9BNfLAVqI06QiO8wqia1M"/>
+    <tag k="smoothness" v="very_bad"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="survey:date" v="2020-09-30"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5718382732" lat="45.4861102" lon="9.1887063" version="3" timestamp="2019-09-13T13:13:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4/e"/>
@@ -35111,10 +36443,28 @@
     <tag k="level" v="1"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="5936879752" lat="45.4778088" lon="9.2236922" version="2" timestamp="2021-05-30T16:26:26Z" changeset="105574920" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="button_operated" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="toucan"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="M9K40CnuCURpm3uU1OWKKw"/>
+    <tag k="supervised" v="no"/>
+    <tag k="survey:date" v="2020-09-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5939800765" lat="45.5012171" lon="9.1456750" version="2" timestamp="2021-04-27T13:32:47Z" changeset="103710539" uid="26333" user="wiselynx">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="-doJ-AaEaFt3hURtq3D5bA"/>
     <tag k="survey:date" v="2019-06-08"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5955578188" lat="45.4943882" lon="9.1485008" version="3" timestamp="2021-05-30T19:04:03Z" changeset="105580470" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="HAXsgletX6RS9JOqXZlgyw"/>
+    <tag k="survey:date" v="2020-06-15"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5983921245" lat="45.4809923" lon="9.1876555" version="4" timestamp="2020-06-01T06:39:51Z" changeset="86031717" uid="4838813" user="LorenzoStucchi">
@@ -36193,6 +37543,13 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="6879066247" lat="45.4763062" lon="9.1169747" version="2" timestamp="2021-05-30T17:05:43Z" changeset="105576365" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Td3WKRwkFKdD5zgSH0EDuR"/>
+    <tag k="survey:date" v="2021-03-12"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="6880971533" lat="45.4579103" lon="9.1800657" version="3" timestamp="2021-01-16T15:27:10Z" changeset="97608919" uid="12169583" user="davidfaure_bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
@@ -36292,6 +37649,12 @@
     <tag k="mapillary" v="18mPzOoIDTXcdwbOGr4ipA"/>
     <tag k="survey:date" v="2018-05-01"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="7039075614" lat="45.4675535" lon="9.1597061" version="2" timestamp="2021-05-30T18:58:45Z" changeset="105580236" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="BfwWZlHtrXV5mcAfEhkM23"/>
+    <tag k="survey:date" v="2020-10-08"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7040174201" lat="45.4619849" lon="9.2192264" version="3" timestamp="2021-01-16T15:27:10Z" changeset="97608919" uid="12169583" user="davidfaure_bot">
     <tag k="addr:city" v="Milano"/>
@@ -36741,6 +38104,13 @@
     <tag k="wikidata" v="Q3113699"/>
     <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
   </node>
+  <node id="7802236700" lat="45.5199755" lon="9.1700617" version="2" timestamp="2021-05-30T22:11:35Z" changeset="105586149" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="ayi1bMdYYLAGwvz8SHiTVw"/>
+    <tag k="survey:date" v="2020-02-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="7802236708" lat="45.5199063" lon="9.1697111" version="2" timestamp="2021-05-30T01:29:08Z" changeset="105552529" uid="8338121" user="KetoCat">
     <tag k="bicycle" v="yes"/>
     <tag k="crossing" v="marked"/>
@@ -36759,6 +38129,14 @@
   </node>
   <node id="7802236807" lat="45.5199709" lon="9.1703560" version="2" timestamp="2021-05-29T23:34:12Z" changeset="105551450" uid="8338121" user="KetoCat">
     <tag k="crossing" v="unmarked"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="kQgqOhmoLG50O1aOvJl4Jg"/>
+    <tag k="survey:date" v="2020-02-02"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7802236808" lat="45.5199943" lon="9.1703250" version="2" timestamp="2021-05-30T16:23:47Z" changeset="105574832" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="marked"/>
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="kQgqOhmoLG50O1aOvJl4Jg"/>
     <tag k="survey:date" v="2020-02-02"/>
@@ -36795,6 +38173,14 @@
     <tag k="survey:date" v="2020-10-01"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="7872191918" lat="45.4706111" lon="9.1550903" version="2" timestamp="2021-05-30T16:31:33Z" changeset="105575112" uid="8338121" user="KetoCat">
+    <tag k="bicycle" v="yes"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="w6NCgGj2rtaJUslQ6MH-zg"/>
+    <tag k="survey:date" v="2019-12-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="7872191925" lat="45.4700658" lon="9.1557831" version="2" timestamp="2021-05-27T03:21:36Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -36803,6 +38189,13 @@
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7872191929" lat="45.4706211" lon="9.1550425" version="2" timestamp="2021-05-29T03:32:53Z" changeset="105517546" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="rCzDt4IQUg1tC9MiTIuVwg"/>
+    <tag k="survey:date" v="2019-12-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7872191930" lat="45.4705990" lon="9.1550299" version="2" timestamp="2021-05-30T16:30:53Z" changeset="105575112" uid="8338121" user="KetoCat">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="rCzDt4IQUg1tC9MiTIuVwg"/>
@@ -37350,6 +38743,13 @@
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8120722779" lat="45.4905534" lon="9.1433527" version="3" timestamp="2021-05-30T21:28:26Z" changeset="105584982" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="m3k-mHunLHOwV4jgxBbQ0w"/>
+    <tag k="survey:date" v="2020-02-18"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8120736166" lat="45.4945359" lon="9.1850841" version="2" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
     <tag k="crossing" v="traffic_signals"/>
     <tag k="highway" v="crossing"/>
@@ -37528,6 +38928,12 @@
     <tag k="survey:date" v="2020-11-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8318111272" lat="45.5048111" lon="9.1815369" version="2" timestamp="2021-05-30T17:11:49Z" changeset="105576565" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="9J2j2Pdoe7dBUMffTAPQd8"/>
+    <tag k="survey:date" v="2020-10-20"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8318111282" lat="45.5050431" lon="9.1826970" version="2" timestamp="2021-05-27T03:47:19Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="wheelchair" v="half"/>
@@ -37628,6 +39034,12 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="8348871101" lat="45.5087404" lon="9.2090451" version="2" timestamp="2021-05-30T22:40:41Z" changeset="105586778" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="UvOO0lbpQ32EXz9qkHyjvs"/>
+    <tag k="survey:date" v="2020-07-27"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8349501472" lat="45.5133068" lon="9.2100496" version="2" timestamp="2021-05-27T04:30:19Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="55wA1rLLEDXbbk7YRDsLrw"/>
@@ -37726,6 +39138,10 @@
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8476278438" lat="45.4396052" lon="9.2245321" version="3" timestamp="2021-05-30T10:46:30Z" changeset="105562483" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8480219297" lat="45.5052216" lon="9.1636323" version="2" timestamp="2021-05-27T04:12:28Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="SYKzT4VPwGkYwOD_KItarg"/>
@@ -37764,6 +39180,13 @@
   <node id="8554571513" lat="45.4445761" lon="9.2145333" version="2" timestamp="2021-05-27T03:22:44Z" changeset="105383843" uid="8338121" user="KetoCat">
     <tag k="highway" v="crossing"/>
     <tag k="mapillary" v="Mj9Ruf7RP6H4xTf7k7Qgog"/>
+    <tag k="survey:date" v="2019-10-23"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8554577581" lat="45.4430374" lon="9.2177701" version="2" timestamp="2021-05-30T09:12:39Z" changeset="105559358" uid="8338121" user="KetoCat">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="Qw6bvuCv9s0T3EbySn5ejA"/>
     <tag k="survey:date" v="2019-10-23"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -37842,6 +39265,12 @@
     <tag k="mapillary" v="Jp2yhvSJ9FrlLbAlfyPxXG"/>
     <tag k="survey:date" v="2020-10-19"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="8579266681" lat="45.4316541" lon="9.2242678" version="2" timestamp="2021-05-30T16:43:06Z" changeset="105575559" uid="8338121" user="KetoCat">
+    <tag k="highway" v="crossing"/>
+    <tag k="mapillary" v="EOLeSL0d3h7LJdCpkDlyLF"/>
+    <tag k="survey:date" v="2020-11-13"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8583260831" lat="45.5001496" lon="9.2459057" version="1" timestamp="2021-04-01T15:06:13Z" changeset="102135244" uid="506470" user="LuSirto">
     <tag k="door" v="hinged"/>
