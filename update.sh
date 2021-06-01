@@ -17,4 +17,4 @@ sleep 300
 wget -O crossing.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A300%5D%3Barea%283600044915%29%2D%3E%2EsearchArea%3Bway%5B%22footway%22%3D%22crossing%22%5D%28area%2EsearchArea%29%3Bout%20meta%20geom%3B%0A"
 wget -O kerb.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A300%5D%3Barea%283600044915%29%2D%3E%2EsearchArea%3Bnode%5B%22kerb%22%5D%28area%2EsearchArea%29%3Bout%20meta%20geom%3B%0A"
 sleep 300
-wget -O wheelchair.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A300%5D%3Bnwr%5B%22wheelchair%22%5D%5B%22highway%22%21%7E%22%2E%2A%22%5D%5B%22kerb%22%21%7E%22%2E%2A%22%5D%2845%2E4881%2C9%2E1811%2C45%2E4953%2C9%2E1935%29%3Bout%20meta%20center%3B%0A"
+wget -O wheelchair.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A300%5D%3Barea%283600044915%29%2D%3E%2EsearchArea%3B%28node%5B%22wheelchair%22%5D%5B%22highway%22%21%7E%22%2E%2A%22%5D%5B%22kerb%22%21%7E%22%2E%2A%22%5D%28area%2EsearchArea%29%3Bway%5B%22wheelchair%22%5D%5B%22highway%22%21%7E%22%2E%2A%22%5D%5B%22kerb%22%21%7E%22%2E%2A%22%5D%28area%2EsearchArea%29%3B%29%3Bout%20meta%20center%3B%0A"

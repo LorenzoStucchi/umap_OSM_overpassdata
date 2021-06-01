@@ -10,12 +10,110 @@ Automated script for the download of OSM data with Overpass API to be used in uM
 
 ## Overpass query
 
-### Wheelchair
-
+### Pietre
 ```
-[out:json][timeout:300];
+[out:xml][timeout:300];
+area(3600365331)->.searchArea;
+(
+	node["memorial"="stolperstein"](area.searchArea);
+	node["memorial:type"="stolperstein"](area.searchArea);
+);
+out;
+```
+
+### Ecomusei_percorsi
+```
+[out:xml][timeout:300];
+area(3600365331)->.searchArea;
+(
+	node["operator"~"ecomuseo"](area.searchArea);
+	way["operator"~"ecomuseo"](area.searchArea);
+	relation["operator"~"ecomuseo"](area.searchArea);
+);
+out;
+>;
+out skel qt;
+```
+
+### Ecomusei
+```
+[out:xml][timeout:300];
+area(3600365331)->.searchArea;
+(
+	node["museo"="ecomuseum"](area.searchArea);
+	way["museo"="ecomuseum"](area.searchArea);
+);
+out;
+>;
+out skel qt;
+```
+
+### Ecomusei_name
+```
+[out:xml][timeout:300];
+area(3600365331)->.searchArea;
+(
+	node["name"~"Ecomuseo"](area.searchArea);
+	way["name"~"Ecomuseo"](area.searchArea);
+);
+out;
+>;
+out skel qt;
+```
+
+### Flush
+```
+[out:xml][timeout:300];
 area(3600044915)->.searchArea;
-(node["wheelchair"](area.searchArea);
-way["wheelchair"](area.searchArea););
+node["kerb"="flush"](area.searchArea);
+out meta geom;
+```
+
+### Lowered
+```
+[out:xml][timeout:300];
+area(3600044915)->.searchArea;
+node["kerb"="lowered"](area.searchArea);
+out meta geom;
+```
+
+### Raised
+```
+[out:xml][timeout:300];
+area(3600044915)->.searchArea;
+node["kerb"="raised"](area.searchArea);
+out meta geom;
+```
+
+### Sidewalk
+```
+[out:xml][timeout:300];
+area(3600044915)->.searchArea;
+way["footway"="sidewalk"](area.searchArea);
+out meta geom;
+```
+
+### Crossing
+```
+[out:xml][timeout:300];
+area(3600044915)->.searchArea;
+way["footway"="crossing"](area.searchArea);
+out meta geom;
+```
+
+### Kerb
+```
+[out:xml][timeout:300];
+area(3600044915)->.searchArea;
+node["kerb"](area.searchArea);
+out meta geom;
+```
+
+### Wheelchair
+```
+[out:xml][timeout:300];
+area(3600044915)->.searchArea;
+(node["wheelchair"][!"highway"][!"kerb"](area.searchArea);
+way["wheelchair"][!"highway"][!"kerb"](area.searchArea););
 out meta center;
 ```
