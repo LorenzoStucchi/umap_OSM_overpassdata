@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-21T03:25:59Z" areas="2021-06-21T02:56:26Z"/>
+<meta osm_base="2021-06-22T03:21:56Z" areas="2021-06-22T03:00:26Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -2989,20 +2989,6 @@
   </node>
   <node id="1694668257" lat="45.4810655" lon="9.2253143" version="6" timestamp="2021-05-12T20:52:01Z" changeset="104597316" uid="4890411" user="phaerrax">
     <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1704594397" lat="45.5002828" lon="9.2401731" version="9" timestamp="2014-08-15T08:06:56Z" changeset="24761590" uid="1476146" user="Alecs01">
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="20132"/>
-    <tag k="addr:street" v="Via Don Luigi Orione"/>
-    <tag k="amenity" v="library"/>
-    <tag k="contact:phone" v="+39 02 88465808"/>
-    <tag k="contact:website" v="www.comune.milano.it/biblioteche"/>
-    <tag k="email" v="C.BiblioCrescenzago@comune.milano.it"/>
-    <tag k="fax" v="+39 02 88442139"/>
-    <tag k="name" v="biblioteca comunale rionale crescenzago"/>
-    <tag k="ref:isil" v="IT-MI0492"/>
-    <tag k="source" v="www.comune.milano.it/biblioteche"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1705281767" lat="45.5202241" lon="9.2048980" version="2" timestamp="2021-03-30T12:11:45Z" changeset="101984452" uid="4413023" user="realjep">
@@ -16917,6 +16903,31 @@
     <tag k="shop" v="sports"/>
     <tag k="sport" v="multi"/>
     <tag k="website" v="https://www.df-sportspecialist.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="95936083" version="4" timestamp="2021-06-21T08:47:35Z" changeset="106702301" uid="3860151" user="Michele Aquilani">
+    <center lat="45.5002923" lon="9.2401483"/>
+    <nd ref="1704594397"/>
+    <nd ref="1111569747"/>
+    <nd ref="1111569917"/>
+    <nd ref="1111569501"/>
+    <nd ref="1704594397"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="20132"/>
+    <tag k="addr:street" v="Via Don Luigi Orione"/>
+    <tag k="amenity" v="library"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="contact:phone" v="+39 02 88465808"/>
+    <tag k="contact:website" v="www.comune.milano.it/biblioteche"/>
+    <tag k="email" v="C.BiblioCrescenzago@comune.milano.it"/>
+    <tag k="fax" v="+39 02 88442139"/>
+    <tag k="name" v="Biblioteca comunale rionale Crescenzago"/>
+    <tag k="phone" v="+39 02 88465808"/>
+    <tag k="ref:isil" v="IT-MI0492"/>
+    <tag k="source" v="www.comune.milano.it/biblioteche"/>
+    <tag k="website" v="https://milano.biblioteche.it/library/crescenzago/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="114825943" version="12" timestamp="2021-05-06T09:37:11Z" changeset="104239612" uid="4890411" user="phaerrax">
