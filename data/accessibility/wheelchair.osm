@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-26T03:16:00Z" areas="2021-06-26T03:01:15Z"/>
+<meta osm_base="2021-06-27T03:17:09Z" areas="2021-06-27T02:12:13Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -15672,6 +15672,19 @@
     <tag k="phone" v="+39 02 2643 6300"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8868716034" lat="45.4619819" lon="9.2252307" version="1" timestamp="2021-06-26T19:45:58Z" changeset="107015118" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Viale Corsica"/>
+    <tag k="alt_name" v="Bar_Leo"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:phone" v="+39 02 87396891"/>
+    <tag k="name" v="Viale Corsica 12"/>
+    <tag k="operator" v="Gao Shufu"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT02463170460"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -15842,9 +15855,11 @@
     <tag k="building:levels" v="2"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="24709555" version="11" timestamp="2018-12-22T15:40:02Z" changeset="65696484" uid="245439" user="adirricor">
-    <center lat="45.4579339" lon="9.1968397"/>
+  <way id="24709555" version="12" timestamp="2021-06-26T08:06:05Z" changeset="106993700" uid="1476146" user="Alecs01">
+    <center lat="45.4579339" lon="9.1965861"/>
     <nd ref="268566301"/>
+    <nd ref="570087135"/>
+    <nd ref="570087145"/>
     <nd ref="268566302"/>
     <nd ref="268566303"/>
     <nd ref="268566304"/>
