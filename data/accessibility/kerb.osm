@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-05T03:09:07Z" areas="2021-08-05T02:51:52Z"/>
+<meta osm_base="2021-08-06T03:10:01Z" areas="2021-08-06T01:56:39Z"/>
 
   <node id="249453715" lat="45.4886900" lon="9.1260108" version="7" timestamp="2021-02-21T14:51:14Z" changeset="99683646" uid="89897" user="airon90">
     <tag k="barrier" v="kerb"/>
@@ -831,6 +831,11 @@
     <tag k="kerb" v="raised"/>
     <tag k="tactile_paving" v="no"/>
   </node>
+  <node id="2416148248" lat="45.4805990" lon="9.1851430" version="3" timestamp="2021-08-05T15:40:43Z" changeset="109210010" uid="8540010" user="Khanev!">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
   <node id="2416148253" lat="45.4806896" lon="9.1843484" version="7" timestamp="2020-12-01T22:43:22Z" changeset="95119730" uid="454306" user="dega180">
     <tag k="accessibility_source" v="kimap"/>
     <tag k="barrier" v="kerb"/>
@@ -842,6 +847,16 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="source" v="kimap"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2461310314" lat="45.4924867" lon="9.1924826" version="3" timestamp="2021-08-05T08:33:28Z" changeset="109187417" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2461310320" lat="45.4923522" lon="9.1929897" version="3" timestamp="2021-08-05T08:39:09Z" changeset="109187758" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
     <tag k="tactile_paving" v="no"/>
   </node>
   <node id="2476793553" lat="45.4786453" lon="9.1708343" version="4" timestamp="2021-02-16T14:04:40Z" changeset="99387684" uid="89897" user="airon90">
@@ -1761,6 +1776,11 @@
   <node id="3898715850" lat="45.4856148" lon="9.2172450" version="3" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="3914784452" lat="45.4807463" lon="9.1852046" version="3" timestamp="2021-08-05T15:40:43Z" changeset="109210010" uid="8540010" user="Khanev!">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
   </node>
   <node id="4029051391" lat="45.5044672" lon="9.1251319" version="2" timestamp="2020-01-23T09:24:14Z" changeset="79965028" uid="9631702" user="sara di giorgio">
     <tag k="kerb" v="no"/>
@@ -5017,6 +5037,11 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="raised"/>
     <tag k="source" v="kimap"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="6425054653" lat="45.4808254" lon="9.1852377" version="2" timestamp="2021-08-05T15:40:43Z" changeset="109210010" uid="8540010" user="Khanev!">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
     <tag k="tactile_paving" v="no"/>
   </node>
   <node id="6425071374" lat="45.4800606" lon="9.1879920" version="3" timestamp="2020-11-30T18:37:32Z" changeset="95062985" uid="454306" user="dega180">
@@ -10496,16 +10521,6 @@
     <tag k="tactile_paving" v="no"/>
   </node>
   <node id="6474795017" lat="45.4785623" lon="9.1808960" version="3" timestamp="2020-12-01T21:39:23Z" changeset="95117987" uid="454306" user="dega180">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="lowered"/>
-    <tag k="tactile_paving" v="no"/>
-  </node>
-  <node id="6474795019" lat="45.4799446" lon="9.1811635" version="5" timestamp="2021-08-02T10:58:39Z" changeset="109024979" uid="8540010" user="Khanev!">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="lowered"/>
-    <tag k="tactile_paving" v="no"/>
-  </node>
-  <node id="6474807091" lat="45.4800039" lon="9.1811781" version="3" timestamp="2020-11-30T00:25:27Z" changeset="95006514" uid="454306" user="dega180">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="tactile_paving" v="no"/>
@@ -36532,7 +36547,7 @@
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="paving_stones"/>
   </node>
-  <node id="8677512420" lat="45.4923402" lon="9.1930655" version="3" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512420" lat="45.4923396" lon="9.1930652" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="0.03 m"/>
@@ -36540,7 +36555,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512422" lat="45.4925163" lon="9.1924151" version="4" timestamp="2021-05-20T19:04:16Z" changeset="105046816" uid="12252628" user="ViaLibera_MartaRossi">
+  <node id="8677512422" lat="45.4925159" lon="9.1924149" version="5" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="0 m"/>
@@ -36549,7 +36564,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512423" lat="45.4925028" lon="9.1924729" version="4" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512423" lat="45.4925005" lon="9.1924717" version="5" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="0.02 m"/>
@@ -36557,7 +36572,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512424" lat="45.4924929" lon="9.1925051" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512424" lat="45.4924917" lon="9.1925044" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="0"/>
@@ -36566,7 +36581,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512425" lat="45.4924805" lon="9.1925444" version="4" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512425" lat="45.4924808" lon="9.1925446" version="5" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="0.02 m"/>
@@ -36574,7 +36589,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512426" lat="45.4924510" lon="9.1926397" version="3" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512426" lat="45.4924545" lon="9.1926416" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="0.02 m"/>
@@ -36582,7 +36597,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512427" lat="45.4924307" lon="9.1927340" version="3" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512427" lat="45.4924296" lon="9.1927334" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="kerb:height" v="0.01 m"/>
@@ -36590,7 +36605,7 @@
     <tag k="surface" v="asphalt"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512428" lat="45.4924242" lon="9.1927534" version="3" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512428" lat="45.4924242" lon="9.1927534" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="kerb:height" v="0.01 m"/>
@@ -36598,7 +36613,7 @@
     <tag k="surface" v="asphalt"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512429" lat="45.4924000" lon="9.1928431" version="3" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512429" lat="45.4923999" lon="9.1928430" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="0.03 m"/>
@@ -36606,14 +36621,14 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512430" lat="45.4923778" lon="9.1929375" version="3" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512430" lat="45.4923747" lon="9.1929358" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="0.02 m"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="paving_stones"/>
   </node>
-  <node id="8677512431" lat="45.4923646" lon="9.1929760" version="3" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512431" lat="45.4923639" lon="9.1929756" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="kerb:height" v="0.01 m"/>
@@ -36621,7 +36636,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512432" lat="45.4923547" lon="9.1930176" version="3" timestamp="2021-05-14T09:25:15Z" changeset="104676510" uid="12057577" user="ViaLibera_Student01">
+  <node id="8677512432" lat="45.4923528" lon="9.1930166" version="4" timestamp="2021-08-05T08:55:22Z" changeset="109188703" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="kerb:height" v="0.02 m"/>
@@ -36629,7 +36644,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="width" v="1.00 m"/>
   </node>
-  <node id="8677512434" lat="45.4928180" lon="9.1925901" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512434" lat="45.4928181" lon="9.1925902" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="1 cm"/>
@@ -36638,7 +36653,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512435" lat="45.4928027" lon="9.1926468" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512435" lat="45.4928031" lon="9.1926470" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="material" v="reinforced_concrete"/>
@@ -36646,7 +36661,7 @@
     <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512436" lat="45.4927942" lon="9.1926786" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512436" lat="45.4927947" lon="9.1926789" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="material" v="reinforced_concrete"/>
@@ -36654,7 +36669,7 @@
     <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512437" lat="45.4927834" lon="9.1927249" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512437" lat="45.4927827" lon="9.1927245" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="material" v="reinforced_concrete"/>
@@ -36662,7 +36677,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512438" lat="45.4927583" lon="9.1928154" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512438" lat="45.4927587" lon="9.1928156" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="material" v="reinforced_concrete"/>
@@ -36670,7 +36685,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512439" lat="45.4927364" lon="9.1928969" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512439" lat="45.4927371" lon="9.1928973" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="material" v="reinforced_concrete"/>
@@ -36678,7 +36693,7 @@
     <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512440" lat="45.4927272" lon="9.1929277" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512440" lat="45.4927289" lon="9.1929286" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="material" v="reinforced_concrete"/>
@@ -36686,7 +36701,7 @@
     <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512441" lat="45.4927007" lon="9.1930163" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512441" lat="45.4927051" lon="9.1930187" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="material" v="reinforced_concrete"/>
@@ -36694,7 +36709,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512442" lat="45.4926753" lon="9.1931071" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512442" lat="45.4926810" lon="9.1931102" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="material" v="reinforced_concrete"/>
@@ -36702,7 +36717,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8677512443" lat="45.4926457" lon="9.1932402" version="3" timestamp="2021-05-14T09:10:11Z" changeset="104675805" uid="12057787" user="ViaLibera_Student08">
+  <node id="8677512443" lat="45.4926466" lon="9.1932407" version="4" timestamp="2021-08-05T09:28:47Z" changeset="109190347" uid="13878104" user="Nádudvari Tamás">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="kerb:height" v="1 cm"/>
@@ -38645,6 +38660,299 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="lowered"/>
     <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="8982989701" lat="45.3982348" lon="9.1733597" version="1" timestamp="2021-08-05T10:15:11Z" changeset="109192977" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983325347" lat="45.4352647" lon="9.1695169" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983325349" lat="45.4352863" lon="9.1694544" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983325352" lat="45.4352920" lon="9.1694336" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983325354" lat="45.4353164" lon="9.1693700" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983325357" lat="45.4353372" lon="9.1693032" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983325359" lat="45.4353571" lon="9.1692258" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983325361" lat="45.4353552" lon="9.1692093" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983325363" lat="45.4353429" lon="9.1691791" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983325402" lat="45.4357583" lon="9.1682063" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983325404" lat="45.4358027" lon="9.1682372" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983325407" lat="45.4358762" lon="9.1682484" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983325409" lat="45.4358237" lon="9.1682494" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983328820" lat="45.4360453" lon="9.1690511" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328822" lat="45.4360462" lon="9.1689551" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328825" lat="45.4360477" lon="9.1688097" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328827" lat="45.4360487" lon="9.1687104" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328830" lat="45.4360500" lon="9.1685837" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328832" lat="45.4360510" lon="9.1684851" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328861" lat="45.4370024" lon="9.1685418" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328862" lat="45.4369993" lon="9.1686565" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328865" lat="45.4369962" lon="9.1687711" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328866" lat="45.4369933" lon="9.1688764" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328869" lat="45.4369900" lon="9.1689994" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328870" lat="45.4369871" lon="9.1691043" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328881" lat="45.4352957" lon="9.1694463" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8983328916" lat="45.4358012" lon="9.1682846" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8983328935" lat="45.4371015" lon="9.1694078" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983328937" lat="45.4371951" lon="9.1693823" version="1" timestamp="2021-08-05T12:30:05Z" changeset="109201262" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686817" lat="45.4943574" lon="9.1248895" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686819" lat="45.4944098" lon="9.1249404" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686820" lat="45.4944777" lon="9.1249254" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686822" lat="45.4945172" lon="9.1248553" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686823" lat="45.4949694" lon="9.1275305" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8983686825" lat="45.4949231" lon="9.1274983" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8983686872" lat="45.4945376" lon="9.1240684" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686873" lat="45.4945155" lon="9.1239386" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686877" lat="45.4944312" lon="9.1241945" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686878" lat="45.4945115" lon="9.1241680" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686879" lat="45.4941860" lon="9.1241743" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686880" lat="45.4941639" lon="9.1240459" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686881" lat="45.4942906" lon="9.1239323" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686882" lat="45.4941971" lon="9.1239336" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686925" lat="45.4970986" lon="9.1223431" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8983686927" lat="45.4970469" lon="9.1223035" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8983686937" lat="45.4958356" lon="9.1233657" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686938" lat="45.4958859" lon="9.1232267" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686939" lat="45.4966133" lon="9.1209497" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686940" lat="45.4966934" lon="9.1210181" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686941" lat="45.4968274" lon="9.1208990" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8983686942" lat="45.4967818" lon="9.1210207" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+  </node>
+  <node id="8983686947" lat="45.4957691" lon="9.1230673" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983686949" lat="45.4958516" lon="9.1231363" version="1" timestamp="2021-08-05T15:23:32Z" changeset="109209278" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983704944" lat="45.4808629" lon="9.1851761" version="1" timestamp="2021-08-05T15:40:43Z" changeset="109210010" uid="8540010" user="Khanev!">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8983704946" lat="45.4808768" lon="9.1851172" version="1" timestamp="2021-08-05T15:40:43Z" changeset="109210010" uid="8540010" user="Khanev!">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8983704947" lat="45.4806534" lon="9.1851657" version="1" timestamp="2021-08-05T15:40:43Z" changeset="109210010" uid="8540010" user="Khanev!">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8983704948" lat="45.4806633" lon="9.1851699" version="1" timestamp="2021-08-05T15:40:43Z" changeset="109210010" uid="8540010" user="Khanev!">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8983704951" lat="45.4807361" lon="9.1852003" version="1" timestamp="2021-08-05T15:40:43Z" changeset="109210010" uid="8540010" user="Khanev!">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="8983718252" lat="45.4929147" lon="9.1275782" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983718253" lat="45.4929271" lon="9.1274959" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983718255" lat="45.4930767" lon="9.1276669" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983718256" lat="45.4930215" lon="9.1276592" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983718259" lat="45.4929928" lon="9.1276773" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983718260" lat="45.4929416" lon="9.1276713" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983718280" lat="45.4936237" lon="9.1242112" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983718281" lat="45.4936518" lon="9.1243482" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983718283" lat="45.4933273" lon="9.1246799" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983718284" lat="45.4933764" lon="9.1246853" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983718287" lat="45.4934088" lon="9.1246893" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983718288" lat="45.4934677" lon="9.1246974" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="lowered"/>
+  </node>
+  <node id="8983718289" lat="45.4934844" lon="9.1247026" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="8983718291" lat="45.4935074" lon="9.1247036" version="1" timestamp="2021-08-05T15:57:08Z" changeset="109210781" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
   </node>
 
 </osm>
