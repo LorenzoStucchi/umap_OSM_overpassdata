@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-06T03:15:13Z" areas="2021-08-06T01:56:39Z"/>
+<meta osm_base="2021-08-07T03:16:28Z" areas="2021-08-07T02:24:29Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -15860,6 +15860,13 @@
     <tag k="motor_vehicle" v="permit"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8985170695" lat="45.4855947" lon="9.1645402" version="2" timestamp="2021-08-06T08:28:53Z" changeset="109244285" uid="5479911" user="Pollux17">
+    <tag k="defibrillator:location:it" v="Dentro l'Esselunga, appena dopo l'ingresso di fronte alla cassa 26"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-22:00; Su 09:00-20:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -18028,7 +18035,7 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="173297147" version="7" timestamp="2020-11-30T00:49:54Z" changeset="95007044" uid="454306" user="dega180">
+  <way id="173297147" version="8" timestamp="2021-08-06T08:25:41Z" changeset="109244091" uid="5479911" user="Pollux17">
     <center lat="45.4856833" lon="9.1651272"/>
     <nd ref="1841358639"/>
     <nd ref="1841358659"/>
@@ -18051,6 +18058,7 @@
     <tag k="building" v="retail"/>
     <tag k="building:levels" v="1"/>
     <tag k="name" v="Esselunga"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-22:00; Su 09:00-20:00"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
@@ -20282,46 +20290,6 @@
     <tag k="indoor" v="room"/>
     <tag k="level" v="0"/>
     <tag k="unisex" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="607163768" version="2" timestamp="2021-02-17T09:28:24Z" changeset="99438466" uid="89897" user="airon90">
-    <center lat="45.5280609" lon="9.1637725"/>
-    <nd ref="5754823621"/>
-    <nd ref="5754822592"/>
-    <nd ref="5754823627"/>
-    <nd ref="5754822591"/>
-    <nd ref="5754823626"/>
-    <nd ref="5754822596"/>
-    <nd ref="5754823625"/>
-    <nd ref="5754822595"/>
-    <nd ref="5754823623"/>
-    <tag k="bench" v="yes"/>
-    <tag k="layer" v="-2"/>
-    <tag k="level" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="subway" v="yes"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="607163769" version="2" timestamp="2021-02-17T09:28:24Z" changeset="99438466" uid="89897" user="airon90">
-    <center lat="45.5280448" lon="9.1637020"/>
-    <nd ref="5754823622"/>
-    <nd ref="5754822615"/>
-    <nd ref="5754823630"/>
-    <nd ref="5754822616"/>
-    <nd ref="5754823629"/>
-    <nd ref="5754822602"/>
-    <nd ref="5754823628"/>
-    <nd ref="5754822603"/>
-    <nd ref="5754823624"/>
-    <tag k="bench" v="yes"/>
-    <tag k="layer" v="-2"/>
-    <tag k="level" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="subway" v="yes"/>
-    <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="609970147" version="1" timestamp="2018-07-22T14:17:59Z" changeset="60953492" uid="4413023" user="realjep">
