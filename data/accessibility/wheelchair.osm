@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-23T03:13:43Z" areas="2021-08-23T03:06:39Z"/>
+<meta osm_base="2021-08-24T03:14:09Z" areas="2021-08-24T02:08:01Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -6876,7 +6876,7 @@
     <tag k="shop" v="toys"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2991414091" lat="45.4644544" lon="9.1929239" version="9" timestamp="2020-03-02T17:37:55Z" changeset="81691836" uid="89897" user="airon90">
+  <node id="2991414091" lat="45.4644544" lon="9.1929239" version="10" timestamp="2021-08-23T17:02:27Z" changeset="110128551" uid="8770388" user="Osmwithspace">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="20121"/>
@@ -6888,6 +6888,7 @@
     <tag k="contact:email" v="duomo@lush.it"/>
     <tag k="contact:website" v="https://it.lush.com/shop/milano-piazza-del-duomo"/>
     <tag k="name" v="Lush"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-19:30"/>
     <tag k="operator" v="Lush Italia s.r.l."/>
     <tag k="ref:vatin" v="IT12575920157"/>
     <tag k="shop" v="cosmetics"/>
@@ -13896,6 +13897,16 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="5712975089" lat="45.5070950" lon="9.1987511" version="2" timestamp="2021-08-23T19:06:53Z" changeset="110133669" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Spesa Ok"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5712975090" lat="45.5071759" lon="9.1984320" version="2" timestamp="2021-08-23T19:06:56Z" changeset="110133669" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="S&amp;M Calzature"/>
+    <tag k="shop" v="shoes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="5718382732" lat="45.4861102" lon="9.1887063" version="3" timestamp="2019-09-13T13:13:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4/e"/>
@@ -16564,7 +16575,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="35557913" version="7" timestamp="2021-04-10T08:05:11Z" changeset="102685322" uid="89897" user="airon90">
+  <way id="35557913" version="8" timestamp="2021-08-23T20:20:57Z" changeset="110134831" uid="1875845" user="Valerio_Bozzolan">
     <center lat="45.5067712" lon="9.1959620"/>
     <nd ref="416660348"/>
     <nd ref="5122375755"/>
@@ -16582,6 +16593,7 @@
     <nd ref="5122375754"/>
     <nd ref="416660348"/>
     <tag k="building" v="hotel"/>
+    <tag k="building:levels" v="6"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="37131390" version="6" timestamp="2020-04-11T08:24:25Z" changeset="83389977" uid="1476146" user="Alecs01">
