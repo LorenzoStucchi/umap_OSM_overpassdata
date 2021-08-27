@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-26T03:13:46Z" areas="2021-08-26T02:24:43Z"/>
+<meta osm_base="2021-08-27T03:15:53Z" areas="2021-08-27T02:36:02Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -861,7 +861,7 @@
     <tag k="website" v="http://www.rossignoli.it"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="351314706" lat="45.4840812" lon="9.2047388" version="11" timestamp="2021-07-04T08:09:01Z" changeset="107379324" uid="3860151" user="Michele Aquilani">
+  <node id="351314706" lat="45.4840812" lon="9.2047388" version="12" timestamp="2021-08-26T11:31:07Z" changeset="110282627" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Piazza Duca d'Aosta"/>
@@ -872,6 +872,7 @@
     <tag k="cuisine" v="burger"/>
     <tag k="name" v="McDonald's"/>
     <tag k="opening_hours" v="Mo-Su 07:00-01:00"/>
+    <tag k="ref:vatin" v="IT11551400150"/>
     <tag k="takeaway" v="yes"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -3390,8 +3391,11 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1836668334" lat="45.4854022" lon="9.1883968" version="5" timestamp="2019-09-13T13:10:59Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="1836668334" lat="45.4854022" lon="9.1883968" version="6" timestamp="2021-08-26T09:53:20Z" changeset="110276840" uid="89897" user="airon90">
     <tag k="amenity" v="bicycle_rental"/>
+    <tag k="brand" v="BikeMi"/>
+    <tag k="brand:wikidata" v="Q2902552"/>
+    <tag k="brand:wikipedia" v="en:BikeMi"/>
     <tag k="capacity" v="34"/>
     <tag k="fee" v="yes"/>
     <tag k="name" v="Borsieri - Confalonieri"/>
@@ -5942,15 +5946,18 @@
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2521227390" lat="45.4831227" lon="9.1906151" version="6" timestamp="2019-09-13T13:01:44Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2521227390" lat="45.4831227" lon="9.1906151" version="7" timestamp="2021-08-26T09:53:20Z" changeset="110276840" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Piazza Gae Aulenti"/>
+    <tag k="branch" v="Porta Nuova"/>
     <tag k="brand" v="Nike"/>
+    <tag k="brand:wikidata" v="Q483915"/>
+    <tag k="brand:wikipedia" v="en:Nike, Inc."/>
     <tag k="contact:phone" v="+39 02 63793451"/>
-    <tag k="name" v="Nike Store Porta Nuova"/>
+    <tag k="name" v="Nike"/>
     <tag k="operator" v="L'innominato s.p.a."/>
     <tag k="ref:vatin" v="IT03328460161"/>
     <tag k="shop" v="clothes"/>
@@ -13230,8 +13237,9 @@
     <tag k="operator" v="Banca Popolare di Sondrio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5414250927" lat="45.5012984" lon="9.1543176" version="3" timestamp="2018-07-24T20:44:21Z" changeset="61034979" uid="290680" user="wheelmap_visitor">
+  <node id="5414250927" lat="45.5012984" lon="9.1543176" version="4" timestamp="2021-08-26T07:19:44Z" changeset="110268245" uid="8227659" user="fmaggi">
     <tag k="amenity" v="atm"/>
+    <tag k="check_date" v="2021-08-26"/>
     <tag k="operator" v="Banca Popolare di Sondrio"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -15471,6 +15479,15 @@
     <tag k="ref" v="1"/>
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="8362892920" lat="45.5025437" lon="9.1592245" version="3" timestamp="2021-08-26T16:06:24Z" changeset="110296665" uid="8227659" user="fmaggi">
+    <tag k="name" v="Milano Nord Bovisa-Politecnico"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q801180"/>
+    <tag k="wikipedia" v="it:Stazione di Milano Nord Bovisa"/>
   </node>
   <node id="8385219829" lat="45.4840155" lon="9.1791970" version="1" timestamp="2021-02-01T21:10:48Z" changeset="98534207" uid="454306" user="dega180">
     <tag k="barrier" v="gate"/>
