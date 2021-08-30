@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-29T03:14:42Z" areas="2021-08-29T03:02:23Z"/>
+<meta osm_base="2021-08-30T03:14:18Z" areas="2021-08-30T02:50:48Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -2385,6 +2385,11 @@
     <tag k="name" v="Brenta"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1505106677" lat="45.4366076" lon="9.1683078" version="2" timestamp="2021-08-29T22:17:22Z" changeset="110428616" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Famagosta"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1505107397" lat="45.4434014" lon="9.1679141" version="4" timestamp="2014-08-05T10:49:01Z" changeset="24553064" uid="113669" user="AnyFile">
     <tag k="name" v="Romolo"/>
@@ -8215,6 +8220,33 @@
     <tag k="name" v="Pianoterra Lab"/>
     <tag k="website" v="http://pianoterralab.org"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3475459387" lat="45.4837988" lon="9.2192067" version="13" timestamp="2021-08-29T12:58:19Z" changeset="110411729" uid="20610" user="napo">
+    <tag k="alt_name" v="Maoji;Maoji Milano;"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:country" v="IT"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/maojistreetfood"/>
+    <tag k="contact:housenumber" v="43"/>
+    <tag k="contact:mobile" v="+39 334 92 52 543;+39 333 80 29 937"/>
+    <tag k="contact:phone" v="+39 02 45 47 95 41"/>
+    <tag k="contact:postcode" v="20131"/>
+    <tag k="contact:street" v="Piazza Aspromonte"/>
+    <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/12246004"/>
+    <tag k="contact:wechat" v="maojimilano"/>
+    <tag k="contact:yelp" v="https://www.yelp.com/biz/maoji-milano"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:vegan" v="no"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="Maoji Street Food"/>
+    <tag k="opening_hours" v="Tu-Su 12:00-14:30,18:00-22:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="takeaway:covid19" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3476255015" lat="45.4807809" lon="9.2173501" version="4" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
     <tag k="brand" v="Carrefour Express"/>
@@ -19099,6 +19131,21 @@
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="255324426" version="4" timestamp="2021-08-29T12:58:58Z" changeset="110411758" uid="20610" user="napo">
+    <center lat="45.4836401" lon="9.2197169"/>
+    <nd ref="2610175990"/>
+    <nd ref="2533478181"/>
+    <nd ref="2610175986"/>
+    <nd ref="2533478194"/>
+    <nd ref="2610175988"/>
+    <nd ref="4352342170"/>
+    <nd ref="259715300"/>
+    <nd ref="4352342169"/>
+    <nd ref="2610175990"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
   <way id="255758754" version="3" timestamp="2021-08-16T08:29:16Z" changeset="109735359" uid="4413023" user="realjep">
     <center lat="45.4805959" lon="9.2239100"/>
     <nd ref="2614477773"/>
@@ -19260,6 +19307,21 @@
     <nd ref="2893595137"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="287870197" version="3" timestamp="2021-08-29T12:59:01Z" changeset="110411758" uid="20610" user="napo">
+    <center lat="45.4839448" lon="9.2194917"/>
+    <nd ref="2914344742"/>
+    <nd ref="2914344743"/>
+    <nd ref="2914344746"/>
+    <nd ref="2914344745"/>
+    <nd ref="2914344740"/>
+    <nd ref="4352342591"/>
+    <nd ref="2914344741"/>
+    <nd ref="2914344744"/>
+    <nd ref="2914344742"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="289558688" version="2" timestamp="2021-06-05T20:10:40Z" changeset="105896562" uid="4806489" user="giucas">
     <center lat="45.5148006" lon="9.1889698"/>
@@ -20126,6 +20188,21 @@
     <tag k="ref:vatin" v="IT12619750156"/>
     <tag k="shop" v="supermarket"/>
     <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="434688390" version="4" timestamp="2021-08-29T15:59:16Z" changeset="110418613" uid="62789" user="wolfsolver">
+    <center lat="45.4903683" lon="9.2460201"/>
+    <nd ref="4326373639"/>
+    <nd ref="4326373638"/>
+    <nd ref="3358559095"/>
+    <nd ref="6086955125"/>
+    <nd ref="3358559096"/>
+    <nd ref="4326373639"/>
+    <tag k="addr:housenumber" v="68/3"/>
+    <tag k="addr:street" v="via Feltre"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="Scuola dell'infanzia &quot;Feltre&quot;"/>
+    <tag k="operator:type" v="public"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="435909578" version="2" timestamp="2019-10-15T08:41:16Z" changeset="75706424" uid="89897" user="airon90">
