@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-06T03:11:18Z" areas="2021-09-06T02:46:52Z"/>
+<meta osm_base="2021-09-07T03:10:03Z" areas="2021-09-07T02:43:20Z"/>
 
   <way id="4604822" version="12" timestamp="2019-06-11T09:22:31Z" changeset="71132704" uid="9631702" user="sara di giorgio">
     <bounds minlat="45.4522524" minlon="9.1782934" maxlat="45.4522711" maxlon="9.1782952"/>
@@ -51086,7 +51086,7 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="940487425" version="1" timestamp="2021-05-07T16:56:36Z" changeset="104332115" uid="11780919" user="ViaLibera_LorenzoStucchi">
+  <way id="940487425" version="3" timestamp="2021-09-06T21:13:35Z" changeset="110821172" uid="6060820" user="Harvesterify">
     <bounds minlat="45.5050853" minlon="9.1797977" maxlat="45.5051239" maxlon="9.1799298"/>
     <nd ref="8710234844" lat="45.5051239" lon="9.1799298"/>
     <nd ref="8710234843" lat="45.5051139" lon="9.1798957"/>
@@ -51095,6 +51095,8 @@
     <nd ref="8710234841" lat="45.5050853" lon="9.1797977"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="940487426" version="1" timestamp="2021-05-07T16:56:36Z" changeset="104332115" uid="11780919" user="ViaLibera_LorenzoStucchi">
     <bounds minlat="45.5049693" minlon="9.1797370" maxlat="45.5050448" maxlon="9.1797944"/>
@@ -56363,6 +56365,17 @@
     <nd ref="9063148250" lat="45.4742512" lon="9.1552565"/>
     <nd ref="5628181269" lat="45.4742522" lon="9.1552221"/>
     <nd ref="9063148251" lat="45.4742552" lon="9.1551210"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="980164845" version="1" timestamp="2021-09-06T15:58:54Z" changeset="110810836" uid="89897" user="airon90">
+    <bounds minlat="45.5138788" minlon="9.1254045" maxlat="45.5140300" maxlon="9.1256008"/>
+    <nd ref="339246530" lat="45.5140300" lon="9.1256008"/>
+    <nd ref="2626152025" lat="45.5139745" lon="9.1255268"/>
+    <nd ref="9067205339" lat="45.5139391" lon="9.1254816"/>
+    <nd ref="9067205340" lat="45.5139240" lon="9.1254623"/>
+    <nd ref="2626152017" lat="45.5138788" lon="9.1254045"/>
+    <tag k="crossing" v="marked"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
