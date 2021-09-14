@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-13T03:15:39Z" areas="2021-09-13T02:26:29Z"/>
+<meta osm_base="2021-09-14T03:15:12Z" areas="2021-09-14T02:55:50Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -290,6 +290,21 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="259173170" lat="45.4442143" lon="9.1569964" version="5" timestamp="2021-09-13T21:55:42Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="post_office"/>
+    <tag k="atm" v="yes"/>
+    <tag k="created_by" v="Potlatch 0.10f"/>
+    <tag k="name" v="Milano 30"/>
+    <tag k="operator" v="Poste Italiane"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="266325956" lat="45.4390003" lon="9.1557588" version="4" timestamp="2021-09-13T21:57:09Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="evangelical"/>
+    <tag k="name" v="Betel"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="266972542" lat="45.4900661" lon="9.1901608" version="7" timestamp="2019-09-13T13:29:58Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -312,6 +327,18 @@
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Farmacia Humanitas"/>
     <tag k="phone" v="+39 02 6700449"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="268403462" lat="45.4311351" lon="9.1628710" version="3" timestamp="2021-09-13T21:59:57Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <tag k="created_by" v="Potlatch 0.9c"/>
+    <tag k="name" v="Mercato Comunale"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="268405026" lat="45.4370203" lon="9.1610180" version="8" timestamp="2021-09-13T21:45:28Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="A.F.M. COMUNALE N.70"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="268567601" lat="45.4659559" lon="9.1922395" version="4" timestamp="2016-05-02T16:30:56Z" changeset="39037489" uid="290680" user="wheelmap_visitor">
@@ -413,6 +440,13 @@
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Bovisa"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="279124325" lat="45.4376819" lon="9.1552930" version="4" timestamp="2021-09-13T21:48:16Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia Barona"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="281449913" lat="45.5032088" lon="9.1624836" version="7" timestamp="2021-03-03T09:49:33Z" changeset="100337985" uid="89897" user="airon90">
     <tag k="amenity" v="pharmacy"/>
@@ -1234,6 +1268,12 @@
   <node id="460445554" lat="45.4509905" lon="9.2241225" version="4" timestamp="2017-10-22T15:56:55Z" changeset="53153362" uid="1476146" user="Alecs01">
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="464814775" lat="45.4395888" lon="9.1541822" version="2" timestamp="2021-09-13T21:53:46Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="La Magolfa 3"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="471165586" lat="45.4668738" lon="9.1901997" version="6" timestamp="2018-11-14T22:56:47Z" changeset="64506433" uid="76884" user="philippec">
     <tag k="amenity" v="drinking_water"/>
@@ -14805,6 +14845,13 @@
     <tag k="name" v="La Coccinella"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="6622843007" lat="45.4314773" lon="9.1630440" version="2" timestamp="2021-09-13T21:59:52Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="6652798487" lat="45.4908677" lon="9.1889100" version="2" timestamp="2021-06-18T12:15:58Z" changeset="106587593" uid="4838813" user="LorenzoStucchi">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20159"/>
@@ -15964,6 +16011,11 @@
     <tag k="operator" v="Ospedale Niguarda"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9088678931" lat="45.4489329" lon="9.1730503" version="1" timestamp="2021-09-13T17:10:09Z" changeset="111156558" uid="13840929" user="aa30mom">
+    <tag k="amenity" v="telephone"/>
+    <tag k="operator" v="TIM"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -16082,6 +16134,25 @@
     <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.ideahotel.it/web/guest/idea-hotel-milano-watttredici"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="23911120" version="3" timestamp="2021-09-13T21:56:08Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <center lat="45.4449537" lon="9.1556182"/>
+    <nd ref="259173137"/>
+    <nd ref="259173138"/>
+    <nd ref="259173139"/>
+    <nd ref="259173140"/>
+    <nd ref="259173141"/>
+    <nd ref="259173137"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="20143"/>
+    <tag k="addr:street" v="Via Giovanni Enrico Pestalozzi"/>
+    <tag k="building" v="supermarket"/>
+    <tag k="name" v="Lidl"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:30, Su 08:00-21:00"/>
+    <tag k="operator" v="Lidl"/>
+    <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="24009740" version="9" timestamp="2021-04-14T09:12:15Z" changeset="102916940" uid="3905105" user="Paolo Migliavacca">
@@ -17599,6 +17670,25 @@
     <tag k="website" v="https://www.esselunga.it/cms/negozi/ricerca-negozi.AFF.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="124443108" version="6" timestamp="2021-09-13T21:46:04Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <center lat="45.4365241" lon="9.1577053"/>
+    <nd ref="1385220515"/>
+    <nd ref="1385220549"/>
+    <nd ref="1385220551"/>
+    <nd ref="1385220547"/>
+    <nd ref="1385220546"/>
+    <nd ref="1385220529"/>
+    <nd ref="1385220515"/>
+    <tag k="brand" v="Carrefour Market"/>
+    <tag k="brand:wikidata" v="Q2689639"/>
+    <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Carrefour Market"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Carefour S.p.a."/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="134470223" version="4" timestamp="2019-02-13T23:06:37Z" changeset="67177433" uid="95387" user="rugamarcus">
     <center lat="45.4389198" lon="9.2413887"/>
     <nd ref="1478328453"/>
@@ -17771,6 +17861,46 @@
     <tag k="building:material" v="glass"/>
     <tag k="name" v="Palazzo Regione Lombardia"/>
     <tag k="office" v="government"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="136312611" version="4" timestamp="2021-09-13T21:57:40Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+    <center lat="45.4413586" lon="9.1597757"/>
+    <nd ref="1495462257"/>
+    <nd ref="1495462262"/>
+    <nd ref="1495462263"/>
+    <nd ref="1495462268"/>
+    <nd ref="1495462275"/>
+    <nd ref="1495462273"/>
+    <nd ref="1495462279"/>
+    <nd ref="1495462250"/>
+    <nd ref="1495462251"/>
+    <nd ref="1495462247"/>
+    <nd ref="1495462246"/>
+    <nd ref="1495462233"/>
+    <nd ref="1495462229"/>
+    <nd ref="1495462221"/>
+    <nd ref="1495462220"/>
+    <nd ref="1495462218"/>
+    <nd ref="1495462215"/>
+    <nd ref="1495462202"/>
+    <nd ref="1495462199"/>
+    <nd ref="1495462200"/>
+    <nd ref="1495462203"/>
+    <nd ref="1495462206"/>
+    <nd ref="1495462208"/>
+    <nd ref="1495462217"/>
+    <nd ref="1495462227"/>
+    <nd ref="1495462225"/>
+    <nd ref="1495462228"/>
+    <nd ref="1495462223"/>
+    <nd ref="1495462240"/>
+    <nd ref="1495462239"/>
+    <nd ref="1495462253"/>
+    <nd ref="1495462257"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="religion" v="christian"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="136332873" version="4" timestamp="2020-04-25T09:20:58Z" changeset="84096536" uid="1476146" user="Alecs01">
