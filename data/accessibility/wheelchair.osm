@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-21T03:14:43Z" areas="2021-09-21T02:22:23Z"/>
+<meta osm_base="2021-09-22T03:15:44Z" areas="2021-09-22T02:30:42Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -9667,6 +9667,12 @@
     <tag k="opening_hours" v="Mo-Su 18:00-04:00"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3848626160" lat="45.4838921" lon="9.2033364" version="3" timestamp="2021-09-21T07:54:20Z" changeset="111480781" uid="13965051" user="mapper2021_02">
+    <tag k="fixme" v="posizione approssimativa"/>
+    <tag k="name" v="Centrale FS"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3861246182" lat="45.4809459" lon="9.2038085" version="4" timestamp="2019-09-13T09:42:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -15027,21 +15033,16 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="7091023675" lat="45.4640192" lon="9.2280786" version="2" timestamp="2021-01-16T15:38:43Z" changeset="97609391" uid="12169583" user="davidfaure_bot">
+  <node id="7091023675" lat="45.4640192" lon="9.2280786" version="3" timestamp="2021-09-21T21:35:54Z" changeset="111515539" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Via Luisa Battistotti Sassi"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="contact:email" v="angeloazzurro@163.com"/>
     <tag k="contact:phone" v="+39 02 719350"/>
-    <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/Restaurant_Review-g187849-d1084209"/>
-    <tag k="contact:website" v="https://www.ristoranteangeloazzurro.com"/>
-    <tag k="contact:yelp" v="https://www.yelp.com/biz/l-angelo-azzurro-milano"/>
     <tag k="cuisine" v="italian;italian_pizza;sicilian"/>
     <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Angelo Azzurro"/>
-    <tag k="opening_hours" v="Mo 12:00-14:45; Tu-Fr 12:00-14:45,19:00-23:00; Sa 19:00-23:00"/>
+    <tag k="name" v="Trattoria Da Lucia"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT06368340961"/>
     <tag k="reservation" v="yes"/>
@@ -16039,6 +16040,56 @@
     <tag k="operator" v="TIM"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9111882459" lat="45.5183567" lon="9.1659330" version="2" timestamp="2021-09-21T21:03:54Z" changeset="111514849" uid="89897" user="airon90">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="20161"/>
+    <tag k="addr:street" v="Via Giuseppe Taccioli"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="main"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9111882460" lat="45.5183611" lon="9.1658915" version="1" timestamp="2021-09-21T20:50:11Z" changeset="111514453" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="20161"/>
+    <tag k="addr:street" v="Via Giuseppe Taccioli"/>
+    <tag k="contact:website" v="http://www.cityangels.it/"/>
+    <tag k="name" v="City Angels"/>
+    <tag k="office" v="association"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q3678608"/>
+    <tag k="wikipedia" v="it:City Angels"/>
+  </node>
+  <node id="9111882461" lat="45.5184245" lon="9.1659413" version="1" timestamp="2021-09-21T20:50:11Z" changeset="111514453" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="20161"/>
+    <tag k="addr:street" v="Via Giuseppe Taccioli"/>
+    <tag k="contact:email" v="info@wildingdefense.com"/>
+    <tag k="contact:facebook" v="AutodifesaIstintiva"/>
+    <tag k="contact:instagram" v="autodifesawilding"/>
+    <tag k="contact:phone" v="+39 02 26809435"/>
+    <tag k="contact:website" v="https://wildingdefense.com"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/channel/UC2KLye2KEhxUrvOT2xzIAmg"/>
+    <tag k="name" v="Wilding Defense"/>
+    <tag k="office" v="association"/>
+    <tag k="ref:vatin" v="IT06029570964"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9111910467" lat="45.5184020" lon="9.1659723" version="1" timestamp="2021-09-21T21:03:54Z" changeset="111514849" uid="89897" user="airon90">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="20161"/>
+    <tag k="addr:street" v="Via Giuseppe Taccioli"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="main"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -16311,6 +16362,30 @@
     <tag k="fee" v="no"/>
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="25802143" version="8" timestamp="2021-09-21T21:03:54Z" changeset="111514849" uid="89897" user="airon90">
+    <center lat="45.5183917" lon="9.1659205"/>
+    <nd ref="281442998"/>
+    <nd ref="281442999"/>
+    <nd ref="9111882459"/>
+    <nd ref="9111910467"/>
+    <nd ref="281443000"/>
+    <nd ref="281443001"/>
+    <nd ref="281442998"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="20161"/>
+    <tag k="addr:street" v="Via Giuseppe Taccioli"/>
+    <tag k="building" v="office"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:levels:underground" v="0"/>
+    <tag k="disused:building" v="train_station"/>
+    <tag k="name" v="Milano Nord Affori"/>
+    <tag k="smoking" v="no"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q3970110"/>
+    <tag k="wikipedia" v="it:Stazione di Milano Affori (1879)"/>
   </way>
   <way id="25828565" version="9" timestamp="2020-01-21T18:12:33Z" changeset="79871090" uid="561047" user="ggamba">
     <center lat="45.4952828" lon="9.1853449"/>
