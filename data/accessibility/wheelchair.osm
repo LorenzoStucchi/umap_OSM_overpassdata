@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-23T03:16:13Z" areas="2021-09-22T23:02:13Z"/>
+<meta osm_base="2021-09-24T03:15:01Z" areas="2021-09-24T02:12:27Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -2995,6 +2995,21 @@
     <tag k="ref" v="12490"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1679594690" lat="45.4633974" lon="9.2303916" version="6" timestamp="2021-09-23T07:12:55Z" changeset="111575788" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Via Lomellina"/>
+    <tag k="alt_name" v="Società Cooperativa"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="contact:phone" v="+39 02 83641757"/>
+    <tag k="name" v="La liberazione"/>
+    <tag k="official_name" v="Bar cooperativa La Liberazione"/>
+    <tag k="opening_hours" v="Mo-Fr 12:00-15:00, 18:00-01:00; Sa 18:00-01:00"/>
+    <tag k="ref:vatin" v="IT08270010963"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wifi" v="no"/>
   </node>
   <node id="1679594691" lat="45.4793001" lon="9.2297167" version="6" timestamp="2018-02-24T16:15:15Z" changeset="56638997" uid="290680" user="wheelmap_visitor">
     <tag k="bench" v="yes"/>
@@ -12826,7 +12841,7 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5100509523" lat="45.4619895" lon="9.2294233" version="4" timestamp="2021-01-01T16:00:12Z" changeset="96777733" uid="12169583" user="davidfaure_bot">
+  <node id="5100509523" lat="45.4619895" lon="9.2294233" version="5" timestamp="2021-09-23T07:12:55Z" changeset="111575788" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:postcode" v="20137"/>
@@ -12838,14 +12853,14 @@
     <tag k="brewery" v="yes"/>
     <tag k="contact:justeat" v="https://www.justeat.it/restaurants-kiku"/>
     <tag k="contact:phone" v="+39 02 70103250"/>
-    <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/10451145"/>
+    <tag k="contact:tripadvisor" v="10451145"/>
     <tag k="cuisine" v="japanese;chinese"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Kiku"/>
     <tag k="opening_hours" v="Tu-Su 18:50-23:00; Mo off"/>
     <tag k="opening_hours:covid19" v="same"/>
     <tag k="operator" v="Hu Yuju &amp; C."/>
-    <tag k="outdoor_seating" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT09286470969"/>
     <tag k="reservation" v="yes"/>
     <tag k="smoking" v="no"/>
@@ -13732,14 +13747,14 @@
     <tag k="name" v="Gelateria Artigianale Il Geko"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5651148980" lat="45.4442665" lon="9.2149686" version="2" timestamp="2018-10-21T15:44:49Z" changeset="63727964" uid="290680" user="wheelmap_visitor">
+  <node id="5651148980" lat="45.4442665" lon="9.2149686" version="3" timestamp="2021-09-23T05:11:17Z" changeset="111570903" uid="4458851" user="impotriva">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="66"/>
     <tag k="addr:postcode" v="20135"/>
     <tag k="addr:street" v="Corso Lodi"/>
     <tag k="email" v="info@lastazionedellebiciclette.com"/>
     <tag k="name" v="La Stazione delle Biciclette"/>
-    <tag k="opening_hours" v="Mo 15:00-19:30"/>
+    <tag k="opening_hours" v="Lun 15:00-19:00; Mar-Ven 10:00-13:00, 15:00-19:00; Sab 11:00-19:00"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
