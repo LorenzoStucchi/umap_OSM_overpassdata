@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-24T03:09:55Z" areas="2021-09-24T02:12:27Z"/>
+<meta osm_base="2021-09-25T03:11:15Z" areas="2021-09-25T02:14:43Z"/>
 
   <way id="4604822" version="12" timestamp="2019-06-11T09:22:31Z" changeset="71132704" uid="9631702" user="sara di giorgio">
     <bounds minlat="45.4522524" minlon="9.1782934" maxlat="45.4522711" maxlon="9.1782952"/>
@@ -362,6 +362,18 @@
     <tag k="crossing" v="traffic_signals"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="163834539" version="6" timestamp="2021-09-24T07:40:30Z" changeset="111632556" uid="2370220" user="Paolo pn">
+    <bounds minlat="45.5065301" minlon="9.2110381" maxlat="45.5066115" maxlon="9.2112618"/>
+    <nd ref="9061674506" lat="45.5066115" lon="9.2112618"/>
+    <nd ref="9119395262" lat="45.5065884" lon="9.2111652"/>
+    <nd ref="9119395263" lat="45.5065454" lon="9.2110590"/>
+    <nd ref="1579442583" lat="45.5065301" lon="9.2110381"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="164013615" version="9" timestamp="2019-04-24T15:15:53Z" changeset="69530323" uid="8540010" user="Khanev!">
     <bounds minlat="45.4657054" minlon="9.1754091" maxlat="45.4657299" maxlon="9.1755761"/>
@@ -5357,12 +5369,12 @@
     <tag k="lit" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="323945123" version="7" timestamp="2021-04-10T08:19:04Z" changeset="102685802" uid="12263078" user="ViaLibera_MarinaRanghetti">
-    <bounds minlat="45.4833977" minlon="9.1880243" maxlat="45.4834781" maxlon="9.1881818"/>
+  <way id="323945123" version="8" timestamp="2021-09-24T11:22:15Z" changeset="111642614" uid="1965370" user="marco_camagni">
+    <bounds minlat="45.4833977" minlon="9.1880243" maxlat="45.4834709" maxlon="9.1881677"/>
     <nd ref="5143836541" lat="45.4833977" lon="9.1880243"/>
     <nd ref="8524361437" lat="45.4834004" lon="9.1880297"/>
     <nd ref="3307149253" lat="45.4834129" lon="9.1880542"/>
-    <nd ref="3307149255" lat="45.4834271" lon="9.1880819"/>
+    <nd ref="1990232096" lat="45.4834271" lon="9.1880819"/>
     <nd ref="6555267091" lat="45.4834413" lon="9.1881097"/>
     <nd ref="6555267092" lat="45.4834426" lon="9.1881124"/>
     <nd ref="3307148302" lat="45.4834448" lon="9.1881166"/>
@@ -5370,7 +5382,6 @@
     <nd ref="6555267094" lat="45.4834505" lon="9.1881278"/>
     <nd ref="6555267095" lat="45.4834567" lon="9.1881400"/>
     <nd ref="2617512246" lat="45.4834709" lon="9.1881677"/>
-    <nd ref="6555236972" lat="45.4834781" lon="9.1881818"/>
     <tag k="crossing" v="traffic_signals"/>
     <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
@@ -56564,6 +56575,27 @@
     <tag k="lit" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
+  <way id="979484721" version="3" timestamp="2021-09-24T07:40:30Z" changeset="111632556" uid="2370220" user="Paolo pn">
+    <bounds minlat="45.5068733" minlon="9.2107312" maxlat="45.5069310" maxlon="9.2109349"/>
+    <nd ref="1579442596" lat="45.5068733" lon="9.2107312"/>
+    <nd ref="9058035778" lat="45.5068746" lon="9.2107626"/>
+    <nd ref="9119395266" lat="45.5068758" lon="9.2107909"/>
+    <nd ref="9119395267" lat="45.5069128" lon="9.2109003"/>
+    <nd ref="9078844733" lat="45.5069310" lon="9.2109349"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="979484723" version="2" timestamp="2021-09-24T07:40:30Z" changeset="111632556" uid="2370220" user="Paolo pn">
+    <bounds minlat="45.5067471" minlon="9.2111919" maxlat="45.5067883" maxlon="9.2112633"/>
+    <nd ref="9119395265" lat="45.5067883" lon="9.2111919"/>
+    <nd ref="9061674504" lat="45.5067471" lon="9.2112633"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
   <way id="979505534" version="1" timestamp="2021-09-04T09:04:48Z" changeset="110707640" uid="576807" user="Cerrotorre1974">
     <bounds minlat="45.4867855" minlon="9.1647173" maxlat="45.4869455" maxlon="9.1649588"/>
     <nd ref="9061807232" lat="45.4867855" lon="9.1647173"/>
@@ -57975,6 +58007,25 @@
     <nd ref="9114108941" lat="45.5024338" lon="9.1267670"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+  </way>
+  <way id="986582300" version="1" timestamp="2021-09-24T07:40:30Z" changeset="111632556" uid="2370220" user="Paolo pn">
+    <bounds minlat="45.5068246" minlon="9.2111115" maxlat="45.5068828" maxlon="9.2111528"/>
+    <nd ref="9061674501" lat="45.5068828" lon="9.2111115"/>
+    <nd ref="9119395264" lat="45.5068246" lon="9.2111528"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="986640838" version="1" timestamp="2021-09-24T11:22:15Z" changeset="111642614" uid="1965370" user="marco_camagni">
+    <bounds minlat="45.4834709" minlon="9.1881677" maxlat="45.4834781" maxlon="9.1881818"/>
+    <nd ref="2617512246" lat="45.4834709" lon="9.1881677"/>
+    <nd ref="6555236972" lat="45.4834781" lon="9.1881818"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing:island" v="yes"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="traffic_signals:arrow" v="yes"/>
   </way>
 
 </osm>
