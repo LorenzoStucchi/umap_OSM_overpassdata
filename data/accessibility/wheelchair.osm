@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-25T03:16:28Z" areas="2021-09-25T02:14:43Z"/>
+<meta osm_base="2021-09-26T03:15:27Z" areas="2021-09-26T02:51:15Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -13335,10 +13335,16 @@
     <tag k="operator" v="Banca Popolare di Sondrio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5414250927" lat="45.5012984" lon="9.1543176" version="4" timestamp="2021-08-26T07:19:44Z" changeset="110268245" uid="8227659" user="fmaggi">
+  <node id="5414250927" lat="45.5012984" lon="9.1543176" version="5" timestamp="2021-09-25T10:26:24Z" changeset="111682321" uid="89897" user="airon90">
     <tag k="amenity" v="atm"/>
+    <tag k="brand" v="Banca Popolare di Sondrio"/>
+    <tag k="brand:wikidata" v="Q686176"/>
+    <tag k="brand:wikipedia" v="en:Banca Popolare di Sondrio"/>
     <tag k="check_date" v="2021-08-26"/>
+    <tag k="name" v="Banca Popolare di Sondrio"/>
     <tag k="operator" v="Banca Popolare di Sondrio"/>
+    <tag k="operator:wikidata" v="Q686176"/>
+    <tag k="operator:wikipedia" v="en:Banca Popolare di Sondrio"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5414611344" lat="45.4697490" lon="9.1794036" version="1" timestamp="2018-02-15T16:12:41Z" changeset="56388663" uid="7619503" user="aarizsammie">
@@ -19691,7 +19697,7 @@
     <tag k="building:part" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="303232167" version="10" timestamp="2020-09-16T12:47:07Z" changeset="90988122" uid="1915697" user="Hilton Hotels">
+  <way id="303232167" version="11" timestamp="2021-09-25T10:26:24Z" changeset="111682321" uid="89897" user="airon90">
     <center lat="45.5002365" lon="9.1380137"/>
     <nd ref="3594057109"/>
     <nd ref="3594057106"/>
@@ -19710,7 +19716,9 @@
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:postcode" v="20156"/>
     <tag k="addr:street" v="Via Ludovico di Breme"/>
-    <tag k="brand" v="DoubleTree by Hilton"/>
+    <tag k="brand" v="DoubleTree"/>
+    <tag k="brand:wikidata" v="Q2504643"/>
+    <tag k="brand:wikipedia" v="en:DoubleTree"/>
     <tag k="building" v="yes"/>
     <tag k="building:levels" v="5"/>
     <tag k="contact:facebook" v="https://www.facebook.com/DoubleTreeMilan"/>
@@ -19719,6 +19727,7 @@
     <tag k="fax" v="+39 02 92883883"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="DoubleTree by Hilton Hotel Milan"/>
+    <tag k="official_name" v="DoubleTree by Hilton"/>
     <tag k="operator" v="Hilton Hotels"/>
     <tag k="phone" v="+39 02 928831"/>
     <tag k="rooms" v="240"/>
