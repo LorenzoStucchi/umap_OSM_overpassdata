@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-26T03:15:27Z" areas="2021-09-26T02:51:15Z"/>
+<meta osm_base="2021-09-27T03:16:14Z" areas="2021-09-27T02:33:40Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -2562,15 +2562,19 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1533118079" lat="45.4783361" lon="9.2016028" version="6" timestamp="2018-07-31T09:11:03Z" changeset="61221374" uid="92387" user="SimonPoole">
+  <node id="1533118079" lat="45.4783361" lon="9.2016028" version="7" timestamp="2021-09-26T21:04:10Z" changeset="111740681" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Camillo Finocchiaro Aprile"/>
+    <tag k="branch" v="Milano centro"/>
+    <tag k="brand" v="Ibis"/>
+    <tag k="brand:wikidata" v="Q920166"/>
+    <tag k="brand:wikipedia" v="en:Ibis (hotel)"/>
     <tag k="email" v="h0933-bo@accor.com"/>
     <tag k="fax" v="+39 02 6598026"/>
-    <tag k="name" v="ibis Milano Centro"/>
+    <tag k="name" v="ibis Milano centro"/>
     <tag k="phone" v="+39 02 63151"/>
     <tag k="rooms" v="439"/>
     <tag k="stars" v="3"/>
@@ -4150,10 +4154,11 @@
     <tag k="website" v="http://www.farmaciaorio.com/index.asp"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2116897931" lat="45.4756863" lon="9.2071426" version="9" timestamp="2019-09-16T19:38:23Z" changeset="74548223" uid="1476146" user="Alecs01">
+  <node id="2116897931" lat="45.4756863" lon="9.2071426" version="10" timestamp="2021-09-26T21:04:10Z" changeset="111740681" uid="89897" user="airon90">
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Via Lazzaro Spallanzani"/>
-    <tag k="brand" v="Unes"/>
+    <tag k="brand" v="U2"/>
+    <tag k="brand:wikidata" v="Q105542216"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="U2"/>
@@ -10092,7 +10097,7 @@
     <tag k="website" v="http://tomoyoshi-endo.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3957004123" lat="45.4760295" lon="9.2026759" version="6" timestamp="2020-01-13T11:42:02Z" changeset="79513926" uid="89897" user="airon90">
+  <node id="3957004123" lat="45.4760295" lon="9.2026759" version="7" timestamp="2021-09-26T21:04:10Z" changeset="111740681" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20124"/>
@@ -10102,14 +10107,14 @@
     <tag k="brand" v="Flower Burger"/>
     <tag k="brand:wikidata" v="Q67168925"/>
     <tag k="contact:email" v="smile@flowerburger.it"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/flowerburger2015"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/flower_burger"/>
+    <tag k="contact:facebook" v="flowerburger2015"/>
+    <tag k="contact:instagram" v="flower_burger"/>
     <tag k="contact:mobile" v="+39 338 8981899"/>
     <tag k="contact:phone" v="+39 02 39628381"/>
-    <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/Restaurant_Review-g187849-d8732699"/>
+    <tag k="contact:tripadvisor" v="8732699"/>
     <tag k="contact:website" v="http://www.flowerburger.it"/>
-    <tag k="contact:yelp" v="http://www.yelp.com/biz/flower-burger-milano"/>
-    <tag k="cuisine" v="sandwich"/>
+    <tag k="contact:yelp" v="flower-burger-milano"/>
+    <tag k="cuisine" v="burger"/>
     <tag k="delivery" v="yes"/>
     <tag k="delivery:foodora" v="yes"/>
     <tag k="delivery:foodora:ref" v="https://www.foodora.it/restaurant/s2zd/flower-burger"/>
@@ -12701,7 +12706,7 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="width:bicycle" v="1"/>
   </node>
-  <node id="4971709244" lat="45.4593179" lon="9.1881323" version="4" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="4971709244" lat="45.4593179" lon="9.1881323" version="5" timestamp="2021-09-26T07:25:47Z" changeset="111709791" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="9"/>
@@ -12711,6 +12716,9 @@
     <tag k="brand:wikidata" v="Q2940190"/>
     <tag k="brand:wikipedia" v="fr:Carrefour Express"/>
     <tag k="name" v="Carrefour Express"/>
+    <tag k="operator" v="GS SPA"/>
+    <tag k="phone" v="+39 02 72105424"/>
+    <tag k="ref:vatin" v="IT12683790153"/>
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -15120,7 +15128,7 @@
     <tag k="shop" v="video_games"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="7155082869" lat="45.4595245" lon="9.1881649" version="3" timestamp="2020-10-28T15:06:03Z" changeset="93180978" uid="290680" user="wheelmap_visitor">
+  <node id="7155082869" lat="45.4595245" lon="9.1881649" version="4" timestamp="2021-09-26T07:25:47Z" changeset="111709791" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20122"/>
@@ -15132,7 +15140,7 @@
     <tag k="payment:bancomat" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="shop" v="supermarket"/>
+    <tag k="shop" v="convenience"/>
     <tag k="website" v="https://www.esselunga.it/cms/negozi/laesse.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
