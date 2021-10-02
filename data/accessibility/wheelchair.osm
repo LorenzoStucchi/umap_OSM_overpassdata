@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-01T03:19:13Z" areas="2021-10-01T02:47:35Z"/>
+<meta osm_base="2021-10-02T03:15:40Z" areas="2021-10-02T03:03:23Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -5153,6 +5153,14 @@
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Abbadesse"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2435243901" lat="45.5211608" lon="9.1646581" version="5" timestamp="2021-10-01T11:48:29Z" changeset="111960119" uid="67550" user="Aiman">
+    <tag k="amenity" v="recycling"/>
+    <tag k="operator" v="Caritas Ambrosiana"/>
+    <tag k="recycling:clothes" v="yes"/>
+    <tag k="recycling:shoes" v="yes"/>
+    <tag k="recycling_type" v="container"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2435344000" lat="45.4811491" lon="9.1875413" version="5" timestamp="2020-05-20T17:28:45Z" changeset="85512134" uid="4838813" user="LorenzoStucchi">
@@ -21126,6 +21134,79 @@
     <tag k="shop" v="mall"/>
     <tag k="short_name" v="Brian &amp; Barry"/>
     <tag k="stroller" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="931936846" version="4" timestamp="2021-10-01T11:40:51Z" changeset="111959834" uid="67550" user="Aiman">
+    <center lat="45.5206542" lon="9.1629409"/>
+    <nd ref="1552502836"/>
+    <nd ref="8639587620"/>
+    <nd ref="8639587621"/>
+    <nd ref="8639587622"/>
+    <nd ref="8639587636"/>
+    <nd ref="8639587635"/>
+    <nd ref="8639587624"/>
+    <nd ref="8639587634"/>
+    <nd ref="8639587625"/>
+    <nd ref="8639587633"/>
+    <nd ref="8639587628"/>
+    <nd ref="8639587627"/>
+    <nd ref="8639587630"/>
+    <nd ref="8639587626"/>
+    <nd ref="8639587629"/>
+    <nd ref="8639587631"/>
+    <nd ref="8639587632"/>
+    <nd ref="8639587623"/>
+    <nd ref="8639587619"/>
+    <nd ref="8639587618"/>
+    <nd ref="8639587617"/>
+    <nd ref="1552505401"/>
+    <nd ref="1552505404"/>
+    <nd ref="1552505397"/>
+    <nd ref="1552505395"/>
+    <nd ref="1552505394"/>
+    <nd ref="2834149177"/>
+    <nd ref="1552504794"/>
+    <nd ref="1552504739"/>
+    <nd ref="1552504675"/>
+    <nd ref="1552504424"/>
+    <nd ref="1552504413"/>
+    <nd ref="1552504386"/>
+    <nd ref="1624151536"/>
+    <nd ref="1552504369"/>
+    <nd ref="1552504374"/>
+    <nd ref="1552504194"/>
+    <nd ref="1552504226"/>
+    <nd ref="8639557616"/>
+    <nd ref="1552504061"/>
+    <nd ref="1552504058"/>
+    <nd ref="1552503934"/>
+    <nd ref="1552503926"/>
+    <nd ref="1610782236"/>
+    <nd ref="1552503892"/>
+    <nd ref="1552503906"/>
+    <nd ref="1552503819"/>
+    <nd ref="1552503808"/>
+    <nd ref="1552503774"/>
+    <nd ref="8639587638"/>
+    <nd ref="1552503024"/>
+    <nd ref="1552502998"/>
+    <nd ref="1552502863"/>
+    <nd ref="1552502788"/>
+    <nd ref="1552502778"/>
+    <nd ref="1552502793"/>
+    <nd ref="1552502844"/>
+    <nd ref="1552502864"/>
+    <nd ref="8639557613"/>
+    <nd ref="1552502836"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="email" v="info@ospedaleniguarda.it"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="name" v="Presidio territoriale Ippocrate"/>
+    <tag k="oneway" v="no"/>
+    <tag k="operator" v="ASST Grande Ospedale Metropolitano Niguarda"/>
+    <tag k="phone" v="+39 02 6444.1"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="website" v="http://www.asst-nordmilano.it/ippocrate"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="933629198" version="1" timestamp="2021-04-21T20:50:54Z" changeset="103364066" uid="4890411" user="phaerrax">
