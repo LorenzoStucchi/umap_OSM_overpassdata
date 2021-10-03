@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-02T03:15:40Z" areas="2021-10-02T03:03:23Z"/>
+<meta osm_base="2021-10-03T03:15:47Z" areas="2021-10-03T02:15:12Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -4170,6 +4170,18 @@
     <tag k="ref:vatin" v="IT07515280159"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2129506810" lat="45.4929307" lon="9.1928816" version="6" timestamp="2021-10-02T12:18:14Z" changeset="111998188" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="MM3, MM5 - Zara"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2129506812" lat="45.4928567" lon="9.1931362" version="6" timestamp="2021-10-02T12:13:25Z" changeset="111998188" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="MM3, MM5 - Zara"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2129716330" lat="45.4835145" lon="9.1680339" version="3" timestamp="2020-10-09T16:40:27Z" changeset="92240736" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -14533,17 +14545,18 @@
     <tag k="operator" v="Autogrill Italia S.p.A."/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5992727752" lat="45.4893056" lon="9.2043891" version="2" timestamp="2020-02-11T17:14:28Z" changeset="80862351" uid="4705730" user="AnisKoutsi">
+  <node id="5992727752" lat="45.4616154" lon="9.2201645" version="4" timestamp="2021-10-02T20:57:43Z" changeset="112015270" uid="14223943" user="Michele Facci">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="28125"/>
-    <tag k="addr:street" v="Via Ponte Seveso"/>
-    <tag k="email" v="info@psicologo.mi.it"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Piazza Giuseppe Grandi"/>
+    <tag k="email" v="milano@studiopsicologiafacci.it"/>
     <tag k="healthcare" v="psychotherapist"/>
+    <tag k="healthcare:speciality" v="psychotherapist;psychology"/>
     <tag k="name" v="Studio di Psicologia - Dott. Michele Facci"/>
-    <tag k="name:en" v="Psycology Studio"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="phone" v="+39 3491250498‬"/>
+    <tag k="name:en" v="Dr. Michele Facci Psychologist Psychotherapist"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="phone" v="+39 02 479 23679"/>
     <tag k="website" v="https://www.studiopsicologiafacci.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -14605,7 +14618,7 @@
     <tag k="website" v="https://www.sagempulizie.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6052630999" lat="45.5048896" lon="9.2201888" version="2" timestamp="2021-02-28T13:55:47Z" changeset="100137813" uid="4413023" user="realjep">
+  <node id="6052630999" lat="45.5049522" lon="9.2201981" version="3" timestamp="2021-10-02T19:09:31Z" changeset="112012743" uid="4413023" user="realjep">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
@@ -15567,12 +15580,13 @@
     <tag k="name" v="Baraonda Cafè"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8284128795" lat="45.4887211" lon="9.1903911" version="2" timestamp="2021-04-24T12:03:16Z" changeset="103533500" uid="161619" user="FvGordon">
+  <node id="8284128795" lat="45.4887211" lon="9.1903911" version="3" timestamp="2021-10-02T12:36:46Z" changeset="111999091" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Garigliano"/>
+    <tag k="self_service" v="no"/>
     <tag k="shop" v="laundry"/>
     <tag k="wheelchair" v="limited"/>
   </node>
