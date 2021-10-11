@@ -40,8 +40,8 @@ out skel qt;
 [out:xml][timeout:300];
 {{geocodeArea:Italia}}->.searchArea;
 (
-	node["museo"="ecomuseum"](area.searchArea);
-	way["museo"="ecomuseum"](area.searchArea);
+	node["museum"="ecomuseum"](area.searchArea);
+	way["museum"="ecomuseum"](area.searchArea);
 );
 out;
 >;
