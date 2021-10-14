@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-13T03:17:16Z" areas="2021-10-13T00:58:28Z"/>
+<meta osm_base="2021-10-14T03:16:14Z" areas="2021-10-14T00:44:25Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -3908,7 +3908,7 @@
     <tag k="website" v="http://www.farmaciaremotti.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2010688947" lat="45.4851821" lon="9.2049092" version="8" timestamp="2021-07-04T08:09:01Z" changeset="107379324" uid="3860151" user="Michele Aquilani">
+  <node id="2010688947" lat="45.4862737" lon="9.2063373" version="9" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Piazza Luigi di Savoia"/>
@@ -8341,12 +8341,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3503985883" lat="45.4851631" lon="9.2037450" version="4" timestamp="2021-08-31T12:17:20Z" changeset="110512020" uid="3860151" user="Michele Aquilani">
+  <node id="3503985883" lat="45.4851086" lon="9.2036914" version="5" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3503985885" lat="45.4852673" lon="9.2034509" version="3" timestamp="2021-05-27T04:03:40Z" changeset="105388297" uid="4413023" user="realjep">
+  <node id="3503985885" lat="45.4852372" lon="9.2034361" version="4" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
+    <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -9577,7 +9578,7 @@
     <tag k="website" v="https://www.cityliferistorante.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3848621551" lat="45.4832312" lon="9.2048147" version="2" timestamp="2019-09-13T10:58:08Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3848621551" lat="45.4832524" lon="9.2048429" version="3" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="43"/>
@@ -9588,13 +9589,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3848621553" lat="45.4842470" lon="9.2049124" version="5" timestamp="2021-07-04T08:09:01Z" changeset="107379324" uid="3860151" user="Michele Aquilani">
+  <node id="3848621553" lat="45.4842470" lon="9.2049124" version="6" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Piazza Duca d'Aosta"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza;italian;regional"/>
-    <tag k="name" v="Ristorante pizzeria Bar Milano"/>
+    <tag k="name" v="Central Station"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -9705,8 +9706,7 @@
     <tag k="opening_hours" v="Mo-Su 18:00-04:00"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3848626160" lat="45.4838921" lon="9.2033364" version="3" timestamp="2021-09-21T07:54:20Z" changeset="111480781" uid="13965051" user="mapper2021_02">
-    <tag k="fixme" v="posizione approssimativa"/>
+  <node id="3848626160" lat="45.4838749" lon="9.2034038" version="4" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -20402,16 +20402,16 @@
     <tag k="sport" v="volleyball"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="381698774" version="2" timestamp="2019-09-13T08:44:08Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <way id="381698774" version="3" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
     <center lat="45.4846350" lon="9.2044807"/>
     <nd ref="3848618982"/>
     <nd ref="3848626028"/>
     <nd ref="3848623276"/>
     <nd ref="3848626026"/>
     <nd ref="3848618982"/>
+    <tag k="amenity" v="cafe"/>
     <tag k="building" v="kiosk"/>
     <tag k="building:levels" v="1"/>
-    <tag k="shop" v="kiosk"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="405453801" version="11" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
