@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-20T03:16:43Z" areas="2021-10-20T02:24:03Z"/>
+<meta osm_base="2021-10-21T03:20:10Z" areas="2021-10-21T02:52:55Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -1026,9 +1026,10 @@
     <tag k="name" v="The Manhattan"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="379230328" lat="45.4523948" lon="9.1641567" version="4" timestamp="2020-11-06T23:01:33Z" changeset="93688021" uid="6817530" user="Mzzntn">
+  <node id="379230328" lat="45.4523948" lon="9.1641567" version="5" timestamp="2021-10-20T16:26:28Z" changeset="112752408" uid="13204656" user="Erica Pedone">
     <tag k="amenity" v="post_office"/>
     <tag k="name" v="Milano 112"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-01:45"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -2830,17 +2831,17 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1611026537" lat="45.4737514" lon="9.1514200" version="3" timestamp="2021-06-08T18:19:45Z" changeset="106051664" uid="3391" user="LjL">
+  <node id="1611026537" lat="45.4737676" lon="9.1514314" version="4" timestamp="2021-10-20T15:10:46Z" changeset="112749002" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Amendola"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1611026555" lat="45.4742594" lon="9.1506984" version="3" timestamp="2021-05-31T17:43:25Z" changeset="105637906" uid="3391" user="LjL">
+  <node id="1611026555" lat="45.4742809" lon="9.1507239" version="4" timestamp="2021-10-20T15:10:46Z" changeset="112749002" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Amendola"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1611026559" lat="45.4743544" lon="9.1508457" version="3" timestamp="2021-05-31T17:43:45Z" changeset="105637906" uid="3391" user="LjL">
+  <node id="1611026559" lat="45.4743464" lon="9.1508293" version="4" timestamp="2021-10-20T15:10:46Z" changeset="112749002" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Amendola"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -12107,6 +12108,12 @@
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="4574094991" lat="45.4550498" lon="9.1580568" version="3" timestamp="2021-10-20T16:51:19Z" changeset="112753594" uid="13204656" user="Erica Pedone">
+    <tag k="name" v="Miracoli a Milano"/>
+    <tag k="opening_hours" v="Mo-Fr 09:30-08:00"/>
+    <tag k="shop" v="cheese"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4584487030" lat="45.4950593" lon="9.1885464" version="2" timestamp="2020-07-28T20:02:07Z" changeset="88639365" uid="11566255" user="sinansonmez">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -20295,6 +20302,19 @@
     <tag k="drinking_water" v="yes"/>
     <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="339751565" version="4" timestamp="2021-10-20T16:51:19Z" changeset="112753593" uid="13204656" user="Erica Pedone">
+    <center lat="45.4552797" lon="9.1583812"/>
+    <nd ref="3469674650"/>
+    <nd ref="3356929739"/>
+    <nd ref="3469674620"/>
+    <nd ref="4885927716"/>
+    <nd ref="3469674624"/>
+    <nd ref="4885927717"/>
+    <nd ref="3469674650"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="339887714" version="2" timestamp="2015-05-06T10:48:48Z" changeset="30838543" uid="84396" user="gdavide">
     <center lat="45.5173766" lon="9.1148499"/>
