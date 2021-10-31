@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-30T03:15:58Z" areas="2021-10-30T02:25:16Z"/>
+<meta osm_base="2021-10-31T03:17:13Z" areas="2021-10-31T02:37:44Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -864,6 +864,14 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088234"/>
     <tag k="wikipedia" v="it:San Donato (metropolitana di Milano)"/>
+  </node>
+  <node id="320363973" lat="45.4541489" lon="9.2159819" version="6" timestamp="2021-10-30T13:56:48Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Viale Umbria"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Pizzeria Piccola Ischia"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="320384496" lat="45.4558756" lon="9.2056971" version="6" timestamp="2019-12-02T13:33:16Z" changeset="77823992" uid="10422214" user="Andrei Leca">
     <tag k="addr:city" v="Milano"/>
@@ -2629,6 +2637,15 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1529820734" lat="45.4557377" lon="9.2173558" version="4" timestamp="2021-10-30T13:14:50Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Gaetano Strigelli"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia Fiore"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1533118079" lat="45.4783361" lon="9.2016028" version="7" timestamp="2021-09-26T21:04:10Z" changeset="111740681" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -4033,6 +4050,15 @@
     <tag k="restaurant:type:it" v="ristorante;pizzeria"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2064483921" lat="45.4525484" lon="9.2151177" version="3" timestamp="2021-10-30T13:49:33Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2064483945" lat="45.4550526" lon="9.2158714" version="4" timestamp="2021-10-30T13:38:26Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Torrefazione"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2064784267" lat="45.4959358" lon="9.1861037" version="6" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
@@ -4468,6 +4494,17 @@
     <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Via_Giovan_Battista_Morgagni_Milan.jpg"/>
     <tag k="ref" v="134"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2195525295" lat="45.4913598" lon="9.2125797" version="4" timestamp="2021-10-30T16:33:13Z" changeset="113167281" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Fratelli Lumière"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia Dottor Barni"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2197772532" lat="45.4891421" lon="9.1880636" version="3" timestamp="2019-09-13T15:06:38Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -6391,6 +6428,31 @@
     <tag k="wikidata" v="Q2972688"/>
     <tag k="wikipedia" v="it:Cimiano (metropolitana di Milano)"/>
   </node>
+  <node id="2633774872" lat="45.4540416" lon="9.2158882" version="2" timestamp="2021-10-30T13:56:17Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Ristorante Toscano da Angelo"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2633774879" lat="45.4538761" lon="9.2157834" version="3" timestamp="2021-10-30T13:55:52Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="UniCredit Bank"/>
+    <tag k="brand:wikidata" v="Q45568"/>
+    <tag k="brand:wikipedia" v="en:UniCredit"/>
+    <tag k="name" v="UniCredit Bank"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2633774880" lat="45.4549523" lon="9.2165102" version="3" timestamp="2021-10-30T13:58:19Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="name" v="Gelateria dolce melodia"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2633774881" lat="45.4552280" lon="9.2160181" version="3" timestamp="2021-10-30T13:37:50Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Findomestic"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2639437125" lat="45.4760603" lon="9.2240563" version="5" timestamp="2018-08-04T20:36:29Z" changeset="61361037" uid="1476146" user="Alecs01">
     <tag k="amenity" v="bar"/>
     <tag k="name" v="Gelato di Gaia"/>
@@ -7677,6 +7739,12 @@
     <tag k="operator" v="Bakery Princi srl"/>
     <tag k="ref:vatin" v="IT12125380159"/>
     <tag k="shop" v="bakery"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3202021303" lat="45.4531836" lon="9.2151997" version="3" timestamp="2021-10-30T13:54:19Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="Credito Artigiano"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:00"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3217982355" lat="45.4826039" lon="9.1989669" version="3" timestamp="2019-09-13T10:08:20Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -11274,6 +11342,11 @@
     <tag k="start_date" v="2016-06-20"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4277858842" lat="45.4891041" lon="9.2105790" version="2" timestamp="2021-10-30T16:28:44Z" changeset="113167281" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bar L'Angolo"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4288323149" lat="45.4758357" lon="9.1839310" version="3" timestamp="2019-09-13T13:58:57Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="62"/>
@@ -11817,6 +11890,32 @@
     <tag k="barrier" v="gate"/>
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4409364259" lat="45.4576513" lon="9.2189266" version="2" timestamp="2021-10-30T13:26:04Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Diana"/>
+    <tag k="shop" v="dry_cleaning"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4409364260" lat="45.4570301" lon="9.2174534" version="3" timestamp="2021-10-30T13:17:42Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="Intesa Sanpaolo"/>
+    <tag k="brand:wikidata" v="Q1343118"/>
+    <tag k="brand:wikipedia" v="it:Intesa Sanpaolo"/>
+    <tag k="name" v="Intesa Sanpaolo"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4417961790" lat="45.4563953" lon="9.2171851" version="3" timestamp="2021-10-30T13:16:31Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Viale Umbria"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Trattoria Masuelli"/>
+    <tag k="opening_hours" v="Tu-Sa 12:30-14:30, 20:00-22:30; Mo 20:00-22:30"/>
+    <tag k="website" v="http://masuellitrattoria.com"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4418027390" lat="45.4898297" lon="9.1958988" version="3" timestamp="2019-09-13T13:31:10Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -12665,6 +12764,16 @@
     <tag k="amenity" v="doctors"/>
     <tag k="healthcare" v="doctor"/>
     <tag k="name" v="Neovision"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4891607560" lat="45.4891143" lon="9.2108935" version="2" timestamp="2021-10-30T16:29:11Z" changeset="113167281" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="20127"/>
+    <tag k="addr:street" v="Via Soperga"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Bel Paese"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4897708750" lat="45.4665338" lon="9.1897113" version="4" timestamp="2019-05-19T08:39:50Z" changeset="70404210" uid="1861652" user="pippo67">
@@ -14552,6 +14661,13 @@
     <tag k="name" v="Open Bar"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="5795606670" lat="45.4530188" lon="9.2150607" version="2" timestamp="2021-10-30T13:53:16Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Share"/>
+    <tag k="opening_hours" v="Mo 13:30-19:30, Tu-Sa 10:30-19:30"/>
+    <tag k="second_hand" v="only"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="5796845049" lat="45.4844739" lon="9.2206954" version="3" timestamp="2018-08-04T12:13:56Z" changeset="61352471" uid="1476146" user="Alecs01">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
@@ -15251,6 +15367,25 @@
     <tag k="outdoor_seating" v="no"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="7080187776" lat="45.4576818" lon="9.2188248" version="2" timestamp="2021-10-30T13:25:02Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Via Costanza Arconati"/>
+    <tag k="branch" v="Arconati"/>
+    <tag k="brand" v="Libraccio"/>
+    <tag k="contact:email" v="miarconati@libraccio.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/libracciomilanoarconati"/>
+    <tag k="contact:phone" v="+39 02 55190671"/>
+    <tag k="contact:website" v="https://negozi.libraccio.it/negozi/milano/libraccio-arconati"/>
+    <tag k="name" v="Libraccio"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-19:30; Su 10:00-13:00, 15:00-19:00"/>
+    <tag k="operator" v="Norma Libri S.r.l."/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="ref:vatin" v="IT02317150965"/>
+    <tag k="shop" v="books"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="7091023675" lat="45.4640192" lon="9.2280786" version="3" timestamp="2021-09-21T21:35:54Z" changeset="111515539" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
