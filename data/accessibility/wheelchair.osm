@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-31T03:17:13Z" areas="2021-10-31T02:37:44Z"/>
+<meta osm_base="2021-11-01T03:18:09Z" areas="2021-11-01T00:47:43Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -460,6 +460,18 @@
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Farmacia Archinto"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="270443358" lat="45.5061489" lon="9.2227108" version="12" timestamp="2021-10-31T10:42:56Z" changeset="113187073" uid="4413023" user="realjep">
+    <tag k="name" v="Gorla"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1964"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q1085075"/>
+    <tag k="wikipedia" v="it:Gorla (metropolitana di Milano)"/>
   </node>
   <node id="270728686" lat="45.4782108" lon="9.1842627" version="5" timestamp="2019-09-13T14:31:43Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -1450,7 +1462,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="593500379" lat="45.4518951" lon="9.1870304" version="7" timestamp="2021-02-20T20:41:38Z" changeset="99659465" uid="89897" user="airon90">
+  <node id="593500379" lat="45.4518951" lon="9.1870304" version="8" timestamp="2021-10-31T21:21:38Z" changeset="113209374" uid="113669" user="AnyFile">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20136"/>
     <tag k="addr:street" v="Piazzale di Porta Lodovica"/>
@@ -1458,9 +1470,9 @@
     <tag k="brand:wikidata" v="Q60840755"/>
     <tag k="contact:phone" v="+39 02 58321921"/>
     <tag k="name" v="NaturaSì"/>
-    <tag k="operator" v="Shopsì srl cin unico socio"/>
+    <tag k="operator" v="Bioessere s.r.l."/>
     <tag k="organic" v="only"/>
-    <tag k="ref:vatin" v="IT03017680236"/>
+    <tag k="ref:vatin" v="IT01497100337"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -21522,6 +21534,33 @@
     <tag k="barrier" v="fence"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="779553587" version="3" timestamp="2021-10-31T14:51:28Z" changeset="113196491" uid="13920670" user="skizz98">
+    <center lat="45.4758475" lon="9.1989663"/>
+    <nd ref="7279486636"/>
+    <nd ref="7279486637"/>
+    <nd ref="7279486638"/>
+    <nd ref="7279486639"/>
+    <nd ref="7279487439"/>
+    <nd ref="7279486640"/>
+    <nd ref="7279487440"/>
+    <nd ref="7279487441"/>
+    <nd ref="7284704731"/>
+    <nd ref="7279486641"/>
+    <nd ref="7279487442"/>
+    <nd ref="7279487443"/>
+    <nd ref="7279486642"/>
+    <nd ref="7284704733"/>
+    <nd ref="7279486643"/>
+    <nd ref="7279486644"/>
+    <nd ref="7284704732"/>
+    <nd ref="7279486645"/>
+    <nd ref="7279486646"/>
+    <nd ref="7279486647"/>
+    <nd ref="7279486648"/>
+    <nd ref="7279486636"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
   </way>
   <way id="904845542" version="1" timestamp="2021-02-07T21:17:21Z" changeset="98866053" uid="4890411" user="phaerrax">
     <center lat="45.4352882" lon="9.2377706"/>
