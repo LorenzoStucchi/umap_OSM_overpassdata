@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-02T03:17:47Z" areas="2021-11-02T03:03:52Z"/>
+<meta osm_base="2021-11-03T03:16:48Z" areas="2021-11-03T01:17:24Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -12292,8 +12292,9 @@
     <tag k="amenity" v="cafe"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4610258861" lat="45.4412966" lon="9.2209744" version="3" timestamp="2018-11-01T14:08:29Z" changeset="64080290" uid="417672" user="Guidus">
+  <node id="4610258861" lat="45.4412966" lon="9.2209744" version="4" timestamp="2021-11-02T20:50:46Z" changeset="113302178" uid="1189062" user="csmggl">
     <tag k="amenity" v="atm"/>
+    <tag k="check_date" v="2021-11-02"/>
     <tag k="operator" v="UniCredit"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -16474,6 +16475,18 @@
     <tag k="entrance" v="staircase"/>
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9218759252" lat="45.5098333" lon="9.1883960" version="1" timestamp="2021-11-02T14:23:47Z" changeset="113287253" uid="67550" user="Aiman">
+    <tag k="barrier" v="block"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="material" v="concrete"/>
+    <tag k="mofa" v="no"/>
+    <tag k="moped" v="no"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="motorcycle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
@@ -20853,7 +20866,7 @@
     <tag k="shop" v="kiosk"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="379534259" version="10" timestamp="2021-07-23T09:37:15Z" changeset="108481820" uid="2370220" user="Paolo pn">
+  <way id="379534259" version="11" timestamp="2021-11-02T11:31:37Z" changeset="113279543" uid="14392031" user="Flora polimi">
     <center lat="45.5052476" lon="9.1665687"/>
     <nd ref="1679404779"/>
     <nd ref="1662069425"/>
@@ -20878,6 +20891,7 @@
     <nd ref="1774002200"/>
     <nd ref="2446726392"/>
     <nd ref="2446726422"/>
+    <nd ref="9218370134"/>
     <nd ref="4183583742"/>
     <nd ref="3828447162"/>
     <nd ref="3828447158"/>
@@ -20921,13 +20935,12 @@
     <tag k="sport" v="basketball"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="379534264" version="2" timestamp="2018-07-24T20:43:01Z" changeset="61034979" uid="290680" user="wheelmap_visitor">
-    <center lat="45.5048104" lon="9.1667614"/>
+  <way id="379534264" version="3" timestamp="2021-11-02T11:31:37Z" changeset="113279543" uid="14392031" user="Flora polimi">
+    <center lat="45.5047428" lon="9.1668413"/>
     <nd ref="3828447176"/>
     <nd ref="3828447170"/>
     <nd ref="3828447163"/>
-    <nd ref="1679397460"/>
-    <nd ref="3828447159"/>
+    <nd ref="9218370133"/>
     <nd ref="3828447176"/>
     <tag k="leisure" v="pitch"/>
     <tag k="sport" v="volleyball"/>
