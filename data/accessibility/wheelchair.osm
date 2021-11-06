@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-05T03:17:42Z" areas="2021-11-05T00:44:45Z"/>
+<meta osm_base="2021-11-06T03:17:32Z" areas="2021-11-05T21:57:43Z"/>
 
-  <node id="21226369" lat="45.4684170" lon="9.1754586" version="15" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
+  <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
     <tag k="name" v="Milano Nord Cadorna"/>
-    <tag k="network" v="FNM"/>
-    <tag k="operator" v="Ferrovienord"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="note" v="Area STIBM: Mi1"/>
+    <tag k="operator" v="FNM"/>
     <tag k="platforms" v="10"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
@@ -2421,15 +2422,19 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1498820996" lat="45.4501587" lon="9.2133572" version="5" timestamp="2021-11-04T00:06:08Z" changeset="113353275" uid="11645399" user="davidoskky">
+  <node id="1498820996" lat="45.4501587" lon="9.2133572" version="6" timestamp="2021-11-05T21:58:49Z" changeset="113428674" uid="11220113" user="ivanbranco">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="20135"/>
     <tag k="addr:street" v="Viale Umbria"/>
-    <tag k="alt_name" v="Esselunga"/>
-    <tag k="branch" v="di Viale Umbria"/>
+    <tag k="branch" v="Umbria"/>
     <tag k="brand" v="Esselunga"/>
     <tag k="brand:wikidata" v="Q1059636"/>
     <tag k="brand:wikipedia" v="en:Esselunga"/>
+    <tag k="fax" v="+39 0254 62833"/>
     <tag k="name" v="Esselunga"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 09:00-20:00"/>
+    <tag k="phone" v="+39 0254 121268"/>
     <tag k="ref:vatin" v="IT04916380159"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
@@ -15756,13 +15761,15 @@
     <tag k="website:booking" v="http://www.officineanalfabeta.it/index.html#form4-9"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7787907246" lat="45.4807969" lon="9.1623120" version="3" timestamp="2021-06-04T14:26:51Z" changeset="105844883" uid="4890411" user="phaerrax">
+  <node id="7787907246" lat="45.4807969" lon="9.1623120" version="4" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Domodossola"/>
     <tag k="name" v="Milano Nord Domodossola"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="note" v="Area STIBM: Mi1"/>
     <tag k="old_name" v="Milano Nord Domodossola-Fiera"/>
-    <tag k="operator" v="Trenord"/>
+    <tag k="operator" v="FNM"/>
     <tag k="public_transport" v="station"/>
-    <tag k="railway" v="halt"/>
+    <tag k="railway" v="station"/>
     <tag k="short_name" v="Domodossola"/>
     <tag k="start_date" v="2003"/>
     <tag k="wheelchair" v="yes"/>
@@ -16006,8 +16013,11 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8362892920" lat="45.5025437" lon="9.1592245" version="3" timestamp="2021-08-26T16:06:24Z" changeset="110296665" uid="8227659" user="fmaggi">
+  <node id="8362892920" lat="45.5025437" lon="9.1592245" version="4" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="name" v="Milano Nord Bovisa-Politecnico"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="note" v="Area STIBM: Mi1"/>
+    <tag k="operator" v="FNM"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="train" v="yes"/>
