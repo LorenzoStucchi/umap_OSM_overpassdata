@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-07T03:18:17Z" areas="2021-11-07T02:14:44Z"/>
+<meta osm_base="2021-11-08T03:17:52Z" areas="2021-11-07T22:25:58Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -379,8 +379,9 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="268405026" lat="45.4370203" lon="9.1610180" version="8" timestamp="2021-09-13T21:45:28Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+  <node id="268405026" lat="45.4370203" lon="9.1610180" version="9" timestamp="2021-11-07T20:31:23Z" changeset="113495342" uid="11645399" user="davidoskky">
     <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="A.F.M. COMUNALE N.70"/>
     <tag k="wheelchair" v="yes"/>
@@ -775,7 +776,7 @@
     <tag k="website" v="http://www.hoteldellenazionimilan.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="313056151" lat="45.4818533" lon="9.2036367" version="4" timestamp="2019-09-13T09:37:08Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="313056151" lat="45.4818660" lon="9.2036250" version="5" timestamp="2021-11-07T15:26:07Z" changeset="113484481" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="22"/>
@@ -800,10 +801,12 @@
     <tag k="website" v="https://www.hotelmennini.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="313368270" lat="45.4504469" lon="9.1411684" version="6" timestamp="2018-11-02T21:16:59Z" changeset="64127870" uid="417672" user="Guidus">
+  <node id="313368270" lat="45.4504469" lon="9.1411684" version="7" timestamp="2021-11-07T19:47:41Z" changeset="113494098" uid="11645399" user="davidoskky">
     <tag k="amenity" v="post_office"/>
     <tag k="name" v="Milano 95"/>
     <tag k="operator" v="Poste Italiane"/>
+    <tag k="operator:wikidata" v="Q495026"/>
+    <tag k="operator:wikipedia" v="en:Poste italiane"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="313368801" lat="45.4481943" lon="9.1384121" version="3" timestamp="2016-04-20T07:22:10Z" changeset="38720300" uid="186480" user="bioia81">
@@ -5974,21 +5977,6 @@
     <tag k="name" v="Sant'Agostino"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2487295349" lat="45.4641783" lon="9.1918913" version="18" timestamp="2020-02-08T13:14:07Z" changeset="80722980" uid="1950277" user="Mannivu">
-    <tag k="artist_name" v="Giuseppe Perego"/>
-    <tag k="artwork_type" v="statue"/>
-    <tag k="height" v="4.16"/>
-    <tag k="indoor" v="no"/>
-    <tag k="material" v="metal"/>
-    <tag k="min_height" v="108.5"/>
-    <tag k="name" v="Madonnina"/>
-    <tag k="name:lmo" v="Madonnina"/>
-    <tag k="start_date" v="1774"/>
-    <tag k="tourism" v="artwork"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q3842780"/>
-    <tag k="wikipedia" v="it:Madonnina"/>
   </node>
   <node id="2488582293" lat="45.4858373" lon="9.1913196" version="4" timestamp="2019-09-13T13:07:13Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="drinking_water"/>
@@ -14925,10 +14913,11 @@
     <tag k="name" v="So' Garden"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5899730218" lat="45.4370232" lon="9.1611902" version="1" timestamp="2018-09-11T15:54:45Z" changeset="62493599" uid="417672" user="Guidus">
+  <node id="5899730218" lat="45.4370232" lon="9.1611902" version="2" timestamp="2021-11-07T21:42:50Z" changeset="113497369" uid="11645399" user="davidoskky">
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Bar L'Araba Fenice"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="tobacco" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5906623271" lat="45.4786413" lon="9.2347538" version="3" timestamp="2018-11-25T20:22:55Z" changeset="64876294" uid="417672" user="Guidus">
@@ -15981,10 +15970,14 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8088517160" lat="45.4523904" lon="9.1168459" version="2" timestamp="2020-11-06T15:22:49Z" changeset="93672569" uid="224342" user="mircozorzo">
+  <node id="8088517160" lat="45.4523904" lon="9.1168459" version="3" timestamp="2021-11-07T19:47:41Z" changeset="113494098" uid="11645399" user="davidoskky">
     <tag k="addr:street" v="Via Bisceglie"/>
+    <tag k="branch" v="Via Bisceglie"/>
+    <tag k="brand" v="EuroSpin"/>
+    <tag k="brand:wikidata" v="Q1374674"/>
+    <tag k="brand:wikipedia" v="it:Eurospin"/>
     <tag k="fixme" v="position and address number"/>
-    <tag k="name" v="Eurospin Via Bisceglie"/>
+    <tag k="name" v="EuroSpin"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -16645,7 +16638,7 @@
     <tag k="parking" v="underground"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="23119240" version="5" timestamp="2019-04-12T17:56:51Z" changeset="69157716" uid="417672" user="Guidus">
+  <way id="23119240" version="6" timestamp="2021-11-07T19:47:41Z" changeset="113494098" uid="11645399" user="davidoskky">
     <center lat="45.4504373" lon="9.1349017"/>
     <nd ref="249595766"/>
     <nd ref="249595767"/>
@@ -16657,6 +16650,8 @@
     <tag k="building:levels" v="5"/>
     <tag k="name" v="Commissariato Lorenteggio"/>
     <tag k="operator" v="Polizia di Stato"/>
+    <tag k="operator:wikidata" v="Q897817"/>
+    <tag k="operator:wikipedia" v="it:Polizia di Stato"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="23227442" version="14" timestamp="2021-10-18T19:48:43Z" changeset="112667922" uid="67550" user="Aiman">
@@ -17093,7 +17088,7 @@
     <tag k="tourism" v="attraction"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="27626748" version="67" timestamp="2021-07-10T09:38:08Z" changeset="107740419" uid="1476146" user="Alecs01">
+  <way id="27626748" version="68" timestamp="2021-11-07T13:15:27Z" changeset="113479578" uid="10901495" user="Martino Scaglione">
     <center lat="45.4641800" lon="9.1916158"/>
     <nd ref="2004515547"/>
     <nd ref="2004515556"/>
@@ -17278,11 +17273,20 @@
     <nd ref="2276749573"/>
     <nd ref="2276749570"/>
     <nd ref="2004515547"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="Piazza del Duomo"/>
+    <tag k="alt_official_name" v="Cattedrale di Santa Maria Nascente"/>
     <tag k="amenity" v="place_of_worship"/>
+    <tag k="architect" v="Simone da Orsenigo"/>
     <tag k="building" v="cathedral"/>
+    <tag k="building:architecture" v="international gothic;neoclassical;neogothic"/>
+    <tag k="building:levels" v="1"/>
     <tag k="denomination" v="roman_catholic"/>
-    <tag k="height" v="24"/>
+    <tag k="fixme" v="Sarebbe buona cosa creare un nodo per ogni guglia e dare alla chiesa l'altezza dell'edificio senza guglie."/>
+    <tag k="height" v="108.5"/>
     <tag k="historic" v="yes"/>
+    <tag k="loc_name" v="Dòmm de Milan"/>
     <tag k="name" v="Duomo di Milano"/>
     <tag k="name:cs" v="Milánský dóm"/>
     <tag k="name:de" v="Mailänder Dom"/>
@@ -17296,13 +17300,15 @@
     <tag k="name:pt" v="Catedral de Milão"/>
     <tag k="name:ru" v="Миланский собор"/>
     <tag k="name:zh" v="米蘭大教堂"/>
-    <tag k="official_name" v="Cattedrale di Santa Maria Nascente"/>
+    <tag k="note" v="Entrata gratuita per i portatori di disabilità"/>
+    <tag k="note:en" v="Free entry for wheelchairs users"/>
+    <tag k="official_name" v="Cattedrale Metropolitana della Natività della Beata Vergine Maria"/>
     <tag k="opening_hours" v="Mo-Su 08:00-19:00"/>
     <tag k="religion" v="christian"/>
+    <tag k="start_date" v="1386-1982"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="tourism" v="attraction"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wheelchair:description:de" v="Eintritt frei für Rollstuhlfahrer"/>
+    <tag k="wheelchair" v="designated"/>
     <tag k="wikidata" v="Q18068"/>
     <tag k="wikipedia" v="it:Duomo di Milano"/>
   </way>
@@ -20344,6 +20350,18 @@
     <tag k="barrier" v="fence"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="288605981" version="3" timestamp="2021-11-07T15:46:28Z" changeset="113485437" uid="11645399" user="davidoskky">
+    <center lat="45.4373076" lon="9.1469015"/>
+    <nd ref="2921602146"/>
+    <nd ref="2921602142"/>
+    <nd ref="2921602147"/>
+    <nd ref="2921602145"/>
+    <nd ref="2921602144"/>
+    <nd ref="2921602146"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="289558688" version="2" timestamp="2021-06-05T20:10:40Z" changeset="105896562" uid="4806489" user="giucas">
     <center lat="45.5148006" lon="9.1889698"/>
