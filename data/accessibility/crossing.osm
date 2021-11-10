@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-09T03:12:11Z" areas="2021-11-09T00:42:35Z"/>
+<meta osm_base="2021-11-10T03:12:49Z" areas="2021-11-09T23:57:13Z"/>
 
   <way id="4604822" version="13" timestamp="2021-10-12T13:35:47Z" changeset="112418850" uid="8716397" user="f_gonella">
     <bounds minlat="45.4522524" minlon="9.1782942" maxlat="45.4522623" maxlon="9.1782952"/>
@@ -61416,6 +61416,33 @@
     <tag k="highway" v="footway"/>
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1000887751" version="1" timestamp="2021-11-09T18:55:02Z" changeset="113579386" uid="9558563" user="Urbis13">
+    <bounds minlat="45.4791423" minlon="9.2257002" maxlat="45.4791989" maxlon="9.2258256"/>
+    <nd ref="9238787277" lat="45.4791989" lon="9.2257002"/>
+    <nd ref="9238787273" lat="45.4791813" lon="9.2257393"/>
+    <nd ref="9238787282" lat="45.4791628" lon="9.2257801"/>
+    <nd ref="3455829752" lat="45.4791423" lon="9.2258256"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1000887752" version="1" timestamp="2021-11-09T18:55:02Z" changeset="113579386" uid="9558563" user="Urbis13">
+    <bounds minlat="45.4792365" minlon="9.2256771" maxlat="45.4793482" maxlon="9.2256850"/>
+    <nd ref="3455829742" lat="45.4793482" lon="9.2256771"/>
+    <nd ref="3455829740" lat="45.4792678" lon="9.2256827"/>
+    <nd ref="9238787275" lat="45.4792365" lon="9.2256850"/>
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1000887753" version="1" timestamp="2021-11-09T18:55:02Z" changeset="113579386" uid="9558563" user="Urbis13">
+    <bounds minlat="45.4792131" minlon="9.2256427" maxlat="45.4792249" maxlon="9.2256689"/>
+    <nd ref="9238787272" lat="45.4792249" lon="9.2256427"/>
+    <nd ref="9238787276" lat="45.4792131" lon="9.2256689"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
   </way>
 
 </osm>

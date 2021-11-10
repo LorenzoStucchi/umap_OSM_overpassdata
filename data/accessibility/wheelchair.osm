@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-09T03:17:09Z" areas="2021-11-09T00:42:35Z"/>
+<meta osm_base="2021-11-10T03:18:02Z" areas="2021-11-09T23:57:13Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -7057,6 +7057,12 @@
     <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.hotelcarlyle.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2846406025" lat="45.4430827" lon="9.1673071" version="3" timestamp="2021-11-09T18:28:55Z" changeset="113578254" uid="11645399" user="davidoskky">
+    <tag k="fixme" v="Position estimated"/>
+    <tag k="name" v="Romolo"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2887383938" lat="45.4918286" lon="9.1461928" version="2" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
@@ -16692,28 +16698,15 @@
     <tag k="operator:wikipedia" v="it:Polizia di Stato"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="23227442" version="14" timestamp="2021-10-18T19:48:43Z" changeset="112667922" uid="67550" user="Aiman">
-    <center lat="45.4667528" lon="9.1915638"/>
+  <way id="23227442" version="15" timestamp="2021-11-09T21:50:39Z" changeset="113584958" uid="10901495" user="Martino Scaglione">
+    <center lat="45.4667518" lon="9.1915636"/>
     <nd ref="251290291"/>
     <nd ref="4664166756"/>
     <nd ref="4664166755"/>
     <nd ref="251290292"/>
     <nd ref="1754349568"/>
-    <nd ref="4664166757"/>
-    <nd ref="4664166758"/>
     <nd ref="4664166771"/>
-    <nd ref="4664166770"/>
-    <nd ref="4664166769"/>
     <nd ref="4664166768"/>
-    <nd ref="4664166767"/>
-    <nd ref="4664166766"/>
-    <nd ref="4664166765"/>
-    <nd ref="4664166764"/>
-    <nd ref="4664166763"/>
-    <nd ref="4664166762"/>
-    <nd ref="4664166761"/>
-    <nd ref="4664166760"/>
-    <nd ref="4664166759"/>
     <nd ref="1754349569"/>
     <nd ref="564930550"/>
     <nd ref="4664166749"/>
@@ -17126,7 +17119,7 @@
     <tag k="tourism" v="attraction"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="27626748" version="68" timestamp="2021-11-07T13:15:27Z" changeset="113479578" uid="10901495" user="Martino Scaglione">
+  <way id="27626748" version="69" timestamp="2021-11-09T20:34:28Z" changeset="113582892" uid="11220113" user="ivanbranco">
     <center lat="45.4641800" lon="9.1916158"/>
     <nd ref="2004515547"/>
     <nd ref="2004515556"/>
@@ -17311,9 +17304,6 @@
     <nd ref="2276749573"/>
     <nd ref="2276749570"/>
     <nd ref="2004515547"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:postcode" v="20122"/>
-    <tag k="addr:street" v="Piazza del Duomo"/>
     <tag k="alt_official_name" v="Cattedrale di Santa Maria Nascente"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="architect" v="Simone da Orsenigo"/>
@@ -17324,7 +17314,6 @@
     <tag k="fixme" v="Sarebbe buona cosa creare un nodo per ogni guglia e dare alla chiesa l'altezza dell'edificio senza guglie."/>
     <tag k="height" v="108.5"/>
     <tag k="historic" v="yes"/>
-    <tag k="loc_name" v="Dòmm de Milan"/>
     <tag k="name" v="Duomo di Milano"/>
     <tag k="name:cs" v="Milánský dóm"/>
     <tag k="name:de" v="Mailänder Dom"/>
@@ -17333,6 +17322,7 @@
     <tag k="name:fr" v="Dôme de Milan"/>
     <tag k="name:hi" v="मिलानॊ कथेड्रल"/>
     <tag k="name:it" v="Duomo di Milano"/>
+    <tag k="name:lmo" v="Domm de Milan"/>
     <tag k="name:nl" v="Dom van Milaan"/>
     <tag k="name:pl" v="Katedra Narodzin św. Marii w Mediolanie"/>
     <tag k="name:pt" v="Catedral de Milão"/>
@@ -17343,10 +17333,13 @@
     <tag k="official_name" v="Cattedrale Metropolitana della Natività della Beata Vergine Maria"/>
     <tag k="opening_hours" v="Mo-Su 08:00-19:00"/>
     <tag k="religion" v="christian"/>
-    <tag k="start_date" v="1386-1982"/>
+    <tag k="start_date" v="1386..1982"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="tourism" v="attraction"/>
-    <tag k="wheelchair" v="designated"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description:de" v="Eintritt frei für Rollstuhlfahrer"/>
+    <tag k="wheelchair:description:en" v="Free entry for wheelchairs users"/>
+    <tag k="wheelchair:description:it" v="Entrata gratuita per i portatori di disabilità"/>
     <tag k="wikidata" v="Q18068"/>
     <tag k="wikipedia" v="it:Duomo di Milano"/>
   </way>
