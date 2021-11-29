@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-28T03:18:08Z" areas="2021-11-28T02:38:36Z"/>
+<meta osm_base="2021-11-29T03:19:00Z" areas="2021-11-29T02:48:35Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -45,7 +45,7 @@
     <tag k="wikidata" v="Q3113699"/>
     <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
   </node>
-  <node id="29797363" lat="45.4844416" lon="9.1872983" version="10" timestamp="2020-01-16T17:00:06Z" changeset="79659044" uid="89897" user="airon90">
+  <node id="29797363" lat="45.4844416" lon="9.1872983" version="11" timestamp="2021-11-28T10:01:49Z" changeset="114318223" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:street" v="Piazza Sigmund Freud"/>
     <tag k="name" v="Milano Porta Garibaldi superficie"/>
@@ -54,7 +54,8 @@
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q22815081"/>
+    <tag k="wikidata" v="Q801187"/>
+    <tag k="wikipedia" v="it:Stazione di Milano Porta Garibaldi"/>
   </node>
   <node id="30064566" lat="45.4335431" lon="9.2389614" version="14" timestamp="2021-01-26T00:41:34Z" changeset="98149027" uid="602784" user="fedc">
     <tag k="name" v="Milano Rogoredo"/>
@@ -2930,6 +2931,10 @@
   <node id="1611026355" lat="45.4647775" lon="9.1896939" version="6" timestamp="2021-08-21T20:16:47Z" changeset="110041043" uid="113669" user="AnyFile">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1611026380" lat="45.4666355" lon="9.1503304" version="4" timestamp="2021-11-28T14:12:27Z" changeset="114325844" uid="6337205" user="Opix">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1611026439" lat="45.4684805" lon="9.1604660" version="3" timestamp="2021-08-14T10:20:39Z" changeset="109664199" uid="113669" user="AnyFile">
     <tag k="railway" v="subway_entrance"/>
@@ -9753,18 +9758,19 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3848618958" lat="45.4835033" lon="9.2029388" version="4" timestamp="2021-07-15T17:02:26Z" changeset="108066018" uid="3860151" user="Michele Aquilani">
+  <node id="3848618958" lat="45.4835033" lon="9.2029388" version="5" timestamp="2021-11-28T10:01:49Z" changeset="114318223" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Napo Torriani"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/nicoquickbite"/>
     <tag k="name" v="Nico Quick Bite"/>
     <tag k="operator" v="P.F.A. srl"/>
     <tag k="phone" v="+39 02 66987791"/>
     <tag k="ref:vatin" v="IT05613280964"/>
-    <tag k="website" v="http://www.nicoquickbite.com/"/>
+    <tag k="website" v="https://www.nicoquickbite.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3848619950" lat="45.4833827" lon="9.2046135" version="5" timestamp="2021-07-04T08:09:01Z" changeset="107379324" uid="3860151" user="Michele Aquilani">
@@ -9816,8 +9822,9 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3848621230" lat="45.4837772" lon="9.2044247" version="5" timestamp="2021-07-15T17:02:26Z" changeset="108066018" uid="3860151" user="Michele Aquilani">
+  <node id="3848621230" lat="45.4837772" lon="9.2044247" version="6" timestamp="2021-11-28T10:01:49Z" changeset="114318223" uid="3860151" user="Michele Aquilani">
     <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/pages/Caffé%20Panzera/121025024632138/"/>
     <tag k="email" v="info@caffepanzera.it"/>
     <tag k="fax" v="+39 02 6692647"/>
     <tag k="name" v="Caffè Panzera"/>
@@ -9984,13 +9991,15 @@
     <tag k="name" v="Tuyo Cafè"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3848624522" lat="45.4812038" lon="9.2012194" version="3" timestamp="2021-11-20T08:12:18Z" changeset="114018536" uid="3860151" user="Michele Aquilani">
+  <node id="3848624522" lat="45.4812038" lon="9.2012194" version="4" timestamp="2021-11-28T10:01:49Z" changeset="114318223" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via San Gregorio"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/osteriadeltreno"/>
+    <tag k="contact:instagram" v="osteriadeltreno"/>
     <tag k="cuisine" v="regional;italian"/>
     <tag k="email" v="info@osteriadeltreno.it"/>
     <tag k="name" v="Osteria del Treno"/>
@@ -14970,16 +14979,18 @@
     <tag k="ref:mise" v="37433"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5885715085" lat="45.4857428" lon="9.2061930" version="4" timestamp="2021-04-29T09:18:13Z" changeset="103830740" uid="4890411" user="phaerrax">
+  <node id="5885715085" lat="45.4857428" lon="9.2061930" version="5" timestamp="2021-11-28T18:15:31Z" changeset="114333294" uid="13840929" user="aa30mom">
     <tag k="amenity" v="bus_station"/>
     <tag k="bus" v="yes"/>
+    <tag k="name" v="Bus per Areoporto Bergamo"/>
     <tag k="name:en" v="Airport Bus Bergamo"/>
     <tag k="public_transport" v="station"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5885715185" lat="45.4860720" lon="9.2065180" version="4" timestamp="2021-04-29T09:18:13Z" changeset="103830740" uid="4890411" user="phaerrax">
+  <node id="5885715185" lat="45.4860720" lon="9.2065180" version="5" timestamp="2021-11-28T18:14:06Z" changeset="114333250" uid="13840929" user="aa30mom">
     <tag k="amenity" v="bus_station"/>
     <tag k="bus" v="yes"/>
+    <tag k="name" v="Airport Bus Linate"/>
     <tag k="name:en" v="Airport Bus Linate"/>
     <tag k="public_transport" v="station"/>
     <tag k="wheelchair" v="yes"/>
