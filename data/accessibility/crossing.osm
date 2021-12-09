@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-12-08T03:16:21Z" areas="2021-12-08T02:31:39Z"/>
+<meta osm_base="2021-12-09T03:15:09Z" areas="2021-12-09T02:42:52Z"/>
 
   <way id="4604822" version="13" timestamp="2021-10-12T13:35:47Z" changeset="112418850" uid="8716397" user="f_gonella">
     <bounds minlat="45.4522524" minlon="9.1782942" maxlat="45.4522623" maxlon="9.1782952"/>
@@ -61616,6 +61616,25 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1010225218" version="1" timestamp="2021-12-08T13:46:04Z" changeset="114704275" uid="10901495" user="Martino Scaglione">
+    <bounds minlat="45.5220263" minlon="9.0997489" maxlat="45.5220807" maxlon="9.0998135"/>
+    <nd ref="9321057150" lat="45.5220263" lon="9.0997489"/>
+    <nd ref="3486164414" lat="45.5220507" lon="9.0997775"/>
+    <nd ref="9321057133" lat="45.5220807" lon="9.0998135"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="1010225219" version="1" timestamp="2021-12-08T13:46:04Z" changeset="114704275" uid="10901495" user="Martino Scaglione">
+    <bounds minlat="45.5221262" minlon="9.0998691" maxlat="45.5222135" maxlon="9.0998828"/>
+    <nd ref="9321050207" lat="45.5221262" lon="9.0998691"/>
+    <nd ref="9321050194" lat="45.5221612" lon="9.0998753"/>
+    <nd ref="9321057123" lat="45.5221756" lon="9.0998776"/>
+    <nd ref="9321057152" lat="45.5222135" lon="9.0998828"/>
+    <tag k="crossing" v="marked"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
   </way>
 
 </osm>
