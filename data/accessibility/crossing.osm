@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-12-11T03:16:17Z" areas="2021-12-11T03:09:08Z"/>
+<meta osm_base="2021-12-12T03:15:32Z" areas="2021-12-12T02:17:31Z"/>
 
   <way id="4604822" version="13" timestamp="2021-10-12T13:35:47Z" changeset="112418850" uid="8716397" user="f_gonella">
     <bounds minlat="45.4522524" minlon="9.1782942" maxlat="45.4522623" maxlon="9.1782952"/>
@@ -8533,13 +8533,14 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="412912926" version="3" timestamp="2021-01-21T13:16:06Z" changeset="97908161" uid="12467922" user="ViaLibera_edoardo4T">
+  <way id="412912926" version="4" timestamp="2021-12-11T13:34:27Z" changeset="114818120" uid="1875845" user="Valerio_Bozzolan">
     <bounds minlat="45.5108887" minlon="9.2062292" maxlat="45.5110632" maxlon="9.2063219"/>
     <nd ref="8342828535" lat="45.5108887" lon="9.2062292"/>
     <nd ref="1171087664" lat="45.5109664" lon="9.2062700"/>
     <nd ref="4142393953" lat="45.5110632" lon="9.2063219"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="412912927" version="4" timestamp="2021-01-28T22:23:36Z" changeset="98322440" uid="11780919" user="ViaLibera_LorenzoStucchi">
     <bounds minlat="45.5134567" minlon="9.2122041" maxlat="45.5134785" maxlon="9.2122889"/>
@@ -34215,9 +34216,9 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="840495645" version="2" timestamp="2021-12-10T13:25:53Z" changeset="114785578" uid="8350372" user="Balaabirami">
+  <way id="840495645" version="3" timestamp="2021-12-11T09:44:27Z" changeset="114811377" uid="474183" user="ratrun">
     <bounds minlat="45.4762769" minlon="9.1440747" maxlat="45.4763858" maxlon="9.1442335"/>
-    <nd ref="7842969791" lat="45.4762769" lon="9.1440747"/>
+    <nd ref="7181915134" lat="45.4762769" lon="9.1440747"/>
     <nd ref="9327288029" lat="45.4763128" lon="9.1441247"/>
     <nd ref="2634828267" lat="45.4763270" lon="9.1441445"/>
     <nd ref="9327288028" lat="45.4763490" lon="9.1441778"/>
@@ -34227,7 +34228,7 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="840495647" version="2" timestamp="2021-12-10T13:25:53Z" changeset="114785578" uid="8350372" user="Balaabirami">
+  <way id="840495647" version="3" timestamp="2021-12-11T12:15:39Z" changeset="114815936" uid="8350372" user="Balaabirami">
     <bounds minlat="45.4764533" minlon="9.1440978" maxlat="45.4765982" maxlon="9.1442854"/>
     <nd ref="7842969794" lat="45.4764533" lon="9.1442854"/>
     <nd ref="9327288065" lat="45.4764923" lon="9.1442326"/>
@@ -34238,7 +34239,6 @@
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
-    <tag k="tactile_paving" v="yes"/>
   </way>
   <way id="840495649" version="3" timestamp="2021-12-10T16:09:57Z" changeset="114790720" uid="8350372" user="Balaabirami">
     <bounds minlat="45.4753661" minlon="9.1451760" maxlat="45.4754212" maxlon="9.1452448"/>
@@ -50956,13 +50956,14 @@
     <tag k="surface" v="asphalt"/>
     <tag k="tactile_paving" v="no"/>
   </way>
-  <way id="936491119" version="2" timestamp="2021-04-30T18:23:49Z" changeset="103930188" uid="12057605" user="ViaLibera_Student03">
+  <way id="936491119" version="3" timestamp="2021-12-11T13:30:07Z" changeset="114818122" uid="1875845" user="Valerio_Bozzolan">
     <bounds minlat="45.4923999" minlon="9.1927534" maxlat="45.4924242" maxlon="9.1928430"/>
     <nd ref="8677512429" lat="45.4923999" lon="9.1928430"/>
     <nd ref="2377015294" lat="45.4924069" lon="9.1928172"/>
     <nd ref="8677512428" lat="45.4924242" lon="9.1927534"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
     <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
     <tag k="tactile_paving" v="no"/>
