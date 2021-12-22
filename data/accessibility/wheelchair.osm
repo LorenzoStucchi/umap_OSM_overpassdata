@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-12-21T03:24:48Z" areas="2021-12-21T02:49:38Z"/>
+<meta osm_base="2021-12-22T03:24:08Z" areas="2021-12-22T03:00:00Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -12508,6 +12508,11 @@
     <tag k="shop" v="cheese"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4580232240" lat="45.4685576" lon="9.2109788" version="2" timestamp="2021-12-21T10:04:43Z" changeset="115196610" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="name" v="Il Massimo del gelato"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="4584487030" lat="45.4950593" lon="9.1885464" version="2" timestamp="2020-07-28T20:02:07Z" changeset="88639365" uid="11566255" user="sinansonmez">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -17310,7 +17315,7 @@
     <tag k="tourism" v="attraction"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="27626748" version="73" timestamp="2021-11-11T15:59:14Z" changeset="113658604" uid="11220113" user="ivanbranco">
+  <way id="27626748" version="74" timestamp="2021-12-21T20:41:05Z" changeset="115225303" uid="11220113" user="ivanbranco">
     <center lat="45.4641800" lon="9.1916158"/>
     <nd ref="2004515547"/>
     <nd ref="2004515556"/>
@@ -17502,9 +17507,9 @@
     <tag k="building:architecture" v="international gothic;neoclassical;neogothic"/>
     <tag k="building:levels" v="1"/>
     <tag k="denomination" v="roman_catholic"/>
-    <tag k="fixme" v="Sarebbe buona cosa creare un nodo per ogni guglia e dare alla chiesa l'altezza dell'edificio senza guglie."/>
     <tag k="height" v="108.5"/>
     <tag k="historic" v="yes"/>
+    <tag k="inscription" v="MARIAE|ASCENTI"/>
     <tag k="name" v="Duomo di Milano"/>
     <tag k="name:cs" v="Milánský dóm"/>
     <tag k="name:de" v="Mailänder Dom"/>
@@ -20717,8 +20722,8 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q30347445"/>
   </way>
-  <way id="306829080" version="5" timestamp="2021-11-06T17:40:35Z" changeset="113456187" uid="11645399" user="davidoskky">
-    <center lat="45.4206553" lon="9.1775925"/>
+  <way id="306829080" version="6" timestamp="2021-12-21T12:07:58Z" changeset="115207254" uid="602784" user="fedc">
+    <center lat="45.4206648" lon="9.1775904"/>
     <nd ref="3118354126"/>
     <nd ref="3118354119"/>
     <nd ref="3118354120"/>
@@ -20727,7 +20732,6 @@
     <nd ref="3118354125"/>
     <nd ref="3118354123"/>
     <nd ref="3118354124"/>
-    <nd ref="3118363545"/>
     <nd ref="3118354126"/>
     <tag k="addr:housenumber" v="61/A"/>
     <tag k="addr:street" v="Via dei Missaglia"/>
