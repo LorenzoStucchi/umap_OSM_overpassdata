@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-12-27T03:08:09Z" areas="2021-12-27T02:46:47Z"/>
+<meta osm_base="2021-12-28T03:07:37Z" areas="2021-12-28T02:57:32Z"/>
 
   <node id="340225481" lat="45.4941008" lon="9.1936269" version="13" timestamp="2021-02-21T14:54:06Z" changeset="99683759" uid="89897" user="airon90">
     <tag k="barrier" v="kerb"/>
@@ -496,6 +496,11 @@
   <node id="5433818461" lat="45.4863915" lon="9.2025532" version="2" timestamp="2021-04-29T09:18:13Z" changeset="103830740" uid="4890411" user="phaerrax">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
+  </node>
+  <node id="5544842636" lat="45.4575739" lon="9.1686393" version="3" timestamp="2021-12-27T15:30:54Z" changeset="115432158" uid="13840929" user="aa30mom">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
   </node>
   <node id="5544868349" lat="45.4575446" lon="9.1686300" version="4" timestamp="2021-02-21T14:47:48Z" changeset="99683495" uid="89897" user="airon90">
     <tag k="barrier" v="kerb"/>
@@ -3729,12 +3734,7 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="6510829974" lat="45.4576653" lon="9.1688011" version="3" timestamp="2021-02-21T14:47:48Z" changeset="99683495" uid="89897" user="airon90">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="flush"/>
-    <tag k="tactile_paving" v="no"/>
-  </node>
-  <node id="6510829976" lat="45.4576824" lon="9.1687797" version="3" timestamp="2021-02-21T14:47:48Z" changeset="99683495" uid="89897" user="airon90">
+  <node id="6510829974" lat="45.4576597" lon="9.1687346" version="4" timestamp="2021-12-27T15:30:54Z" changeset="115432158" uid="13840929" user="aa30mom">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
@@ -9608,12 +9608,12 @@
     <tag k="smoothness" v="intermediate"/>
     <tag k="surface" v="paving_stones"/>
   </node>
-  <node id="8650027146" lat="45.4868002" lon="9.1850454" version="3" timestamp="2021-11-03T11:19:12Z" changeset="113327203" uid="38952" user="grin">
+  <node id="8650027146" lat="45.4868002" lon="9.1850454" version="4" timestamp="2021-12-28T00:50:26Z" changeset="115447422" uid="1778799" user="SomeoneElse_Revert">
     <tag k="barrier" v="kerb"/>
     <tag k="fixme" v="cantiere"/>
     <tag k="kerb" v="flush"/>
     <tag k="smoothness" v="intermediate"/>
-    <tag k="surface" v="asphalt"/>
+    <tag k="surface" v="asfalto"/>
   </node>
   <node id="8650369445" lat="45.4892957" lon="9.1910012" version="3" timestamp="2021-05-25T16:02:37Z" changeset="105303100" uid="12252628" user="ViaLibera_MartaRossi">
     <tag k="barrier" v="kerb"/>
