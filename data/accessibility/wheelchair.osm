@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-12-28T03:22:41Z" areas="2021-12-28T02:57:32Z"/>
+<meta osm_base="2021-12-29T03:22:25Z" areas="2021-12-29T03:10:10Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -2397,8 +2397,12 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1483484459" lat="45.4451009" lon="9.1236387" version="2" timestamp="2012-04-26T15:36:05Z" changeset="11421283" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Esselunga di Via Lorenteggio"/>
+  <node id="1483484459" lat="45.4451009" lon="9.1236387" version="3" timestamp="2021-12-28T17:04:21Z" changeset="115480238" uid="89897" user="airon90">
+    <tag k="branch" v="Via Lorenteggio"/>
+    <tag k="brand" v="Esselunga"/>
+    <tag k="brand:wikidata" v="Q1059636"/>
+    <tag k="brand:wikipedia" v="en:Esselunga"/>
+    <tag k="name" v="Esselunga"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -17636,8 +17640,8 @@
     <tag k="amenity" v="parking"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="31068302" version="13" timestamp="2021-11-03T23:01:21Z" changeset="113352352" uid="11645399" user="davidoskky">
-    <center lat="45.4545057" lon="9.1617440"/>
+  <way id="31068302" version="14" timestamp="2021-12-28T11:43:43Z" changeset="115466511" uid="13840929" user="aa30mom">
+    <center lat="45.4545040" lon="9.1617516"/>
     <nd ref="345452703"/>
     <nd ref="345452704"/>
     <nd ref="1494194985"/>
@@ -17647,8 +17651,10 @@
     <nd ref="345452706"/>
     <nd ref="1281220005"/>
     <nd ref="1281219618"/>
+    <nd ref="9372909749"/>
     <nd ref="1281220198"/>
     <nd ref="1281220174"/>
+    <nd ref="9372909744"/>
     <nd ref="345452708"/>
     <nd ref="345452703"/>
     <tag k="addr:city" v="Milano"/>
