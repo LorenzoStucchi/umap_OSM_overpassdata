@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-11T03:25:39Z" areas="2022-01-11T02:36:15Z"/>
+<meta osm_base="2022-01-12T03:26:40Z" areas="2022-01-12T02:52:09Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -56,6 +56,12 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q801187"/>
     <tag k="wikipedia" v="it:Stazione di Milano Porta Garibaldi"/>
+  </node>
+  <node id="29978509" lat="45.4523980" lon="9.1546299" version="6" timestamp="2022-01-11T17:59:49Z" changeset="116034834" uid="13840929" user="aa30mom">
+    <tag k="amenity" v="cinema"/>
+    <tag k="name" v="Ducale"/>
+    <tag k="screen" v="4"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="30064566" lat="45.4335431" lon="9.2389614" version="14" timestamp="2021-01-26T00:41:34Z" changeset="98149027" uid="602784" user="fedc">
     <tag k="name" v="Milano Rogoredo"/>
@@ -1082,7 +1088,7 @@
     <tag k="name" v="The Manhattan"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="379230328" lat="45.4523948" lon="9.1641567" version="6" timestamp="2021-11-03T23:01:21Z" changeset="113352352" uid="11645399" user="davidoskky">
+  <node id="379230328" lat="45.4524518" lon="9.1642241" version="7" timestamp="2022-01-11T15:42:09Z" changeset="116029127" uid="13840929" user="aa30mom">
     <tag k="amenity" v="post_office"/>
     <tag k="name" v="Milano 112"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-01:45"/>
@@ -13766,6 +13772,15 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="5305316985" lat="45.5005387" lon="9.1978097" version="4" timestamp="2022-01-11T14:35:37Z" changeset="116026813" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="132"/>
+    <tag k="addr:street" v="Viale Zara"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar Oasi"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="5317028338" lat="45.4813093" lon="9.1759365" version="6" timestamp="2021-06-06T08:44:09Z" changeset="105907744" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="27"/>
@@ -15638,10 +15653,11 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q64485035"/>
   </node>
-  <node id="6908833837" lat="45.4526704" lon="9.1554581" version="1" timestamp="2019-10-23T11:54:53Z" changeset="76099783" uid="18143" user="Laurentius">
+  <node id="6908833837" lat="45.4526801" lon="9.1554103" version="2" timestamp="2022-01-11T17:59:49Z" changeset="116034834" uid="13840929" user="aa30mom">
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:street" v="Piazza Napoli"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="piadina"/>
     <tag k="email" v="info@la-caveja.it"/>
     <tag k="level" v="0"/>
     <tag k="name" v="La caveja"/>
@@ -17359,7 +17375,7 @@
     <tag k="tourism" v="attraction"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="27626748" version="75" timestamp="2021-12-30T20:07:18Z" changeset="115581063" uid="11220113" user="ivanbranco">
+  <way id="27626748" version="76" timestamp="2022-01-11T22:13:56Z" changeset="116043136" uid="13819640" user="csidirop">
     <center lat="45.4641800" lon="9.1916158"/>
     <nd ref="2004515547"/>
     <nd ref="2004515556"/>
@@ -17544,6 +17560,8 @@
     <nd ref="2276749573"/>
     <nd ref="2276749570"/>
     <nd ref="2004515547"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="Piazza del Duomo"/>
     <tag k="alt_official_name" v="Cattedrale di Santa Maria Nascente"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="architect" v="Simone da Orsenigo"/>
@@ -17570,10 +17588,12 @@
     <tag k="name:zh" v="米蘭大教堂"/>
     <tag k="official_name" v="Cattedrale Metropolitana della Natività della Beata Vergine Maria"/>
     <tag k="opening_hours" v="Mo-Su 08:00-19:00"/>
+    <tag k="phone" v="+39 02 7202 3375"/>
     <tag k="religion" v="christian"/>
     <tag k="start_date" v="1386"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="tourism" v="attraction"/>
+    <tag k="website" v="https://www.duomomilano.it/en/"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wheelchair:description:de" v="Eintritt frei für Rollstuhlfahrer"/>
     <tag k="wheelchair:description:en" v="Free entry for wheelchairs users"/>
@@ -17680,11 +17700,12 @@
     <tag k="amenity" v="parking"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="31068302" version="14" timestamp="2021-12-28T11:43:43Z" changeset="115466511" uid="13840929" user="aa30mom">
+  <way id="31068302" version="15" timestamp="2022-01-11T14:40:55Z" changeset="116026982" uid="13840929" user="aa30mom">
     <center lat="45.4545040" lon="9.1617516"/>
     <nd ref="345452703"/>
     <nd ref="345452704"/>
     <nd ref="1494194985"/>
+    <nd ref="9410379520"/>
     <nd ref="1494194984"/>
     <nd ref="1494194986"/>
     <nd ref="1494194983"/>
