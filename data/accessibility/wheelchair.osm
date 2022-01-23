@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-22T03:16:41Z" areas="2022-01-22T03:01:25Z"/>
+<meta osm_base="2022-01-23T03:16:28Z" areas="2022-01-23T03:14:17Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -229,11 +229,19 @@
     <tag k="website" v="https://www.eataly.net/it_it/negozi/milano-smeraldo/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="253237814" lat="45.4755452" lon="9.2240954" version="5" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
+  <node id="253237814" lat="45.4755452" lon="9.2240954" version="6" timestamp="2022-01-22T13:56:35Z" changeset="116466605" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Via Francesco Denti"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Comunale"/>
+    <tag k="name" v="LloydsFarmacia Milano n. 3"/>
+    <tag k="operator" v="LloydsFarmacia Milano n. 3"/>
+    <tag k="ref:msal" v="2716"/>
+    <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="253963523" lat="45.5152399" lon="9.1930974" version="14" timestamp="2013-10-16T16:22:53Z" changeset="18389126" uid="893327" user="mcheckimport">
@@ -273,7 +281,7 @@
     <tag k="religion" v="jewish"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="254662343" lat="45.5063975" lon="9.1980250" version="6" timestamp="2021-10-16T09:41:51Z" changeset="112571463" uid="1875845" user="Valerio_Bozzolan">
+  <node id="254662343" lat="45.5063941" lon="9.1980010" version="7" timestamp="2022-01-22T14:01:07Z" changeset="116466775" uid="13840929" user="aa30mom">
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:postcode" v="20162"/>
     <tag k="addr:street" v="Viale Giovanni Suzzani"/>
@@ -282,8 +290,11 @@
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Farmacia Suzzani"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-12:30,15:00-19:30; Sa 09:00-13:00,15:30-19:30"/>
+    <tag k="operator" v="Farmacia Suzzani"/>
     <tag k="phone" v="+39026430899"/>
+    <tag k="ref:msal" v="2759"/>
     <tag k="ref:vatin" v="IT03860200967"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="255508749" lat="45.4901442" lon="9.1454007" version="12" timestamp="2020-04-29T18:34:18Z" changeset="84357801" uid="1861652" user="pippo67">
@@ -382,7 +393,7 @@
     <tag k="name" v="Banco di Desio"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="267338265" lat="45.4870383" lon="9.1976675" version="5" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
+  <node id="267338265" lat="45.4870470" lon="9.1977011" version="6" timestamp="2022-01-22T15:03:04Z" changeset="116469092" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="43"/>
@@ -391,8 +402,13 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Humanitas"/>
+    <tag k="name" v="Humanitas"/>
+    <tag k="operator" v="Toselli Giampiero &amp; c. snc"/>
     <tag k="phone" v="+39 02 6700449"/>
+    <tag k="ref:msal" v="2695"/>
+    <tag k="ref:vatin" v="IT12588160155"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://www.farmaciahumanitas.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="268403462" lat="45.4312791" lon="9.1626739" version="4" timestamp="2021-11-07T00:42:13Z" changeset="113465038" uid="11645399" user="davidoskky">
@@ -400,11 +416,19 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="268405026" lat="45.4370203" lon="9.1610180" version="9" timestamp="2021-11-07T20:31:23Z" changeset="113495342" uid="11645399" user="davidoskky">
+  <node id="268405026" lat="45.4370203" lon="9.1610180" version="10" timestamp="2022-01-22T15:09:08Z" changeset="116469376" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:postcode" v="20142"/>
+    <tag k="addr:street" v="Viale Famagosta"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="A.F.M. COMUNALE N.70"/>
+    <tag k="name" v="Municipale n.70"/>
+    <tag k="operator" v="Municipale n.70"/>
+    <tag k="ref:msal" v="2791"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="268567601" lat="45.4659559" lon="9.1922395" version="4" timestamp="2016-05-02T16:30:56Z" changeset="39037489" uid="290680" user="wheelmap_visitor">
@@ -476,7 +500,7 @@
     <tag k="website" v="http://www.voltastreet.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="270180593" lat="45.4874588" lon="9.1869698" version="4" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
+  <node id="270180593" lat="45.4874588" lon="9.1869698" version="5" timestamp="2022-01-22T15:19:37Z" changeset="116469826" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20159"/>
@@ -484,7 +508,11 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Archinto"/>
+    <tag k="name" v="Archinto"/>
+    <tag k="operator" v="Archinto"/>
+    <tag k="ref:msal" v="2916"/>
+    <tag k="ref:vatin" v="IT11174900156"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="270443358" lat="45.5061489" lon="9.2227108" version="12" timestamp="2021-10-31T10:42:56Z" changeset="113187073" uid="4413023" user="realjep">
@@ -512,18 +540,35 @@
     <tag k="phone" v="+39 02 39663308"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="278200767" lat="45.5019609" lon="9.1647025" version="3" timestamp="2021-02-16T18:37:18Z" changeset="99400154" uid="89897" user="airon90">
+  <node id="278200767" lat="45.5019609" lon="9.1647025" version="4" timestamp="2022-01-22T15:30:51Z" changeset="116470187" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20158"/>
+    <tag k="addr:street" v="Piazza Giovanni Bausan"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Bovisa"/>
+    <tag k="operator" v="Bovisa"/>
+    <tag k="ref:msal" v="2609"/>
+    <tag k="ref:vatin" v="IT02908990159"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="279124325" lat="45.4376819" lon="9.1552930" version="4" timestamp="2021-09-13T21:48:16Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
+  <node id="279124325" lat="45.4376831" lon="9.1552399" version="5" timestamp="2022-01-22T15:30:51Z" changeset="116470187" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20143"/>
+    <tag k="addr:street" v="Piazza Guglielmo Miani"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Barona"/>
+    <tag k="name" v="Barona sas"/>
+    <tag k="operator" v="Barona sas"/>
+    <tag k="ref:msal" v="2951"/>
+    <tag k="ref:vatin" v="IT09270110969"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://farmaciabarona.wixsite.com/farmaciabarona"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="281449913" lat="45.5032088" lon="9.1624836" version="7" timestamp="2021-03-03T09:49:33Z" changeset="100337985" uid="89897" user="airon90">
@@ -21933,7 +21978,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="566449751" version="2" timestamp="2020-12-22T08:14:22Z" changeset="96241192" uid="536707" user="s_grizzanti">
+  <way id="566449751" version="3" timestamp="2022-01-22T09:34:08Z" changeset="116458869" uid="13840929" user="aa30mom">
     <center lat="45.4442379" lon="9.1749943"/>
     <nd ref="5455194471"/>
     <nd ref="5455194444"/>
@@ -21941,10 +21986,6 @@
     <nd ref="5455194469"/>
     <nd ref="5455194468"/>
     <nd ref="5455194471"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:postcode" v="20143"/>
-    <tag k="addr:street" v="Viale Liguria"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="bar" v="yes"/>
