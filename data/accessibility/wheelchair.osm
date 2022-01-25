@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-24T03:22:10Z" areas="2022-01-24T02:24:26Z"/>
+<meta osm_base="2022-01-25T03:17:35Z" areas="2022-01-25T02:37:11Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -1105,7 +1105,7 @@
     <tag k="operator" v="UBI Banca"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="358880159" lat="45.4900947" lon="9.1832224" version="4" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="358880159" lat="45.4900947" lon="9.1832224" version="5" timestamp="2022-01-24T11:22:39Z" changeset="116536890" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1115,6 +1115,10 @@
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Farmacia Farini"/>
+    <tag k="operator" v="Dr.Ssa Travierso Antonietta &amp; c."/>
+    <tag k="ref:msal" v="2948"/>
+    <tag k="ref:vatin" v="IT05488940965"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="358880160" lat="45.4888473" lon="9.1830352" version="4" timestamp="2020-11-01T21:51:42Z" changeset="93383386" uid="1781586" user="fick89">
@@ -1220,7 +1224,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="429422740" lat="45.4780559" lon="9.1842030" version="5" timestamp="2020-11-30T18:37:32Z" changeset="95062985" uid="454306" user="dega180">
+  <node id="429422740" lat="45.4780559" lon="9.1842030" version="6" timestamp="2022-01-24T15:53:37Z" changeset="116546639" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1231,8 +1235,12 @@
     <tag k="email" v="info@farmaciaraimondi.com"/>
     <tag k="fax" v="+39 02 62910441"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Raimondi"/>
+    <tag k="name" v="Raimondi snc"/>
+    <tag k="operator" v="Raimondi snc"/>
     <tag k="phone" v="+39 02 6554454"/>
+    <tag k="ref:msal" v="2846"/>
+    <tag k="ref:vatin" v="IT05752140961"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="website" v="https://www.farmaciaraimondi.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -1642,7 +1650,7 @@
     <tag k="website" v="http://milan.the-hub.net"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="614696302" lat="45.4705197" lon="9.2272568" version="4" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="614696302" lat="45.4705197" lon="9.2272568" version="5" timestamp="2022-01-24T15:58:32Z" changeset="116546835" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="20133"/>
@@ -1652,10 +1660,14 @@
     <tag k="contact:fax" v="+39 02 76115361"/>
     <tag k="contact:phone" v="+39 02 70108283"/>
     <tag k="contact:website" v="http://www.beatoangelico.it/"/>
+    <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Beato Angelico"/>
+    <tag k="name" v="Farmacia Beato Angelico - S.r.l."/>
     <tag k="opening_hours" v="Mo-Fr 08:30-13:00, 15:00-19:30; Sa 09:00-13:00"/>
-    <tag k="operator" v="Patrizia Romani"/>
+    <tag k="operator" v="Farmacia Beato Angelico - S.r.l."/>
+    <tag k="ref:msal" v="2862"/>
+    <tag k="ref:vatin" v="IT10146710966"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="639780037" lat="45.4852313" lon="9.2025963" version="5" timestamp="2019-09-13T08:41:13Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -2360,16 +2372,22 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1473283500" lat="45.4845447" lon="9.2156943" version="9" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="1473283500" lat="45.4845447" lon="9.2156943" version="10" timestamp="2022-01-24T12:45:57Z" changeset="116540087" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20131"/>
     <tag k="addr:street" v="Via Antonio Stradivari"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="contact:phone" v="+39 02 29526966"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Dott. Ambreck"/>
+    <tag k="name" v="Ambreck s.r.l."/>
     <tag k="opening_hours" v="24/7"/>
-    <tag k="ref:vatin" v="IT01669440180"/>
+    <tag k="operator" v="Ambreck s.r.l."/>
+    <tag k="ref:msal" v="2625"/>
+    <tag k="ref:vatin" v="IT10957030967"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://www.ambreck.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1473295090" lat="45.4834254" lon="9.2142319" version="2" timestamp="2017-12-05T15:14:02Z" changeset="54368665" uid="2111087" user="asturksever">
@@ -2843,17 +2861,21 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1558381358" lat="45.4414949" lon="9.2135923" version="5" timestamp="2021-02-26T18:44:58Z" changeset="100069890" uid="89897" user="airon90">
+  <node id="1558381358" lat="45.4414949" lon="9.2135923" version="6" timestamp="2022-01-24T15:15:27Z" changeset="116545322" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="20139"/>
     <tag k="addr:street" v="Piazza Geremia Bonomelli"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="contact:phone" v="+39 02 55212189"/>
     <tag k="contact:website" v="https://www.lloydsfarmacia.it/"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Lloyds farmacia comunale N. 13"/>
-    <tag k="operator" v="Azienda Farmacie Milanesi SpA"/>
-    <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="name" v="Municipale N. 13"/>
+    <tag k="operator" v="Municipale N. 13"/>
+    <tag k="ref:msal" v="2717"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1575654783" lat="45.5113662" lon="9.2041866" version="5" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
@@ -2966,7 +2988,7 @@
     <tag k="healthcare" v="pharmacy"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1600010817" lat="45.4730888" lon="9.1951890" version="6" timestamp="2020-10-09T20:02:36Z" changeset="92254429" uid="302717" user="Fasse">
+  <node id="1600010817" lat="45.4730888" lon="9.1951890" version="7" timestamp="2022-01-24T11:39:45Z" changeset="116537520" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
@@ -2976,10 +2998,13 @@
     <tag k="dispensing" v="yes"/>
     <tag k="email" v="farmaciacomotti@libero.it"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Comotti"/>
+    <tag k="name" v="Comotti"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-13:30,15:30-19:30"/>
+    <tag k="operator" v="Comotti"/>
     <tag k="phone" v="+39 02 6552601"/>
+    <tag k="ref:msal" v="2610"/>
     <tag k="ref:vatin" v="IT00259480150"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="website" v="http://www.farmaciacomotti.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -5380,7 +5405,7 @@
     <tag k="website" v="https://www.tavernadelborgoantico.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2419111883" lat="45.4920775" lon="9.1930287" version="5" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
+  <node id="2419111883" lat="45.4921114" lon="9.1930404" version="6" timestamp="2022-01-24T14:52:04Z" changeset="116544508" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="38"/>
@@ -5391,8 +5416,12 @@
     <tag k="dispensing" v="yes"/>
     <tag k="fixme" v="opening time to be checked. For sure open every night, but it can be not 24/7 8as it can be close one day a week during daytime)"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Caddeo"/>
+    <tag k="name" v="Caddeo"/>
+    <tag k="operator" v="Caddeo"/>
+    <tag k="ref:msal" v="2854"/>
     <tag k="ref:vatin" v="IT09290410159"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://www.farmaciacaddeo.it/index.asp"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2419130541" lat="45.4925972" lon="9.1886628" version="4" timestamp="2019-09-13T13:41:02Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -7136,15 +7165,21 @@
     <tag k="ref:vatin" v="IT08237970960"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2838444919" lat="45.4738367" lon="9.1833271" version="3" timestamp="2020-12-02T21:55:10Z" changeset="95178991" uid="454306" user="dega180">
+  <node id="2838444919" lat="45.4738367" lon="9.1833271" version="4" timestamp="2022-01-24T15:34:33Z" changeset="116545924" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Sanitas"/>
+    <tag k="name" v="Sanitas"/>
+    <tag k="operator" v="Sanitas"/>
+    <tag k="ref:msal" v="2658"/>
+    <tag k="ref:vatin" v="IT01567000151"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://farmaciasanitas.jimdofree.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2838445709" lat="45.4719324" lon="9.1855294" version="4" timestamp="2019-09-13T14:28:36Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
