@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-25T03:17:35Z" areas="2022-01-25T02:37:11Z"/>
+<meta osm_base="2022-01-26T03:20:06Z" areas="2022-01-26T02:49:44Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -2238,7 +2238,7 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1447219000" lat="45.4963392" lon="9.2356947" version="6" timestamp="2021-09-12T10:39:16Z" changeset="111090125" uid="3860151" user="Michele Aquilani">
+  <node id="1447219000" lat="45.4963392" lon="9.2356947" version="7" timestamp="2022-01-25T10:57:52Z" changeset="116579793" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="65"/>
     <tag k="addr:postcode" v="20132"/>
@@ -2246,10 +2246,13 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Lloyds"/>
+    <tag k="name" v="Municipale n.58"/>
     <tag k="opening_hours" v="Mo-Fr 08:17-19:30; Sa,Su 09:00-13:00,15:30-19:30"/>
-    <tag k="operator" v="Azienda Farmacie Milanesi SpA"/>
+    <tag k="operator" v="Municipale n.58"/>
     <tag k="phone" v="+39 02 28040226"/>
+    <tag k="ref:msal" v="2777"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="website" v="https://www.lloydsfarmacia.it/store-locator/milano/lloyds-farmacia-via-palmanova---farmacia-n--58"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -2424,15 +2427,20 @@
     <tag k="name" v="Carpe Diem"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1476116764" lat="45.4357481" lon="9.2406348" version="8" timestamp="2021-02-27T13:48:58Z" changeset="100098648" uid="89897" user="airon90">
+  <node id="1476116764" lat="45.4357481" lon="9.2406348" version="9" timestamp="2022-01-25T11:00:07Z" changeset="116579877" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20138"/>
     <tag k="addr:street" v="Via Francesco Pizzolpasso"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Lloyds Faramcia"/>
+    <tag k="name" v="LloydsFarmacia Milano n. 30"/>
+    <tag k="operator" v="LloydsFarmacia Milano n. 30"/>
+    <tag k="ref:msal" v="2739"/>
+    <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1476116765" lat="45.4380288" lon="9.2436236" version="6" timestamp="2019-04-18T23:16:43Z" changeset="69362066" uid="95387" user="rugamarcus">
@@ -2817,13 +2825,19 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1529820734" lat="45.4557377" lon="9.2173558" version="4" timestamp="2021-10-30T13:14:50Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+  <node id="1529820734" lat="45.4557377" lon="9.2173558" version="5" timestamp="2022-01-25T11:09:29Z" changeset="116580239" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20135"/>
     <tag k="addr:street" v="Via Gaetano Strigelli"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Fiore"/>
+    <tag k="name" v="Fiore snc"/>
+    <tag k="operator" v="Fiore snc"/>
+    <tag k="ref:msal" v="2650"/>
+    <tag k="ref:vatin" v="IT07561670964"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1533118079" lat="45.4783361" lon="9.2016028" version="7" timestamp="2021-09-26T21:04:10Z" changeset="111740681" uid="89897" user="airon90">
@@ -2923,7 +2937,7 @@
     <tag k="name:it" v="Banca Popolare di Milano"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1583651468" lat="45.4816088" lon="9.1970265" version="5" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="1583651468" lat="45.4816088" lon="9.1970265" version="6" timestamp="2022-01-25T13:53:29Z" changeset="116586701" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
@@ -2932,7 +2946,11 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Galileo"/>
+    <tag k="name" v="Galileo snc"/>
+    <tag k="operator" v="Galileo snc"/>
+    <tag k="ref:msal" v="2930"/>
+    <tag k="ref:vatin" v="IT11632930159"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1583651469" lat="45.4842987" lon="9.1954739" version="2" timestamp="2013-03-27T12:59:29Z" changeset="15515242" uid="290680" user="wheelmap_visitor">
@@ -4203,7 +4221,7 @@
     <tag k="amenity" v="ice_cream"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2003087821" lat="45.4634921" lon="9.2076842" version="6" timestamp="2021-07-27T08:59:28Z" changeset="108673417" uid="602784" user="fedc">
+  <node id="2003087821" lat="45.4634921" lon="9.2076842" version="7" timestamp="2022-01-25T14:18:54Z" changeset="116587712" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="10"/>
@@ -4215,7 +4233,11 @@
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Remotti"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-13:30,14:00-19:30; Sa 09:00-13:00"/>
+    <tag k="operator" v="Remotti"/>
     <tag k="phone" v="+39 02 5456932"/>
+    <tag k="ref:msal" v="2945"/>
+    <tag k="ref:vatin" v="IT11988310154"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="website" v="http://www.farmaciaremotti.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -4715,15 +4737,21 @@
     <tag k="ref" v="134"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2195525295" lat="45.4913598" lon="9.2125797" version="4" timestamp="2021-10-30T16:33:13Z" changeset="113167281" uid="290680" user="wheelmap_visitor">
+  <node id="2195525295" lat="45.4913598" lon="9.2125797" version="5" timestamp="2022-01-25T14:30:37Z" changeset="116588125" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20127"/>
     <tag k="addr:street" v="Via Fratelli Lumière"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Dottor Barni"/>
+    <tag k="name" v="Farmacia di Barni Marzio"/>
+    <tag k="operator" v="Farmacia di Barni Marzio"/>
+    <tag k="ref:msal" v="2725"/>
+    <tag k="ref:vatin" v="IT05322260968"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://farmainnovation.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2197772532" lat="45.4891421" lon="9.1880636" version="3" timestamp="2019-09-13T15:06:38Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -5475,13 +5503,20 @@
     <tag k="website" v="http://www.oldwildwest.it/code/20026/Milano-Zara"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2419130561" lat="45.4930043" lon="9.1881605" version="5" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="2419130561" lat="45.4924321" lon="9.1888657" version="6" timestamp="2022-01-25T15:00:04Z" changeset="116589243" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Genova Thaon Di Revel"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="S. Maria alla Fontana"/>
+    <tag k="operator" v="S. Maria alla Fontana"/>
+    <tag k="ref:msal" v="2926"/>
+    <tag k="ref:vatin" v="IT07617700153"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://farmaciasantamariaallafontana.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2419130562" lat="45.4924766" lon="9.1888143" version="4" timestamp="2019-09-13T13:39:58Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -6596,7 +6631,7 @@
     <tag k="website" v="https://www.melia.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2575832355" lat="45.4491418" lon="9.1633209" version="2" timestamp="2021-07-12T21:53:24Z" changeset="107863853" uid="10566220" user="Amanuense_del_diavolo">
+  <node id="2575832355" lat="45.4491418" lon="9.1633209" version="3" timestamp="2022-01-25T15:04:14Z" changeset="116589392" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:postcode" v="20143"/>
@@ -6604,14 +6639,18 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Eredi Catalucci"/>
+    <tag k="name" v="Eredi Catalucci snc"/>
     <tag k="opening_hours" v="Mo-Sa 08:30-13:00,15:30-19:30"/>
+    <tag k="operator" v="Eredi Catalucci snc"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+390289403217"/>
+    <tag k="ref:msal" v="2965"/>
+    <tag k="ref:vatin" v="IT12041830154"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2577000680" lat="45.4843370" lon="9.2002622" version="7" timestamp="2019-09-13T08:33:41Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -7425,20 +7464,22 @@
     <tag k="shop" v="toys"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2991414091" lat="45.4644544" lon="9.1929239" version="10" timestamp="2021-08-23T17:02:27Z" changeset="110128551" uid="8770388" user="Osmwithspace">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Piazza del Duomo"/>
-    <tag k="branch" v="Piazza del Duomo"/>
+  <node id="2991414091" lat="45.4644544" lon="9.1929239" version="11" timestamp="2022-01-25T18:57:15Z" changeset="116597975" uid="11220113" user="ivanbranco">
+    <tag k="branch" v="Duomo"/>
     <tag k="brand" v="Lush"/>
     <tag k="brand:wikidata" v="Q1585448"/>
     <tag k="brand:wikipedia" v="en:Lush (company)"/>
+    <tag k="bulk_purchase" v="yes"/>
+    <tag k="contact:city" v="Milano"/>
     <tag k="contact:email" v="duomo@lush.it"/>
-    <tag k="contact:website" v="https://it.lush.com/shop/milano-piazza-del-duomo"/>
+    <tag k="contact:housenumber" v="20"/>
+    <tag k="contact:postcode" v="20121"/>
+    <tag k="contact:street" v="Piazza del Duomo"/>
+    <tag k="contact:website" v="https://www.lush.com/it/it/shops/lush-duomo?id=LUSH054"/>
     <tag k="name" v="Lush"/>
     <tag k="opening_hours" v="Mo-Su 10:00-19:30"/>
     <tag k="operator" v="Lush Italia s.r.l."/>
+    <tag k="ref" v="LUSH054"/>
     <tag k="ref:vatin" v="IT12575920157"/>
     <tag k="shop" v="cosmetics"/>
     <tag k="wheelchair" v="limited"/>
@@ -8100,7 +8141,7 @@
     <tag k="website" v="http://farinami.net/pisani"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3217982892" lat="45.4830834" lon="9.1996933" version="4" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="3217982892" lat="45.4830834" lon="9.1996933" version="5" timestamp="2022-01-25T16:47:46Z" changeset="116592925" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="10"/>
@@ -8111,23 +8152,31 @@
     <tag k="fax" v="+39 02 66987094"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="mapillary" v="dvR6PDzIpTgL_ziQDc1gUA"/>
-    <tag k="name" v="Farmacia Humanitas"/>
+    <tag k="name" v="Humanitas snc"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 09:00-13:00"/>
     <tag k="phone" v="+39 02 66985737"/>
+    <tag k="ref:msal" v="2959"/>
+    <tag k="ref:vatin" v="IT12588160155"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="survey:date" v="2019-08-18"/>
     <tag k="website" v="http://www.farmaciahumanitas.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3217982893" lat="45.4834938" lon="9.2023635" version="5" timestamp="2021-07-09T06:31:22Z" changeset="107679093" uid="3860151" user="Michele Aquilani">
+  <node id="3217982893" lat="45.4834938" lon="9.2023635" version="6" timestamp="2022-01-25T16:49:41Z" changeset="116592991" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Vittor Pisani"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Pisani 26"/>
+    <tag k="name" v="Pisani 26"/>
+    <tag k="operator" v="Pisani 26"/>
     <tag k="phone" v="+39 02 6693659"/>
+    <tag k="ref:msal" v="2641"/>
+    <tag k="ref:vatin" v="IT07219710154"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3217982894" lat="45.4834430" lon="9.1999135" version="2" timestamp="2019-09-13T10:00:36Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -9350,7 +9399,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3675019457" lat="45.4780778" lon="9.1880638" version="4" timestamp="2020-12-01T22:58:39Z" changeset="95120091" uid="454306" user="dega180">
+  <node id="3675019457" lat="45.4780778" lon="9.1880638" version="5" timestamp="2022-01-25T16:54:44Z" changeset="116593196" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="25"/>
@@ -9361,8 +9410,12 @@
     <tag k="email" v="info@farmaciasolferino.it"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="mapillary" v="YUv0PwdT2_oz7RjZ51ZHpQ"/>
-    <tag k="name" v="Farmacia Solferino"/>
+    <tag k="name" v="Solferino sas"/>
+    <tag k="operator" v="Dott. Tarallo Giorgio &amp; c."/>
     <tag k="phone" v="+39 02 6555567"/>
+    <tag k="ref:msal" v="2928"/>
+    <tag k="ref:vatin" v="IT09085510965"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="survey:date" v="2018-01-07"/>
     <tag k="website" v="http://www.farmaciasolferino.it/"/>
     <tag k="wheelchair" v="limited"/>
@@ -13776,7 +13829,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5259440055" lat="45.4708776" lon="9.1842337" version="4" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="5259440055" lat="45.4708776" lon="9.1842337" version="5" timestamp="2022-01-25T17:46:46Z" changeset="116595274" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -13785,7 +13838,11 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia del Carmine"/>
+    <tag k="name" v="Del Carmine"/>
+    <tag k="operator" v="Del Carmine"/>
+    <tag k="ref:msal" v="2835"/>
+    <tag k="ref:vatin" v="IT04394790879"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5259440057" lat="45.4710385" lon="9.1841564" version="3" timestamp="2021-07-26T14:55:23Z" changeset="108631904" uid="3860151" user="Michele Aquilani">
@@ -19069,6 +19126,21 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q2783777"/>
     <tag k="wikipedia" v="it:Chiesa di San Giuseppe (Milano)"/>
+  </way>
+  <way id="133874256" version="3" timestamp="2022-01-25T10:41:55Z" changeset="116579060" uid="14936824" user="DR16">
+    <center lat="45.5284733" lon="9.1776759"/>
+    <nd ref="1473152547"/>
+    <nd ref="1473152512"/>
+    <nd ref="1473152526"/>
+    <nd ref="1473152539"/>
+    <nd ref="1473152547"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Centro Diurno Disabili &quot;Sorriso&quot; - Fondazione Aquilone"/>
+    <tag k="operator" v="Fondazione Aquillone"/>
+    <tag k="operator:type" v="private_non_profit"/>
+    <tag k="social_facility" v="day_care"/>
+    <tag k="social_facility:for" v="disabled"/>
+    <tag k="wheelchair" v="yes"/>
   </way>
   <way id="134470223" version="4" timestamp="2019-02-13T23:06:37Z" changeset="67177433" uid="95387" user="rugamarcus">
     <center lat="45.4389198" lon="9.2413887"/>
