@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-27T03:16:41Z" areas="2022-01-27T03:02:39Z"/>
+<meta osm_base="2022-01-28T03:18:59Z" areas="2022-01-28T03:16:54Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -6735,11 +6735,17 @@
     <tag k="vending" v="coffee;condoms;drinks;feminine_hygiene;food;pregnacy_test"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2622398764" lat="45.4818421" lon="9.2341697" version="7" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="2622398764" lat="45.4818433" lon="9.2341630" version="8" timestamp="2022-01-27T13:52:43Z" changeset="116667940" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Antonio Grossich"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacia Caldarini Roda Dr. Alberto"/>
+    <tag k="name" v="Caldarini"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-13:00,15:00-19:30; Sa 09:00-13:00"/>
+    <tag k="operator" v="Caldarini"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2631107193" lat="45.5000415" lon="9.2414257" version="5" timestamp="2018-08-18T12:42:59Z" changeset="61768866" uid="1462614" user="_Andrea_">
@@ -11217,12 +11223,20 @@
     <tag k="website" v="www.gnam-milano.com"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4135079394" lat="45.4519958" lon="9.1414656" version="5" timestamp="2021-02-26T10:06:47Z" changeset="100040023" uid="89897" user="airon90">
+  <node id="4135079394" lat="45.4519958" lon="9.1414656" version="6" timestamp="2022-01-27T16:50:48Z" changeset="116674520" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20146"/>
+    <tag k="addr:street" v="Via Salvatore Barzilai"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="mapillary" v="JocxncHNT55fb47QUrbt9g"/>
-    <tag k="name" v="Lloyds Farmacia"/>
+    <tag k="name" v="Municipale n.42"/>
+    <tag k="operator" v="Municipale n.42"/>
+    <tag k="ref:msal" v="2677"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="survey:date" v="2018-04-15"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -15438,6 +15452,28 @@
     <tag k="addr:street" v="Via Carlo Pascal"/>
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5906673985" lat="45.4531360" lon="9.1727735" version="4" timestamp="2022-01-27T15:30:43Z" changeset="116671735" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="20144"/>
+    <tag k="addr:street" v="Via Vigevano"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="info@tenoha.it"/>
+    <tag k="contact:instagram" v="tenoha_milano"/>
+    <tag k="contact:phone" v="+39 02 80889147"/>
+    <tag k="contact:pinterest" v="tenohamilano"/>
+    <tag k="contact:website" v="https://www.tenoha.it"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="Tenoha"/>
+    <tag k="official_name" v="Tenoha Milano &amp; Taste"/>
+    <tag k="operator" v="Sayu Milano srl"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT09666400966"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5913247063" lat="45.4808384" lon="9.2263821" version="2" timestamp="2019-10-18T22:04:46Z" changeset="75915016" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
