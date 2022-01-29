@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-28T03:18:59Z" areas="2022-01-28T03:16:54Z"/>
+<meta osm_base="2022-01-29T03:14:38Z" areas="2022-01-29T02:28:08Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -15378,12 +15378,20 @@
     <tag k="website" v="https://designelementi.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5798260286" lat="45.4769304" lon="9.2007101" version="2" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="5798260286" lat="45.4769304" lon="9.2007101" version="3" timestamp="2022-01-28T08:59:18Z" changeset="116697892" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Viale Vittorio Veneto"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="dispensing" v="yes"/>
+    <tag k="dispensing" v="no"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Farmachl"/>
     <tag k="opening_hours" v="Mo-Fr 10:00-19:30; PH closed"/>
+    <tag k="operator" v="ARTEMISIA GALENICA S.R.L."/>
+    <tag k="ref:msal" v="10876"/>
+    <tag k="ref:vatin" v="IT08750840962"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5804640103" lat="45.4736568" lon="9.1841385" version="2" timestamp="2019-09-13T14:07:16Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -15895,11 +15903,20 @@
     <tag k="name" v="La Coccinella"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6622843007" lat="45.4313738" lon="9.1628697" version="3" timestamp="2021-11-07T00:42:13Z" changeset="113465038" uid="11645399" user="davidoskky">
+  <node id="6622843007" lat="45.4313738" lon="9.1628697" version="4" timestamp="2022-01-28T10:06:48Z" changeset="116700493" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="20142"/>
+    <tag k="addr:street" v="Via San Paolino"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="drive_through" v="no"/>
     <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.56"/>
+    <tag k="operator" v="Municipale n.56"/>
+    <tag k="ref:msal" v="2770"/>
+    <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="6652798487" lat="45.4908677" lon="9.1889100" version="2" timestamp="2021-06-18T12:15:58Z" changeset="106587593" uid="4838813" user="LorenzoStucchi">
@@ -17107,6 +17124,21 @@
     <tag k="operator" v="TIM"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9099943053" lat="45.4995991" lon="9.1789020" version="2" timestamp="2022-01-28T14:31:30Z" changeset="116709944" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="6b"/>
+    <tag k="addr:postcode" v="20158"/>
+    <tag k="addr:street" v="Via Livigno"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.11"/>
+    <tag k="operator" v="Municipale n.11"/>
+    <tag k="ref:msal" v="2712"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="9111882459" lat="45.5183567" lon="9.1659330" version="2" timestamp="2021-09-21T21:03:54Z" changeset="111514849" uid="89897" user="airon90">
     <tag k="access" v="permissive"/>
     <tag k="addr:city" v="Milano"/>
@@ -17287,6 +17319,51 @@
   <node id="9435724680" lat="45.4853034" lon="9.1931026" version="1" timestamp="2022-01-21T06:49:00Z" changeset="116414025" uid="1875845" user="Valerio_Bozzolan">
     <tag k="access" v="permit"/>
     <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9455636028" lat="45.4538990" lon="9.2075631" version="1" timestamp="2022-01-28T14:34:52Z" changeset="116710043" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Via Pier Lombardo"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.15"/>
+    <tag k="operator" v="Municipale n.15"/>
+    <tag k="ref:msal" v="2714"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9455639209" lat="45.5089543" lon="9.1964435" version="1" timestamp="2022-01-28T14:51:20Z" changeset="116710631" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Via Val Maira"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.8"/>
+    <tag k="operator" v="Municipale n.8"/>
+    <tag k="ref:msal" v="2726"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9455643387" lat="45.4945253" lon="9.1535855" version="1" timestamp="2022-01-28T14:38:28Z" changeset="116710167" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20155"/>
+    <tag k="addr:street" v="Piazza Prealpi"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.19"/>
+    <tag k="operator" v="Municipale n.19"/>
+    <tag k="ref:msal" v="2715"/>
+    <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
