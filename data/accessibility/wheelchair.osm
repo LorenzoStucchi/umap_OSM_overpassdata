@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-29T03:14:38Z" areas="2022-01-29T02:28:08Z"/>
+<meta osm_base="2022-01-30T03:15:07Z" areas="2022-01-30T02:39:56Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -705,21 +705,6 @@
     <tag k="brand:wikidata" v="Q66048"/>
     <tag k="brand:wikipedia" v="en:Deutsche Bank"/>
     <tag k="name" v="Deutsche Bank"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="282182221" lat="45.4730318" lon="9.2142721" version="7" timestamp="2022-01-23T10:55:35Z" changeset="116493916" uid="13840929" user="aa30mom">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20129"/>
-    <tag k="addr:street" v="Via Nino Bixio"/>
-    <tag k="amenity" v="pharmacy"/>
-    <tag k="dispensing" v="yes"/>
-    <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="De Luca snc"/>
-    <tag k="operator" v="De Luca snc"/>
-    <tag k="ref:msal" v="2918"/>
-    <tag k="ref:vatin" v="IT06759200964"/>
-    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="282314360" lat="45.4887935" lon="9.1943986" version="3" timestamp="2019-09-13T12:58:02Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -4140,9 +4125,9 @@
     <tag k="website" v="http://www.pianetaluna.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1901845032" lat="45.4867765" lon="9.1982143" version="2" timestamp="2019-09-13T10:57:16Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="1901845032" lat="45.4867765" lon="9.1982143" version="3" timestamp="2022-01-29T23:23:38Z" changeset="116762827" uid="11645399" user="davidoskky">
     <tag k="name" v="Tabacchi"/>
-    <tag k="shop" v="kiosk"/>
+    <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1931981421" lat="45.4755424" lon="9.1946525" version="8" timestamp="2021-09-24T15:53:25Z" changeset="111654491" uid="11220113" user="ivanbranco">
@@ -13801,18 +13786,20 @@
     <tag k="website" v="http://www.thefisherman.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5182384976" lat="45.4857690" lon="9.2051801" version="2" timestamp="2019-09-13T08:49:31Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="5182384976" lat="45.4857690" lon="9.2051801" version="3" timestamp="2022-01-29T23:23:38Z" changeset="116762827" uid="11645399" user="davidoskky">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Piazza Duca d'Aosta"/>
-    <tag k="brand" v="Kiko"/>
+    <tag k="brand" v="KIKO Milano"/>
+    <tag k="brand:wikidata" v="Q3812045"/>
+    <tag k="brand:wikipedia" v="it:KIKO"/>
     <tag k="contact:phone" v="+39 02 6706136"/>
     <tag k="fixme" v="Position estimated"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Kiko"/>
+    <tag k="name" v="KIKO Milano"/>
     <tag k="operator" v="Kiko S.p.A."/>
     <tag k="ref:vatin" v="IT02817030162"/>
-    <tag k="shop" v="chemist"/>
+    <tag k="shop" v="cosmetics"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5201544324" lat="45.4552339" lon="9.1677829" version="5" timestamp="2021-12-30T15:31:37Z" changeset="115570834" uid="13840929" user="aa30mom">
@@ -17363,6 +17350,36 @@
     <tag k="operator" v="Municipale n.19"/>
     <tag k="ref:msal" v="2715"/>
     <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9458224977" lat="45.4888904" lon="9.2251290" version="1" timestamp="2022-01-29T16:05:48Z" changeset="116750340" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Casoretto"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.67"/>
+    <tag k="operator" v="Municipale n.67"/>
+    <tag k="ref:msal" v="2789"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9458342629" lat="45.4642774" lon="9.2280009" version="1" timestamp="2022-01-29T16:16:34Z" changeset="116750790" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Via Luisa Battistotti Sassi"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.71"/>
+    <tag k="operator" v="Municipale n.71"/>
+    <tag k="ref:msal" v="2792"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
