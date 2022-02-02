@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-01T03:17:34Z" areas="2022-02-01T03:07:26Z"/>
+<meta osm_base="2022-02-02T03:16:05Z" areas="2022-02-02T02:22:19Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -2731,7 +2731,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1523164218" lat="45.5158535" lon="9.2117664" version="5" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="1523164218" lat="45.5158523" lon="9.2117664" version="6" timestamp="2022-02-01T15:12:25Z" changeset="116872885" uid="2370220" user="Paolo pn">
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="Viale Piero e Alberto Pirelli"/>
     <tag k="amenity" v="post_office"/>
@@ -2741,6 +2741,8 @@
     <tag k="name" v="Poste Italiane"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-13:35, Sa 08:20-12:35"/>
     <tag k="operator" v="Poste Italiane"/>
+    <tag k="operator:wikidata" v="Q495026"/>
+    <tag k="operator:wikipedia" v="en:Poste italiane"/>
     <tag k="phone" v="+39 02 6410 0200"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -6006,7 +6008,7 @@
     <tag k="phone" v="+39 02 65560824"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2476941646" lat="45.4833478" lon="9.2012189" version="6" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
+  <node id="2476941646" lat="45.4833523" lon="9.2012172" version="7" timestamp="2022-02-01T06:14:43Z" changeset="116850602" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="23"/>
@@ -6018,7 +6020,9 @@
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="en:UniCredit"/>
     <tag k="name" v="UniCredit Bank"/>
+    <tag k="name:it" v="UniCredit"/>
     <tag k="opening_hours" v="Mo-Fr 08:35-13:35,14:45-16:15"/>
+    <tag k="phone" v="+39 02 86811202"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2479386540" lat="45.4867884" lon="9.1858606" version="2" timestamp="2019-09-13T13:37:25Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -8159,17 +8163,6 @@
     <tag k="website" v="http://www.ristorantelimone.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3217982891" lat="45.4830580" lon="9.2009409" version="2" timestamp="2019-09-13T09:50:54Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Via Vittor Pisani"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Farinami"/>
-    <tag k="website" v="http://farinami.net/pisani"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="3217982892" lat="45.4830834" lon="9.1996933" version="5" timestamp="2022-01-25T16:47:46Z" changeset="116592925" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -8312,7 +8305,7 @@
     <tag k="website" v="http://www.parrucchierecovello.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3217983448" lat="45.4839939" lon="9.2019601" version="2" timestamp="2019-09-13T09:54:01Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3217983448" lat="45.4839939" lon="9.2019601" version="3" timestamp="2022-02-01T06:14:43Z" changeset="116850602" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="31"/>
@@ -8320,6 +8313,7 @@
     <tag k="addr:street" v="Via Vittor Pisani"/>
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Dany Bar"/>
+    <tag k="phone" v="+39 02 66987065"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3217983449" lat="45.4821264" lon="9.1986565" version="2" timestamp="2019-09-13T10:02:22Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -8337,7 +8331,7 @@
     <tag k="website" v="http://www.marconihotel.it/it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3217983451" lat="45.4836670" lon="9.2015511" version="3" timestamp="2019-09-13T09:53:25Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3217983451" lat="45.4836670" lon="9.2015511" version="4" timestamp="2022-02-01T06:14:43Z" changeset="116850602" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="27"/>
@@ -8345,6 +8339,7 @@
     <tag k="addr:street" v="Via Vittor Pisani"/>
     <tag k="name" v="KPMG"/>
     <tag k="office" v="company"/>
+    <tag k="phone" v="+39 02 676431"/>
     <tag k="website" v="http://www.kpmg.com/it/it/pagine/default.aspx"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -11162,7 +11157,7 @@
     <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4049918599" lat="45.4496656" lon="9.1777369" version="2" timestamp="2021-06-05T09:51:02Z" changeset="105874908" uid="89897" user="airon90">
+  <node id="4049918599" lat="45.4496651" lon="9.1777067" version="3" timestamp="2022-02-01T11:44:46Z" changeset="116864833" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="20136"/>
@@ -11176,11 +11171,12 @@
     <tag k="fixme" v="not sure about Happy Hour tag"/>
     <tag k="happy_hours" v="Tu-Su 18:30-03:00"/>
     <tag k="name" v="Ginger Cocktail Lab"/>
-    <tag k="opening_hours" v="Tu-Su 18:30-03:00"/>
+    <tag k="opening_hours" v="Tu-Su 17:30-02:30"/>
     <tag k="operator" v="Rovani Andrea"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT01693970335"/>
     <tag k="smoking" v="outside"/>
+    <tag k="website" v="https://www.gingercocktailab.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4073817208" lat="45.4768399" lon="9.2009694" version="3" timestamp="2020-12-14T22:54:20Z" changeset="95836692" uid="454306" user="dega180">
