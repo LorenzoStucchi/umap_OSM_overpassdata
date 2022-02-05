@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-04T03:12:13Z" areas="2022-02-04T02:49:39Z"/>
+<meta osm_base="2022-02-05T03:12:54Z" areas="2022-02-05T03:04:44Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -1702,12 +1702,10 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="693845135" lat="45.5032671" lon="9.1222886" version="6" timestamp="2019-08-07T18:35:54Z" changeset="73107113" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Viale Certosa (Cimitero Maggiore)"/>
+  <node id="693845135" lat="45.5032671" lon="9.1222886" version="7" timestamp="2022-02-04T16:00:17Z" changeset="117012255" uid="13840929" user="aa30mom">
+    <tag k="name" v="V.le Certosa Cimitero Maggiore"/>
     <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="10314"/>
-    <tag k="shelter" v="yes"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -1986,6 +1984,13 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q3639564"/>
     <tag k="wikipedia" v="it:Biblioteca Campus Leonardo del Politecnico di Milano"/>
+  </node>
+  <node id="1171155322" lat="45.4784737" lon="9.2024582" version="5" timestamp="2022-02-04T18:00:57Z" changeset="117016884" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="atm" v="yes"/>
+    <tag k="name" v="to.market"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1179310573" lat="45.4952116" lon="9.1857630" version="3" timestamp="2019-09-13T15:07:38Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Bottega del ciclo"/>
@@ -2482,10 +2487,9 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1481346565" lat="45.5031541" lon="9.1213431" version="5" timestamp="2022-02-03T10:41:24Z" changeset="116957290" uid="13840929" user="aa30mom">
-    <tag k="name" v="Cimitero Maggiore"/>
+  <node id="1481346565" lat="45.5031541" lon="9.1213431" version="6" timestamp="2022-02-04T16:00:17Z" changeset="117012255" uid="13840929" user="aa30mom">
+    <tag k="name" v="P.le Cimitero Maggiore"/>
     <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="10305"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -2517,35 +2521,32 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1494198627" lat="45.4538706" lon="9.1586267" version="4" timestamp="2018-05-19T12:43:01Z" changeset="59093875" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Via Solari - Via Stendhal"/>
+  <node id="1494198627" lat="45.4538706" lon="9.1586267" version="5" timestamp="2022-02-04T15:37:56Z" changeset="117011538" uid="13840929" user="aa30mom">
+    <tag k="name" v="Via Solari Via Stendhal"/>
     <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="10846"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1494202845" lat="45.4552472" lon="9.1628046" version="6" timestamp="2022-02-03T12:45:16Z" changeset="116962707" uid="13840929" user="aa30mom">
-    <tag k="name" v="P.za Del Rosario"/>
+  <node id="1494202845" lat="45.4552472" lon="9.1628046" version="7" timestamp="2022-02-04T11:56:52Z" changeset="117003720" uid="13840929" user="aa30mom">
+    <tag k="name" v="P.za del Rosario"/>
     <tag k="public_transport" v="stop_position"/>
     <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="10855"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1494202875" lat="45.4552212" lon="9.1628215" version="6" timestamp="2017-05-30T11:00:53Z" changeset="49100488" uid="245439" user="adirricor">
-    <tag k="name" v="Piazza del Rosario"/>
+  <node id="1494202875" lat="45.4552212" lon="9.1628215" version="7" timestamp="2022-02-04T15:37:56Z" changeset="117011538" uid="13840929" user="aa30mom">
+    <tag k="name" v="P.za del Rosario"/>
     <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="10854"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1494211819" lat="45.4562955" lon="9.1661474" version="5" timestamp="2013-12-20T20:13:31Z" changeset="19556026" uid="113669" user="AnyFile">
+  <node id="1494211819" lat="45.4562955" lon="9.1661474" version="6" timestamp="2022-02-04T15:37:56Z" changeset="117011538" uid="13840929" user="aa30mom">
     <tag k="name" v="Via Montevideo"/>
     <tag k="old_name" v="Via Solari - Via Montevideo"/>
     <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="11172"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -2594,7 +2595,7 @@
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1502793093" lat="45.4540666" lon="9.1591401" version="5" timestamp="2022-02-03T12:45:16Z" changeset="116962707" uid="13840929" user="aa30mom">
+  <node id="1502793093" lat="45.4541390" lon="9.1593426" version="6" timestamp="2022-02-04T11:56:52Z" changeset="117003720" uid="13840929" user="aa30mom">
     <tag k="name" v="Via Solari Via Stendhal"/>
     <tag k="public_transport" v="stop_position"/>
     <tag k="railway" v="tram_stop"/>
@@ -2602,7 +2603,7 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1504949740" lat="45.4446753" lon="9.1300764" version="5" timestamp="2022-02-03T12:45:16Z" changeset="116962707" uid="13840929" user="aa30mom">
+  <node id="1504949740" lat="45.4447238" lon="9.1302233" version="6" timestamp="2022-02-04T11:56:52Z" changeset="117003720" uid="13840929" user="aa30mom">
     <tag k="name" v="San Cristoforo FS"/>
     <tag k="public_transport" v="stop_position"/>
     <tag k="railway" v="tram_stop"/>
@@ -2610,18 +2611,17 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1504949745" lat="45.4447743" lon="9.1304852" version="4" timestamp="2014-01-02T19:18:05Z" changeset="19773075" uid="524500" user="wheelmap_android">
+  <node id="1504949745" lat="45.4446981" lon="9.1302438" version="5" timestamp="2022-02-04T15:37:56Z" changeset="117011538" uid="13840929" user="aa30mom">
     <tag k="name" v="San Cristoforo"/>
     <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="10335"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1504959712" lat="45.4489859" lon="9.1435234" version="4" timestamp="2013-12-14T08:34:21Z" changeset="19444725" uid="245439" user="adirricor">
+  <node id="1504959712" lat="45.4489652" lon="9.1434496" version="5" timestamp="2022-02-04T15:37:56Z" changeset="117011538" uid="13840929" user="aa30mom">
     <tag k="name" v="Via Brunelleschi"/>
     <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
+    <tag k="ref" v="10547"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -6842,9 +6842,8 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2696102370" lat="45.4570623" lon="9.1690168" version="3" timestamp="2018-07-24T20:48:50Z" changeset="61034979" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Viale Coni Zugna - Via Solari"/>
-    <tag k="operator" v="ATM"/>
+  <node id="2696102370" lat="45.4570623" lon="9.1690168" version="4" timestamp="2022-02-04T15:37:56Z" changeset="117011538" uid="13840929" user="aa30mom">
+    <tag k="name" v="V.le Coni Zugna Via Solari"/>
     <tag k="public_transport" v="stop_position"/>
     <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="11175"/>
@@ -8878,6 +8877,12 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3501275132" lat="45.4806518" lon="9.2020128" version="4" timestamp="2022-02-04T18:20:18Z" changeset="117016884" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cheri"/>
+    <tag k="phone" v="+39 02 66983172"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3501305383" lat="45.4801135" lon="9.2035366" version="3" timestamp="2019-09-13T09:52:16Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Pupa"/>
     <tag k="shop" v="clothes"/>
@@ -10193,6 +10198,20 @@
     <tag k="self_service" v="yes"/>
     <tag k="website" v="https://www.cityliferistorante.it/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3848621437" lat="45.4809660" lon="9.2013679" version="3" timestamp="2022-02-04T18:18:30Z" changeset="117016884" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="51"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via San Gregorio"/>
+    <tag k="email" v="spazioduravitmilano@it.duravit.com"/>
+    <tag k="fax" v="+39 02 67479622"/>
+    <tag k="name" v="Duravit"/>
+    <tag k="phone" v="+39 02 66989770"/>
+    <tag k="shop" v="bathroom_furnishing"/>
+    <tag k="website" v="http://www.duravit.it/"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3848621551" lat="45.4832524" lon="9.2048429" version="3" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -12504,6 +12523,19 @@
   <node id="4471903133" lat="45.4523478" lon="9.1851740" version="2" timestamp="2020-10-28T15:20:18Z" changeset="93180978" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="ePRICE Pick&amp;Pay"/>
     <tag k="shop" v="electronics"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4496388735" lat="45.4792511" lon="9.2015508" version="3" timestamp="2022-02-04T17:58:10Z" changeset="117016884" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Viale Tunisia"/>
+    <tag k="brand" v="Amplifon"/>
+    <tag k="brand:wikidata" v="Q477222"/>
+    <tag k="brand:wikipedia" v="en:Amplifon"/>
+    <tag k="name" v="Amplifon"/>
+    <tag k="shop" v="hearing_aids"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4496388891" lat="45.4807359" lon="9.1996984" version="2" timestamp="2019-09-13T09:31:05Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
