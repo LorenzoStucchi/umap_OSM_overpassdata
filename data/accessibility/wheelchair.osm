@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-13T03:16:54Z" areas="2022-02-13T02:48:36Z"/>
+<meta osm_base="2022-02-14T03:13:30Z" areas="2022-02-14T01:58:36Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -13339,6 +13339,16 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q55832575"/>
   </node>
+  <node id="4916257354" lat="45.4987228" lon="9.1936810" version="3" timestamp="2022-02-13T13:58:18Z" changeset="117354998" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Largo Vulci"/>
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="name" v="Gelateria Artigianale Vulci"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="4916936129" lat="45.4520993" lon="9.1820534" version="4" timestamp="2020-10-28T15:26:54Z" changeset="93180978" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
@@ -13560,6 +13570,40 @@
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="winery" v="no"/>
+  </node>
+  <node id="4985227702" lat="45.4997391" lon="9.1947828" version="2" timestamp="2022-02-13T14:00:58Z" changeset="117354998" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Veglia"/>
+    <tag k="name" v="Garbagnati"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4985227703" lat="45.4993349" lon="9.1945629" version="2" timestamp="2022-02-13T14:00:11Z" changeset="117354998" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Veglia"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="seafood"/>
+    <tag k="email" v="lentita@fastwebnet.it"/>
+    <tag k="name" v="Ristorante L'Entità"/>
+    <tag k="phone" v="+39 02 49518222"/>
+    <tag k="website" v="http://www.ristorantelentita.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4985228946" lat="45.4984325" lon="9.1935316" version="2" timestamp="2022-02-13T13:57:44Z" changeset="117354998" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Largo Vulci"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Birreria Okey"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5015912580" lat="45.4917730" lon="9.1953179" version="2" timestamp="2019-09-13T13:21:01Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -21911,6 +21955,37 @@
     <tag k="amenity" v="cafe"/>
     <tag k="building" v="kiosk"/>
     <tag k="building:levels" v="1"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="390396072" version="4" timestamp="2022-02-13T14:08:47Z" changeset="117354998" uid="1875845" user="Valerio_Bozzolan">
+    <center lat="45.5021739" lon="9.1988914"/>
+    <nd ref="3935594895"/>
+    <nd ref="471802369"/>
+    <nd ref="471802361"/>
+    <nd ref="471802363"/>
+    <nd ref="471802364"/>
+    <nd ref="3935580337"/>
+    <nd ref="3935580339"/>
+    <nd ref="3935598724"/>
+    <nd ref="3935580325"/>
+    <nd ref="3935598260"/>
+    <nd ref="3935594895"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Piazzale Istria"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Esso"/>
+    <tag k="brand:wikidata" v="Q867662"/>
+    <tag k="brand:wikipedia" v="en:Esso"/>
+    <tag k="fuel:GTL_diesel" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="Esso"/>
+    <tag k="operator" v="Ragosa Domenico"/>
+    <tag k="ref:mise" v="23424"/>
+    <tag k="source:date" v="2018-04-16"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="390396154" version="3" timestamp="2021-11-06T10:59:54Z" changeset="113441186" uid="1875845" user="Valerio_Bozzolan">
