@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-16T03:18:52Z" areas="2022-02-16T02:27:09Z"/>
+<meta osm_base="2022-02-17T03:14:31Z" areas="2022-02-17T02:40:17Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -540,7 +540,7 @@
     <tag k="phone" v="+39 02 39663308"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="278200767" lat="45.5019609" lon="9.1647025" version="4" timestamp="2022-01-22T15:30:51Z" changeset="116470187" uid="13840929" user="aa30mom">
+  <node id="278200767" lat="45.5019609" lon="9.1647025" version="6" timestamp="2022-02-16T10:20:21Z" changeset="117469519" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20158"/>
@@ -551,7 +551,7 @@
     <tag k="name" v="Bovisa"/>
     <tag k="operator" v="Bovisa"/>
     <tag k="ref:msal" v="2609"/>
-    <tag k="ref:vatin" v="IT02908990159"/>
+    <tag k="ref:vatin" v="IT12105190966"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -2150,12 +2150,16 @@
     <tag k="source" v="http://www.simplymarket.it/pdv.php?id=5826"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1336376834" lat="45.5104948" lon="9.1744974" version="4" timestamp="2021-03-13T11:29:51Z" changeset="100949536" uid="1476146" user="Alecs01">
+  <node id="1336376834" lat="45.5104925" lon="9.1744920" version="5" timestamp="2022-02-16T14:41:55Z" changeset="117479928" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="20161"/>
     <tag k="addr:street" v="Via Giovanni Nicotera"/>
+    <tag k="beds" v="92"/>
     <tag k="contact:website" v="http://www.accapalace.com"/>
     <tag k="name" v="Acca Palace"/>
+    <tag k="rooms" v="44"/>
+    <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -6680,7 +6684,7 @@
     <tag k="vending" v="coffee;condoms;drinks;feminine_hygiene;food;pregnacy_test"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2622398764" lat="45.4818433" lon="9.2341630" version="8" timestamp="2022-01-27T13:52:43Z" changeset="116667940" uid="13840929" user="aa30mom">
+  <node id="2622398764" lat="45.4818433" lon="9.2341630" version="9" timestamp="2022-02-16T10:07:41Z" changeset="117469041" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="20131"/>
@@ -6691,6 +6695,9 @@
     <tag k="name" v="Caldarini"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-13:00,15:00-19:30; Sa 09:00-13:00"/>
     <tag k="operator" v="Caldarini"/>
+    <tag k="ref:msal" v="2973"/>
+    <tag k="ref:vatin" v="IT00626580153"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2631107193" lat="45.5000415" lon="9.2414257" version="5" timestamp="2018-08-18T12:42:59Z" changeset="61768866" uid="1462614" user="_Andrea_">
@@ -21747,7 +21754,7 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="368345824" version="2" timestamp="2015-10-03T07:58:41Z" changeset="34403058" uid="1476146" user="Alecs01">
+  <way id="368345824" version="3" timestamp="2022-02-16T15:45:24Z" changeset="117482320" uid="13840929" user="aa30mom">
     <center lat="45.4852870" lon="9.2070649"/>
     <nd ref="3721897026"/>
     <nd ref="3721896560"/>
@@ -21762,14 +21769,17 @@
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Piazza Luigi di Savoia"/>
+    <tag k="brand" v="Starhotels"/>
     <tag k="building" v="commercial"/>
     <tag k="building:levels" v="8"/>
     <tag k="email" v="anderson.mi@starhotels.it"/>
-    <tag k="name" v="Anderson Hotel"/>
+    <tag k="name" v="Starhotels Anderson"/>
     <tag k="operator" v="Starhotels"/>
     <tag k="phone" v="+39 02 6690141"/>
+    <tag k="rooms" v="106"/>
     <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.starhotels.com/it/i-nostri-hotel/anderson-milano/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="368350056" version="5" timestamp="2021-12-12T12:02:48Z" changeset="114844041" uid="3860151" user="Michele Aquilani">
