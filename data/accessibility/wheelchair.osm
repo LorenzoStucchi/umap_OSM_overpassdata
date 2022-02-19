@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-18T03:19:20Z" areas="2022-02-18T02:53:01Z"/>
+<meta osm_base="2022-02-19T03:17:01Z" areas="2022-02-19T03:04:58Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -4670,9 +4670,9 @@
     <tag k="website" v="http://www.di-viole-di-liquirizia.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2167931859" lat="45.4839319" lon="9.2044827" version="4" timestamp="2021-12-01T18:06:20Z" changeset="114452999" uid="84637" user="V-Li">
+  <node id="2167931859" lat="45.4839319" lon="9.2044827" version="5" timestamp="2022-02-18T08:03:22Z" changeset="117551476" uid="3860151" user="Michele Aquilani">
+    <tag k="disused:railway" v="subway_entrance"/>
     <tag k="name" v="Centrale FS"/>
-    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2167931875" lat="45.4852735" lon="9.2041982" version="4" timestamp="2021-08-31T12:17:20Z" changeset="110512020" uid="3860151" user="Michele Aquilani">
@@ -15286,9 +15286,9 @@
     <tag k="name" v="Open Bar"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5793740811" lat="45.4838340" lon="9.2043698" version="6" timestamp="2021-12-01T18:05:58Z" changeset="114452999" uid="84637" user="V-Li">
+  <node id="5793740811" lat="45.4838340" lon="9.2043698" version="7" timestamp="2022-02-18T08:03:22Z" changeset="117551476" uid="3860151" user="Michele Aquilani">
+    <tag k="disused:railway" v="subway_entrance"/>
     <tag k="name" v="Centrale FS"/>
-    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5795606670" lat="45.4530188" lon="9.2150607" version="2" timestamp="2021-10-30T13:53:16Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
@@ -17432,6 +17432,40 @@
     <tag k="shop" v="books"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="9516307922" lat="45.5138270" lon="9.1194771" version="1" timestamp="2022-02-18T11:20:11Z" changeset="117560062" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="20157"/>
+    <tag k="addr:street" v="Via privata Polonia"/>
+    <tag k="name" v="The Hub Hotel"/>
+    <tag k="rooms" v="162"/>
+    <tag k="stars" v="4"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.thehubhotel.com/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Very nice hotel with a large swimming pool and good food. Large, accessible rooms with even showers and toilets for handicapped people. Quiet environment."/>
+  </node>
+  <node id="9516560849" lat="45.4349161" lon="9.2279117" version="2" timestamp="2022-02-18T13:53:54Z" changeset="117566321" uid="8722718" user="dalsasso">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="20139"/>
+    <tag k="addr:street" v="Via Fabio Massimo"/>
+    <tag k="alt_name" v="C.I.Q."/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="description" v="Il Centro Internazionale di Quartiere (C.I.Q.) è un progetto dell’associazione socio-culturale Sunugal, che si occupa di co-sviluppo tra Italia e Senegal, promozione sociale e intercultura, e della Cooperativa Sociale Fate Artigiane. Le due associazioni h"/>
+    <tag k="name" v="Centro internazionale di quartiere"/>
+    <tag k="name:en" v="International community centre"/>
+    <tag k="name:fr" v="Centre international de quartier"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-00:00"/>
+    <tag k="opening_hours:covid19" v="same"/>
+    <tag k="operator" v="Associazione Sunugal, Cooperativa Sociale Fate Artigiane"/>
+    <tag k="operator:type" v="cooperative"/>
+    <tag k="phone" v="+39 02 3659 4977"/>
+    <tag k="short_name" v="CIQ"/>
+    <tag k="start_date" v="2016-00-00"/>
+    <tag k="website" v="https://www.ciqmilano.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -17503,7 +17537,7 @@
     <tag k="wikidata" v="Q902210"/>
     <tag k="wikipedia" v="it:Chiesa di San Fedele (Milano)"/>
   </way>
-  <way id="23313966" version="20" timestamp="2017-06-08T10:22:39Z" changeset="49362452" uid="454589" user="sabas88">
+  <way id="23313966" version="21" timestamp="2022-02-18T10:18:00Z" changeset="117557337" uid="2370220" user="Paolo pn">
     <center lat="45.5144602" lon="9.2136591"/>
     <nd ref="252411314"/>
     <nd ref="252411315"/>
@@ -17520,7 +17554,9 @@
     <nd ref="252411323"/>
     <nd ref="252411324"/>
     <nd ref="252411325"/>
+    <nd ref="9516146262"/>
     <nd ref="252411326"/>
+    <nd ref="9516146261"/>
     <nd ref="252411327"/>
     <nd ref="1505407694"/>
     <nd ref="1505407696"/>
@@ -18765,25 +18801,6 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q16540666"/>
     <tag k="wikipedia" v="it:Chiesa di Santa Maria Nascente (Milano)"/>
-  </way>
-  <way id="57402998" version="7" timestamp="2019-08-18T18:27:36Z" changeset="73469941" uid="1476146" user="Alecs01">
-    <center lat="45.5138522" lon="9.1194495"/>
-    <nd ref="714175263"/>
-    <nd ref="714175267"/>
-    <nd ref="714175261"/>
-    <nd ref="714175269"/>
-    <nd ref="714175263"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Via privata Polonia"/>
-    <tag k="building" v="apartments"/>
-    <tag k="name" v="The Hub"/>
-    <tag k="stars" v="4"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="http://uk.venere.com/de712492/italy/milan-hotels/"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wheelchair:description" v="Very nice hotel with a large swimming pool and good food. Large, accessible rooms with even showers and toilets for handicapped people. Quiet environment."/>
   </way>
   <way id="58634521" version="14" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
     <center lat="45.4993177" lon="9.1885199"/>
@@ -21619,18 +21636,16 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="345763719" version="13" timestamp="2021-10-04T08:04:47Z" changeset="112063453" uid="8085973" user="Lejun">
-    <center lat="45.5161855" lon="9.2274965"/>
+  <way id="345763719" version="15" timestamp="2022-02-18T16:07:58Z" changeset="117571982" uid="13840929" user="aa30mom">
+    <center lat="45.5162154" lon="9.2274991"/>
     <nd ref="3524119726"/>
     <nd ref="3524116309"/>
     <nd ref="3524119123"/>
     <nd ref="3524116308"/>
     <nd ref="3524119726"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:postcode" v="20128"/>
-    <tag k="addr:street" v="Via Lucio Giunio Columella"/>
+    <tag k="brand" v="Hilton Garden Inn"/>
+    <tag k="brand:wikidata" v="Q1162859"/>
+    <tag k="brand:wikipedia" v="en:Hilton Garden Inn"/>
     <tag k="building" v="yes"/>
     <tag k="contact:facebook" v="https://www.facebook.com/hgi.milannorth"/>
     <tag k="contact:instagram" v="https://www.instagram.com/hgimilannorth"/>
@@ -21644,8 +21659,9 @@
     <tag k="smoking" v="no"/>
     <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://hiltongardeninn3.hilton.com/en/hotels/italy/hilton-garden-inn-milan-north-MILGIGI/index.html"/>
+    <tag k="website" v="https://www.hilton.com/en/hotels/milgigi-hilton-garden-inn-milan-north/"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1057464"/>
   </way>
   <way id="350378071" version="6" timestamp="2019-03-27T11:57:28Z" changeset="68583614" uid="9451067" user="b-jazz-bot">
     <center lat="45.4490986" lon="9.1593146"/>
