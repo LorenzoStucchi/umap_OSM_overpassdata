@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-25T03:19:56Z" areas="2022-02-25T02:28:23Z"/>
+<meta osm_base="2022-02-26T03:19:20Z" areas="2022-02-26T02:41:00Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -362,6 +362,22 @@
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="263772434" lat="45.5001143" lon="9.2350329" version="7" timestamp="2022-02-25T07:18:38Z" changeset="117837322" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20127"/>
+    <tag k="addr:street" v="Via Pietro Toselli"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.82"/>
+    <tag k="operator" v="Municipale n.82"/>
+    <tag k="phone" v="+39 02 26145556"/>
+    <tag k="ref:msal" v="2704"/>
+    <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="266325956" lat="45.4390003" lon="9.1557588" version="4" timestamp="2021-09-13T21:57:09Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="place_of_worship"/>
@@ -1766,7 +1782,7 @@
     <tag k="website" v="https://hotelberna.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="717988716" lat="45.4813891" lon="9.2039800" version="5" timestamp="2019-09-13T09:43:21Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="717988716" lat="45.4813891" lon="9.2039800" version="6" timestamp="2022-02-25T14:56:13Z" changeset="117852357" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1776,9 +1792,10 @@
     <tag k="fax" v="+39 02 66981921"/>
     <tag k="name" v="Hotel Mediolanum"/>
     <tag k="phone" v="+39 02 6705312"/>
+    <tag k="rooms" v="52"/>
     <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
-    <tag k="website" v="http://www.mediolanumhotel.it/it/index.html"/>
+    <tag k="website" v="https://mediolanumhotel.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="718857119" lat="45.4812365" lon="9.2037873" version="4" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
@@ -1901,7 +1918,7 @@
     <tag k="name" v="Hosteria della musica"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1029654164" lat="45.4532746" lon="9.1806387" version="9" timestamp="2021-10-28T16:29:57Z" changeset="113089981" uid="13840929" user="aa30mom">
+  <node id="1029654164" lat="45.4533021" lon="9.1807732" version="10" timestamp="2022-02-25T09:33:17Z" changeset="117841590" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
@@ -8329,7 +8346,7 @@
     <tag k="phone" v="+39 02 66987065"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3217983449" lat="45.4821264" lon="9.1986565" version="2" timestamp="2019-09-13T10:02:22Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3217983449" lat="45.4821264" lon="9.1986565" version="3" timestamp="2022-02-25T14:51:16Z" changeset="117852224" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
@@ -8339,6 +8356,7 @@
     <tag k="fax" v="+39 02 6690738"/>
     <tag k="name" v="Hotel Marconi"/>
     <tag k="phone" v="+39 02 66985561"/>
+    <tag k="rooms" v="68"/>
     <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.marconihotel.it/it/"/>
@@ -17150,6 +17168,20 @@
     <tag k="ref:vatin" v="IT02463170460"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8871876516" lat="45.5010707" lon="9.2366855" version="2" timestamp="2022-02-25T07:13:16Z" changeset="117837322" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20132"/>
+    <tag k="addr:street" v="Via Padova"/>
+    <tag k="name" v="Studio 182"/>
+    <tag k="phone" v="+39 02 2822292"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="8872748014" lat="45.5008773" lon="9.2363774" version="2" timestamp="2022-02-25T07:14:57Z" changeset="117837322" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Cosmai Caffè"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="8910997806" lat="45.4647550" lon="9.2304517" version="2" timestamp="2022-02-11T07:27:49Z" changeset="117275115" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="34"/>
@@ -17268,6 +17300,25 @@
     <tag k="level" v="0"/>
     <tag k="operator" v="Ospedale Niguarda"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9063690241" lat="45.5003926" lon="9.2353946" version="2" timestamp="2022-02-25T07:17:51Z" changeset="117837322" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20127"/>
+    <tag k="addr:street" v="Via Padova"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="Fan sushi bar"/>
+    <tag k="phone" v="+39 02 26827311"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9063690246" lat="45.5001508" lon="9.2350821" version="2" timestamp="2022-02-25T07:18:42Z" changeset="117837322" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20127"/>
+    <tag k="addr:street" v="Via Padova"/>
+    <tag k="name" v="Dilo"/>
+    <tag k="phone" v="+39 379 1043776"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="9088678931" lat="45.4489359" lon="9.1730707" version="2" timestamp="2021-09-29T14:06:22Z" changeset="111869278" uid="45684" user="Niouta">
     <tag k="amenity" v="telephone"/>
