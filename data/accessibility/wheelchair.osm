@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-28T03:20:02Z" areas="2022-02-28T03:04:36Z"/>
+<meta osm_base="2022-03-01T03:28:30Z" areas="2022-03-01T03:18:14Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -782,7 +782,7 @@
     <tag k="wikidata" v="Q7245128"/>
     <tag k="wikipedia" v="it:Hotel Principe di Savoia"/>
   </node>
-  <node id="298986172" lat="45.4768221" lon="9.1967233" version="10" timestamp="2022-02-26T18:06:58Z" changeset="117887686" uid="13840929" user="aa30mom">
+  <node id="298986172" lat="45.4768221" lon="9.1967233" version="11" timestamp="2022-02-28T09:22:29Z" changeset="117935691" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
@@ -791,9 +791,8 @@
     <tag k="brand" v="NH Hotels"/>
     <tag k="brand:wikidata" v="Q1604631"/>
     <tag k="brand:wikipedia" v="en:NH Hotel Group"/>
-    <tag k="contact:phone" v="+39 02 63351"/>
     <tag k="name" v="NH Milano Touring"/>
-    <tag k="phone" v="+39 02 87368144"/>
+    <tag k="phone" v="+39 02 63351"/>
     <tag k="ref:vatin" v="IT04440220962"/>
     <tag k="rooms" v="282"/>
     <tag k="stars" v="4"/>
@@ -8286,7 +8285,7 @@
     <tag k="website" v="http://www.hosterialacadrega.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3217982898" lat="45.4841442" lon="9.2011665" version="3" timestamp="2019-09-13T11:27:17Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3217982898" lat="45.4840952" lon="9.2009145" version="4" timestamp="2022-02-28T13:46:38Z" changeset="117945411" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="7"/>
@@ -17670,6 +17669,23 @@
     <tag k="website" v="http://www.aismilano.wine"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9545441783" lat="45.4924673" lon="9.2148870" version="1" timestamp="2022-02-28T17:43:58Z" changeset="117953142" uid="10901495" user="Martino Scaglione">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="20127"/>
+    <tag k="addr:street" v="Via Nino Oxilia"/>
+    <tag k="amenity" v="cinema"/>
+    <tag k="cinema:3D" v="no"/>
+    <tag k="cinema:language" v="original"/>
+    <tag k="cinema:subtitles" v="italian"/>
+    <tag k="drive_in" v="no"/>
+    <tag k="name" v="Cinema Beltrade"/>
+    <tag k="phone" v="+39 02 2682 0592"/>
+    <tag k="screen" v="1"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://www.cinemabeltrade.net/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -18686,6 +18702,83 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q15992518"/>
     <tag k="wikipedia" v="it:Chiesa di San Pio X (Milano)"/>
+  </way>
+  <way id="41518948" version="8" timestamp="2022-02-28T17:43:58Z" changeset="117953142" uid="10901495" user="Martino Scaglione">
+    <center lat="45.4916240" lon="9.2195752"/>
+    <nd ref="508372646"/>
+    <nd ref="1718257754"/>
+    <nd ref="4942533106"/>
+    <nd ref="4942533107"/>
+    <nd ref="4942533108"/>
+    <nd ref="4942533109"/>
+    <nd ref="508372651"/>
+    <nd ref="4942533110"/>
+    <nd ref="4942533111"/>
+    <nd ref="508372653"/>
+    <nd ref="4942533112"/>
+    <nd ref="508372624"/>
+    <nd ref="508372625"/>
+    <nd ref="4942533113"/>
+    <nd ref="508372713"/>
+    <nd ref="508372716"/>
+    <nd ref="508372719"/>
+    <nd ref="508372728"/>
+    <nd ref="4942533114"/>
+    <nd ref="508372743"/>
+    <nd ref="1718257804"/>
+    <nd ref="508372745"/>
+    <nd ref="508372751"/>
+    <nd ref="508372752"/>
+    <nd ref="8654832786"/>
+    <nd ref="508372646"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="name" v="Chiesa parrocchiale di San Gabriele Arcangelo in Mater Dei"/>
+    <tag k="opening_hours" v="sunrise-sunset"/>
+    <tag k="religion" v="christian"/>
+    <tag k="start_date" v="1959"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q18224026"/>
+    <tag k="wikipedia" v="it:Chiesa di San Gabriele Arcangelo in Mater Dei"/>
+  </way>
+  <way id="41732986" version="5" timestamp="2022-02-28T17:43:58Z" changeset="117953142" uid="10901495" user="Martino Scaglione">
+    <center lat="45.4927665" lon="9.2148928"/>
+    <nd ref="513825944"/>
+    <nd ref="513825946"/>
+    <nd ref="513825948"/>
+    <nd ref="513825949"/>
+    <nd ref="4353391106"/>
+    <nd ref="513825952"/>
+    <nd ref="4353391107"/>
+    <nd ref="4353391108"/>
+    <nd ref="513825953"/>
+    <nd ref="4353391109"/>
+    <nd ref="513825955"/>
+    <nd ref="4353391110"/>
+    <nd ref="513825893"/>
+    <nd ref="4353391111"/>
+    <nd ref="4353391112"/>
+    <nd ref="4353391113"/>
+    <nd ref="4353391114"/>
+    <nd ref="513825894"/>
+    <nd ref="513825895"/>
+    <nd ref="513825896"/>
+    <nd ref="513825897"/>
+    <nd ref="513825958"/>
+    <nd ref="513825930"/>
+    <nd ref="4353391115"/>
+    <nd ref="4353391118"/>
+    <nd ref="4353391105"/>
+    <nd ref="513825944"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="name" v="Chiesa parrocchiale di Santa Maria Beltrade"/>
+    <tag k="opening_hours" v="sunrise-sunset"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q106637554"/>
   </way>
   <way id="42206561" version="6" timestamp="2020-04-09T08:30:03Z" changeset="83293531" uid="1476146" user="Alecs01">
     <center lat="45.4769508" lon="9.1899067"/>
