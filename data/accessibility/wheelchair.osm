@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-03T03:26:33Z" areas="2022-03-03T02:46:08Z"/>
+<meta osm_base="2022-03-04T03:27:00Z" areas="2022-03-04T02:56:31Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -143,9 +143,16 @@
     <tag k="name" v="UniCredit Bank"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="250051812" lat="45.5219373" lon="9.2161433" version="6" timestamp="2012-09-21T18:44:21Z" changeset="13199312" uid="429539" user="Cristian1989">
+  <node id="250051812" lat="45.5219373" lon="9.2161433" version="7" timestamp="2022-03-03T10:07:20Z" changeset="118049588" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="336"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
     <tag k="amenity" v="cinema"/>
-    <tag k="name" v="Europlex Bicocca"/>
+    <tag k="name" v="Uci Cinemas Bicocca"/>
+    <tag k="phone" v="+39 892960"/>
+    <tag k="screen" v="18"/>
+    <tag k="website" v="https://www.ucicinemas.it/cinema/lombardia/milano/uci-cinemas-bicocca-milano/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="250158366" lat="45.4886862" lon="9.1938501" version="8" timestamp="2022-01-21T16:56:07Z" changeset="116440002" uid="13840929" user="aa30mom">
@@ -167,7 +174,7 @@
     <tag k="website" v="http://farmaciasangiovannisnc.lafarmacia.biz/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="251293086" lat="45.4651207" lon="9.1923650" version="9" timestamp="2021-11-03T23:25:04Z" changeset="113352773" uid="11645399" user="davidoskky">
+  <node id="251293086" lat="45.4651207" lon="9.1923650" version="10" timestamp="2022-03-03T09:49:22Z" changeset="118048949" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="8"/>
@@ -179,6 +186,7 @@
     <tag k="brand:wikipedia" v="it:The Space Cinema"/>
     <tag k="name" v="The Space Cinema Odeon"/>
     <tag k="operator" v="The Space Cinema"/>
+    <tag k="screen" v="10"/>
     <tag k="website" v="https://www.thespacecinema.it/al-cinema/milano-odeon"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -456,14 +464,15 @@
     <tag k="website" v="https://www.sinahotels.com/en/h/sina-de-la-ville-milan/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="268616425" lat="45.4569421" lon="9.1695263" version="7" timestamp="2021-12-27T16:02:51Z" changeset="115433237" uid="13840929" user="aa30mom">
+  <node id="268616425" lat="45.4569421" lon="9.1695263" version="8" timestamp="2022-03-03T09:36:26Z" changeset="118048544" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Viale Coni Zugna"/>
     <tag k="amenity" v="cinema"/>
     <tag k="email" v="info@orfeomultisala.com"/>
-    <tag k="name" v="Orfeo"/>
+    <tag k="name" v="Orfeo Multisala"/>
     <tag k="phone" v="+39 02 89403039"/>
     <tag k="screen" v="3"/>
     <tag k="website" v="http://www.orfeomultisala.com/"/>
@@ -17662,6 +17671,30 @@
     <tag k="website" v="https://bandhi.it/bah/beltrade/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="9551908512" lat="45.4631407" lon="9.1912302" version="2" timestamp="2022-03-03T13:16:06Z" changeset="118055877" uid="13840929" user="aa30mom">
+    <tag k="museum" v="art"/>
+    <tag k="museum_type" v="municipal"/>
+    <tag k="name" v="Palazzo Reale"/>
+    <tag k="name:de" v="Königlicher Palast"/>
+    <tag k="name:en" v="Royal Palace"/>
+    <tag k="name:es" v="Palacio Real"/>
+    <tag k="name:fr" v="Palais royal"/>
+    <tag k="name:it" v="Palazzo Reale"/>
+    <tag k="name:pt" v="Palácio Real"/>
+    <tag k="name:zh" v="米兰王宫"/>
+    <tag k="phone" v="+39 02 88445181"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.palazzorealemilano.it/"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q51105"/>
+    <tag k="wikipedia" v="it:Palazzo Reale (Milano)"/>
+  </node>
+  <node id="9552318945" lat="45.4388354" lon="9.2300424" version="1" timestamp="2022-03-03T16:37:00Z" changeset="118062590" uid="1189062" user="csmggl">
+    <tag k="barrier" v="gate"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -22098,7 +22131,7 @@
     <tag k="website" v="https://ostellobello.com/it/ostello/ostello-bello-grande-milano/"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="372493995" version="6" timestamp="2022-03-02T13:06:48Z" changeset="118019223" uid="13840929" user="aa30mom">
+  <way id="372493995" version="8" timestamp="2022-03-03T17:26:32Z" changeset="118064160" uid="13840929" user="aa30mom">
     <center lat="45.4777366" lon="9.2177533"/>
     <nd ref="3760515875"/>
     <nd ref="3760515879"/>
@@ -22135,9 +22168,9 @@
     <nd ref="3760515875"/>
     <tag k="amenity" v="cinema"/>
     <tag k="contact:email" v="servizioclienti@multisalaplinius.com"/>
-    <tag k="contact:phone" v="+39 02 29531103"/>
     <tag k="name" v="Plinius Multisala"/>
     <tag k="operator" v="Gestioni Cinematografiche S.r.l."/>
+    <tag k="phone" v="+39 199 208002"/>
     <tag k="ref:vatin" v="IT06355430155"/>
     <tag k="screen" v="6"/>
     <tag k="website" v="https://www.multisalaplinius.com/"/>
