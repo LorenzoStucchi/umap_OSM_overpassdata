@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-07T03:23:52Z" areas="2022-03-07T02:31:08Z"/>
+<meta osm_base="2022-03-08T03:21:17Z" areas="2022-03-08T02:43:36Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -13484,7 +13484,7 @@
     <tag k="ref:vatin" v="IT02634250159"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4931556519" lat="45.4331748" lon="9.2388117" version="3" timestamp="2021-08-09T14:46:20Z" changeset="109413968" uid="13878104" user="Nádudvari Tamás">
+  <node id="4931556519" lat="45.4331701" lon="9.2388291" version="4" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
     <tag k="bicycle" v="yes"/>
     <tag k="name" v="Rogoredo"/>
     <tag k="railway" v="subway_entrance"/>
@@ -15703,7 +15703,7 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6067258870" lat="45.4867751" lon="9.2051884" version="4" timestamp="2021-04-21T20:51:10Z" changeset="103364066" uid="4890411" user="phaerrax">
+  <node id="6067258870" lat="45.4867751" lon="9.2051884" version="5" timestamp="2022-03-07T14:24:18Z" changeset="118199542" uid="3524812" user="SWF8">
     <tag k="name" v="Milano Centrale"/>
     <tag k="name:it" v="Milano Centrale"/>
     <tag k="name:ja" v="ミラノ中央"/>
@@ -15712,6 +15712,7 @@
     <tag k="platforms" v="24"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
+    <tag k="short_name" v="Milano C.le"/>
     <tag k="station" v="train"/>
     <tag k="train" v="yes"/>
     <tag k="uic_ref" v="8301700"/>
@@ -16824,7 +16825,7 @@
     <tag k="motor_vehicle" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8403147624" lat="45.4337477" lon="9.2382365" version="1" timestamp="2021-02-07T21:17:21Z" changeset="98866053" uid="4890411" user="phaerrax">
+  <node id="8403147624" lat="45.4337486" lon="9.2381822" version="2" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
     <tag k="bicycle" v="no"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -17699,6 +17700,26 @@
     <tag k="motor_vehicle" v="no"/>
     <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9560479844" lat="45.4721477" lon="9.1734894" version="1" timestamp="2022-03-07T13:29:37Z" changeset="118197547" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Viale Emilio Alemagna"/>
+    <tag k="email" v="info@triennale.org"/>
+    <tag k="name" v="Triennale Design Museum"/>
+    <tag k="name:es" v="Museo del Diseño"/>
+    <tag k="name:it" v="Triennale Design Museum"/>
+    <tag k="opening_hours" v="Tu-Su 10:30-20:30; Mo off"/>
+    <tag k="phone" v="+39 02 72434244"/>
+    <tag k="start_date" v="1933"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://triennale.org/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q3361355"/>
+    <tag k="wikipedia" v="it:Palazzo dell'Arte"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
@@ -22117,7 +22138,7 @@
     <tag k="website" v="https://ostellobello.com/it/ostello/ostello-bello-grande-milano/"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="372493995" version="8" timestamp="2022-03-03T17:26:32Z" changeset="118064160" uid="13840929" user="aa30mom">
+  <way id="372493995" version="9" timestamp="2022-03-07T09:28:15Z" changeset="118189052" uid="13840929" user="aa30mom">
     <center lat="45.4777366" lon="9.2177533"/>
     <nd ref="3760515875"/>
     <nd ref="3760515879"/>
@@ -22156,7 +22177,6 @@
     <tag k="contact:email" v="servizioclienti@multisalaplinius.com"/>
     <tag k="name" v="Plinius Multisala"/>
     <tag k="operator" v="Gestioni Cinematografiche S.r.l."/>
-    <tag k="phone" v="+39 199 208002"/>
     <tag k="ref:vatin" v="IT06355430155"/>
     <tag k="screen" v="6"/>
     <tag k="website" v="https://www.multisalaplinius.com/"/>
@@ -22954,16 +22974,17 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845542" version="1" timestamp="2021-02-07T21:17:21Z" changeset="98866053" uid="4890411" user="phaerrax">
-    <center lat="45.4353249" lon="9.2377558"/>
+  <way id="904845542" version="2" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
+    <center lat="45.4353310" lon="9.2377505"/>
     <nd ref="8402976069"/>
     <nd ref="8402976065"/>
     <nd ref="8402976066"/>
     <nd ref="8402976070"/>
     <nd ref="8402976069"/>
+    <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
+    <tag k="covered" v="partial"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -22971,16 +22992,18 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845543" version="2" timestamp="2021-05-17T11:55:04Z" changeset="104823540" uid="11242131" user="ja+">
-    <center lat="45.4353538" lon="9.2379178"/>
+  <way id="904845543" version="3" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
+    <center lat="45.4353490" lon="9.2379168"/>
     <nd ref="8402976067"/>
     <nd ref="8402976063"/>
     <nd ref="8402976064"/>
-    <nd ref="8402976068"/>
+    <nd ref="9560637400"/>
+    <nd ref="9560637401"/>
     <nd ref="8402976067"/>
+    <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
+    <tag k="covered" v="partial"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -22988,15 +23011,15 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845544" version="1" timestamp="2021-02-07T21:17:21Z" changeset="98866053" uid="4890411" user="phaerrax">
-    <center lat="45.4343279" lon="9.2385043"/>
+  <way id="904845544" version="2" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
+    <center lat="45.4342783" lon="9.2385322"/>
     <nd ref="8402976071"/>
-    <nd ref="8402976078"/>
-    <nd ref="8402976079"/>
-    <nd ref="8402976080"/>
+    <nd ref="9560637372"/>
+    <nd ref="9560637373"/>
     <nd ref="8402976084"/>
     <nd ref="8402976085"/>
     <nd ref="8402976083"/>
+    <nd ref="9560637402"/>
     <nd ref="8402976081"/>
     <nd ref="8402976072"/>
     <nd ref="8402976082"/>
@@ -23004,11 +23027,14 @@
     <nd ref="8402976077"/>
     <nd ref="8402976074"/>
     <nd ref="8402976075"/>
+    <nd ref="9560637375"/>
+    <nd ref="9560637374"/>
     <nd ref="8402976076"/>
     <nd ref="8402976071"/>
+    <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
+    <tag k="covered" v="partial"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -23016,17 +23042,22 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845545" version="2" timestamp="2022-02-23T15:14:10Z" changeset="117775171" uid="11242131" user="ja+">
-    <center lat="45.4339565" lon="9.2393798"/>
+  <way id="904845545" version="3" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
+    <center lat="45.4339605" lon="9.2393620"/>
     <nd ref="8402976089"/>
+    <nd ref="9560637398"/>
     <nd ref="9530169290"/>
     <nd ref="8402976087"/>
-    <nd ref="8402976086"/>
+    <nd ref="9560637397"/>
+    <nd ref="9560637395"/>
+    <nd ref="1474688241"/>
+    <nd ref="4923004083"/>
     <nd ref="8402976088"/>
     <nd ref="8402976089"/>
+    <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
+    <tag k="covered" v="partial"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -23034,19 +23065,21 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845546" version="1" timestamp="2021-02-07T21:17:21Z" changeset="98866053" uid="4890411" user="phaerrax">
-    <center lat="45.4341836" lon="9.2391132"/>
+  <way id="904845546" version="2" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
+    <center lat="45.4341766" lon="9.2391159"/>
     <nd ref="8402976096"/>
     <nd ref="8402976094"/>
+    <nd ref="9560637386"/>
     <nd ref="8402976092"/>
-    <nd ref="8402976090"/>
+    <nd ref="9560637383"/>
     <nd ref="8402976093"/>
     <nd ref="8402976095"/>
-    <nd ref="8402976091"/>
+    <nd ref="9560637387"/>
     <nd ref="8402976096"/>
+    <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
+    <tag k="covered" v="partial"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -23054,23 +23087,22 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845547" version="1" timestamp="2021-02-07T21:17:21Z" changeset="98866053" uid="4890411" user="phaerrax">
-    <center lat="45.4338029" lon="9.2390435"/>
-    <nd ref="8402976100"/>
+  <way id="904845547" version="2" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
+    <center lat="45.4337537" lon="9.2390640"/>
     <nd ref="8402976099"/>
     <nd ref="8402976098"/>
-    <nd ref="8402976101"/>
     <nd ref="8402976107"/>
-    <nd ref="8402976102"/>
     <nd ref="8402976106"/>
     <nd ref="8402976105"/>
-    <nd ref="8402976103"/>
+    <nd ref="9560637385"/>
+    <nd ref="9560637384"/>
     <nd ref="8402976104"/>
-    <nd ref="8402976097"/>
-    <nd ref="8402976100"/>
+    <nd ref="9560637382"/>
+    <nd ref="8402976099"/>
+    <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
+    <tag k="covered" v="partial"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -23078,19 +23110,23 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845548" version="1" timestamp="2021-02-07T21:17:21Z" changeset="98866053" uid="4890411" user="phaerrax">
-    <center lat="45.4337721" lon="9.2388816"/>
+  <way id="904845548" version="2" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
+    <center lat="45.4337307" lon="9.2389007"/>
     <nd ref="8402976114"/>
     <nd ref="8402976112"/>
     <nd ref="8402976111"/>
+    <nd ref="9560637381"/>
     <nd ref="8402976109"/>
     <nd ref="8402976110"/>
-    <nd ref="8402976108"/>
+    <nd ref="9560637379"/>
+    <nd ref="9560637380"/>
+    <nd ref="9560637376"/>
     <nd ref="8402976113"/>
     <nd ref="8402976114"/>
+    <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
+    <tag k="covered" v="partial"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -23384,34 +23420,38 @@
     <tag k="wikidata" v="Q801180"/>
     <tag k="wikipedia" v="it:Stazione di Milano Nord Bovisa"/>
   </way>
-  <way id="1034530514" version="1" timestamp="2022-02-23T15:14:10Z" changeset="117775171" uid="11242131" user="ja+">
+  <way id="1034530514" version="2" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
     <center lat="45.4342303" lon="9.2385683"/>
     <nd ref="9530169289"/>
     <nd ref="4923004058"/>
     <nd ref="4923004063"/>
     <nd ref="4923004083"/>
-    <nd ref="4923004064"/>
     <nd ref="1474688241"/>
-    <nd ref="1474688195"/>
+    <nd ref="9560637395"/>
+    <nd ref="9560637397"/>
     <nd ref="8402976087"/>
     <nd ref="9530169290"/>
+    <nd ref="9560637398"/>
     <nd ref="1580088912"/>
     <nd ref="1580088914"/>
     <nd ref="8402976076"/>
+    <nd ref="9560637374"/>
+    <nd ref="9560637375"/>
     <nd ref="8402976075"/>
     <nd ref="8402976074"/>
     <nd ref="8402976077"/>
+    <nd ref="8402976073"/>
     <nd ref="8402976082"/>
     <nd ref="8402976072"/>
     <nd ref="8402976081"/>
-    <nd ref="8403147689"/>
-    <nd ref="8403147687"/>
+    <nd ref="9560637371"/>
+    <nd ref="9560637370"/>
     <nd ref="8540569781"/>
     <nd ref="4027189790"/>
     <nd ref="5252353005"/>
-    <nd ref="5252353002"/>
     <nd ref="8540569780"/>
-    <nd ref="2525525654"/>
+    <nd ref="9560637369"/>
+    <nd ref="9560637368"/>
     <nd ref="2525525651"/>
     <nd ref="9530169289"/>
     <tag k="area" v="yes"/>
