@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-09T03:26:33Z" areas="2022-03-08T10:47:24Z"/>
+<meta osm_base="2022-03-10T03:30:48Z" areas="2022-03-10T03:13:40Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -3834,22 +3834,6 @@
     <tag k="name:ja" v="ザラ"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="1852190911" lat="45.4705795" lon="9.1793270" version="14" timestamp="2019-05-19T08:45:57Z" changeset="70404322" uid="1861652" user="pippo67">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Piazza Castello"/>
-    <tag k="comment:it" v="ingresso a pagamento. ingresso gratuito ogni primo e terzo mertedì del mese dopo le ore 14 e ogni prima domenica del mese tutto il giorno."/>
-    <tag k="name" v="Musei del Castello"/>
-    <tag k="name:fr" v="Musée du château"/>
-    <tag k="opening_hours" v="Tu-Su 09:00-17:30"/>
-    <tag k="phone" v="+39 02 88463700"/>
-    <tag k="tourism" v="museum"/>
-    <tag k="website" v="https://www.milanocastello.it/it"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wheelchair:description:de" v="Teilweise Kopfsteinpflaster, das Museum ist gut zugänglich!"/>
-    <tag k="wikidata" v="Q3867520"/>
-    <tag k="wikipedia" v="it:Musei del Castello Sforzesco"/>
   </node>
   <node id="1855577204" lat="45.4699226" lon="9.1924982" version="7" timestamp="2022-02-21T15:33:52Z" changeset="117687408" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
@@ -15984,13 +15968,14 @@
     <tag k="name" v="La romana"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6424667157" lat="45.4725327" lon="9.1996760" version="7" timestamp="2022-02-12T15:19:54Z" changeset="117324203" uid="1875845" user="Valerio_Bozzolan">
+  <node id="6424667157" lat="45.4725327" lon="9.1996760" version="8" timestamp="2022-03-09T15:10:50Z" changeset="118283077" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Palestro"/>
     <tag k="email" v="c.gam@comune.milano.it"/>
     <tag k="fee" v="yes"/>
+    <tag k="museum" v="art"/>
     <tag k="name" v="Galleria d'Arte Moderna"/>
     <tag k="name:es" v="Galería de Arte Moderno"/>
     <tag k="opening_hours" v="Tu-Su 09:00-17:30; Mo off; Jan 1 off; Easter +1 off; May 1 off; Dec 25 off"/>
@@ -16809,13 +16794,13 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8344764083" lat="45.4941755" lon="9.2445785" version="1" timestamp="2021-01-21T09:45:35Z" changeset="97893980" uid="2370220" user="Paolo pn">
+  <node id="8344764083" lat="45.4941755" lon="9.2445785" version="2" timestamp="2022-03-09T15:53:16Z" changeset="118284598" uid="2370220" user="Paolo pn">
     <tag k="blind" v="limited"/>
     <tag k="fitness_station" v="horizontal_ladder"/>
     <tag k="leisure" v="fitness_station"/>
     <tag k="ref" v="1"/>
     <tag k="sport" v="fitness"/>
-    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="8385219829" lat="45.4840155" lon="9.1791970" version="1" timestamp="2021-02-01T21:10:48Z" changeset="98534207" uid="454306" user="dega180">
     <tag k="barrier" v="gate"/>
@@ -17720,6 +17705,14 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3361355"/>
     <tag k="wikipedia" v="it:Palazzo dell'Arte"/>
+  </node>
+  <node id="9566331458" lat="45.4957201" lon="9.2439318" version="1" timestamp="2022-03-09T15:53:16Z" changeset="118284598" uid="2370220" user="Paolo pn">
+    <tag k="blind" v="limited"/>
+    <tag k="fitness_station" v="yes"/>
+    <tag k="leisure" v="fitness_station"/>
+    <tag k="ref" v="3"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
@@ -20121,7 +20114,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="138750066" version="13" timestamp="2020-06-15T16:17:38Z" changeset="86679246" uid="89897" user="airon90">
+  <way id="138750066" version="14" timestamp="2022-03-09T15:30:44Z" changeset="118283780" uid="13840929" user="aa30mom">
     <center lat="45.4682831" lon="9.2018218"/>
     <nd ref="1521490840"/>
     <nd ref="1521490839"/>
@@ -20132,10 +20125,6 @@
     <nd ref="1521490799"/>
     <nd ref="1521490803"/>
     <nd ref="1521490840"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="20122"/>
-    <tag k="addr:street" v="Via Mozart"/>
     <tag k="architect" v="Piero Portaluppi"/>
     <tag k="architect:wikidata" v="Q3903340"/>
     <tag k="building" v="yes"/>
@@ -20143,16 +20132,16 @@
     <tag k="contact:facebook" v="https://www.facebook.com/villanecchicampiglio"/>
     <tag k="contact:fax" v="+39 02 76395526"/>
     <tag k="contact:instagram" v="https://www.instagram.com/villanecchicampiglio"/>
-    <tag k="contact:phone" v="+39 02 76340121"/>
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/1930515"/>
-    <tag k="contact:website" v="https://www.fondoambiente.it/luoghi/villa-necchi-campiglio"/>
     <tag k="fee" v="yes"/>
     <tag k="museum" v="art"/>
     <tag k="name" v="Villa Necchi Campiglio"/>
-    <tag k="opening_hours:covid19" v="same"/>
+    <tag k="opening_hours" v="We-Su 10:00-18:00; Mo-Tu Off"/>
     <tag k="operator" v="Fondo Ambiente Italiano"/>
     <tag k="operator:type" v="private"/>
+    <tag k="phone" v="+39 02 76340121"/>
     <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://fondoambiente.it/luoghi/villa-necchi-campiglio"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2525507"/>
     <tag k="wikipedia" v="it:Villa Necchi Campiglio"/>
@@ -20524,6 +20513,42 @@
     <tag k="building" v="kiosk"/>
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="204721782" version="13" timestamp="2022-03-09T13:50:12Z" changeset="118279995" uid="13840929" user="aa30mom">
+    <center lat="45.4634752" lon="9.1917422"/>
+    <nd ref="2147024573"/>
+    <nd ref="4170020890"/>
+    <nd ref="27654232"/>
+    <nd ref="4170003890"/>
+    <nd ref="2147024558"/>
+    <nd ref="2147024565"/>
+    <nd ref="2147024571"/>
+    <nd ref="2147024568"/>
+    <nd ref="2147024574"/>
+    <nd ref="2147024569"/>
+    <nd ref="2147024555"/>
+    <nd ref="4170016631"/>
+    <nd ref="4170016637"/>
+    <nd ref="2147024573"/>
+    <tag k="building" v="public"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="email" v="info@duomomilano.it"/>
+    <tag k="museum" v="history"/>
+    <tag k="name" v="Museo del Duomo"/>
+    <tag k="name:de" v="Dommuseum"/>
+    <tag k="name:en" v="Duomo Museum"/>
+    <tag k="name:fr" v="Musée du Duomo de Milan"/>
+    <tag k="name:it" v="Museo del Duomo"/>
+    <tag k="opening_hours" v="Tu-Su 10:00-19:00; Mo off"/>
+    <tag k="operator" v="Veneranda Fabbrica del Duomo di Milano"/>
+    <tag k="operator:type" v="religious"/>
+    <tag k="phone" v="+39 02 36169351"/>
+    <tag k="start_date" v="1953"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://museo.duomomilano.it/it/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q16337697"/>
+    <tag k="wikipedia" v="it:Grande Museo del Duomo di Milano"/>
   </way>
   <way id="207101338" version="9" timestamp="2019-09-13T09:39:08Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <center lat="45.4702223" lon="9.1935431"/>
@@ -21204,7 +21229,7 @@
     <tag k="amenity" v="university"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="252422994" version="4" timestamp="2018-05-09T08:32:32Z" changeset="58811483" uid="506470" user="LuSirto">
+  <way id="252422994" version="6" timestamp="2022-03-09T15:22:07Z" changeset="118283458" uid="13840929" user="aa30mom">
     <center lat="45.4728062" lon="9.1991039"/>
     <nd ref="2584830174"/>
     <nd ref="2584830171"/>
@@ -21217,17 +21242,14 @@
     <nd ref="5039725708"/>
     <nd ref="2584830169"/>
     <nd ref="2584830174"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="20122"/>
-    <tag k="addr:street" v="Via Palestro"/>
     <tag k="building" v="public"/>
     <tag k="facebook" v="http://www.facebook.com/pacmilano"/>
     <tag k="museum" v="art"/>
     <tag k="name" v="Padiglione d'Arte Contemporanea"/>
     <tag k="name:en" v="Contemporary Arts Pavilion"/>
-    <tag k="note" v="A contemporary art space. Amission: Full price € 8.00, Reduced € 6.50"/>
-    <tag k="opening_hours" v="09:30-19:30; Th 09:30-22:30; Mo off"/>
+    <tag k="note" v="A contemporary art space. &#x0a;Admission: Full price € 8.00, Reduced € 6.50"/>
+    <tag k="opening_hours" v="Tu-We 10:00-19:30; Th 10:00-22:30; 09:30-19:30; Fr-Su 09:30-22:30; Mo off"/>
+    <tag k="operator" v="Comune di Milano"/>
     <tag k="phone" v="+39 02 8844 6359"/>
     <tag k="short_name" v="PAC"/>
     <tag k="tourism" v="museum"/>
@@ -22441,7 +22463,7 @@
     <tag k="leisure" v="playground"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="425004880" version="7" timestamp="2021-12-15T15:09:33Z" changeset="114968543" uid="8350372" user="Balaabirami">
+  <way id="425004880" version="8" timestamp="2022-03-09T13:23:03Z" changeset="118279135" uid="13840929" user="aa30mom">
     <center lat="45.4439399" lon="9.2043047"/>
     <nd ref="4243534868"/>
     <nd ref="9340898265"/>
@@ -22450,20 +22472,17 @@
     <nd ref="4243534873"/>
     <nd ref="4243534870"/>
     <nd ref="4243534868"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="20139"/>
-    <tag k="addr:street" v="Largo Isarco"/>
     <tag k="email" v="visit.milano@fondazioneprada.org"/>
     <tag k="fee" v="yes"/>
+    <tag k="museum" v="art"/>
     <tag k="name" v="Fondazione Prada"/>
-    <tag k="opening_hours" v="Mo-Th 10:00-19:00; Tu off; Fr-Su 10:00-21:00"/>
+    <tag k="opening_hours" v="Mo 10:00-19:00; Tu off; We-Su 10:00-19:00"/>
     <tag k="phone" v="+39 02 5666 2612"/>
     <tag k="tourism" v="museum"/>
-    <tag k="website" v="http://www.fondazioneprada.org"/>
+    <tag k="website" v="https://www.fondazioneprada.org/"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q3747208"/>
+    <tag k="wikipedia" v="it:Fondazione Prada"/>
   </way>
   <way id="429077474" version="7" timestamp="2021-07-11T05:33:50Z" changeset="107768324" uid="13566882" user="Silverium">
     <center lat="45.5022603" lon="9.1669206"/>
@@ -23011,7 +23030,7 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845544" version="2" timestamp="2022-03-07T15:09:09Z" changeset="118201028" uid="11242131" user="ja+">
+  <way id="904845544" version="3" timestamp="2022-03-09T13:34:37Z" changeset="118279470" uid="11242131" user="ja+">
     <center lat="45.4342783" lon="9.2385322"/>
     <nd ref="8402976071"/>
     <nd ref="9560637372"/>
@@ -23020,6 +23039,7 @@
     <nd ref="8402976085"/>
     <nd ref="8402976083"/>
     <nd ref="9560637402"/>
+    <nd ref="9566060284"/>
     <nd ref="8402976081"/>
     <nd ref="8402976072"/>
     <nd ref="8402976082"/>
