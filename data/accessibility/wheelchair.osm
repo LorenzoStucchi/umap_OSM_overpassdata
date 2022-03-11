@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-10T03:30:48Z" areas="2022-03-10T03:13:40Z"/>
+<meta osm_base="2022-03-11T03:25:54Z" areas="2022-03-11T02:27:01Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -2039,7 +2039,7 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1223091032" lat="45.4634578" lon="9.1902113" version="16" timestamp="2019-04-24T06:11:29Z" changeset="69512843" uid="1861652" user="pippo67">
+  <node id="1223091032" lat="45.4634578" lon="9.1902113" version="17" timestamp="2022-03-10T07:43:50Z" changeset="118307834" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -2047,12 +2047,14 @@
     <tag k="addr:street" v="Via Guglielmo Marconi"/>
     <tag k="alt_name" v="Museo del 900"/>
     <tag k="email" v="c.museo900@comune.milano.it"/>
+    <tag k="museum" v="art"/>
     <tag k="name" v="Museo del Novecento"/>
     <tag k="name:it" v="Museo del Novecento"/>
     <tag k="name:zh" v="1900年代美術館"/>
-    <tag k="opening_hours" v="Tu-We,Fr,Su 09:30-19:30; Th,Sa 09:30-22:30; Mo 14:30-19:30"/>
+    <tag k="opening_hours" v="Tu-We,Fr-Su 09:30-19:30; Th 09:30-22:30; Mo Off"/>
+    <tag k="operator" v="Comune di Milano"/>
+    <tag k="operator:type" v="public"/>
     <tag k="phone" v="+39 02 88444061"/>
-    <tag k="source" v="http://www.museodelnovecento.org/dove-siamo"/>
     <tag k="tourism" v="museum"/>
     <tag k="website" v="https://www.museodelnovecento.org/it/"/>
     <tag k="wheelchair" v="yes"/>
@@ -3280,7 +3282,7 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-13:30,14:45-15:45; PH closed"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1679594686" lat="45.4793028" lon="9.2267982" version="5" timestamp="2018-02-24T16:15:17Z" changeset="56638997" uid="290680" user="wheelmap_visitor">
+  <node id="1679594686" lat="45.4793067" lon="9.2267981" version="6" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="name" v="Piazza Leonardo Da Vinci - Politecnico"/>
     <tag k="old_name" v="Bonardi 23 - 33"/>
     <tag k="public_transport" v="stop_position"/>
@@ -3305,7 +3307,7 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wifi" v="no"/>
   </node>
-  <node id="1679594691" lat="45.4793001" lon="9.2297167" version="6" timestamp="2018-02-24T16:15:15Z" changeset="56638997" uid="290680" user="wheelmap_visitor">
+  <node id="1679594691" lat="45.4792999" lon="9.2297167" version="7" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="bench" v="yes"/>
     <tag k="name" v="Via Bassini - Via Ponzio"/>
     <tag k="old_name" v="Bonardi 23 - 33"/>
@@ -3423,6 +3425,14 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q3388904"/>
     <tag k="wikipedia" v="it:Piola (metropolitana di Milano)"/>
+  </node>
+  <node id="1722078886" lat="45.4785390" lon="9.2298087" version="6" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1726657131" lat="45.4723347" lon="9.1874378" version="4" timestamp="2020-02-28T19:49:52Z" changeset="81605235" uid="9006927" user="francians">
     <tag k="addr:housenumber" v="23"/>
@@ -3566,25 +3576,26 @@
     <tag k="wikidata" v="Q3441250"/>
     <tag k="wikipedia" v="it:Romolo (metropolitana di Milano)"/>
   </node>
-  <node id="1761156826" lat="45.4662047" lon="9.1706550" version="12" timestamp="2021-04-26T19:45:41Z" changeset="103658408" uid="113669" user="AnyFile">
+  <node id="1761156826" lat="45.4662047" lon="9.1706550" version="13" timestamp="2022-03-10T07:57:17Z" changeset="118308756" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="20100"/>
+    <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Piazza Santa Maria delle Grazie"/>
     <tag k="fax" v="+39 02 92800363"/>
+    <tag k="museum" v="art"/>
     <tag k="name" v="Museo del Cenacolo Vinciano"/>
     <tag k="name:en" v="Museum of the Cenacolo of leonardo da vinci"/>
     <tag k="name:fr" v="Musée du cénacle Léonard de Vinci"/>
     <tag k="name:pt" v="Cenacolo Vinciano"/>
     <tag k="name:zh" v="最后的晚餐"/>
-    <tag k="opening_hours" v="Tu-Su 08:15-19:00; Jan 01 closed, May 01 closed, Dec 25 closed"/>
+    <tag k="opening_hours" v="Tu-Sa 08:15-19:00; Su 14:00-19:00; Jan 01 closed, May 01 closed, Dec 25 closed; coment:Reservation required"/>
     <tag k="phone" v="+39 02 92800362"/>
     <tag k="tourism" v="museum"/>
     <tag k="website" v="https://cenacolovinciano.org/"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wheelchair:description:de" v="Karten sollten im Internet vorbestellt werden"/>
-    <tag k="wikidata" v="Q55388576"/>
+    <tag k="wikipedia" v="it:it:Ultima Cena (Leonardo)"/>
   </node>
   <node id="1769318208" lat="45.4852449" lon="9.1889315" version="3" timestamp="2019-09-13T13:09:41Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -3722,19 +3733,24 @@
     <tag k="wikidata" v="Q100928198"/>
     <tag k="wikimedia_commons" v="Category:Panzerotti Luini"/>
   </node>
-  <node id="1828890767" lat="45.4672623" lon="9.1892682" version="12" timestamp="2021-11-22T09:58:44Z" changeset="114090300" uid="10901495" user="Martino Scaglione">
+  <node id="1828890767" lat="45.4672623" lon="9.1892682" version="14" timestamp="2022-03-10T08:15:41Z" changeset="118309669" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Largo Antonio Ghiringhelli"/>
     <tag k="email" v="museoscala@fondazionelascala.it"/>
     <tag k="fee" v="yes"/>
+    <tag k="museum" v="history"/>
     <tag k="name" v="Museo Teatrale alla Scala"/>
     <tag k="name:de" v="La Scala Theatermuseum"/>
     <tag k="name:en" v="Theater museum La Scala"/>
     <tag k="name:es" v="Museo Teatro de la Scala"/>
     <tag k="name:it" v="Museo Teatrale alla Scala"/>
     <tag k="name:ru" v="Музей театра Ла Скала"/>
-    <tag k="opening_hours" v="09:00-17:30; Dec 07,Dec 25,Dec 26,Jan 01 off"/>
+    <tag k="opening_hours" v="10:00-18:00; Jan 01, May 01, Aug 15, Dec 07,Dec 25,Dec 26 off"/>
     <tag k="phone" v="+39 02 88797473"/>
     <tag k="tourism" v="museum"/>
-    <tag k="website" v="http://www.museoscala.org/"/>
+    <tag k="website" v="https://www.museoscala.org/"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q51099"/>
     <tag k="wikipedia" v="it:Museo teatrale alla Scala"/>
@@ -4981,15 +4997,16 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2324825968" lat="45.4672650" lon="9.1905257" version="6" timestamp="2021-10-18T19:49:13Z" changeset="112667922" uid="67550" user="Aiman">
+  <node id="2324825968" lat="45.4672650" lon="9.1905257" version="7" timestamp="2022-03-10T09:03:53Z" changeset="118311544" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Piazza della Scala"/>
     <tag k="email" v="info@gallerieditalia.com"/>
-    <tag k="fee" v="no"/>
+    <tag k="fee" v="yes"/>
     <tag k="name" v="Gallerie d'Italia"/>
     <tag k="opening_hours" v="Tu,We,Fr,Sa,Su 09:30-19:30; Th 09:30-22:30; Mo off"/>
+    <tag k="operator" v="Intesa San Paolo"/>
     <tag k="phone" v="800167619"/>
     <tag k="tourism" v="museum"/>
     <tag k="website" v="https://www.gallerieditalia.com/it/milano/"/>
@@ -6502,6 +6519,18 @@
     <tag k="ref:vatin" v="IT09671780964"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2498673900" lat="45.4786394" lon="9.2281555" version="6" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="no"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2498673940" lat="45.4786391" lon="9.2278962" version="5" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="no"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2498673942" lat="45.4785025" lon="9.2280047" version="4" timestamp="2018-03-02T13:51:38Z" changeset="56820798" uid="207581" user="Hjart">
     <tag k="amenity" v="toilets"/>
     <tag k="wheelchair" v="yes"/>
@@ -6527,7 +6556,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2531365878" lat="45.4696322" lon="9.1952660" version="10" timestamp="2020-07-18T20:34:09Z" changeset="88186047" uid="89897" user="airon90">
+  <node id="2531365878" lat="45.4696322" lon="9.1952660" version="11" timestamp="2022-03-10T13:40:41Z" changeset="118324457" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
@@ -6537,27 +6566,27 @@
     <tag k="charge" v="10 EUR"/>
     <tag k="contact:facebook" v="https://www.facebook.com/museo.bagatti.valsecchi/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/museobagattivalsecchi/"/>
-    <tag k="contact:phone" v="+39 02 76006132"/>
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/194343"/>
     <tag k="contact:twitter" v="https://twitter.com/MuseoBaVa"/>
-    <tag k="contact:website" v="https://museobagattivalsecchi.org"/>
     <tag k="contact:youtube" v="https://www.youtube.com/channel/UCVEjhqkKpuNgpitvsnP5Akw"/>
     <tag k="email" v="info@museobagattivalsecchi.org"/>
     <tag k="fee" v="yes"/>
-    <tag k="museum" v="historic_house"/>
+    <tag k="hone" v="+39 02 76006132"/>
+    <tag k="museum" v="history"/>
     <tag k="name" v="Museo Bagatti Valsecchi"/>
     <tag k="name:en" v="Bagatti Valsecchi Museum"/>
     <tag k="name:fr" v="Musée Bagatti Valsecchi"/>
     <tag k="name:hu" v="Palazzo Bagatti Valsecchi"/>
     <tag k="name:it" v="Museo Bagatti Valsecchi"/>
     <tag k="name:ru" v="Музей Багатти-Вальсекки"/>
-    <tag k="opening_hours" v="Tu-Su 13:00-17:45; Mo off"/>
-    <tag k="opening_hours:covid19" v="Fr-Su 13:00-17:45;"/>
+    <tag k="opening_hours" v="Th-Fr 13:00-17:45; Sa-Su 10:00-17:45, Mo-We off"/>
+    <tag k="operator" v="Fondazione Bagatti Valsecchi"/>
+    <tag k="operator:type" v="private"/>
     <tag k="short_name" v="BAVA"/>
     <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://museobagattivalsecchi.org/"/>
     <tag k="website:booking" v="https://fareharbor.com/embeds/book/museobagattivalsecchi/?full-items=yes&amp;flow=317910&amp;u=e25a0032-de63-4196-ac85-7d715d345e96&amp;from-ssl=yes"/>
     <tag k="wheelchair" v="no"/>
-    <tag k="wikidata" v="Q838986"/>
     <tag k="wikipedia" v="it:Museo Bagatti Valsecchi"/>
   </node>
   <node id="2533981830" lat="45.4843216" lon="9.2186760" version="3" timestamp="2018-07-30T20:19:22Z" changeset="61207308" uid="92387" user="SimonPoole">
@@ -11062,7 +11091,7 @@
     <tag k="shop" v="stationery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4010994767" lat="45.4520455" lon="9.1613185" version="9" timestamp="2020-01-15T09:56:39Z" changeset="79601292" uid="89897" user="airon90">
+  <node id="4010994767" lat="45.4520455" lon="9.1613185" version="10" timestamp="2022-03-10T14:03:40Z" changeset="118325440" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:postcode" v="20144"/>
@@ -11074,6 +11103,7 @@
     <tag k="contact:twitter" v="https://twitter.com/mudecmi"/>
     <tag k="contact:yelp" v="https://www.yelp.com/biz/mudec-milano"/>
     <tag k="contact:youtube" v="https://youtube.com/channel/UCXc_iFKqAcSKnHUSYlaYSUw"/>
+    <tag k="museum" v="ethnography"/>
     <tag k="name" v="Mudec"/>
     <tag k="official_name" v="Museo delle Culture"/>
     <tag k="opening_hours" v="Mo 14:30-19:30; Tu,We,Fr,Su 09:30-19:30; Th,Sa 09:30-22:30"/>
@@ -11084,7 +11114,7 @@
     <tag k="tourism" v="museum"/>
     <tag k="website" v="http://www.mudec.it"/>
     <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q22811468"/>
+    <tag k="wikipedia" v="it:it:Museo delle culture (Milano)"/>
   </node>
   <node id="4018609832" lat="45.4837195" lon="9.1051990" version="2" timestamp="2016-02-21T22:29:36Z" changeset="37356394" uid="230707" user="stanton">
     <tag k="addr:city" v="Milano"/>
@@ -13142,7 +13172,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4808277459" lat="45.4777056" lon="9.2272919" version="7" timestamp="2018-08-01T06:31:27Z" changeset="61250590" uid="579545" user="Aury88">
+  <node id="4808277459" lat="45.4777194" lon="9.2272889" version="8" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="door" v="no"/>
     <tag k="entrance" v="main"/>
     <tag k="foot" v="designated"/>
@@ -13432,20 +13462,21 @@
     <tag k="name" v="Bel Paese"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4897708750" lat="45.4665338" lon="9.1897113" version="5" timestamp="2022-01-15T20:10:45Z" changeset="116195816" uid="4425563" user="Danysan95">
+  <node id="4897708750" lat="45.4665338" lon="9.1897113" version="6" timestamp="2022-03-10T14:51:23Z" changeset="118327112" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Piazza della Scala"/>
+    <tag k="addr:street" v="Galleria Vittorio Emanuele Secondo"/>
     <tag k="email" v="museum@leonardo3.net"/>
     <tag k="name" v="Leonardo3 Museum - Il Mondo di Leonardo"/>
     <tag k="name:en" v="Leonardo3 Museum – The World of Leonardo"/>
-    <tag k="opening_hours" v="Mo-Su 09:30-22:30"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:00; Sa-Su, PH 09:30-20:00"/>
     <tag k="phone" v="+39 02 49519981"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="tourism" v="museum"/>
-    <tag k="website" v="http://www.leonardo3.net/"/>
+    <tag k="website" v="https://www.leonardo3.net/"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q55832575"/>
+    <tag k="wikipedia" v="it:Leonardo3 Museum - Il mondo di Leonardo"/>
   </node>
   <node id="4916257354" lat="45.4987228" lon="9.1936810" version="3" timestamp="2022-02-13T13:58:18Z" changeset="117354998" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
@@ -14938,6 +14969,17 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="5683348855" lat="45.4775808" lon="9.2287441" version="4" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5683348856" lat="45.4775818" lon="9.2290785" version="2" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="no"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5686052073" lat="45.4786647" lon="9.2329144" version="2" timestamp="2019-11-25T18:54:09Z" changeset="77539933" uid="10494647" user="pafferonis">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
@@ -15968,7 +16010,7 @@
     <tag k="name" v="La romana"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6424667157" lat="45.4725327" lon="9.1996760" version="8" timestamp="2022-03-09T15:10:50Z" changeset="118283077" uid="13840929" user="aa30mom">
+  <node id="6424667157" lat="45.4725327" lon="9.1996760" version="9" timestamp="2022-03-10T15:05:41Z" changeset="118327653" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="20121"/>
@@ -15979,7 +16021,10 @@
     <tag k="name" v="Galleria d'Arte Moderna"/>
     <tag k="name:es" v="Galería de Arte Moderno"/>
     <tag k="opening_hours" v="Tu-Su 09:00-17:30; Mo off; Jan 1 off; Easter +1 off; May 1 off; Dec 25 off"/>
+    <tag k="operator" v="Comune di Milano"/>
+    <tag k="operator:type" v="government"/>
     <tag k="phone" v="+39 02 88445943"/>
+    <tag k="short_name" v="GAM"/>
     <tag k="tourism" v="museum"/>
     <tag k="website" v="http://www.gam-milano.com/it/home/"/>
     <tag k="wheelchair" v="yes"/>
@@ -16668,7 +16713,7 @@
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8022218396" lat="45.4793307" lon="9.2302155" version="1" timestamp="2020-10-19T14:21:20Z" changeset="92715011" uid="10893865" user="Emanuele Lorenzo Corti">
+  <node id="8022218396" lat="45.4793301" lon="9.2302155" version="2" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="name" v="Via Bassini - Via Ponzio"/>
     <tag k="public_transport" v="stop_position"/>
     <tag k="railway" v="tram_stop"/>
@@ -17367,11 +17412,6 @@
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9190542645" lat="45.4790824" lon="9.2290971" version="1" timestamp="2021-10-21T15:06:34Z" changeset="112797037" uid="4838813" user="LorenzoStucchi">
-    <tag k="entrance" v="staircase"/>
-    <tag k="level" v="0"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="9192820152" lat="45.5104819" lon="9.2060197" version="2" timestamp="2022-02-14T17:56:16Z" changeset="117403742" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20125"/>
@@ -17662,7 +17702,11 @@
     <tag k="website" v="https://bandhi.it/bah/beltrade/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9551908512" lat="45.4631407" lon="9.1912302" version="2" timestamp="2022-03-03T13:16:06Z" changeset="118055877" uid="13840929" user="aa30mom">
+  <node id="9551908512" lat="45.4631407" lon="9.1912302" version="3" timestamp="2022-03-10T17:28:43Z" changeset="118332899" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="Piaza del Duomo"/>
     <tag k="museum" v="art"/>
     <tag k="museum_type" v="municipal"/>
     <tag k="name" v="Palazzo Reale"/>
@@ -17673,6 +17717,8 @@
     <tag k="name:it" v="Palazzo Reale"/>
     <tag k="name:pt" v="Palácio Real"/>
     <tag k="name:zh" v="米兰王宫"/>
+    <tag k="opening_hours" v="Tu-We, Fr-Su 10:00-19:30; Th 10:00-22:30; Mo off"/>
+    <tag k="operator" v="Comune di Milano"/>
     <tag k="phone" v="+39 02 88445181"/>
     <tag k="tourism" v="museum"/>
     <tag k="website" v="https://www.palazzorealemilano.it/"/>
@@ -17713,6 +17759,65 @@
     <tag k="ref" v="3"/>
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9568166097" lat="45.4773829" lon="9.2287708" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174169" lat="45.4781110" lon="9.2285558" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9568174190" lat="45.4782273" lon="9.2287118" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174536" lat="45.4786439" lon="9.2287369" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="no"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174537" lat="45.4786448" lon="9.2290678" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174559" lat="45.4784444" lon="9.2292656" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174612" lat="45.4785423" lon="9.2292187" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174628" lat="45.4784738" lon="9.2295811" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174631" lat="45.4784894" lon="9.2295603" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="private"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174644" lat="45.4786361" lon="9.2296519" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
@@ -22687,7 +22792,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="533970942" version="6" timestamp="2020-01-30T09:55:17Z" changeset="80291589" uid="290680" user="wheelmap_visitor">
-    <center lat="45.4772263" lon="9.2277011"/>
+    <center lat="45.4772401" lon="9.2276836"/>
     <nd ref="730760181"/>
     <nd ref="5179618755"/>
     <nd ref="5179618749"/>
@@ -23486,6 +23591,57 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q801189"/>
     <tag k="wikipedia" v="it:Stazione di Milano Rogoredo"/>
+  </way>
+  <way id="1039015191" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <center lat="45.4784146" lon="9.2271139"/>
+    <nd ref="9568173812"/>
+    <nd ref="9568173811"/>
+    <nd ref="9568173810"/>
+    <nd ref="9568173809"/>
+    <nd ref="9568173808"/>
+    <nd ref="9568173807"/>
+    <nd ref="9568173806"/>
+    <nd ref="9568173805"/>
+    <nd ref="9568173804"/>
+    <nd ref="9568173803"/>
+    <nd ref="9568173802"/>
+    <nd ref="9568173801"/>
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1039015423" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <center lat="45.4783235" lon="9.2293027"/>
+    <nd ref="9568174558"/>
+    <nd ref="3183380586"/>
+    <nd ref="9568174557"/>
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="motorcar" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1039015473" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <center lat="45.4785097" lon="9.2298745"/>
+    <nd ref="9568174674"/>
+    <nd ref="9568174673"/>
+    <nd ref="9568174672"/>
+    <nd ref="9568174671"/>
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1039015474" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+    <center lat="45.4786278" lon="9.2298742"/>
+    <nd ref="9568174678"/>
+    <nd ref="9568174676"/>
+    <nd ref="9568174677"/>
+    <nd ref="9568174675"/>
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
   </way>
 
 </osm>
