@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-12T03:20:02Z" areas="2022-03-12T02:40:25Z"/>
+<meta osm_base="2022-03-13T03:19:27Z" areas="2022-03-13T02:52:52Z"/>
 
   <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
     <tag k="alt_name" v="Milano Cadorna"/>
@@ -636,7 +636,7 @@
     <tag k="shop" v="doityourself"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="281727033" lat="45.4954632" lon="9.1852280" version="7" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="281727033" lat="45.4954632" lon="9.1852280" version="8" timestamp="2022-03-12T11:52:28Z" changeset="118395223" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:street" v="Via Carlo Farini"/>
@@ -650,6 +650,7 @@
     <tag k="operator" v="GS spa"/>
     <tag k="ref:vatin" v="IT12683790153"/>
     <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-market-milano-via-farini-n-7981-0024.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="281819160" lat="45.4887909" lon="9.1966345" version="5" timestamp="2019-09-13T15:09:58Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -1629,7 +1630,7 @@
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="593505050" lat="45.4520892" lon="9.1847984" version="10" timestamp="2021-11-06T10:59:23Z" changeset="113441168" uid="1476146" user="Alecs01">
+  <node id="593505050" lat="45.4520892" lon="9.1847984" version="11" timestamp="2022-03-12T11:52:28Z" changeset="118395223" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1645,7 +1646,7 @@
     <tag k="ref:vatin" v="IT12002340151"/>
     <tag k="shop" v="convenience"/>
     <tag k="source" v="recipt"/>
-    <tag k="website" v="http://carrefour.it"/>
+    <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-express-milano-via-cosseria-1-2891.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="611067534" lat="45.4538646" lon="9.1872123" version="3" timestamp="2020-10-28T14:44:41Z" changeset="93180978" uid="290680" user="wheelmap_visitor">
@@ -1713,7 +1714,7 @@
     <tag k="subway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="687897963" lat="45.4718956" lon="9.1676381" version="8" timestamp="2021-08-22T19:19:57Z" changeset="110076140" uid="8770388" user="Osmwithspace">
+  <node id="687897963" lat="45.4718956" lon="9.1676381" version="9" timestamp="2022-03-12T11:52:28Z" changeset="118395223" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="55"/>
@@ -1728,6 +1729,7 @@
     <tag k="phone" v="+39 02 4694107"/>
     <tag k="ref:vatin" v="IT12683790153"/>
     <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-market-milano-via-monti-n-55-0022.html"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="702135954" lat="45.4797394" lon="9.1731855" version="4" timestamp="2018-12-17T07:00:54Z" changeset="65540364" uid="579545" user="Aury88">
@@ -3706,26 +3708,29 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1828890765" lat="45.4657850" lon="9.1915481" version="13" timestamp="2021-03-13T11:24:28Z" changeset="100949362" uid="270456" user="pyrog">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Via Santa Radegonda"/>
+  <node id="1828890765" lat="45.4657850" lon="9.1915481" version="14" timestamp="2022-03-12T18:34:58Z" changeset="118408612" uid="11220113" user="ivanbranco">
+    <tag k="contact:city" v="Milano"/>
     <tag k="contact:email" v="info@luini.it"/>
     <tag k="contact:facebook" v="https://www.facebook.com/PanificioLuini"/>
     <tag k="contact:fax" v="+39 02 45070222"/>
     <tag k="contact:glovo" v="https://glovoapp.com/it/mil/store/panzerotti-luini-mil/"/>
+    <tag k="contact:housenumber" v="16"/>
     <tag k="contact:instagram" v="https://instagram.com/luini_panzerotti"/>
     <tag k="contact:justeat" v="https://www.justeat.it/restaurants-luini-milano"/>
     <tag k="contact:phone" v="+39 02 86461917"/>
+    <tag k="contact:postcode" v="20121"/>
+    <tag k="contact:street" v="Via Santa Radegonda"/>
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/1097473"/>
     <tag k="contact:website" v="http://www.luini.it/"/>
+    <tag k="diet:vegetarian" v="yes"/>
     <tag k="image" v="https://commons.wikimedia.org/wiki/File:Panzerotti_Luini_Milano,_Italy_-_Shop_sign.jpg"/>
     <tag k="name" v="Luini"/>
+    <tag k="name:it" v="Luini"/>
     <tag k="name:ru" v="Пирожки Панцеротти Luini"/>
     <tag k="opening_hours" v="Mo 10:00-15:00; Tu-Sa 10:00-20:00"/>
-    <tag k="opening_hours:covid19" v="Mo-Sa 10:30-20:00;"/>
+    <tag k="opening_hours:covid19" v="Mo-Sa 10:30-20:00; "/>
+    <tag k="operator" v="Luini S.R.L."/>
+    <tag k="payment:cash" v="yes"/>
     <tag k="ref:vatin" v="IT01011470158"/>
     <tag k="reservation" v="yes"/>
     <tag k="shop" v="bakery"/>
@@ -10199,12 +10204,14 @@
     <tag k="website" v="http://www.hotelgardamilan.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3848621237" lat="45.4838015" lon="9.2050644" version="5" timestamp="2021-12-12T12:02:48Z" changeset="114844041" uid="3860151" user="Michele Aquilani">
+  <node id="3848621237" lat="45.4838015" lon="9.2050644" version="6" timestamp="2022-03-12T18:34:45Z" changeset="118408606" uid="13819640" user="csidirop">
     <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="29"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Roberto Lepetit"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/hostarialabaita/"/>
+    <tag k="contact:instagram" v="hostarialabaita"/>
+    <tag k="cuisine" v="italian;italian_pizza;pasta"/>
     <tag k="name" v="La Baita"/>
     <tag k="phone" v="+39 02 6694173"/>
     <tag k="ref:vatin" v="IT07440590151"/>
@@ -13670,7 +13677,7 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="width:bicycle" v="1"/>
   </node>
-  <node id="4971709244" lat="45.4593179" lon="9.1881323" version="5" timestamp="2021-09-26T07:25:47Z" changeset="111709791" uid="113669" user="AnyFile">
+  <node id="4971709244" lat="45.4593179" lon="9.1881323" version="6" timestamp="2022-03-12T11:52:28Z" changeset="118395223" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="9"/>
@@ -13684,6 +13691,7 @@
     <tag k="phone" v="+39 02 72105424"/>
     <tag k="ref:vatin" v="IT12683790153"/>
     <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-express-milano-via-maddalena-9-3941.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4978187693" lat="45.4687696" lon="9.2067087" version="5" timestamp="2021-01-01T16:00:12Z" changeset="96777733" uid="12169583" user="davidfaure_bot">
@@ -15526,8 +15534,8 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5804640103" lat="45.4736568" lon="9.1841385" version="2" timestamp="2019-09-13T14:07:16Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Republic of Fritz Hansen"/>
+  <node id="5804640103" lat="45.4736568" lon="9.1841385" version="3" timestamp="2022-03-12T21:02:54Z" changeset="118412472" uid="113669" user="AnyFile">
+    <tag k="name" v="Menabrea"/>
     <tag k="shop" v="furniture"/>
     <tag k="wheelchair" v="limited"/>
   </node>
