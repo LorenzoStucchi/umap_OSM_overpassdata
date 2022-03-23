@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-22T03:37:58Z" areas="2022-03-22T02:54:32Z"/>
+<meta osm_base="2022-03-23T03:40:50Z" areas="2022-03-23T03:07:12Z"/>
 
-  <node id="21226369" lat="45.4684170" lon="9.1754586" version="16" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
-    <tag k="alt_name" v="Milano Cadorna"/>
-    <tag k="name" v="Milano Nord Cadorna"/>
-    <tag k="network" v="STIBM"/>
-    <tag k="note" v="Area STIBM: Mi1"/>
-    <tag k="operator" v="FNM"/>
-    <tag k="platforms" v="10"/>
-    <tag k="public_transport" v="station"/>
-    <tag k="railway" v="station"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q801185"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Cadorna"/>
-  </node>
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
     <tag k="name" v="Cadorna"/>
@@ -30,20 +17,6 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q2258101"/>
     <tag k="wikipedia" v="it:Cadorna FN (metropolitana di Milano)"/>
-  </node>
-  <node id="27583968" lat="45.4808802" lon="9.1622985" version="18" timestamp="2021-06-04T14:26:48Z" changeset="105844883" uid="4890411" user="phaerrax">
-    <tag k="alt_name" v="Milano Domodossola"/>
-    <tag k="name" v="Milano Nord Domodossola"/>
-    <tag k="old_name" v="Milano Nord Domodossola-Fiera"/>
-    <tag k="operator" v="Trenord"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="stop"/>
-    <tag k="short_name" v="Domodossola"/>
-    <tag k="start_date" v="2003"/>
-    <tag k="train" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q3113699"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
   </node>
   <node id="29797363" lat="45.4844416" lon="9.1872983" version="11" timestamp="2021-11-28T10:01:49Z" changeset="114318223" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -8774,7 +8747,12 @@
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3236536364" lat="45.4800986" lon="9.2104938" version="6" timestamp="2022-03-20T15:09:07Z" changeset="118697793" uid="1875845" user="Valerio_Bozzolan">
+  <node id="3236536364" lat="45.4800986" lon="9.2104938" version="7" timestamp="2022-03-22T09:55:53Z" changeset="118771161" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="brand" v="Wind Tre"/>
+    <tag k="brand:wikidata" v="Q28119223"/>
+    <tag k="brand:wikipedia" v="en:Wind Tre"/>
     <tag k="name" v="Wind 3"/>
     <tag k="opening_hours" v="Mo-Fr 10:15-19:30; Sa,Su 10:00-19:30"/>
     <tag k="shop" v="mobile_phone"/>
@@ -13099,20 +13077,6 @@
     <tag k="name" v="Trevesbar"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4538258017" lat="45.4809046" lon="9.1623457" version="3" timestamp="2021-06-04T14:26:51Z" changeset="105844883" uid="4890411" user="phaerrax">
-    <tag k="alt_name" v="Milano Domodossola"/>
-    <tag k="name" v="Milano Nord Domodossola"/>
-    <tag k="old_name" v="Milano Nord Domodossola-Fiera"/>
-    <tag k="operator" v="Trenord"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="stop"/>
-    <tag k="short_name" v="Domodossola"/>
-    <tag k="start_date" v="2003"/>
-    <tag k="train" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q3113699"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
-  </node>
   <node id="4540413091" lat="45.4648248" lon="9.1942671" version="3" timestamp="2020-01-20T08:50:37Z" changeset="79786116" uid="1967477" user="bubix">
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="I Panini della Befi"/>
@@ -16818,10 +16782,17 @@
     <tag k="shop" v="hardware"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="7191117562" lat="45.4754214" lon="9.2273586" version="1" timestamp="2020-02-06T14:14:30Z" changeset="80647044" uid="22110" user="ilrobi">
+  <node id="7191117562" lat="45.4754214" lon="9.2273586" version="4" timestamp="2022-03-22T15:50:53Z" changeset="118784443" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Via Giovanni Celoria"/>
     <tag k="amenity" v="library"/>
     <tag k="name" v="Biblioteca di Scienze agrarie e alimentari"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
     <tag k="operator" v="Università degli Studi di Milano"/>
+    <tag k="phone" v="+39 02 50316428"/>
+    <tag k="website" v="https://www.sba.unimi.it/Biblioteche/agraria/14108.html"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="7192137496" lat="45.4828093" lon="9.1981252" version="1" timestamp="2020-02-06T23:44:06Z" changeset="80663864" uid="89897" user="airon90">
@@ -17033,49 +17004,6 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website:booking" v="http://www.officineanalfabeta.it/index.html#form4-9"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="7787907246" lat="45.4807969" lon="9.1623120" version="4" timestamp="2021-11-05T13:14:12Z" changeset="113408955" uid="11242131" user="ja+">
-    <tag k="alt_name" v="Milano Domodossola"/>
-    <tag k="name" v="Milano Nord Domodossola"/>
-    <tag k="network" v="STIBM"/>
-    <tag k="note" v="Area STIBM: Mi1"/>
-    <tag k="old_name" v="Milano Nord Domodossola-Fiera"/>
-    <tag k="operator" v="FNM"/>
-    <tag k="public_transport" v="station"/>
-    <tag k="railway" v="station"/>
-    <tag k="short_name" v="Domodossola"/>
-    <tag k="start_date" v="2003"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q3113699"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
-  </node>
-  <node id="7787907247" lat="45.4808261" lon="9.1621939" version="3" timestamp="2021-06-04T14:26:51Z" changeset="105844883" uid="4890411" user="phaerrax">
-    <tag k="alt_name" v="Milano Domodossola"/>
-    <tag k="name" v="Milano Nord Domodossola"/>
-    <tag k="old_name" v="Milano Nord Domodossola-Fiera"/>
-    <tag k="operator" v="Trenord"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="stop"/>
-    <tag k="short_name" v="Domodossola"/>
-    <tag k="start_date" v="2003"/>
-    <tag k="train" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q3113699"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
-  </node>
-  <node id="7787907248" lat="45.4808040" lon="9.1621511" version="2" timestamp="2021-06-04T14:26:51Z" changeset="105844883" uid="4890411" user="phaerrax">
-    <tag k="alt_name" v="Milano Domodossola"/>
-    <tag k="name" v="Milano Nord Domodossola"/>
-    <tag k="old_name" v="Milano Nord Domodossola-Fiera"/>
-    <tag k="operator" v="Trenord"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="stop"/>
-    <tag k="short_name" v="Domodossola"/>
-    <tag k="start_date" v="2003"/>
-    <tag k="train" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q3113699"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
   </node>
   <node id="7902416056" lat="45.4806762" lon="9.1625545" version="3" timestamp="2021-05-05T20:32:38Z" changeset="104206821" uid="3249777" user="opendcc">
     <tag k="access" v="yes"/>
@@ -18393,6 +18321,21 @@
     <tag k="ref" v="12"/>
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9596695002" lat="45.4998486" lon="9.2521436" version="1" timestamp="2022-03-22T07:51:27Z" changeset="118766243" uid="2370220" user="Paolo pn">
+    <tag k="blind" v="limited"/>
+    <tag k="fitness_station" v="parallel_bars"/>
+    <tag k="fixme" v="Position based on open data of Comune di Milano, mapillary images and aerial images.  Still to get exact position by GPS"/>
+    <tag k="leisure" v="fitness_station"/>
+    <tag k="ref" v="13"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9597000249" lat="45.4920925" lon="9.1930140" version="1" timestamp="2022-03-22T10:18:09Z" changeset="118772002" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Viale Zara"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
@@ -19923,17 +19866,13 @@
     <tag k="website" v="https://www.df-sportspecialist.it/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="95936083" version="5" timestamp="2022-03-20T10:16:25Z" changeset="118690476" uid="13840929" user="aa30mom">
+  <way id="95936083" version="6" timestamp="2022-03-22T15:47:45Z" changeset="118784337" uid="13840929" user="aa30mom">
     <center lat="45.5002923" lon="9.2401483"/>
     <nd ref="1704594397"/>
     <nd ref="1111569747"/>
     <nd ref="1111569917"/>
     <nd ref="1111569501"/>
     <nd ref="1704594397"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="20132"/>
-    <tag k="addr:street" v="Via Don Luigi Orione"/>
     <tag k="amenity" v="library"/>
     <tag k="building" v="public"/>
     <tag k="building:levels" v="1"/>
@@ -20827,6 +20766,99 @@
     <tag k="wikidata" v="Q2525507"/>
     <tag k="wikipedia" v="it:Villa Necchi Campiglio"/>
   </way>
+  <way id="139161526" version="8" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+    <center lat="45.4692773" lon="9.1743035"/>
+    <nd ref="1525120847"/>
+    <nd ref="1525120817"/>
+    <nd ref="1525120829"/>
+    <nd ref="1525120801"/>
+    <nd ref="1525120785"/>
+    <nd ref="1525120847"/>
+    <tag k="area" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="5;6"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="139161527" version="8" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+    <center lat="45.4692010" lon="9.1741774"/>
+    <nd ref="1525120836"/>
+    <nd ref="1525120843"/>
+    <nd ref="1525120852"/>
+    <nd ref="1525120782"/>
+    <nd ref="1525120836"/>
+    <tag k="area" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="3;4"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="139161528" version="9" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+    <center lat="45.4693666" lon="9.1744367"/>
+    <nd ref="1525120830"/>
+    <nd ref="8423644206"/>
+    <nd ref="8423644207"/>
+    <nd ref="1525120794"/>
+    <nd ref="1525120830"/>
+    <tag k="area" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="7;8"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="139161529" version="8" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+    <center lat="45.4694358" lon="9.1745588"/>
+    <nd ref="1525120853"/>
+    <nd ref="1525120761"/>
+    <nd ref="1525120796"/>
+    <nd ref="1525120783"/>
+    <nd ref="1525120804"/>
+    <nd ref="1525120787"/>
+    <nd ref="1525120853"/>
+    <tag k="area" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="9;10"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="139161530" version="10" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+    <center lat="45.4691121" lon="9.1740574"/>
+    <nd ref="1525120799"/>
+    <nd ref="1525120822"/>
+    <nd ref="1525120811"/>
+    <nd ref="1525120778"/>
+    <nd ref="1525120798"/>
+    <nd ref="1525120832"/>
+    <nd ref="1525120818"/>
+    <nd ref="1525120805"/>
+    <nd ref="8423641907"/>
+    <nd ref="1525120799"/>
+    <tag k="area" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="1;2"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="142718957" version="2" timestamp="2018-01-15T14:17:10Z" changeset="55464129" uid="7473153" user="Francesco Gobbo">
     <center lat="45.4402286" lon="9.1489025"/>
     <nd ref="1561854543"/>
@@ -21042,7 +21074,7 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q45250306"/>
   </way>
-  <way id="177514943" version="9" timestamp="2022-02-11T13:12:50Z" changeset="117287548" uid="11242131" user="ja+">
+  <way id="177514943" version="10" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
     <center lat="45.5212057" lon="9.1674475"/>
     <nd ref="1879371337"/>
     <nd ref="1879371322"/>
@@ -21055,16 +21087,15 @@
     <nd ref="1879371337"/>
     <tag k="area" v="yes"/>
     <tag k="covered" v="partial"/>
-    <tag k="operator" v="FNM"/>
+    <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="2;3"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="177514945" version="11" timestamp="2022-02-11T13:12:50Z" changeset="117287548" uid="11242131" user="ja+">
+  <way id="177514945" version="12" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
     <center lat="45.5212394" lon="9.1672915"/>
     <nd ref="1879371323"/>
     <nd ref="8772447360"/>
@@ -21087,13 +21118,12 @@
     <nd ref="1879371323"/>
     <tag k="area" v="yes"/>
     <tag k="covered" v="partial"/>
-    <tag k="operator" v="FNM"/>
+    <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="1"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="181679626" version="3" timestamp="2020-11-17T20:20:57Z" changeset="94305856" uid="17774" user="goldmund100">
@@ -22434,7 +22464,7 @@
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="309384277" version="12" timestamp="2022-02-11T13:12:50Z" changeset="117287548" uid="11242131" user="ja+">
+  <way id="309384277" version="13" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
     <center lat="45.5332492" lon="9.1726949"/>
     <nd ref="3147137576"/>
     <nd ref="3147137572"/>
@@ -22447,7 +22477,7 @@
     <nd ref="3147137576"/>
     <tag k="area" v="yes"/>
     <tag k="covered" v="partial"/>
-    <tag k="operator" v="FNM"/>
+    <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="1;2"/>
@@ -22455,7 +22485,7 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="309384278" version="9" timestamp="2022-02-11T13:12:50Z" changeset="117287548" uid="11242131" user="ja+">
+  <way id="309384278" version="10" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
     <center lat="45.5332391" lon="9.1728640"/>
     <nd ref="3147137573"/>
     <nd ref="8290074498"/>
@@ -22470,7 +22500,7 @@
     <nd ref="3147137573"/>
     <tag k="area" v="yes"/>
     <tag k="covered" v="partial"/>
-    <tag k="operator" v="FNM"/>
+    <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="3"/>
@@ -23974,6 +24004,82 @@
     <tag k="railway" v="platform"/>
     <tag k="ref" v="2;3"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="907147573" version="2" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+    <center lat="45.4808481" lon="9.1624729"/>
+    <nd ref="8423644167"/>
+    <nd ref="8423644193"/>
+    <nd ref="8423644191"/>
+    <nd ref="8423644190"/>
+    <nd ref="8423644189"/>
+    <nd ref="8423644192"/>
+    <nd ref="8423644166"/>
+    <nd ref="8423644163"/>
+    <nd ref="8423644164"/>
+    <nd ref="8423644165"/>
+    <nd ref="8423644167"/>
+    <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="4"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="907147574" version="2" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+    <center lat="45.4807228" lon="9.1622332"/>
+    <nd ref="8423644176"/>
+    <nd ref="8423644173"/>
+    <nd ref="8423644174"/>
+    <nd ref="8423644175"/>
+    <nd ref="8423644177"/>
+    <nd ref="8423644172"/>
+    <nd ref="8423644170"/>
+    <nd ref="8423644169"/>
+    <nd ref="8423644168"/>
+    <nd ref="8423644171"/>
+    <nd ref="8423644176"/>
+    <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="1"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="907147575" version="2" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+    <center lat="45.4807901" lon="9.1623437"/>
+    <nd ref="8423644188"/>
+    <nd ref="8423644186"/>
+    <nd ref="8423644185"/>
+    <nd ref="8423644184"/>
+    <nd ref="8423644183"/>
+    <nd ref="8423644187"/>
+    <nd ref="8423644182"/>
+    <nd ref="8423644180"/>
+    <nd ref="8423644179"/>
+    <nd ref="8423644178"/>
+    <nd ref="8423644181"/>
+    <nd ref="8423644188"/>
+    <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="2;3"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="910888913" version="1" timestamp="2021-02-25T15:38:18Z" changeset="99987225" uid="89897" user="airon90">
