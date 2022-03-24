@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-23T03:40:50Z" areas="2022-03-23T03:07:12Z"/>
+<meta osm_base="2022-03-24T03:32:09Z" areas="2022-03-24T03:22:01Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -234,22 +234,22 @@
     <tag k="website" v="https://milano.biblioteche.it/library/niguarda/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="253971926" lat="45.4972154" lon="9.1960641" version="12" timestamp="2022-03-20T11:08:02Z" changeset="118691977" uid="13840929" user="aa30mom">
+  <node id="253971926" lat="45.4972154" lon="9.1960641" version="13" timestamp="2022-03-23T12:41:57Z" changeset="118819964" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="amenity" v="library"/>
-    <tag k="contact:phone" v="+39 02 88462823"/>
-    <tag k="contact:website" v="www.comune.milano.it/biblioteche"/>
     <tag k="email" v="C.BiblioZara@comune.milano.it"/>
     <tag k="fax" v="+39 02 88462822"/>
     <tag k="name" v="Biblioteca Comunale Zara"/>
     <tag k="opening_hours" v="Tu, Th 09:30-14:30; We, Fr 14:00-19:00; Sa 10:00-14:00; Su, Mo off"/>
     <tag k="operator" v="Comune di Milano"/>
     <tag k="operator:type" v="government"/>
+    <tag k="phone" v="+39 02 88462823"/>
     <tag k="ref:isil" v="IT-MI1291"/>
     <tag k="source" v="www.comune.milano/biblioteche"/>
+    <tag k="website" v="www.comune.milano.it/biblioteche"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="254110250" lat="45.4551592" lon="9.1566715" version="3" timestamp="2018-05-19T12:41:59Z" changeset="59093875" uid="290680" user="wheelmap_visitor">
@@ -6734,7 +6734,7 @@
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2535442063" lat="45.4799592" lon="9.2037077" version="4" timestamp="2022-01-10T10:19:19Z" changeset="115975009" uid="13840929" user="aa30mom">
+  <node id="2535442063" lat="45.4799655" lon="9.2037146" version="5" timestamp="2022-03-23T14:47:57Z" changeset="118825070" uid="8350372" user="Balaabirami">
     <tag k="mapillary" v="FrpaHhT4jI9onHLaa6rULF"/>
     <tag k="survey:date" v="2020-07-12"/>
     <tag k="wheelchair" v="no"/>
@@ -16480,7 +16480,7 @@
     <tag k="name" v="KD HOUSE"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="6769564346" lat="45.4313301" lon="9.1632756" version="4" timestamp="2022-03-21T09:43:30Z" changeset="118727202" uid="13840929" user="aa30mom">
+  <node id="6769564346" lat="45.4313301" lon="9.1632756" version="5" timestamp="2022-03-23T12:41:28Z" changeset="118819940" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:postcode" v="20142"/>
@@ -16492,6 +16492,7 @@
     <tag k="opening_hours" v="Tu, Th 09:30-14:30; Mo, We, Fr 14:00-19:00; Sa 10:00-14:00; Su off"/>
     <tag k="operator" v="Comune di Milano"/>
     <tag k="operator:type" v="government"/>
+    <tag k="phone" v="+39 02 88465814"/>
     <tag k="ref:isil" v="IT-MI0498"/>
     <tag k="website" v="https://biblioteche.comune.milano.it/library/santambrogio"/>
     <tag k="wheelchair" v="yes"/>
@@ -18336,6 +18337,22 @@
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9599139115" lat="45.4990543" lon="9.2530490" version="1" timestamp="2022-03-23T08:45:24Z" changeset="118809143" uid="2370220" user="Paolo pn">
+    <tag k="blind" v="limited"/>
+    <tag k="fitness_station" v="horizontal_ladder"/>
+    <tag k="leisure" v="fitness_station"/>
+    <tag k="ref" v="14"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9599139116" lat="45.4979500" lon="9.2526148" version="1" timestamp="2022-03-23T08:45:24Z" changeset="118809143" uid="2370220" user="Paolo pn">
+    <tag k="blind" v="limited"/>
+    <tag k="fitness_station" v="balance_beam"/>
+    <tag k="leisure" v="fitness_station"/>
+    <tag k="ref" v="15"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
