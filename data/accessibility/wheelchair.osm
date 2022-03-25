@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-24T03:32:09Z" areas="2022-03-24T03:22:01Z"/>
+<meta osm_base="2022-03-25T03:27:49Z" areas="2022-03-25T02:34:08Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -18,10 +18,12 @@
     <tag k="wikidata" v="Q2258101"/>
     <tag k="wikipedia" v="it:Cadorna FN (metropolitana di Milano)"/>
   </node>
-  <node id="29797363" lat="45.4844416" lon="9.1872983" version="11" timestamp="2021-11-28T10:01:49Z" changeset="114318223" uid="3860151" user="Michele Aquilani">
+  <node id="29797363" lat="45.4844416" lon="9.1872983" version="12" timestamp="2022-03-24T12:48:58Z" changeset="118863765" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:street" v="Piazza Sigmund Freud"/>
     <tag k="name" v="Milano Porta Garibaldi superficie"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="note" v="Area STIBM: Mi1"/>
     <tag k="operator" v="RFI;Centostazioni"/>
     <tag k="platforms" v="20"/>
     <tag k="public_transport" v="station"/>
@@ -343,13 +345,21 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="259173170" lat="45.4442143" lon="9.1569964" version="6" timestamp="2021-11-06T23:17:15Z" changeset="113464050" uid="11645399" user="davidoskky">
+  <node id="259173170" lat="45.4442143" lon="9.1569964" version="7" timestamp="2022-03-24T13:26:21Z" changeset="118865197" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="20143"/>
+    <tag k="addr:street" v="Via Franco Tosi"/>
     <tag k="amenity" v="post_office"/>
     <tag k="atm" v="yes"/>
+    <tag k="fax" v="+39 02 89155272"/>
     <tag k="name" v="Milano 30"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-19:05, Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 81808111"/>
+    <tag k="ref" v="38143"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="263772434" lat="45.5001143" lon="9.2350329" version="7" timestamp="2022-02-25T07:18:38Z" changeset="117837322" uid="1875845" user="Valerio_Bozzolan">
@@ -886,12 +896,20 @@
     <tag k="website" v="https://www.hotelmennini.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="313368270" lat="45.4504469" lon="9.1411684" version="7" timestamp="2021-11-07T19:47:41Z" changeset="113494098" uid="11645399" user="davidoskky">
+  <node id="313368270" lat="45.4504469" lon="9.1411684" version="8" timestamp="2022-03-24T13:50:34Z" changeset="118866070" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20146"/>
+    <tag k="addr:street" v="Largo Giovan Battista Scalabrini"/>
     <tag k="amenity" v="post_office"/>
+    <tag k="fax" v="+39 02 4230568"/>
     <tag k="name" v="Milano 95"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-13:35, Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 47714011"/>
+    <tag k="ref" v="38544"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="313368801" lat="45.4481943" lon="9.1384121" version="3" timestamp="2016-04-20T07:22:10Z" changeset="38720300" uid="186480" user="bioia81">
@@ -1171,13 +1189,20 @@
     <tag k="name" v="The Manhattan"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="379230328" lat="45.4524518" lon="9.1642241" version="7" timestamp="2022-01-11T15:42:09Z" changeset="116029127" uid="13840929" user="aa30mom">
+  <node id="379230328" lat="45.4524518" lon="9.1642241" version="8" timestamp="2022-03-24T13:41:00Z" changeset="118865759" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="20144"/>
+    <tag k="addr:street" v="Via Bergognone Da Fossano"/>
     <tag k="amenity" v="post_office"/>
+    <tag k="fax" v="+39 02 42297165"/>
     <tag k="name" v="Milano 112"/>
-    <tag k="opening_hours" v="Mo-Fr 08:20-01:45"/>
+    <tag k="opening_hours:covid19" v="Mo, We, Fr 08:20-13:45"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 42292288"/>
+    <tag k="ref" v="38669"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="389528607" lat="45.4577323" lon="9.1652355" version="6" timestamp="2018-02-03T09:17:06Z" changeset="56024051" uid="1476146" user="Alecs01">
@@ -1559,12 +1584,19 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="540824144" lat="45.4863078" lon="9.1588601" version="9" timestamp="2021-11-06T17:01:34Z" changeset="113454688" uid="11645399" user="davidoskky">
+  <node id="540824144" lat="45.4863078" lon="9.1588601" version="10" timestamp="2022-03-24T17:01:14Z" changeset="118873438" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="94"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Corso Sempione"/>
     <tag k="amenity" v="post_office"/>
+    <tag k="fax" v="+39 02 3314869"/>
     <tag k="name" v="Milano 114"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-19:05; Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 3319271"/>
     <tag k="ref" v="38711"/>
     <tag k="source" v="UDB60"/>
     <tag k="wheelchair" v="yes"/>
@@ -2737,21 +2769,6 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1523164218" lat="45.5158523" lon="9.2117664" version="6" timestamp="2022-02-01T15:12:25Z" changeset="116872885" uid="2370220" user="Paolo pn">
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Viale Piero e Alberto Pirelli"/>
-    <tag k="amenity" v="post_office"/>
-    <tag k="brand" v="Poste Italiane"/>
-    <tag k="brand:wikidata" v="Q495026"/>
-    <tag k="brand:wikipedia" v="en:Poste italiane"/>
-    <tag k="name" v="Poste Italiane"/>
-    <tag k="opening_hours" v="Mo-Fr 08:20-13:35, Sa 08:20-12:35"/>
-    <tag k="operator" v="Poste Italiane"/>
-    <tag k="operator:wikidata" v="Q495026"/>
-    <tag k="operator:wikipedia" v="en:Poste italiane"/>
-    <tag k="phone" v="+39 02 6410 0200"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="1523170718" lat="45.5151171" lon="9.2130089" version="3" timestamp="2014-01-10T21:50:50Z" changeset="19925744" uid="1877515" user="rboy">
     <tag k="amenity" v="bar"/>
     <tag k="name" v="Caffè Cinquecento"/>
@@ -3141,12 +3158,20 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1611070691" lat="45.4403293" lon="9.2220892" version="5" timestamp="2021-11-04T00:13:10Z" changeset="113353364" uid="11645399" user="davidoskky">
+  <node id="1611070691" lat="45.4402649" lon="9.2219958" version="6" timestamp="2022-03-24T12:26:22Z" changeset="118862848" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="20139"/>
+    <tag k="addr:street" v="Via Gamboloita"/>
     <tag k="amenity" v="post_office"/>
+    <tag k="fax" v="+39 02 56804024"/>
     <tag k="name" v="Milano 3"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-19:05, Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 57430811"/>
+    <tag k="ref" v="38116"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1650244143" lat="45.4628035" lon="9.2275554" version="6" timestamp="2020-12-31T11:04:22Z" changeset="96726315" uid="12169583" user="davidfaure_bot">
@@ -3385,14 +3410,6 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="name" v="Ristorante Nectare"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="1694653785" lat="45.4854568" lon="9.1980815" version="5" timestamp="2021-11-06T17:16:45Z" changeset="113455401" uid="11645399" user="davidoskky">
-    <tag k="amenity" v="post_office"/>
-    <tag k="name" v="Milano 19"/>
-    <tag k="operator" v="Poste Italiane"/>
-    <tag k="operator:wikidata" v="Q495026"/>
-    <tag k="operator:wikipedia" v="en:Poste italiane"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1694668257" lat="45.4810655" lon="9.2253143" version="6" timestamp="2021-05-12T20:52:01Z" changeset="104597316" uid="4890411" user="phaerrax">
     <tag k="railway" v="subway_entrance"/>
@@ -4303,9 +4320,10 @@
     <tag k="website" v="http://www.farmaciaremotti.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2010688947" lat="45.4862737" lon="9.2063373" version="9" timestamp="2021-10-13T19:35:39Z" changeset="112476159" uid="3860151" user="Michele Aquilani">
+  <node id="2010688947" lat="45.4862737" lon="9.2063373" version="11" timestamp="2022-03-24T09:17:58Z" changeset="118854723" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Piazza Luigi di Savoia"/>
     <tag k="amenity" v="post_office"/>
     <tag k="brand" v="Poste Italiane"/>
@@ -4313,10 +4331,14 @@
     <tag k="brand:wikipedia" v="en:Poste italiane"/>
     <tag k="fax" v="+39 02 66981250"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Ufficio postale 38654 – Milano Stazione Centrale"/>
+    <tag k="name" v="Milano Stazione Centrale"/>
     <tag k="note" v="https://www.posteitaliane.it/files/1476522077585/CS-nuovo-up-stazione-centrale.pdf"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-13:35, Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
+    <tag k="operator:wikidata" v="Q495026"/>
+    <tag k="operator:wikipedia" v="en:Poste italiane"/>
     <tag k="phone" v="+39 02 67072150"/>
+    <tag k="ref" v="38654"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2016985973" lat="45.4784853" lon="9.2000762" version="3" timestamp="2018-07-31T09:11:03Z" changeset="61221374" uid="92387" user="SimonPoole">
@@ -6503,21 +6525,22 @@
     <tag k="phone" v="+39 02 7378447"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2488621641" lat="45.4891059" lon="9.1884896" version="5" timestamp="2021-11-06T17:11:03Z" changeset="113455191" uid="11645399" user="davidoskky">
+  <node id="2488621641" lat="45.4891059" lon="9.1884896" version="6" timestamp="2022-03-24T17:37:27Z" changeset="118874777" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Luigi Porro Lambertenghi"/>
     <tag k="amenity" v="post_office"/>
     <tag k="atm" v="yes"/>
-    <tag k="brand" v="Poste Italiane"/>
-    <tag k="brand:wikidata" v="Q495026"/>
-    <tag k="brand:wikipedia" v="en:Poste italiane"/>
     <tag k="drive_through" v="no"/>
-    <tag k="name" v="Poste Italiane"/>
+    <tag k="fax" v="+39 02 6880003"/>
+    <tag k="name" v="Milano 22"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-13:35; Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 6888961"/>
+    <tag k="ref" v="38135"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2488621656" lat="45.4889791" lon="9.1877761" version="2" timestamp="2019-09-13T15:07:32Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -8731,7 +8754,7 @@
     <tag k="name" v="688 Restaurant"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3226855671" lat="45.4866044" lon="9.1966692" version="5" timestamp="2021-11-06T17:16:45Z" changeset="113455401" uid="11645399" user="davidoskky">
+  <node id="3226855671" lat="45.4866044" lon="9.1966692" version="7" timestamp="2022-03-24T09:12:48Z" changeset="118854512" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20124"/>
@@ -8741,10 +8764,14 @@
     <tag k="brand:wikidata" v="Q495026"/>
     <tag k="brand:wikipedia" v="en:Poste italiane"/>
     <tag k="collection_times" v="10:30"/>
-    <tag k="name" v="Poste Italiane"/>
+    <tag k="fax" v="+39 02 67074861"/>
+    <tag k="name" v="Milano Palazzo della Regione"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-19:05, Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 69783273"/>
+    <tag k="ref" v="38581"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3236536364" lat="45.4800986" lon="9.2104938" version="7" timestamp="2022-03-22T09:55:53Z" changeset="118771161" uid="1875845" user="Valerio_Bozzolan">
@@ -18353,6 +18380,22 @@
     <tag k="ref" v="15"/>
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9602784417" lat="45.5172767" lon="9.2300096" version="2" timestamp="2022-03-24T09:40:06Z" changeset="118855762" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:postcode" v="20128"/>
+    <tag k="addr:street" v="Via Pindaro"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="fax" v="2551765"/>
+    <tag k="name" v="Milano 67"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-19:05; Sa 08:20-12:35"/>
+    <tag k="operator" v="Poste Italiane"/>
+    <tag k="operator:wikidata" v="Q495026"/>
+    <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="25295236"/>
+    <tag k="ref" v="38246"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
