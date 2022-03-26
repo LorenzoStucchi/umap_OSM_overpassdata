@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-25T03:27:49Z" areas="2022-03-25T02:34:08Z"/>
+<meta osm_base="2022-03-26T03:30:26Z" areas="2022-03-26T02:49:23Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -236,7 +236,7 @@
     <tag k="website" v="https://milano.biblioteche.it/library/niguarda/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="253971926" lat="45.4972154" lon="9.1960641" version="13" timestamp="2022-03-23T12:41:57Z" changeset="118819964" uid="13840929" user="aa30mom">
+  <node id="253971926" lat="45.4972154" lon="9.1960641" version="14" timestamp="2022-03-25T12:04:26Z" changeset="118906722" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:postcode" v="20125"/>
@@ -251,7 +251,7 @@
     <tag k="phone" v="+39 02 88462823"/>
     <tag k="ref:isil" v="IT-MI1291"/>
     <tag k="source" v="www.comune.milano/biblioteche"/>
-    <tag k="website" v="www.comune.milano.it/biblioteche"/>
+    <tag k="website" v="https://milano.biblioteche.it/library/zara/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="254110250" lat="45.4551592" lon="9.1566715" version="3" timestamp="2018-05-19T12:41:59Z" changeset="59093875" uid="290680" user="wheelmap_visitor">
@@ -1189,7 +1189,7 @@
     <tag k="name" v="The Manhattan"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="379230328" lat="45.4524518" lon="9.1642241" version="8" timestamp="2022-03-24T13:41:00Z" changeset="118865759" uid="13840929" user="aa30mom">
+  <node id="379230328" lat="45.4524518" lon="9.1642241" version="9" timestamp="2022-03-25T13:24:50Z" changeset="118910246" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:postcode" v="20144"/>
@@ -1197,6 +1197,7 @@
     <tag k="amenity" v="post_office"/>
     <tag k="fax" v="+39 02 42297165"/>
     <tag k="name" v="Milano 112"/>
+    <tag k="opening_hours" v="Mo, We, Fr 08:20-13:35"/>
     <tag k="opening_hours:covid19" v="Mo, We, Fr 08:20-13:45"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
@@ -4792,9 +4793,9 @@
     <tag k="website" v="http://www.di-viole-di-liquirizia.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2167931859" lat="45.4839319" lon="9.2044827" version="5" timestamp="2022-02-18T08:03:22Z" changeset="117551476" uid="3860151" user="Michele Aquilani">
-    <tag k="disused:railway" v="subway_entrance"/>
+  <node id="2167931859" lat="45.4839319" lon="9.2044827" version="6" timestamp="2022-03-25T07:58:57Z" changeset="118896423" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Centrale FS"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2167931875" lat="45.4852735" lon="9.2041982" version="4" timestamp="2021-08-31T12:17:20Z" changeset="110512020" uid="3860151" user="Michele Aquilani">
@@ -8754,15 +8755,12 @@
     <tag k="name" v="688 Restaurant"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3226855671" lat="45.4866044" lon="9.1966692" version="7" timestamp="2022-03-24T09:12:48Z" changeset="118854512" uid="13840929" user="aa30mom">
+  <node id="3226855671" lat="45.4866044" lon="9.1966692" version="8" timestamp="2022-03-25T13:12:21Z" changeset="118909719" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Francesco Algarotti"/>
     <tag k="amenity" v="post_office"/>
-    <tag k="brand" v="Poste Italiane"/>
-    <tag k="brand:wikidata" v="Q495026"/>
-    <tag k="brand:wikipedia" v="en:Poste italiane"/>
     <tag k="collection_times" v="10:30"/>
     <tag k="fax" v="+39 02 67074861"/>
     <tag k="name" v="Milano Palazzo della Regione"/>
@@ -15816,9 +15814,9 @@
     <tag k="name" v="Open Bar"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5793740811" lat="45.4838340" lon="9.2043698" version="7" timestamp="2022-02-18T08:03:22Z" changeset="117551476" uid="3860151" user="Michele Aquilani">
-    <tag k="disused:railway" v="subway_entrance"/>
+  <node id="5793740811" lat="45.4838340" lon="9.2043698" version="8" timestamp="2022-03-25T07:58:57Z" changeset="118896423" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Centrale FS"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5793884611" lat="45.4816371" lon="9.2116836" version="2" timestamp="2022-03-20T16:00:47Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
@@ -16507,13 +16505,12 @@
     <tag k="name" v="KD HOUSE"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="6769564346" lat="45.4313301" lon="9.1632756" version="5" timestamp="2022-03-23T12:41:28Z" changeset="118819940" uid="13840929" user="aa30mom">
+  <node id="6769564346" lat="45.4313301" lon="9.1632756" version="6" timestamp="2022-03-25T12:01:50Z" changeset="118906632" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:postcode" v="20142"/>
     <tag k="addr:street" v="Via San Paolino"/>
     <tag k="amenity" v="library"/>
-    <tag k="contact:phone" v="+39 02 8846 5814"/>
     <tag k="email" v="c.bibliosantantambrogio@comune.milano.it"/>
     <tag k="name" v="Biblioteca Comunale Sant'Ambrogio"/>
     <tag k="opening_hours" v="Tu, Th 09:30-14:30; Mo, We, Fr 14:00-19:00; Sa 10:00-14:00; Su off"/>
@@ -18381,19 +18378,19 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9602784417" lat="45.5172767" lon="9.2300096" version="2" timestamp="2022-03-24T09:40:06Z" changeset="118855762" uid="13840929" user="aa30mom">
+  <node id="9602784417" lat="45.5172767" lon="9.2300096" version="3" timestamp="2022-03-25T12:03:06Z" changeset="118906672" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:postcode" v="20128"/>
     <tag k="addr:street" v="Via Pindaro"/>
     <tag k="amenity" v="post_office"/>
-    <tag k="fax" v="2551765"/>
+    <tag k="fax" v="+39 02 2551765"/>
     <tag k="name" v="Milano 67"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-19:05; Sa 08:20-12:35"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
-    <tag k="phone" v="25295236"/>
+    <tag k="phone" v="+39 02 25295236"/>
     <tag k="ref" v="38246"/>
     <tag k="wheelchair" v="yes"/>
   </node>
