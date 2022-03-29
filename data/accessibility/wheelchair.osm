@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-28T03:44:24Z" areas="2022-03-28T03:14:46Z"/>
+<meta osm_base="2022-03-29T03:45:03Z" areas="2022-03-29T03:30:58Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -18173,18 +18173,23 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9458342629" lat="45.4642774" lon="9.2280009" version="1" timestamp="2022-01-29T16:16:34Z" changeset="116750790" uid="13840929" user="aa30mom">
+  <node id="9458342629" lat="45.4644089" lon="9.2279683" version="2" timestamp="2022-03-28T08:02:55Z" changeset="119009225" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Via Luisa Battistotti Sassi"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="LloydsFarmacia"/>
+    <tag k="contact:phone" v="+39 02 7383543"/>
     <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Municipale n.71"/>
-    <tag k="operator" v="Municipale n.71"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Farmacia comunale n. 71"/>
+    <tag k="operator" v="Azienda Farmacie Milanesi SpA"/>
+    <tag k="ref" v="71"/>
     <tag k="ref:msal" v="2792"/>
-    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="ref:vatin" v="IT13195220150"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -22759,9 +22764,10 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="330639921" version="4" timestamp="2022-01-15T20:10:42Z" changeset="116195816" uid="4425563" user="Danysan95">
+  <way id="330639921" version="5" timestamp="2022-03-28T09:55:28Z" changeset="119013714" uid="13840929" user="aa30mom">
     <center lat="45.4376095" lon="9.2448286"/>
     <nd ref="3376329065"/>
+    <nd ref="9612715548"/>
     <nd ref="3376331103"/>
     <nd ref="3376331102"/>
     <nd ref="1478323503"/>
@@ -22771,7 +22777,10 @@
     <tag k="amenity" v="kindergarten"/>
     <tag k="email" v="ED.InfanziaUE30@comune.milano.it"/>
     <tag k="name" v="Scuola dell'infanzia Savinio"/>
-    <tag k="phone" v="+39 02 506 0138"/>
+    <tag k="operator" v="Comune di Milano"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="phone" v="+39 02 5060138"/>
+    <tag k="preschool" v="yes"/>
     <tag k="ref" v="MI1AT7500U"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q52940745"/>
