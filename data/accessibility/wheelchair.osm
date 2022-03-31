@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-30T03:44:06Z" areas="2022-03-30T03:43:01Z"/>
+<meta osm_base="2022-03-31T03:41:27Z" areas="2022-03-31T02:57:07Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -18,12 +18,12 @@
     <tag k="wikidata" v="Q2258101"/>
     <tag k="wikipedia" v="it:Cadorna FN (metropolitana di Milano)"/>
   </node>
-  <node id="29797363" lat="45.4844416" lon="9.1872983" version="12" timestamp="2022-03-24T12:48:58Z" changeset="118863765" uid="11242131" user="ja+">
+  <node id="29797363" lat="45.4844416" lon="9.1872983" version="13" timestamp="2022-03-30T13:43:45Z" changeset="119117520" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:street" v="Piazza Sigmund Freud"/>
+    <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Porta Garibaldi superficie"/>
     <tag k="network" v="STIBM"/>
-    <tag k="note" v="Area STIBM: Mi1"/>
     <tag k="operator" v="RFI;Centostazioni"/>
     <tag k="platforms" v="20"/>
     <tag k="public_transport" v="station"/>
@@ -2164,15 +2164,6 @@
     <tag k="ref:vatin" v="IT06161300964"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="1281787891" lat="45.4642237" lon="9.2369550" version="7" timestamp="2020-08-05T17:55:23Z" changeset="88995151" uid="309382" user="Diego Sanguinetti">
-    <tag k="name" v="Milano Forlanini"/>
-    <tag k="railway" v="halt"/>
-    <tag k="start_date" v="2015"/>
-    <tag k="train" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q3970116"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Forlanini"/>
   </node>
   <node id="1285244654" lat="45.4735526" lon="9.1775313" version="11" timestamp="2021-07-22T08:49:04Z" changeset="108413250" uid="6556117" user="Dinotrex">
     <tag k="addr:city" v="Milano"/>
@@ -4468,6 +4459,12 @@
     <tag k="opening_hours" v="Mo-Sa 09:00-19:00"/>
     <tag k="phone" v="+39 02 66111172"/>
     <tag k="shop" v="hairdresser"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2090339750" lat="45.4685867" lon="9.1811492" version="3" timestamp="2022-03-30T10:18:52Z" changeset="119109101" uid="4974073" user="degutant">
+    <tag k="name" v="Autostradale"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="shop" v="ticket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2093480206" lat="45.4867224" lon="9.1850448" version="6" timestamp="2021-09-28T19:39:21Z" changeset="111835224" uid="89897" user="airon90">
@@ -21300,7 +21297,7 @@
     <tag k="wikidata" v="Q51112"/>
     <tag k="wikipedia" v="it:Galleria Vittorio Emanuele II#Ottagono"/>
   </way>
-  <way id="177049269" version="6" timestamp="2022-01-15T20:10:34Z" changeset="116195816" uid="4425563" user="Danysan95">
+  <way id="177049269" version="7" timestamp="2022-03-30T10:41:57Z" changeset="119110138" uid="4974073" user="degutant">
     <center lat="45.4731091" lon="9.1766971"/>
     <nd ref="1912988012"/>
     <nd ref="1912988015"/>
@@ -21311,6 +21308,7 @@
     <nd ref="1912988012"/>
     <tag k="artist_name" v="Francesco Tettamanzi"/>
     <tag k="artwork_type" v="architecture"/>
+    <tag k="bridge:structure" v="arch"/>
     <tag k="layer" v="1"/>
     <tag k="man_made" v="bridge"/>
     <tag k="name" v="Ponte delle Sirenette"/>
@@ -22936,6 +22934,87 @@
     <tag k="phone" v="+39 389 5820695"/>
     <tag k="smoking" v="outside"/>
     <tag k="website" v="http://www.cascinamartesana.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="343199699" version="14" timestamp="2022-03-30T13:43:45Z" changeset="119117520" uid="11242131" user="ja+">
+    <center lat="45.4642700" lon="9.2369386"/>
+    <nd ref="5936679125"/>
+    <nd ref="5936679124"/>
+    <nd ref="9623942276"/>
+    <nd ref="5936679120"/>
+    <nd ref="9623942278"/>
+    <nd ref="9623942277"/>
+    <nd ref="5936679161"/>
+    <nd ref="5936679173"/>
+    <nd ref="9623942279"/>
+    <nd ref="9623942280"/>
+    <nd ref="5936679165"/>
+    <nd ref="5936679164"/>
+    <nd ref="5936679129"/>
+    <nd ref="3500839215"/>
+    <nd ref="3500839228"/>
+    <nd ref="9623942266"/>
+    <nd ref="3500839223"/>
+    <nd ref="9623942274"/>
+    <nd ref="5936679127"/>
+    <nd ref="5936679142"/>
+    <nd ref="9623942275"/>
+    <nd ref="5936679138"/>
+    <nd ref="5936679123"/>
+    <nd ref="5936679135"/>
+    <nd ref="5936679125"/>
+    <tag k="area" v="yes"/>
+    <tag k="level" v="1"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="2;3"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="343201110" version="12" timestamp="2022-03-30T13:43:45Z" changeset="119117520" uid="11242131" user="ja+">
+    <center lat="45.4640861" lon="9.2368283"/>
+    <nd ref="3500851809"/>
+    <nd ref="3500851805"/>
+    <nd ref="9623942288"/>
+    <nd ref="3500851816"/>
+    <nd ref="3500850988"/>
+    <nd ref="3500851826"/>
+    <nd ref="9623942281"/>
+    <nd ref="3500851801"/>
+    <nd ref="3500851798"/>
+    <nd ref="9623942282"/>
+    <nd ref="3500850990"/>
+    <nd ref="5685971933"/>
+    <nd ref="5685971932"/>
+    <nd ref="5685971931"/>
+    <nd ref="5685971934"/>
+    <nd ref="9623942251"/>
+    <nd ref="5685971941"/>
+    <nd ref="9623942250"/>
+    <nd ref="3500851809"/>
+    <tag k="area" v="yes"/>
+    <tag k="level" v="1"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="1"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="343201113" version="9" timestamp="2022-03-30T13:43:45Z" changeset="119117520" uid="11242131" user="ja+">
+    <center lat="45.4641394" lon="9.2371614"/>
+    <nd ref="3500851802"/>
+    <nd ref="3500851810"/>
+    <nd ref="9623942261"/>
+    <nd ref="9623942262"/>
+    <nd ref="3500851795"/>
+    <nd ref="3500851824"/>
+    <nd ref="3500851802"/>
+    <tag k="area" v="yes"/>
+    <tag k="level" v="1"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="4"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="343674890" version="10" timestamp="2020-04-25T09:20:58Z" changeset="84096536" uid="1476146" user="Alecs01">
@@ -24709,7 +24788,7 @@
     <tag k="website" v="https://www.spaziovitaniguarda.it"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1034530514" version="3" timestamp="2022-03-14T15:09:06Z" changeset="118473925" uid="11242131" user="ja+">
+  <way id="1034530514" version="4" timestamp="2022-03-30T13:43:45Z" changeset="119117520" uid="11242131" user="ja+">
     <center lat="45.4342303" lon="9.2385683"/>
     <nd ref="9530169289"/>
     <nd ref="4923004058"/>
@@ -24744,9 +24823,9 @@
     <nd ref="2525525651"/>
     <nd ref="9530169289"/>
     <tag k="area" v="yes"/>
+    <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Rogoredo"/>
     <tag k="network" v="STIBM"/>
-    <tag k="note" v="Area STIBM: Mi1"/>
     <tag k="operator" v="RFI"/>
     <tag k="platforms" v="13"/>
     <tag k="public_transport" v="station"/>
