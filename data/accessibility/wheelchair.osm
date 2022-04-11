@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-10T03:43:23Z" areas="2022-04-10T03:02:57Z"/>
+<meta osm_base="2022-04-11T03:57:39Z" areas="2022-04-11T01:13:39Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -17,6 +17,21 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q2258101"/>
     <tag k="wikipedia" v="it:Cadorna FN (metropolitana di Milano)"/>
+  </node>
+  <node id="21555749" lat="45.4718280" lon="9.1822555" version="22" timestamp="2022-04-10T14:51:31Z" changeset="119538960" uid="13933690" user="Andrea Carulli">
+    <tag k="alt_name" v="Lanza Brera-Piccolo Teatro"/>
+    <tag k="name" v="Lanza"/>
+    <tag k="name:it" v="Lanza"/>
+    <tag k="name:ja" v="ランツァ"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1978"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q941926"/>
+    <tag k="wikipedia" v="it:Lanza (metropolitana di Milano)"/>
   </node>
   <node id="29797363" lat="45.4844416" lon="9.1872983" version="13" timestamp="2022-03-30T13:43:45Z" changeset="119117520" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -6857,10 +6872,11 @@
     <tag k="target" v="IT"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2542753991" lat="45.4835970" lon="9.2143763" version="2" timestamp="2017-12-05T15:14:02Z" changeset="54368665" uid="2111087" user="asturksever">
+  <node id="2542753991" lat="45.4835970" lon="9.2143763" version="3" timestamp="2022-04-10T18:12:01Z" changeset="119546248" uid="13600761" user="Mohamed_Elgohary">
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="turkish"/>
     <tag k="name" v="Istanbul Ayasofya"/>
+    <tag k="opening_hours" v="Mo-Su 07:30-24:00"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2542753992" lat="45.4835594" lon="9.2143387" version="2" timestamp="2017-12-05T15:14:02Z" changeset="54368665" uid="2111087" user="asturksever">
@@ -8072,6 +8088,12 @@
     <tag k="clothes" v="winther"/>
     <tag k="name" v="Colmar"/>
     <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3085870326" lat="45.4999694" lon="9.2106381" version="4" timestamp="2022-04-10T10:20:41Z" changeset="119529953" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="MD Market"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:30; Su 08:30-20:00"/>
+    <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3097506677" lat="45.4831716" lon="9.1890267" version="8" timestamp="2020-12-01T22:43:22Z" changeset="95119730" uid="454306" user="dega180">
@@ -12852,7 +12874,7 @@
     <tag k="name" v="Il Kaimano"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4373256772" lat="45.4860060" lon="9.2046292" version="5" timestamp="2021-04-21T20:51:10Z" changeset="103364066" uid="4890411" user="phaerrax">
+  <node id="4373256772" lat="45.4862481" lon="9.2041330" version="6" timestamp="2022-04-10T20:37:14Z" changeset="119550448" uid="113669" user="AnyFile">
     <tag k="brand" v="Lush"/>
     <tag k="brand:wikidata" v="Q1585448"/>
     <tag k="brand:wikipedia" v="en:Lush (company)"/>
@@ -16154,6 +16176,11 @@
     <tag k="operator" v="La Forgia degli Eroi Srl"/>
     <tag k="ref:vatin" v="IT09483070968"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5940637586" lat="45.4737051" lon="9.1766679" version="3" timestamp="2022-04-10T15:21:52Z" changeset="119540245" uid="13933690" user="Andrea Carulli">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5971878591" lat="45.5168136" lon="9.2091532" version="2" timestamp="2022-02-23T09:37:40Z" changeset="117760887" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Fronteretro"/>
