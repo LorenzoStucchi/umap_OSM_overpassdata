@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
+<osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-19T04:09:54Z" areas="2022-04-19T03:54:39Z"/>
+<meta osm_base="2022-04-20T04:20:24Z" areas="2022-04-20T04:08:15Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -6791,7 +6791,7 @@
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2521227390" lat="45.4831227" lon="9.1906151" version="7" timestamp="2021-08-26T09:53:20Z" changeset="110276840" uid="89897" user="airon90">
+  <node id="2521227390" lat="45.4831227" lon="9.1906151" version="8" timestamp="2022-04-19T11:49:55Z" changeset="119903419" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="6"/>
@@ -6803,6 +6803,7 @@
     <tag k="brand:wikipedia" v="en:Nike, Inc."/>
     <tag k="contact:phone" v="+39 02 63793451"/>
     <tag k="name" v="Nike"/>
+    <tag k="opening_hours" v="PH,Mo-Su 10:00-20:00"/>
     <tag k="operator" v="L'innominato s.p.a."/>
     <tag k="ref:vatin" v="IT03328460161"/>
     <tag k="shop" v="clothes"/>
@@ -17456,6 +17457,17 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="8361159813" lat="45.4812245" lon="9.1872569" version="2" timestamp="2022-04-19T10:54:07Z" changeset="119900853" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Corso Como"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Burgez"/>
+    <tag k="opening_hours" v="Su-Th 12:00-15:00,18:00-23:00, Fr,Sa 12:00-15:00,18:00-24:00"/>
+    <tag k="website" v="https://burgez.com/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="8385219829" lat="45.4840155" lon="9.1791970" version="1" timestamp="2021-02-01T21:10:48Z" changeset="98534207" uid="454306" user="dega180">
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="dismount"/>
@@ -24878,6 +24890,16 @@
     <tag k="phone" v="+39 026472490"/>
     <tag k="website" v="https://www.spaziovitaniguarda.it"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="967091696" version="2" timestamp="2022-04-19T17:05:22Z" changeset="119916878" uid="15837" user="matte">
+    <center lat="45.4576681" lon="9.1533109"/>
+    <nd ref="8947215714"/>
+    <nd ref="8947215715"/>
+    <nd ref="8947215716"/>
+    <nd ref="8947251217"/>
+    <nd ref="8947215714"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="1039015191" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <center lat="45.4784146" lon="9.2271139"/>
