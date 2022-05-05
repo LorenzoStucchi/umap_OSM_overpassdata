@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-04T04:06:26Z" areas="2022-05-04T03:50:13Z"/>
+<meta osm_base="2022-05-05T04:13:02Z" areas="2022-05-05T04:01:47Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -16039,7 +16039,7 @@
     <tag k="name" v="Open Bar"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5793740811" lat="45.4838340" lon="9.2043698" version="8" timestamp="2022-03-25T07:58:57Z" changeset="118896423" uid="3860151" user="Michele Aquilani">
+  <node id="5793740811" lat="45.4838523" lon="9.2043906" version="9" timestamp="2022-05-04T17:09:09Z" changeset="120553802" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -18421,7 +18421,7 @@
     <tag k="website" v="http://www.aismilano.wine"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9545441783" lat="45.4924673" lon="9.2148870" version="2" timestamp="2022-03-02T15:25:17Z" changeset="118023882" uid="13840929" user="aa30mom">
+  <node id="9545441783" lat="45.4924673" lon="9.2148870" version="3" timestamp="2022-05-04T09:55:29Z" changeset="120535074" uid="10901495" user="Martino Scaglione">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20127"/>
@@ -18431,11 +18431,11 @@
     <tag k="cinema:language" v="original"/>
     <tag k="cinema:subtitles" v="italian"/>
     <tag k="drive_in" v="no"/>
-    <tag k="name" v="Beltrade"/>
-    <tag k="phone" v="+39 02 26820592"/>
-    <tag k="screen" v="1"/>
+    <tag k="name" v="Cinema Beltrade"/>
+    <tag k="note:website" v="Redirect without https version"/>
+    <tag k="phone" v="+390226820592"/>
     <tag k="toilets" v="yes"/>
-    <tag k="website" v="https://bandhi.it/bah/beltrade/"/>
+    <tag k="website" v="http://www.cinemabeltrade.net/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="9551908512" lat="45.4631407" lon="9.1912302" version="4" timestamp="2022-03-11T09:55:32Z" changeset="118355799" uid="13840929" user="aa30mom">
@@ -24060,6 +24060,30 @@
     <tag k="phone" v="+390230459059"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.doppiomalto.com/it/ristoranti/#/m/Milano"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="599459822" version="3" timestamp="2022-05-04T16:35:57Z" changeset="120552723" uid="6220204" user="Ysogo">
+    <center lat="45.4363784" lon="9.2474858"/>
+    <nd ref="5703169647"/>
+    <nd ref="5703169648"/>
+    <nd ref="4147671387"/>
+    <nd ref="4147671371"/>
+    <nd ref="5703169647"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="surface" v="grass"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="599459824" version="3" timestamp="2022-05-04T16:35:58Z" changeset="120552723" uid="6220204" user="Ysogo">
+    <center lat="45.4361389" lon="9.2478609"/>
+    <nd ref="5703169649"/>
+    <nd ref="5703169650"/>
+    <nd ref="5703169651"/>
+    <nd ref="5703169652"/>
+    <nd ref="5703169649"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="surface" v="grass"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="604055833" version="3" timestamp="2020-12-20T01:08:51Z" changeset="96126498" uid="8563184" user="G1asshouse">
