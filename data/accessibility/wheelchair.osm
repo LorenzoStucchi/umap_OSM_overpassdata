@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-08T03:55:58Z" areas="2022-05-08T03:33:34Z"/>
+<meta osm_base="2022-05-09T04:06:20Z" areas="2022-05-09T03:44:10Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -92,6 +92,19 @@
     <tag k="name" v="IP"/>
     <tag k="operator" v="Garage Velasca S.R.L."/>
     <tag k="ref:mise" v="17894"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="227536295" lat="45.4413175" lon="9.1500561" version="11" timestamp="2022-05-08T17:04:36Z" changeset="120710765" uid="6220204" user="Ysogo">
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="TotalErg"/>
+    <tag k="brand:wikidata" v="Q3995933"/>
+    <tag k="brand:wikipedia" v="it:TotalErg"/>
+    <tag k="compressed_air" v="yes"/>
+    <tag k="name" v="TotalErg"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Totalerg ng Station di Alex Fazi"/>
+    <tag k="ref:mise" v="36069"/>
+    <tag k="self_service" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="227600658" lat="45.4779270" lon="9.1958960" version="7" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
@@ -18143,6 +18156,14 @@
     <tag k="motorcycle" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9243979674" lat="45.4424578" lon="9.1551230" version="4" timestamp="2022-05-08T17:04:50Z" changeset="120710763" uid="6220204" user="Ysogo">
+    <tag k="name" v="Acqua e Sapone"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-20:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="chemist"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="9253625222" lat="45.4771409" lon="9.2061520" version="3" timestamp="2021-11-15T19:17:24Z" changeset="113819604" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
@@ -18176,6 +18197,12 @@
     <tag k="level" v="0"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Iredeem"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9278160411" lat="45.4421982" lon="9.1554870" version="4" timestamp="2022-05-08T17:04:48Z" changeset="120710763" uid="6220204" user="Ysogo">
+    <tag k="healthcare" v="sample_collection"/>
+    <tag k="name" v="Punto Prelievi Ospedale San Raffaele"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-11:00"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9296818003" lat="45.4636375" lon="9.1870026" version="5" timestamp="2022-03-15T09:44:45Z" changeset="118503270" uid="8350372" user="Balaabirami">
