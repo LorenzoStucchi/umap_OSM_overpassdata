@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-11T04:06:01Z" areas="2022-05-11T03:07:24Z"/>
+<meta osm_base="2022-05-12T03:58:22Z" areas="2022-05-12T03:20:02Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -2860,6 +2860,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1523184187" lat="45.5121448" lon="9.2244051" version="5" timestamp="2022-05-11T10:23:32Z" changeset="120832437" uid="13933690" user="Andrea Carulli">
+    <tag k="name" v="Precotto"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="1523199185" lat="45.4898768" lon="9.2011852" version="3" timestamp="2022-03-06T09:38:28Z" changeset="118151482" uid="13920670" user="skizz98">
     <tag k="name" v="Sondrio"/>
     <tag k="railway" v="subway_entrance"/>
@@ -4452,6 +4457,12 @@
     <tag k="name" v="Piazza Repubblica"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="2024986424" lat="45.4996862" lon="9.2403658" version="5" timestamp="2022-05-11T11:21:27Z" changeset="120832437" uid="13933690" user="Andrea Carulli">
+    <tag k="bicycle" v="yes"/>
+    <tag k="name" v="Cimiano"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="2027880630" lat="45.4281368" lon="9.2543688" version="3" timestamp="2021-10-15T10:01:48Z" changeset="112535815" uid="10356690" user="Sunset2001">
     <tag k="amenity" v="parking"/>
     <tag k="capacity" v="1000"/>
@@ -4591,6 +4602,14 @@
     <tag k="bicycle" v="yes"/>
     <tag k="name" v="Marche"/>
     <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2098657437" lat="45.4419613" lon="9.1211758" version="5" timestamp="2022-05-11T21:20:15Z" changeset="120858966" uid="6220204" user="Ysogo">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Mama's"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-17:00; Sa 08:00-14:30"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2103491996" lat="45.4965093" lon="9.1860022" version="5" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
@@ -13368,9 +13387,10 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4551179616" lat="45.5137484" lon="9.2120445" version="6" timestamp="2020-01-25T18:14:57Z" changeset="80080552" uid="1950277" user="Mannivu">
+  <node id="4551179616" lat="45.5137484" lon="9.2120445" version="7" timestamp="2022-05-11T06:42:49Z" changeset="120822804" uid="13933690" user="Andrea Carulli">
     <tag k="access" v="yes"/>
     <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="wheelchair" v="yes"/>
@@ -21739,6 +21759,20 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="3;4"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="199881162" version="3" timestamp="2022-05-11T21:20:07Z" changeset="120858966" uid="6220204" user="Ysogo">
+    <center lat="45.4412989" lon="9.1190220"/>
+    <nd ref="2098675836"/>
+    <nd ref="2098675839"/>
+    <nd ref="2098675834"/>
+    <nd ref="2098675837"/>
+    <nd ref="2098675836"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="chapel"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Cappella Santa Gianna Beretta Molla"/>
+    <tag k="religion" v="christian"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="200157349" version="3" timestamp="2016-04-25T21:11:58Z" changeset="38867951" uid="95387" user="rugamarcus">
