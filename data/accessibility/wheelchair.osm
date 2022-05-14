@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-13T04:25:09Z" areas="2022-05-13T03:33:26Z"/>
+<meta osm_base="2022-05-14T04:45:34Z" areas="2022-05-14T03:44:39Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -5057,6 +5057,22 @@
     <tag k="website" v="http://www.vasiniko.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="2212888324" lat="45.4173021" lon="9.2388214" version="4" timestamp="2022-05-13T20:05:40Z" changeset="120953188" uid="6220204" user="Ysogo">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="16/6"/>
+    <tag k="addr:postcode" v="20139"/>
+    <tag k="addr:street" v="Via San Bernardo"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="fax" v="+39 02 5393857"/>
+    <tag k="name" v="Milano 75"/>
+    <tag k="opening_hours" v="Mo, We, Fr 08:20-13:45"/>
+    <tag k="operator" v="Poste Italiane"/>
+    <tag k="operator:wikidata" v="Q495026"/>
+    <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 57300606"/>
+    <tag k="ref" v="38060"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2215392638" lat="45.4322370" lon="9.2026589" version="5" timestamp="2018-07-21T19:11:39Z" changeset="60934493" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -6294,22 +6310,27 @@
     <tag k="wikidata" v="Q45103736"/>
     <tag k="wikipedia" v="it:Monumento a Giovanni Battista Piatti"/>
   </node>
-  <node id="2461314556" lat="45.4836925" lon="9.1899846" version="13" timestamp="2021-01-10T18:32:46Z" changeset="97259550" uid="1875845" user="Valerio_Bozzolan">
+  <node id="2461314556" lat="45.4836925" lon="9.1899846" version="18" timestamp="2022-05-13T12:30:53Z" changeset="120934310" uid="13933690" user="Andrea Carulli">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Piazza Gae Aulenti"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="alt_name" v="RED Feltrinelli"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="RED la Feltrinelli"/>
     <tag k="old_name" v="La Feltrinelli"/>
-    <tag k="opening_hours" v="Mo-Th 07:30-23:00; Fr 07:30-24:00; Sa 10:00-24:00; Su 10:00-23:00"/>
-    <tag k="outdoor_seating" v="no"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa 09:00-22:00; PH,Su 09:00-21:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+39 0265580153"/>
     <tag k="ref:vatin" v="IT05324120822"/>
     <tag k="shop" v="books"/>
+    <tag k="smoking" v="no"/>
     <tag k="website" v="https://www.lafeltrinelli.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -12538,12 +12559,13 @@
     <tag k="name" v="Replay - The Stage Fine Dining"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4304781699" lat="45.4839243" lon="9.1896426" version="4" timestamp="2020-12-01T22:43:22Z" changeset="95119730" uid="454306" user="dega180">
+  <node id="4304781699" lat="45.4839243" lon="9.1896426" version="5" timestamp="2022-05-13T12:29:18Z" changeset="120934255" uid="13933690" user="Andrea Carulli">
     <tag k="amenity" v="bank"/>
     <tag k="brand" v="UniCredit Bank"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="en:UniCredit"/>
     <tag k="name" v="UniCredit Bank"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-13:20,14:30-16:00; PH 08:20-12:45"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4305608498" lat="45.4709473" lon="9.1938544" version="2" timestamp="2019-09-13T09:37:15Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -18599,6 +18621,19 @@
     <tag k="name" v="AIS Milano"/>
     <tag k="office" v="association"/>
     <tag k="website" v="http://www.aismilano.wine"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9545303901" lat="45.4158232" lon="9.2399856" version="2" timestamp="2022-05-13T18:04:58Z" changeset="120948667" uid="6220204" user="Ysogo">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20139"/>
+    <tag k="addr:street" v="Via San Bernardo"/>
+    <tag k="name" v="Hotel Borgo Nuovo"/>
+    <tag k="phone" v="+39 02 534647"/>
+    <tag k="rooms" v="9"/>
+    <tag k="stars" v="3"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://borgo-nuovo.it/it/index.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9545441783" lat="45.4924673" lon="9.2148870" version="3" timestamp="2022-05-04T09:55:29Z" changeset="120535074" uid="10901495" user="Martino Scaglione">
