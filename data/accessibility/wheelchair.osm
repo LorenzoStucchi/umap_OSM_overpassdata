@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-15T03:56:56Z" areas="2022-05-15T03:55:52Z"/>
+<meta osm_base="2022-05-16T03:50:04Z" areas="2022-05-16T03:08:35Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -865,6 +865,18 @@
     <tag k="wheelchair:description:de" v="Karten sollten im Internet vorbestellt werden"/>
     <tag k="wikidata" v="Q128910"/>
     <tag k="wikipedia" v="it:Ultima Cena (Leonardo)"/>
+  </node>
+  <node id="307809735" lat="45.4803459" lon="9.2109827" version="27" timestamp="2022-05-15T10:25:27Z" changeset="121006694" uid="13933690" user="Andrea Carulli">
+    <tag k="name" v="Lima"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1964"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q2258138"/>
+    <tag k="wikipedia" v="it:Lima (metropolitana di Milano)"/>
   </node>
   <node id="308832288" lat="45.4889444" lon="9.1881683" version="5" timestamp="2019-09-13T15:08:40Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -3215,6 +3227,14 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1611026613" lat="45.4798945" lon="9.2106595" version="2" timestamp="2022-05-15T10:31:34Z" changeset="121006694" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026615" lat="45.4799866" lon="9.2107451" version="2" timestamp="2022-05-15T10:31:28Z" changeset="121006694" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1611026619" lat="45.4800171" lon="9.2104791" version="3" timestamp="2022-03-20T15:13:16Z" changeset="118699771" uid="1875845" user="Valerio_Bozzolan">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -3222,6 +3242,22 @@
   <node id="1611026641" lat="45.4801026" lon="9.2105631" version="3" timestamp="2022-03-20T15:13:17Z" changeset="118699771" uid="1875845" user="Valerio_Bozzolan">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026642" lat="45.4801440" lon="9.2111673" version="4" timestamp="2022-05-15T10:22:15Z" changeset="121006694" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026643" lat="45.4802307" lon="9.2112688" version="2" timestamp="2022-05-15T10:22:08Z" changeset="121006694" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026644" lat="45.4804284" lon="9.2114512" version="5" timestamp="2022-05-15T10:18:33Z" changeset="121006694" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026645" lat="45.4804808" lon="9.2113376" version="2" timestamp="2022-05-15T10:18:25Z" changeset="121006694" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1611026760" lat="45.5010328" lon="9.2210477" version="2" timestamp="2021-03-05T18:15:05Z" changeset="100508719" uid="4413023" user="realjep">
     <tag k="railway" v="subway_entrance"/>
@@ -7890,8 +7926,11 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2991135319" lat="45.4780297" lon="9.2089059" version="3" timestamp="2022-03-20T14:33:04Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="2991135319" lat="45.4780297" lon="9.2089059" version="5" timestamp="2022-05-15T10:55:45Z" changeset="121007483" uid="13933690" user="Andrea Carulli">
     <tag k="name" v="Vans"/>
+    <tag k="opening_hours" v="Mo-Sa 10:15-19:00; Su 11:00-19:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -12971,13 +13010,15 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4339004202" lat="45.4790252" lon="9.2098782" version="5" timestamp="2022-03-20T15:26:06Z" changeset="118697793" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4339004202" lat="45.4790252" lon="9.2098782" version="6" timestamp="2022-05-15T10:45:12Z" changeset="121007483" uid="13933690" user="Andrea Carulli">
     <tag k="name" v="Lama Optical"/>
     <tag k="opening_hours" v="PH,Mo-Su 10:00-19:30"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4339004203" lat="45.4799852" lon="9.2108519" version="3" timestamp="2022-03-20T15:42:54Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4339004203" lat="45.4799852" lon="9.2108519" version="4" timestamp="2022-05-15T10:33:23Z" changeset="121007157" uid="13933690" user="Andrea Carulli">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
     <tag k="brand" v="BNL"/>
@@ -12987,6 +13028,7 @@
     <tag k="official_name" v="Banca Nazionale del Lavoro"/>
     <tag k="official_name:en" v="National Labor Bank"/>
     <tag k="official_name:it" v="Banca Nazionale del Lavoro"/>
+    <tag k="opening_hours" v="Mo-Fr 08:35-17:00; Sa 08:35-12:05"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4339006288" lat="45.4813412" lon="9.2121447" version="3" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
@@ -14074,7 +14116,7 @@
     <tag k="name" v="Prime One Seven Burger Har"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4858001986" lat="45.4798159" lon="9.2106796" version="4" timestamp="2022-03-20T15:04:07Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4858001986" lat="45.4798159" lon="9.2106796" version="5" timestamp="2022-05-15T10:36:06Z" changeset="121007157" uid="13933690" user="Andrea Carulli">
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Galleria Buenos Aires"/>
@@ -14084,6 +14126,7 @@
     <tag k="clothes" v="underwear"/>
     <tag k="contact:phone" v="+39 02 29519470"/>
     <tag k="name" v="Yamamay"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-20:30; Su 09:30-20:30"/>
     <tag k="operator" v="Inticom S.p.A."/>
     <tag k="ref:vatin" v="IT02649140122"/>
     <tag k="shop" v="clothes"/>
@@ -18875,10 +18918,9 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9596695002" lat="45.4998486" lon="9.2521436" version="1" timestamp="2022-03-22T07:51:27Z" changeset="118766243" uid="2370220" user="Paolo pn">
+  <node id="9596695002" lat="45.4997600" lon="9.2522700" version="3" timestamp="2022-05-15T13:24:30Z" changeset="121012481" uid="2370220" user="Paolo pn">
     <tag k="blind" v="limited"/>
     <tag k="fitness_station" v="parallel_bars"/>
-    <tag k="fixme" v="Position based on open data of Comune di Milano, mapillary images and aerial images.  Still to get exact position by GPS"/>
     <tag k="leisure" v="fitness_station"/>
     <tag k="ref" v="13"/>
     <tag k="sport" v="fitness"/>
