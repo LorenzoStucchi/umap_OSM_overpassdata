@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-16T03:50:04Z" areas="2022-05-16T03:08:35Z"/>
+<meta osm_base="2022-05-17T04:08:55Z" areas="2022-05-17T03:21:07Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -5623,6 +5623,20 @@
     <tag k="name" v="Mango"/>
     <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2411123340" lat="45.4635354" lon="9.1883248" version="7" timestamp="2022-05-16T08:33:50Z" changeset="121039892" uid="1967477" user="bubix">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20123"/>
+    <tag k="addr:street" v="Via Giuseppe Mazzini"/>
+    <tag k="brand" v="Outlet Dolciario"/>
+    <tag k="name" v="ODStore"/>
+    <tag k="operator" v="ODStore Duomo Srl"/>
+    <tag k="ref:vatin" v="IT04072770169"/>
+    <tag k="shop" v="confectionery"/>
+    <tag k="short_name" v="ODStore"/>
+    <tag k="start_date" v="2017-10-26"/>
+    <tag k="website" v="https://odstore.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2411123341" lat="45.4801846" lon="9.2105684" version="4" timestamp="2022-03-20T15:06:06Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
@@ -12872,6 +12886,23 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4315740795" lat="45.4683341" lon="9.1777199" version="7" timestamp="2022-05-16T08:33:50Z" changeset="121039892" uid="1967477" user="bubix">
+    <tag k="brand" v="Flying Tiger Copenhagen"/>
+    <tag k="brand:wikidata" v="Q2786319"/>
+    <tag k="brand:wikipedia" v="en:Flying Tiger Copenhagen"/>
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:housenumber" v="4"/>
+    <tag k="contact:phone" v="+39 02 89092602"/>
+    <tag k="contact:postcode" v="20123"/>
+    <tag k="contact:street" v="Piazzale Luigi Cadorna"/>
+    <tag k="name" v="Flying Tiger Copenhagen"/>
+    <tag k="opening_hours" v="Mo-Fr 10:15-20:00;Sa,Su 10:00-20:00"/>
+    <tag k="operator" v="Tiger Italia 1 Srl"/>
+    <tag k="ref:vatin" v="IT10491710017"/>
+    <tag k="shop" v="variety_store"/>
+    <tag k="short_name" v="Flying Tiger"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4318422086" lat="45.4593566" lon="9.2071614" version="3" timestamp="2020-09-26T17:45:44Z" changeset="91559674" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="62"/>
@@ -15197,6 +15228,20 @@
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
     <tag k="website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5417230115" lat="45.4649052" lon="9.1864452" version="3" timestamp="2022-05-16T08:33:50Z" changeset="121039892" uid="1967477" user="bubix">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Via Orefici"/>
+    <tag k="name" v="FAO Schwarz"/>
+    <tag k="opening_hours" v="Mo-Su 10:15-20:00"/>
+    <tag k="operator" v="Prenatal Retail Group S.p.A."/>
+    <tag k="phone" v="+39 02 36588460"/>
+    <tag k="ref:vatin" v="IT11943650157"/>
+    <tag k="shop" v="toys"/>
+    <tag k="website" v="https://www.faoschwarz.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5432963106" lat="45.4838211" lon="9.1889467" version="2" timestamp="2019-09-13T13:05:54Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -23053,22 +23098,6 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="289717046" version="3" timestamp="2022-03-21T23:54:13Z" changeset="118756756" uid="10341989" user="Quang Huy NGUYEN">
-    <center lat="45.5160281" lon="9.2539772"/>
-    <nd ref="2932643691"/>
-    <nd ref="2932643693"/>
-    <nd ref="2932643673"/>
-    <nd ref="2932643640"/>
-    <nd ref="2932643670"/>
-    <nd ref="2932642597"/>
-    <nd ref="2932643621"/>
-    <nd ref="2932643622"/>
-    <nd ref="2932643612"/>
-    <nd ref="2932643668"/>
-    <tag k="barrier" v="fence"/>
-    <tag k="leisure" v="dog_park"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
   <way id="290215602" version="5" timestamp="2019-09-13T13:11:52Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <center lat="45.4872151" lon="9.1899931"/>
     <nd ref="2937708345"/>
@@ -25371,13 +25400,21 @@
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1042464790" version="1" timestamp="2022-03-21T23:54:13Z" changeset="118756756" uid="10341989" user="Quang Huy NGUYEN">
-    <center lat="45.5163125" lon="9.2538605"/>
+  <way id="1042464790" version="2" timestamp="2022-05-16T08:24:31Z" changeset="121039412" uid="2976645" user="Jrachi">
+    <center lat="45.5160240" lon="9.2539752"/>
     <nd ref="2932643668"/>
     <nd ref="2932643691"/>
+    <nd ref="2932643693"/>
+    <nd ref="2932643673"/>
+    <nd ref="2932643640"/>
+    <nd ref="2932643670"/>
+    <nd ref="2932642597"/>
+    <nd ref="2932643621"/>
+    <nd ref="2932643622"/>
+    <nd ref="2932643612"/>
+    <nd ref="2932643668"/>
     <tag k="barrier" v="fence"/>
     <tag k="leisure" v="dog_park"/>
-    <tag k="natural" v="tree_row"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1051819461" version="1" timestamp="2022-04-14T12:24:42Z" changeset="119711273" uid="11242131" user="ja+">
