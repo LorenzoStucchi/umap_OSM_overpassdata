@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-17T04:08:55Z" areas="2022-05-17T03:21:07Z"/>
+<meta osm_base="2022-05-18T04:07:45Z" areas="2022-05-18T03:34:07Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -131,6 +131,20 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="C&amp;Mc Snc di Claudio Corna e Mirko Corna"/>
     <tag k="ref:mise" v="39598"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="228124656" lat="45.4449880" lon="9.1213830" version="10" timestamp="2022-05-17T18:25:45Z" changeset="121113047" uid="6220204" user="Ysogo">
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Eni"/>
+    <tag k="brand:wikidata" v="Q565594"/>
+    <tag k="brand:wikipedia" v="en:Eni"/>
+    <tag k="compressed_air" v="yes"/>
+    <tag k="name" v="Eni"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Urbinati S.N.C. di Urbinati Arkadi &amp; C."/>
+    <tag k="ref:mise" v="6355"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="247279762" lat="45.5023980" lon="9.1978174" version="7" timestamp="2021-10-18T15:11:08Z" changeset="112657415" uid="1875845" user="Valerio_Bozzolan">
@@ -4657,7 +4671,8 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2098657437" lat="45.4419613" lon="9.1211758" version="5" timestamp="2022-05-11T21:20:15Z" changeset="120858966" uid="6220204" user="Ysogo">
+  <node id="2098657437" lat="45.4419613" lon="9.1211758" version="6" timestamp="2022-05-17T18:24:38Z" changeset="121112989" uid="6220204" user="Ysogo">
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="bar"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Mama's"/>
