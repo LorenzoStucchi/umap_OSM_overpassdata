@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-21T03:39:24Z" areas="2022-05-21T03:12:59Z"/>
+<meta osm_base="2022-05-22T03:54:11Z" areas="2022-05-22T03:21:37Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -12481,6 +12481,14 @@
     <tag k="name" v="Morosini"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4230923548" lat="45.4438095" lon="9.2052904" version="4" timestamp="2022-05-21T17:30:55Z" changeset="121291687" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Bar Luce"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT02846380158"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q41753116"/>
+  </node>
   <node id="4235800588" lat="45.4501202" lon="9.1564590" version="4" timestamp="2018-07-24T20:51:24Z" changeset="61034979" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:street" v="Via Tortona"/>
@@ -16318,6 +16326,14 @@
     <tag k="description" v="Pizza, Focaccia, Doener"/>
     <tag k="name" v="OK 3"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5795268120" lat="45.4711351" lon="9.2289400" version="2" timestamp="2022-05-21T20:48:29Z" changeset="121297873" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="name" v="Belluccio's"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5795606670" lat="45.4530188" lon="9.2150607" version="2" timestamp="2021-10-30T13:53:16Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Share"/>
@@ -21118,6 +21134,29 @@
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="134940971" version="8" timestamp="2022-05-21T16:48:02Z" changeset="121290248" uid="6220204" user="Ysogo">
+    <center lat="45.4358353" lon="9.2064520"/>
+    <nd ref="1482682576"/>
+    <nd ref="1482682578"/>
+    <nd ref="1482682575"/>
+    <nd ref="1482682538"/>
+    <nd ref="1482682536"/>
+    <nd ref="1482682580"/>
+    <nd ref="1482682555"/>
+    <nd ref="1482682559"/>
+    <nd ref="1482682576"/>
+    <tag k="brand" v="Conad"/>
+    <tag k="brand:wikidata" v="Q639075"/>
+    <tag k="brand:wikipedia" v="it:Conad"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Conad"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00; Su 09:00-19:00"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="135701873" version="6" timestamp="2017-02-26T17:31:07Z" changeset="46421136" uid="1476146" user="Alecs01">
     <center lat="45.4496908" lon="9.1886093"/>
     <nd ref="1489971850"/>
@@ -24557,6 +24596,20 @@
     <tag k="name" v="Piccolo Cottolengo Don Orione"/>
     <tag k="social_facility" v="assisted_living;day_care"/>
     <tag k="social_facility:for" v="disabled;senior"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="688908301" version="3" timestamp="2022-05-21T17:26:17Z" changeset="121291549" uid="6220204" user="Ysogo">
+    <center lat="45.4339439" lon="9.2057777"/>
+    <nd ref="6461918865"/>
+    <nd ref="6461918853"/>
+    <nd ref="6461918850"/>
+    <nd ref="6461918868"/>
+    <nd ref="6461918812"/>
+    <nd ref="6461918831"/>
+    <nd ref="6461918810"/>
+    <nd ref="6461918796"/>
+    <nd ref="6461918865"/>
+    <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="732244879" version="2" timestamp="2019-10-07T05:24:11Z" changeset="75357252" uid="579545" user="Aury88">
