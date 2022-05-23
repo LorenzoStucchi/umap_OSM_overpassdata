@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-22T03:54:11Z" areas="2022-05-22T03:21:37Z"/>
+<meta osm_base="2022-05-23T04:08:28Z" areas="2022-05-23T03:29:54Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -2955,6 +2955,12 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1523205690" lat="45.4763250" lon="9.2070758" version="6" timestamp="2022-05-22T10:47:37Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
+    <tag k="comment" v="accesso per Passante Ferroviario"/>
+    <tag k="name" v="Milano Porta Venezia"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1529820734" lat="45.4557377" lon="9.2173558" version="5" timestamp="2022-01-25T11:09:29Z" changeset="116580239" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
@@ -3165,6 +3171,17 @@
     <tag k="website" v="http://www.farmaciacomotti.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1606676488" lat="45.4746665" lon="9.2056886" version="5" timestamp="2022-05-22T10:59:43Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
+    <tag k="name" v="Porta Venezia"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1606676493" lat="45.4761349" lon="9.2068749" version="5" timestamp="2022-05-22T10:48:20Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
+    <tag k="comment" v="accesso per metropolitana stazione Porta Venezia lato Nord"/>
+    <tag k="name" v="Porta Venezia"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1606676523" lat="45.4598163" lon="9.2243817" version="3" timestamp="2022-01-12T18:43:41Z" changeset="116078510" uid="89897" user="airon90">
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -3272,6 +3289,14 @@
   <node id="1611026645" lat="45.4804808" lon="9.2113376" version="2" timestamp="2022-05-15T10:18:25Z" changeset="121006694" uid="13933690" user="Andrea Carulli">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1611026647" lat="45.4805350" lon="9.2109899" version="3" timestamp="2022-05-22T10:23:02Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026649" lat="45.4806379" lon="9.2111011" version="3" timestamp="2022-05-22T10:22:50Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1611026760" lat="45.5010328" lon="9.2210477" version="2" timestamp="2021-03-05T18:15:05Z" changeset="100508719" uid="4413023" user="realjep">
     <tag k="railway" v="subway_entrance"/>
@@ -5654,12 +5679,13 @@
     <tag k="website" v="https://odstore.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2411123341" lat="45.4801846" lon="9.2105684" version="4" timestamp="2022-03-20T15:06:06Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="2411123341" lat="45.4801846" lon="9.2105684" version="5" timestamp="2022-05-22T10:26:55Z" changeset="121311339" uid="13933690" user="Andrea Carulli">
     <tag k="brand" v="Sephora"/>
     <tag k="brand:wikidata" v="Q2408041"/>
     <tag k="brand:wikipedia" v="en:Sephora"/>
     <tag k="chemist" v="perfume;cosmetics"/>
     <tag k="name" v="Sephora"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-20:30; Su 10:00-20:00"/>
     <tag k="operator" v="LVMH Italia spa div. Sephora"/>
     <tag k="ref:vatin" v="IT13310290153"/>
     <tag k="shop" v="cosmetics"/>
@@ -5674,11 +5700,12 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2411123345" lat="45.4800334" lon="9.2104432" version="7" timestamp="2022-03-20T15:04:53Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="2411123345" lat="45.4800334" lon="9.2104432" version="8" timestamp="2022-05-22T10:27:50Z" changeset="121311339" uid="13933690" user="Andrea Carulli">
     <tag k="brand" v="Tally Weijl"/>
     <tag k="brand:wikidata" v="Q689695"/>
     <tag k="brand:wikipedia" v="en:Tally Weijl"/>
     <tag k="name" v="Tally Weijl"/>
+    <tag k="opening_hours:signed" v="no"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -7056,15 +7083,20 @@
     <tag k="target" v="IT"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2542753991" lat="45.4835970" lon="9.2143763" version="3" timestamp="2022-04-10T18:12:01Z" changeset="119546248" uid="13600761" user="Mohamed_Elgohary">
+  <node id="2542753991" lat="45.4835970" lon="9.2143763" version="4" timestamp="2022-05-22T09:54:53Z" changeset="121311320" uid="13933690" user="Andrea Carulli">
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="turkish"/>
     <tag k="name" v="Istanbul Ayasofya"/>
     <tag k="opening_hours" v="Mo-Su 07:30-24:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2542753992" lat="45.4835594" lon="9.2143387" version="2" timestamp="2017-12-05T15:14:02Z" changeset="54368665" uid="2111087" user="asturksever">
+  <node id="2542753992" lat="45.4835594" lon="9.2143387" version="4" timestamp="2022-05-22T09:55:20Z" changeset="121311320" uid="13933690" user="Andrea Carulli">
     <tag k="name" v="Original Marines"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -13093,11 +13125,12 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4339006289" lat="45.4815189" lon="9.2118899" version="3" timestamp="2022-03-20T16:00:15Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4339006289" lat="45.4815189" lon="9.2118899" version="4" timestamp="2022-05-22T10:18:15Z" changeset="121311339" uid="13933690" user="Andrea Carulli">
     <tag k="brand" v="Bata"/>
     <tag k="brand:wikidata" v="Q688082"/>
     <tag k="brand:wikipedia" v="en:Bata Corporation"/>
     <tag k="name" v="Bata"/>
+    <tag k="opening_hours:signed" v="no"/>
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -13177,8 +13210,11 @@
     <tag k="shop" v="electronics"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4357487766" lat="45.4822686" lon="9.2130170" version="3" timestamp="2018-08-18T19:32:46Z" changeset="61777605" uid="1476146" user="Alecs01">
+  <node id="4357487766" lat="45.4822686" lon="9.2130170" version="5" timestamp="2022-05-22T10:03:56Z" changeset="121311320" uid="13933690" user="Andrea Carulli">
     <tag k="name" v="Conbipel"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -24413,7 +24449,7 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="549500413" version="5" timestamp="2022-04-21T14:00:13Z" changeset="120002845" uid="13933690" user="Andrea Carulli">
+  <way id="549500413" version="6" timestamp="2022-05-22T09:54:13Z" changeset="121311299" uid="13933690" user="Andrea Carulli">
     <center lat="45.4837385" lon="9.2145421"/>
     <nd ref="473137942"/>
     <nd ref="1701300636"/>
@@ -24437,6 +24473,7 @@
     <tag k="opening_hours" v="Fr,Sa 07:30-24:00, Su-Th 07:30-01:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT07283920960"/>
+    <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
