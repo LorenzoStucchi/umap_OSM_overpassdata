@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-23T04:08:28Z" areas="2022-05-23T03:29:54Z"/>
+<meta osm_base="2022-05-24T04:08:44Z" areas="2022-05-24T03:42:28Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -2598,14 +2598,17 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1476116765" lat="45.4380288" lon="9.2436236" version="6" timestamp="2019-04-18T23:16:43Z" changeset="69362066" uid="95387" user="rugamarcus">
+  <node id="1476116765" lat="45.4380288" lon="9.2436236" version="8" timestamp="2022-05-23T18:45:50Z" changeset="121385529" uid="6220204" user="Ysogo">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:postcode" v="20138"/>
     <tag k="addr:street" v="Via Bruno Cassinari"/>
     <tag k="amenity" v="pub"/>
     <tag k="email" v="nuovamilano09cafe@yahoo.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Nuova Milano 09"/>
+    <tag k="opening_hours" v="Tu-Th 11:00-14:30,18:00-01:00, Fr 11:00-14:30,18:00-02:00, Sa 11:00-14:30,17:00-02:00, Su 11:00-14:30,17:00-01:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 5162 1588"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -7281,6 +7284,26 @@
     <tag k="name" v="Centro Stampa"/>
     <tag k="shop" v="copyshop"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2647217129" lat="45.4869276" lon="9.2193417" version="4" timestamp="2022-05-23T16:37:22Z" changeset="121379598" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Bambaia"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="kindaisushi2.0@gmail.com"/>
+    <tag k="contact:facebook" v="KindaiMilano"/>
+    <tag k="contact:instagram" v="kindai_milano"/>
+    <tag k="contact:mobile" v="+39 338 9202732"/>
+    <tag k="contact:phone" v="+39 02 36539517"/>
+    <tag k="contact:website" v="https://kindaisushi.it"/>
+    <tag k="cuisine" v="japanese;sushi"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Kindai"/>
+    <tag k="opening_hours" v="Mo off; Tu-Su 12:00-15:00, 19:00-23:30; "/>
+    <tag k="ref:vatin" v="IT09550670963"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2655808573" lat="45.4727824" lon="9.2112862" version="6" timestamp="2019-03-27T11:57:41Z" changeset="68583614" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
@@ -16363,12 +16386,16 @@
     <tag k="name" v="OK 3"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5795268120" lat="45.4711351" lon="9.2289400" version="2" timestamp="2022-05-21T20:48:29Z" changeset="121297873" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5795268120" lat="45.4711351" lon="9.2289400" version="3" timestamp="2022-05-23T06:59:51Z" changeset="121350021" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="restaurant"/>
     <tag k="changing_table" v="no"/>
+    <tag k="cuisine" v="fish"/>
     <tag k="name" v="Belluccio's"/>
+    <tag k="operator" v="Belluccio Angelo"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT11935300159"/>
     <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="http://www.belluccio.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5795606670" lat="45.4530188" lon="9.2150607" version="2" timestamp="2021-10-30T13:53:16Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
@@ -16806,6 +16833,21 @@
     <tag k="ref:vatin" v="IT07434200965"/>
     <tag k="website" v="https://www.botanicalclub.com/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6209130605" lat="45.4374581" lon="9.2426882" version="3" timestamp="2022-05-23T18:45:58Z" changeset="121385543" uid="6220204" user="Ysogo">
+    <tag k="name" v="washdog"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="pet" v="dog"/>
+    <tag k="shop" v="pet_grooming"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6209130606" lat="45.4375730" lon="9.2427147" version="5" timestamp="2022-05-23T18:45:56Z" changeset="121385548" uid="6220204" user="Ysogo">
+    <tag k="name" v="biobene"/>
+    <tag k="opening_hours" v="Tu-Fr 10:30-14:30,15:30-19:30; Sa 09:30-14:30,15:30-17:30"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="6241719213" lat="45.4906014" lon="9.1965611" version="2" timestamp="2019-03-27T11:55:31Z" changeset="68583550" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
@@ -19163,6 +19205,28 @@
   <node id="9702630138" lat="45.5112882" lon="9.2604830" version="1" timestamp="2022-04-29T10:01:06Z" changeset="120340964" uid="13878104" user="Nádudvari Tamás">
     <tag k="name" v="Cascina Gobba"/>
     <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9764867492" lat="45.4794811" lon="9.2103544" version="1" timestamp="2022-05-23T16:54:56Z" changeset="121380450" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="42/9"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="branch" v="Milano Buenos Aires"/>
+    <tag k="brand" v="Celio"/>
+    <tag k="brand:wikidata" v="Q2672003"/>
+    <tag k="contact:phone" v="+39 02 29537367"/>
+    <tag k="contact:website" v="https://www.celio.it/store/6301"/>
+    <tag k="fixme" v="Location approximated"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Celio"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-21:00; "/>
+    <tag k="opening_hours:covid19" v="same"/>
+    <tag k="operator" v="Matrixx S.R.L."/>
+    <tag k="ref" v="6301"/>
+    <tag k="ref:vatin" v="IT12677890159"/>
+    <tag k="second_hand" v="no"/>
+    <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
