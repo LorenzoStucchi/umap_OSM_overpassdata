@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-24T04:08:44Z" areas="2022-05-24T03:42:28Z"/>
+<meta osm_base="2022-05-25T04:02:40Z" areas="2022-05-25T03:56:26Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -574,6 +574,18 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1085075"/>
     <tag k="wikipedia" v="it:Gorla (metropolitana di Milano)"/>
+  </node>
+  <node id="270443359" lat="45.5120295" lon="9.2244991" version="12" timestamp="2022-05-24T08:59:14Z" changeset="121410707" uid="13933690" user="Andrea Carulli">
+    <tag k="name" v="Precotto"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1964"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q1085136"/>
+    <tag k="wikipedia" v="it:Precotto (metropolitana di Milano)"/>
   </node>
   <node id="270728686" lat="45.4782108" lon="9.1842627" version="5" timestamp="2019-09-13T14:31:43Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -1991,13 +2003,14 @@
     <tag k="name" v="Camparino in Galleria"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="994118024" lat="45.4555821" lon="9.2182005" version="4" timestamp="2021-10-28T10:09:45Z" changeset="113062090" uid="290680" user="wheelmap_visitor">
+  <node id="994118024" lat="45.4555821" lon="9.2182005" version="5" timestamp="2022-05-24T10:04:32Z" changeset="121414487" uid="16072661" user="I-330">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:street" v="Via Gaetano Strigelli"/>
     <tag k="brand" v="Pam"/>
     <tag k="brand:wikidata" v="Q105615038"/>
     <tag k="name" v="Pam"/>
+    <tag k="opening_hours" v="PH,Mo-Su 08:00-21:00"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -2617,23 +2630,8 @@
     <tag k="name" v="Caffettiamo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1476127385" lat="45.4360888" lon="9.2411498" version="7" timestamp="2018-02-01T21:54:55Z" changeset="55979006" uid="7272314" user="marc__marc">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="20138"/>
-    <tag k="addr:street" v="Via Bruno Cassinari"/>
-    <tag k="name" v="Enne"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="http://www.enneparrucchieri.it/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1476127391" lat="45.4361904" lon="9.2407260" version="4" timestamp="2018-02-01T21:54:55Z" changeset="55979006" uid="7272314" user="marc__marc">
-    <tag k="name" v="il cuore della Sicilia"/>
-    <tag k="shop" v="bakery"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1476127426" lat="45.4361463" lon="9.2406572" version="5" timestamp="2018-02-01T21:54:55Z" changeset="55979006" uid="7272314" user="marc__marc">
+  <node id="1476127426" lat="45.4361463" lon="9.2406572" version="6" timestamp="2022-05-24T16:41:24Z" changeset="121434686" uid="6220204" user="Ysogo">
+    <tag k="name" v="Cheveu"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -9439,16 +9437,6 @@
     <tag k="source" v="survey"/>
     <tag k="website" v="https://pquattordici.weebly.com/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="3436944635" lat="45.4358430" lon="9.2408054" version="8" timestamp="2018-02-01T21:55:19Z" changeset="55979006" uid="7272314" user="marc__marc">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="20138"/>
-    <tag k="addr:street" v="Via Bruno Cassinari"/>
-    <tag k="shop" v="medical_supply"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wheelchair:description" v="primo piano"/>
   </node>
   <node id="3446525186" lat="45.4728011" lon="9.1788992" version="3" timestamp="2021-09-06T12:46:05Z" changeset="110802507" uid="6060820" user="Harvesterify">
     <tag k="amenity" v="toilets"/>
@@ -17773,6 +17761,19 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8105258046" lat="45.4398514" lon="9.2416262" version="6" timestamp="2022-05-24T16:40:50Z" changeset="121434644" uid="6220204" user="Ysogo">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:street" v="Via Alberto Savinio"/>
+    <tag k="brand" v="Lidl"/>
+    <tag k="brand:wikidata" v="Q151954"/>
+    <tag k="brand:wikipedia" v="en:Lidl"/>
+    <tag k="name" v="Lidl"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-21:30; Su 09:00-20:00"/>
+    <tag k="operator" v="Lidl"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="start_date" v="2020-12-17"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8284128789" lat="45.4875524" lon="9.1901707" version="2" timestamp="2021-05-01T08:24:17Z" changeset="103946544" uid="161619" user="FvGordon">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -21212,7 +21213,7 @@
     <tag k="social_facility:for" v="disabled"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="134470223" version="5" timestamp="2022-02-22T11:16:35Z" changeset="117722166" uid="95387" user="rugamarcus">
+  <way id="134470223" version="7" timestamp="2022-05-24T16:41:08Z" changeset="121434667" uid="6220204" user="Ysogo">
     <center lat="45.4388820" lon="9.2413941"/>
     <nd ref="1478328453"/>
     <nd ref="9526858269"/>
@@ -21230,7 +21231,9 @@
     <nd ref="1478328457"/>
     <nd ref="4147550301"/>
     <nd ref="1478328453"/>
+    <tag k="access" v="yes"/>
     <tag k="amenity" v="parking"/>
+    <tag k="fee" v="yes"/>
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
