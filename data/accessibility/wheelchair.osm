@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.2 2b5354b1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-02T04:25:06Z" areas="2022-06-02T03:24:23Z"/>
+<meta osm_base="2022-06-03T03:59:51Z" areas="2022-06-03T03:34:19Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -9178,13 +9178,14 @@
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3307148440" lat="45.4800265" lon="9.1867123" version="2" timestamp="2019-09-13T13:28:42Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3307148440" lat="45.4800265" lon="9.1867123" version="3" timestamp="2022-06-02T15:19:36Z" changeset="121856628" uid="13933690" user="Andrea Carulli">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
-    <tag k="name" v="Decio"/>
+    <tag k="check_date" v="2022-06-02"/>
+    <tag k="name" v="Dixie"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -10624,6 +10625,20 @@
     <tag k="name" v="Italgraniti"/>
     <tag k="shop" v="interior_decoration"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3799690704" lat="45.4801588" lon="9.1868035" version="3" timestamp="2022-06-02T15:18:36Z" changeset="121856569" uid="13933690" user="Andrea Carulli">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2022-06-02"/>
+    <tag k="name" v="Prime One seven - burgher bar"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="ref:vatin" v="09394790969"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3812740474" lat="45.4809664" lon="9.2034354" version="3" timestamp="2021-06-27T10:13:45Z" changeset="107030095" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="cafe"/>
@@ -14240,6 +14255,15 @@
     <tag k="name" v="Prime One Seven Burger Har"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4853779987" lat="45.4801332" lon="9.1867882" version="3" timestamp="2022-06-02T15:18:36Z" changeset="121856569" uid="13933690" user="Andrea Carulli">
+    <tag k="check_date" v="2022-06-02"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Dixie"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="clothing_shop"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4858001986" lat="45.4798159" lon="9.2106796" version="5" timestamp="2022-05-15T10:36:06Z" changeset="121007157" uid="13933690" user="Andrea Carulli">
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="20124"/>
@@ -16756,7 +16780,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6082676078" lat="45.4802096" lon="9.1868160" version="4" timestamp="2021-11-16T21:12:59Z" changeset="113869856" uid="113669" user="AnyFile">
+  <node id="6082676078" lat="45.4802096" lon="9.1868160" version="5" timestamp="2022-06-02T15:11:12Z" changeset="121856258" uid="13933690" user="Andrea Carulli">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="118"/>
@@ -16769,6 +16793,7 @@
     <tag k="cuisine" v="coffee_shop"/>
     <tag k="name" v="Starbucks"/>
     <tag k="official_name" v="Starbucks Coffee"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-20:00; Sa,Su 08:00-20:00"/>
     <tag k="operator" v="Siren coffee srl"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 65560122"/>
@@ -24706,6 +24731,22 @@
     <tag k="indoor" v="room"/>
     <tag k="level" v="0"/>
     <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="610174025" version="3" timestamp="2022-06-02T15:24:12Z" changeset="121856498" uid="6220204" user="Ysogo">
+    <center lat="45.4345047" lon="9.2306559"/>
+    <nd ref="5171230579"/>
+    <nd ref="5778890451"/>
+    <nd ref="5615256458"/>
+    <nd ref="5615256452"/>
+    <nd ref="5615256459"/>
+    <nd ref="5615256450"/>
+    <nd ref="5615256462"/>
+    <nd ref="5615256461"/>
+    <nd ref="5778890452"/>
+    <nd ref="5171230579"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="A.C. Milanese Corvetto"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="610305854" version="3" timestamp="2020-02-16T19:04:51Z" changeset="81079401" uid="330842" user="PJ Hooker">
