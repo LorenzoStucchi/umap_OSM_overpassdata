@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.2 2b5354b1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-14T04:27:08Z" areas="2022-06-14T03:47:39Z"/>
+<meta osm_base="2022-06-15T04:14:04Z" areas="2022-06-15T03:59:54Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -876,6 +876,18 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087591"/>
     <tag k="wikipedia" v="it:Bonola (metropolitana di Milano)"/>
+  </node>
+  <node id="301979351" lat="45.4507894" lon="9.1692677" version="9" timestamp="2022-06-14T11:30:21Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="68"/>
+    <tag k="addr:street" v="Alzaia Naviglio Grande"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Fabbrica"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-01:00"/>
+    <tag k="phone" v="+39 02 8358297"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="304775593" lat="45.4664718" lon="9.1708728" version="13" timestamp="2021-07-17T10:38:48Z" changeset="108154658" uid="3860151" user="Michele Aquilani">
     <tag k="alt_name" v="Cenacolo Vinciano"/>
@@ -1764,6 +1776,11 @@
     <tag k="source" v="recipt"/>
     <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-express-milano-via-cosseria-1-2891.html"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="598599858" lat="45.4582015" lon="9.1692907" version="6" timestamp="2022-06-14T11:28:54Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Sant'Agostino"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="611067534" lat="45.4538646" lon="9.1872123" version="3" timestamp="2020-10-28T14:44:41Z" changeset="93180978" uid="290680" user="wheelmap_visitor">
     <tag k="shop" v="florist"/>
@@ -3123,6 +3140,25 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1593793939" lat="45.5067569" lon="9.2014068" version="7" timestamp="2022-06-14T11:50:25Z" changeset="122370090" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="58"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Viale Fulvio Testi"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza;japanese;italian"/>
+    <tag k="email" v="RISTORANTEALDESIDERIO@GMAIL.COM"/>
+    <tag k="facebook" v="ristorantealdesiderio"/>
+    <tag k="name" v="Al Desiderio"/>
+    <tag k="opening_hours" v="Su-Fr 12:00-14:30, 19:00-23:00; Sa 19:00-23:00; PH off"/>
+    <tag k="phone" v="+39 02 6471173"/>
+    <tag k="ref:vatin" v="IT05072560963"/>
+    <tag k="source" v="direct knowledge"/>
+    <tag k="website" v="http://www.ristorantealdesiderio.it/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="1598193837" lat="45.4762066" lon="9.1945741" version="9" timestamp="2020-03-28T02:34:00Z" changeset="82738827" uid="1960718" user="apm-wa">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -3791,6 +3827,30 @@
     <tag k="ref:vatin" v="IT11603530152"/>
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1739767084" lat="45.4520327" lon="9.1693397" version="15" timestamp="2022-06-14T11:30:00Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Porta Genova FS"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1983"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q510765"/>
+    <tag k="wikipedia" v="it:Porta Genova FS (metropolitana di Milano)"/>
+  </node>
+  <node id="1739767086" lat="45.4586201" lon="9.1698144" version="11" timestamp="2022-06-14T11:28:29Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Sant'Agostino"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1983"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q1087596"/>
+    <tag k="wikipedia" v="it:Sant'Agostino (metropolitana di Milano)"/>
   </node>
   <node id="1759392423" lat="45.4831661" lon="9.2034252" version="8" timestamp="2022-02-17T15:54:27Z" changeset="117527850" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
@@ -5212,6 +5272,16 @@
     <tag k="capacity" v="2"/>
     <tag k="operator" v="e-vai"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2262460461" lat="45.4567073" lon="9.1686411" version="6" timestamp="2022-06-14T11:29:09Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20144"/>
+    <tag k="addr:street" v="Via Pietro Orseolo"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian;pizza;regional"/>
+    <tag k="name" v="Capuano's"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2266246540" lat="45.4542550" lon="9.1630856" version="8" timestamp="2020-04-05T18:21:00Z" changeset="83109097" uid="1755379" user="ozmium">
     <tag k="addr:housenumber" v="16"/>
@@ -12594,6 +12664,17 @@
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Morosini"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4230068291" lat="45.4443702" lon="9.1629456" version="3" timestamp="2022-06-14T11:31:33Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:street" v="Viale Cassala"/>
+    <tag k="brand" v="Esselunga"/>
+    <tag k="brand:wikidata" v="Q1059636"/>
+    <tag k="brand:wikipedia" v="en:Esselunga"/>
+    <tag k="name" v="Esselunga"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4230923548" lat="45.4438095" lon="9.2052904" version="4" timestamp="2022-05-21T17:30:55Z" changeset="121291687" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="cafe"/>
