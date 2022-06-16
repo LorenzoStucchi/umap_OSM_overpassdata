@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.2 2b5354b1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-15T04:14:04Z" areas="2022-06-15T03:59:54Z"/>
+<meta osm_base="2022-06-16T04:06:02Z" areas="2022-06-16T03:12:59Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -19440,6 +19440,11 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9772863161" lat="45.5065246" lon="9.2033132" version="2" timestamp="2022-06-15T17:26:52Z" changeset="122428647" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Market Sarca"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="9773451165" lat="45.4159794" lon="9.1717197" version="2" timestamp="2022-06-09T05:54:25Z" changeset="122145329" uid="4126696" user="bbgg">
     <tag k="barrier" v="gate"/>
     <tag k="wheelchair" v="limited"/>
@@ -24166,6 +24171,21 @@
     <nd ref="3516912280"/>
     <tag k="amenity" v="parking"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="352969937" version="3" timestamp="2022-06-15T17:49:56Z" changeset="122428647" uid="1875845" user="Valerio_Bozzolan">
+    <center lat="45.5076000" lon="9.2076710"/>
+    <nd ref="3587551106"/>
+    <nd ref="3587551107"/>
+    <nd ref="3587551108"/>
+    <nd ref="3587551109"/>
+    <nd ref="3780582392"/>
+    <nd ref="3587551106"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="chapel"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Cappella di Sant'Antonino in Segnano"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="355753529" version="2" timestamp="2021-03-17T14:11:38Z" changeset="101195365" uid="4413023" user="realjep">
     <center lat="45.5080234" lon="9.2227770"/>
