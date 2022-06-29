@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-28T04:18:37Z" areas="2022-06-28T03:39:02Z"/>
+<meta osm_base="2022-06-29T04:22:08Z" areas="2022-06-29T03:52:39Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -33,11 +33,15 @@
     <tag k="wikidata" v="Q941926"/>
     <tag k="wikipedia" v="it:Lanza (metropolitana di Milano)"/>
   </node>
-  <node id="29797363" lat="45.4844416" lon="9.1872983" version="13" timestamp="2022-03-30T13:43:45Z" changeset="119117520" uid="11242131" user="ja+">
+  <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:street" v="Piazza Sigmund Freud"/>
     <tag k="description" v="Area STIBM: Mi1"/>
-    <tag k="name" v="Milano Porta Garibaldi superficie"/>
+    <tag k="name" v="Milano Porta Garibaldi (superficie)"/>
+    <tag k="name:de" v="Bahnhof Milano Porta Garibaldi"/>
+    <tag k="name:en" v="Milano Porta Garibaldi railway station"/>
+    <tag k="name:es" v="Estación de Porta Garibaldi de Milán"/>
+    <tag k="name:it" v="Milano Porta Garibaldi (superficie)"/>
     <tag k="network" v="STIBM"/>
     <tag k="operator" v="RFI;Centostazioni"/>
     <tag k="platforms" v="20"/>
@@ -57,9 +61,12 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q107289743"/>
   </node>
-  <node id="169701311" lat="45.4850183" lon="9.2373317" version="15" timestamp="2021-08-02T15:11:56Z" changeset="109039957" uid="3824817" user="corna">
+  <node id="169701311" lat="45.4854753" lon="9.2376864" version="16" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Lambrate"/>
+    <tag k="network" v="STIBM"/>
     <tag k="operator" v="RFI;Centostazioni"/>
+    <tag k="platforms" v="12"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="wheelchair" v="yes"/>
@@ -2118,8 +2125,13 @@
     <tag k="wikidata" v="Q3639564"/>
     <tag k="wikipedia" v="it:Biblioteca Campus Leonardo del Politecnico di Milano"/>
   </node>
-  <node id="1171155322" lat="45.4784737" lon="9.2024582" version="5" timestamp="2022-02-04T18:00:57Z" changeset="117016884" uid="1875845" user="Valerio_Bozzolan">
+  <node id="1171155322" lat="45.4784737" lon="9.2024582" version="6" timestamp="2022-06-28T07:02:55Z" changeset="122940558" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20124"/>
     <tag k="atm" v="yes"/>
+    <tag k="branch" v="Viale Tunisia"/>
+    <tag k="brand" v="to.market"/>
+    <tag k="contact:website" v="https://www.supersigma.com/?p=74012"/>
     <tag k="name" v="to.market"/>
     <tag k="shop" v="supermarket"/>
     <tag k="source" v="survey"/>
@@ -3696,20 +3708,6 @@
     <tag k="comment" v="upward escalator step - exit only in upward direction"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="1722078727" lat="45.4809097" lon="9.2252203" version="17" timestamp="2021-06-25T15:30:27Z" changeset="106970636" uid="8716397" user="f_gonella">
-    <tag k="cycling_width" v="wide"/>
-    <tag k="layer" v="-1"/>
-    <tag k="name" v="Piola"/>
-    <tag k="operator" v="ATM"/>
-    <tag k="public_transport" v="station"/>
-    <tag k="railway" v="station"/>
-    <tag k="start_date" v="1969"/>
-    <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q3388904"/>
-    <tag k="wikipedia" v="it:Piola (metropolitana di Milano)"/>
   </node>
   <node id="1722078886" lat="45.4785390" lon="9.2298087" version="6" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="barrier" v="gate"/>
@@ -5392,8 +5390,10 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2318579800" lat="45.4649993" lon="9.1944390" version="7" timestamp="2019-09-13T10:24:30Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Motivi"/>
+  <node id="2318579800" lat="45.4649993" lon="9.1944390" version="8" timestamp="2022-06-28T09:49:48Z" changeset="122948304" uid="89897" user="airon90">
+    <tag k="brand" v="motivi"/>
+    <tag k="brand:wikidata" v="Q110065740"/>
+    <tag k="name" v="motivi"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -8250,17 +8250,19 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3007409053" lat="45.4650262" lon="9.1945164" version="6" timestamp="2019-09-13T10:24:23Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3007409053" lat="45.4650262" lon="9.1945164" version="7" timestamp="2022-06-28T09:49:48Z" changeset="122948304" uid="89897" user="airon90">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Via privata Passarella"/>
+    <tag k="brand" v="KIKO Milano"/>
+    <tag k="brand:wikidata" v="Q3812045"/>
     <tag k="chemist" v="cosmetics"/>
     <tag k="contact:phone" v="+39 02 76005372"/>
     <tag k="contact:phone:2" v="+39 02 76023739"/>
-    <tag k="name" v="Kiko"/>
+    <tag k="name" v="KIKO Milano"/>
     <tag k="operator" v="Kiko srl"/>
     <tag k="ref:vatin" v="IT02817030162"/>
-    <tag k="shop" v="chemist"/>
+    <tag k="shop" v="cosmetics"/>
     <tag k="website" v="https://www.kikocosmetics.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -11599,6 +11601,22 @@
     <tag k="website" v="https://www.motoesport.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3935647345" lat="45.4835188" lon="9.1877146" version="4" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Garibaldi FS"/>
+    <tag k="name:it" v="Garibaldi FS"/>
+    <tag k="name:ja" v="ガリバルディ"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1971"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q1087026"/>
+    <tag k="wikipedia" v="it:Garibaldi FS (metropolitana di Milano)"/>
+  </node>
   <node id="3939317826" lat="45.4822767" lon="9.1996645" version="2" timestamp="2019-09-13T09:46:21Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:street" v="Via Vittor Pisani"/>
@@ -13197,14 +13215,18 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4339004198" lat="45.4783067" lon="9.2084204" version="5" timestamp="2022-03-20T14:52:53Z" changeset="118697793" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4339004198" lat="45.4783067" lon="9.2084204" version="6" timestamp="2022-06-28T09:56:19Z" changeset="122948658" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="branch" v="Buenos Aires"/>
     <tag k="brand" v="OVS"/>
     <tag k="brand:wikidata" v="Q2042514"/>
     <tag k="brand:wikipedia" v="en:OVS (company)"/>
+    <tag k="contact:phone" v="+39 02 29521352"/>
+    <tag k="contact:website" v="https://stores.ovs.it/it/italia/lombardia/milano/ovs-milano-buenos-aires"/>
+    <tag k="contact:whatsapp" v="+39 348 0114594"/>
     <tag k="name" v="OVS"/>
     <tag k="opening_hours" v="Mo-Fr 10:15-20:00; Sa,Su 10:00-20:00"/>
     <tag k="ref:vatin" v="IT04240010274"/>
@@ -14229,6 +14251,37 @@
     <tag k="ref:vatin" v="IT03785920103"/>
     <tag k="shop" v="tea"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4820038721" lat="45.4518524" lon="9.1760154" version="5" timestamp="2022-06-28T09:49:48Z" changeset="122948304" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Ripa di Porta Ticinese"/>
+    <tag k="air_conditioning" v="no"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="branch" v="Navigli"/>
+    <tag k="brand" v="Greek Fusion"/>
+    <tag k="contact:facebook" v="GreekFusion"/>
+    <tag k="contact:instagram" v="greekfusion"/>
+    <tag k="contact:phone" v="+39 02 78622869"/>
+    <tag k="contact:spotify" v="31vlzgepqutwebtrcorlbuuvubya"/>
+    <tag k="contact:tiktok" v="greekfusion"/>
+    <tag k="contact:tripadvisor" v="13602599"/>
+    <tag k="contact:website" v="https://www.greekfusion.it"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/channel/UCxTi8Wtx1lC4zCV5cECAzyw"/>
+    <tag k="cuisine" v="greek"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Greek Fusion"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-24:00; "/>
+    <tag k="operator" v="VIP7 SRL"/>
+    <tag k="ref:vatin" v="IT08428510963"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="tagline" v="Are you Greekable?"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4824593608" lat="45.4729902" lon="9.1926350" version="2" timestamp="2019-09-13T09:21:44Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -16858,22 +16911,25 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6067258870" lat="45.4867751" lon="9.2051884" version="5" timestamp="2022-03-07T14:24:18Z" changeset="118199542" uid="3524812" user="SWF8">
+  <node id="6067258870" lat="45.4858786" lon="9.2042617" version="6" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Centrale"/>
+    <tag k="name:es" v="Milano Central"/>
     <tag k="name:it" v="Milano Centrale"/>
     <tag k="name:ja" v="ミラノ中央"/>
     <tag k="name:ko" v="밀라노 중앙역"/>
+    <tag k="network" v="STIBM"/>
     <tag k="operator" v="RFI;Grandi Stazioni"/>
     <tag k="platforms" v="24"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="short_name" v="Milano C.le"/>
     <tag k="station" v="train"/>
-    <tag k="train" v="yes"/>
     <tag k="uic_ref" v="8301700"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q801193"/>
-    <tag k="wikipedia" v="en:Milano Centrale railway station"/>
+    <tag k="wikipedia" v="it:Stazione di Milano Centrale"/>
+    <tag k="wikipedia:en" v="en:Milano Centrale railway station"/>
   </node>
   <node id="6076911176" lat="45.4755930" lon="9.2052542" version="1" timestamp="2018-11-20T16:47:26Z" changeset="64706270" uid="1761083" user="didi53fahrrad">
     <tag k="addr:city" v="Milano"/>
@@ -18510,6 +18566,28 @@
     <tag k="wikidata" v="Q1088801"/>
     <tag k="wikipedia" v="it:Rogoredo FS (metropolitana di Milano)"/>
   </node>
+  <node id="8946291224" lat="45.4834475" lon="9.1888055" version="2" timestamp="2022-06-28T16:55:30Z" changeset="122966049" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Piazza Gae Auenti"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="branch" v="Gae Aulenti"/>
+    <tag k="brand" v="That's Vapore"/>
+    <tag k="contact:phone" v="+39 02 87284055"/>
+    <tag k="contact:tripadvisor" v="12071758"/>
+    <tag k="cuisine" v="poke"/>
+    <tag k="level" v="-1"/>
+    <tag k="name" v="That's Vapore"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-15:00; "/>
+    <tag k="operator" v="Vapore Italiano SRL"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT07345710961"/>
+    <tag k="reservation" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8949514385" lat="45.4848359" lon="9.1910340" version="1" timestamp="2021-07-25T20:43:56Z" changeset="108580334" uid="13320122" user="lorenzvs">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
@@ -18617,9 +18695,10 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9088678931" lat="45.4489359" lon="9.1730707" version="2" timestamp="2021-09-29T14:06:22Z" changeset="111869278" uid="45684" user="Niouta">
+  <node id="9088678931" lat="45.4489359" lon="9.1730707" version="3" timestamp="2022-06-28T09:49:48Z" changeset="122948304" uid="89897" user="airon90">
     <tag k="amenity" v="telephone"/>
     <tag k="operator" v="TIM"/>
+    <tag k="operator:wikidata" v="Q144617"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9099943053" lat="45.4995991" lon="9.1789020" version="2" timestamp="2022-01-28T14:31:30Z" changeset="116709944" uid="13840929" user="aa30mom">
@@ -19839,7 +19918,7 @@
     <tag k="wikidata" v="Q1088810"/>
     <tag k="wikipedia" v="it:Crocetta (metropolitana di Milano)"/>
   </node>
-  <node id="9850493693" lat="45.4599554" lon="9.1893681" version="1" timestamp="2022-06-27T12:57:06Z" changeset="122909858" uid="11242131" user="ja+">
+  <node id="9850493693" lat="45.4599554" lon="9.1893681" version="2" timestamp="2022-06-28T09:49:48Z" changeset="122948304" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Missori"/>
     <tag k="network" v="STIBM"/>
@@ -19848,6 +19927,7 @@
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1990"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088817"/>
     <tag k="wikipedia" v="it:Missori (metropolitana di Milano)"/>
@@ -19866,6 +19946,131 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2519375"/>
     <tag k="wikipedia" v="it:Duomo (metropolitana di Milano)"/>
+  </node>
+  <node id="9853414543" lat="45.4848401" lon="9.1947909" version="1" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Gioia"/>
+    <tag k="name:it" v="Gioia"/>
+    <tag k="name:ja" v="ジョイア"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1971"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q613198"/>
+    <tag k="wikipedia" v="it:Gioia (metropolitana di Milano)"/>
+  </node>
+  <node id="9853414544" lat="45.4835639" lon="9.1867087" version="1" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Garibaldi FS"/>
+    <tag k="name:it" v="Garibaldi FS"/>
+    <tag k="name:ja" v="ガリバルディ"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="official_name" v="Garibaldi FS Nissan"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="2014"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1087026"/>
+    <tag k="wikipedia" v="it:Garibaldi FS (metropolitana di Milano)"/>
+  </node>
+  <node id="9853414547" lat="45.4841859" lon="9.2348772" version="1" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Lambrate FS"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1969"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q3216683"/>
+    <tag k="wikipedia" v="it:Lambrate FS (metropolitana di Milano)"/>
+  </node>
+  <node id="9853414548" lat="45.4808531" lon="9.2252588" version="1" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Piola"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1969"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q3388904"/>
+    <tag k="wikipedia" v="it:Piola (metropolitana di Milano)"/>
+  </node>
+  <node id="9853414557" lat="45.4852129" lon="9.2157423" version="1" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Loreto"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1964"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q645136"/>
+    <tag k="wikipedia" v="it:Loreto (metropolitana di Milano)"/>
+  </node>
+  <node id="9853414558" lat="45.4842132" lon="9.2158841" version="1" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Loreto"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1969"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q645136"/>
+    <tag k="wikipedia" v="it:Loreto (metropolitana di Milano)"/>
+  </node>
+  <node id="9853414565" lat="45.4853047" lon="9.2094139" version="1" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Caiazzo"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1969"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q1089056"/>
+    <tag k="wikipedia" v="it:Caiazzo (metropolitana di Milano)"/>
+  </node>
+  <node id="9853706257" lat="45.4628095" lon="9.2111880" version="1" timestamp="2022-06-28T16:33:49Z" changeset="122965288" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="20129"/>
+    <tag k="addr:street" v="Via Galvano Fiamma"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="bar" v="no"/>
+    <tag k="branch" v="Via Fiamma"/>
+    <tag k="brand" v="Poke House"/>
+    <tag k="brewery" v="no"/>
+    <tag k="contact:email" v="fiamma@pokehouse.it"/>
+    <tag k="contact:phone" v="+39 ‎02 36705681"/>
+    <tag k="contact:website" v="https://poke-house.com/it-it/localita/milano-via-fiamma/"/>
+    <tag k="cuisine" v="poke"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Poke House"/>
+    <tag k="opening_hours" v="Mo-Su 11:30-22:30; "/>
+    <tag k="operator" v="Poke House S.r.l."/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT10300540969"/>
+    <tag k="reservation" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
@@ -20126,7 +20331,7 @@
     <tag k="wikidata" v="Q1255640"/>
     <tag k="wikipedia" v="it:Chiesa di San Cristoforo sul Naviglio"/>
   </way>
-  <way id="24709555" version="12" timestamp="2021-06-26T08:06:05Z" changeset="106993700" uid="1476146" user="Alecs01">
+  <way id="24709555" version="13" timestamp="2022-06-28T15:20:09Z" changeset="122962730" uid="8350372" user="Balaabirami">
     <center lat="45.4579339" lon="9.1965861"/>
     <nd ref="268566301"/>
     <nd ref="570087135"/>
@@ -20148,6 +20353,7 @@
     <nd ref="5535681232"/>
     <nd ref="570082786"/>
     <nd ref="570082783"/>
+    <nd ref="9853502781"/>
     <nd ref="2884073080"/>
     <nd ref="2884073081"/>
     <nd ref="2884073082"/>
@@ -20248,7 +20454,7 @@
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="25902153" version="11" timestamp="2020-09-24T04:03:24Z" changeset="91399749" uid="1716320" user="alesarrett">
+  <way id="25902153" version="12" timestamp="2022-06-28T07:02:55Z" changeset="122940558" uid="89897" user="airon90">
     <center lat="45.4787171" lon="9.2010794"/>
     <nd ref="282549690"/>
     <nd ref="282549706"/>
@@ -20261,23 +20467,28 @@
     <nd ref="4496391390"/>
     <nd ref="4496391690"/>
     <nd ref="282549690"/>
+    <tag k="access" v="customers"/>
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Viale Tunisia"/>
-    <tag k="building" v="swimming_pool"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:phone" v="+39 02 6599703"/>
     <tag k="contact:website" v="https://www.milanosport.it/impianto/15/cozzi/27/"/>
-    <tag k="leisure" v="swimming_pool"/>
+    <tag k="fee" v="yes"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="lit" v="yes"/>
     <tag k="name" v="Piscina Cozzi"/>
     <tag k="note" v="Controllare sul posto valore wheelchair=yes"/>
-    <tag k="operator" v="Milanosport"/>
+    <tag k="operator" v="Milanosport S.P.A."/>
     <tag k="payment:bancomat" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+39 02 6599703"/>
+    <tag k="ref:vatin" v="IT10809480154"/>
     <tag k="sport" v="swimming"/>
     <tag k="start_date" v="1934"/>
+    <tag k="swimming_pool" v="indoor"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q16590833"/>
     <tag k="wikipedia" v="it:Piscina Cozzi"/>
@@ -22646,7 +22857,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="176511666" version="9" timestamp="2020-01-25T13:28:53Z" changeset="80071719" uid="1950277" user="Mannivu">
+  <way id="176511666" version="10" timestamp="2022-06-28T19:41:11Z" changeset="122972110" uid="161619" user="FvGordon">
     <center lat="45.4656094" lon="9.1900308"/>
     <nd ref="1780606144"/>
     <nd ref="1780606142"/>
@@ -22658,7 +22869,6 @@
     <nd ref="1780606132"/>
     <nd ref="1780606137"/>
     <nd ref="4381972101"/>
-    <nd ref="7014789362"/>
     <nd ref="1780606139"/>
     <nd ref="1780606143"/>
     <nd ref="4381971986"/>
@@ -26470,6 +26680,62 @@
     <tag k="railway" v="platform"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="984451678" version="2" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <center lat="45.4842505" lon="9.2348959"/>
+    <nd ref="9101840569"/>
+    <nd ref="9101840558"/>
+    <nd ref="9101840561"/>
+    <nd ref="9101840565"/>
+    <nd ref="9101840567"/>
+    <nd ref="9101840568"/>
+    <tag k="access" v="private"/>
+    <tag k="layer" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="984451679" version="2" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <center lat="45.4841720" lon="9.2349516"/>
+    <nd ref="9101840571"/>
+    <nd ref="9101840566"/>
+    <nd ref="9101840564"/>
+    <nd ref="9101840560"/>
+    <nd ref="9101840557"/>
+    <nd ref="9101840570"/>
+    <tag k="access" v="private"/>
+    <tag k="layer" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="985470352" version="3" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <center lat="45.4810629" lon="9.2260228"/>
+    <nd ref="9110478998"/>
+    <nd ref="9110479006"/>
+    <nd ref="9110479005"/>
+    <nd ref="9110478999"/>
+    <tag k="access" v="private"/>
+    <tag k="layer" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="985470355" version="2" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
+    <center lat="45.4811583" lon="9.2259563"/>
+    <nd ref="9110479004"/>
+    <nd ref="9110479002"/>
+    <nd ref="9110479001"/>
+    <nd ref="9110479003"/>
+    <tag k="access" v="private"/>
+    <tag k="layer" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="985546663" version="3" timestamp="2022-06-27T14:12:36Z" changeset="122913117" uid="11242131" user="ja+">
     <center lat="45.5213085" lon="9.1686118"/>
