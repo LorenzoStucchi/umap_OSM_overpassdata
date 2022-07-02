@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-01T04:29:24Z" areas="2022-07-01T04:19:24Z"/>
+<meta osm_base="2022-07-02T04:19:42Z" areas="2022-07-02T03:32:54Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -3975,7 +3975,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1828042363" lat="45.4774903" lon="9.1847195" version="4" timestamp="2019-09-13T14:42:10Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="1828042363" lat="45.4774908" lon="9.1847170" version="5" timestamp="2022-07-01T09:48:12Z" changeset="123078465" uid="8350372" user="Balaabirami">
     <tag k="name" v="Moscova"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="toilets:wheelchair" v="no"/>
@@ -9260,6 +9260,10 @@
     <tag k="website" v="https://www.ilsolferino.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3307148796" lat="45.4796167" lon="9.1919289" version="8" timestamp="2022-07-01T11:58:14Z" changeset="123083415" uid="8350372" user="Balaabirami">
+    <tag k="survey:date" v="2018-04-05"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3307158961" lat="45.4835699" lon="9.1863094" version="2" timestamp="2021-09-18T08:39:04Z" changeset="111365585" uid="3860151" user="Michele Aquilani">
     <tag k="bicycle" v="no"/>
     <tag k="name" v="Garibaldi FS"/>
@@ -14039,6 +14043,35 @@
     <tag k="operator" v="Nike"/>
     <tag k="shop" v="clothes"/>
     <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4714128505" lat="45.4759847" lon="9.2075828" version="4" timestamp="2022-07-01T07:52:44Z" changeset="123073723" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20129"/>
+    <tag k="addr:street" v="Via Lazzaro Spallanzani"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="bar" v="no"/>
+    <tag k="branch" v="Porta Venezia"/>
+    <tag k="brand" v="Poke House"/>
+    <tag k="brewery" v="no"/>
+    <tag k="contact:email" v="spallanzani@pokehouse.it"/>
+    <tag k="contact:mobile" v="+39 379 2432387"/>
+    <tag k="contact:website" v="https://poke-house.com/it-it/localita/milano-porta-venezia/"/>
+    <tag k="cuisine" v="poke"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Poke House"/>
+    <tag k="opening_hours" v="Mo-Su 11:30-22:30; "/>
+    <tag k="operator" v="Poke House S.r.l."/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT10300540969"/>
+    <tag k="reservation" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4715317473" lat="45.4841167" lon="9.1670960" version="4" timestamp="2018-07-30T06:17:16Z" changeset="61181839" uid="290680" user="wheelmap_visitor">
@@ -20077,6 +20110,28 @@
     <tag k="wikidata" v="Q3547730"/>
     <tag k="wikipedia" v="it:Udine (metropolitana di Milano)"/>
   </node>
+  <node id="9860690290" lat="45.4889184" lon="9.2204733" version="1" timestamp="2022-07-01T15:45:00Z" changeset="123091767" uid="13933690" user="Andrea Carulli">
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Via Padova"/>
+    <tag k="check_date" v="2022-07-01"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Share"/>
+    <tag k="opening_hours" v="Mo 14:00-19:00; Tu-Sa 10:00-19:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:jcb" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="second_hand" v="only"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -20336,12 +20391,13 @@
     <tag k="wikidata" v="Q1255640"/>
     <tag k="wikipedia" v="it:Chiesa di San Cristoforo sul Naviglio"/>
   </way>
-  <way id="24709555" version="13" timestamp="2022-06-28T15:20:09Z" changeset="122962730" uid="8350372" user="Balaabirami">
+  <way id="24709555" version="14" timestamp="2022-07-01T15:45:53Z" changeset="123091801" uid="2370220" user="Paolo pn">
     <center lat="45.4579339" lon="9.1965861"/>
     <nd ref="268566301"/>
     <nd ref="570087135"/>
     <nd ref="570087145"/>
     <nd ref="268566302"/>
+    <nd ref="5515794057"/>
     <nd ref="268566303"/>
     <nd ref="268566304"/>
     <nd ref="6153748492"/>
