@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-08T04:17:29Z" areas="2022-07-08T03:45:08Z"/>
+<meta osm_base="2022-07-09T03:58:50Z" areas="2022-07-09T03:57:52Z"/>
 
   <node id="21306358" lat="45.4681551" lon="9.1771024" version="22" timestamp="2021-04-30T14:01:28Z" changeset="103917505" uid="1476146" user="Alecs01">
     <tag k="alt_name" v="Cadorna FN Triennale"/>
@@ -8358,6 +8358,23 @@
   <node id="3042197612" lat="45.4626895" lon="9.2064095" version="2" timestamp="2022-03-26T14:10:01Z" changeset="118947759" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="bank"/>
     <tag k="name" v="UBI Banca Popolare di Bergamo"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3051560136" lat="45.4754407" lon="9.2145495" version="4" timestamp="2022-07-08T16:52:07Z" changeset="123374339" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="20129"/>
+    <tag k="addr:street" v="Via Bartolomeo Eustachi"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="capacity" v="50"/>
+    <tag k="cuisine" v="sushi"/>
+    <tag k="name" v="Poporoya"/>
+    <tag k="opening_hours" v="Mo 18:00-19:30; Tu-Sa 11:30-13:00, 18:00-19:30; PH off"/>
+    <tag k="phone" v="+39 02 251 7686"/>
+    <tag k="ref:vatin" v="IT09144690964"/>
+    <tag k="reservation" v="no"/>
+    <tag k="smoking" v="separated"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3051686250" lat="45.4877272" lon="9.1875031" version="2" timestamp="2019-09-13T13:29:39Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -20148,6 +20165,10 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9874171508" lat="45.4357075" lon="9.2027982" version="1" timestamp="2022-07-08T10:55:01Z" changeset="123356923" uid="456597" user="4004">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
@@ -24428,6 +24449,36 @@
     <nd ref="263776292"/>
     <nd ref="3205875688"/>
     <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="320942910" version="4" timestamp="2022-07-08T11:48:56Z" changeset="123359305" uid="6526882" user="Marco Aceti">
+    <center lat="45.4789291" lon="9.2029153"/>
+    <nd ref="3276473591"/>
+    <nd ref="3276473590"/>
+    <nd ref="3276473589"/>
+    <nd ref="471637408"/>
+    <nd ref="3276473591"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Via Felice Casati"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2022-07-08"/>
+    <tag k="contact:phone" v="+39 02 39431306"/>
+    <tag k="cuisine" v="sushi"/>
+    <tag k="facebook" v="https://it-it.facebook.com/pages/NARA-Japanese-Italian-Restaurant/381812181845831?sk=info&amp;tab=overview"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:ssid" v="NaraGuest"/>
+    <tag k="name" v="Ristorante Nara"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-14:30,19:00-23:30"/>
+    <tag k="operator" v="Nara S.r.l."/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="ref:vatin" v="IT08645930960"/>
+    <tag k="reservation" v="recommended"/>
+    <tag k="short_name" v="Nara"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="330234485" version="6" timestamp="2022-05-18T14:48:33Z" changeset="121151445" uid="6220204" user="Ysogo">
