@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-15T04:34:58Z" areas="2022-07-15T04:12:26Z"/>
+<meta osm_base="2022-07-16T04:04:53Z" areas="2022-07-16T03:25:23Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -18434,6 +18434,33 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8701998021" lat="45.4368888" lon="9.1681331" version="2" timestamp="2022-07-15T14:04:49Z" changeset="123655597" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Famagosta"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1994"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q3064844"/>
+    <tag k="wikipedia" v="it:Famagosta (metropolitana di Milano)"/>
+  </node>
+  <node id="8701998023" lat="45.4300140" lon="9.1773223" version="2" timestamp="2022-07-15T14:04:49Z" changeset="123655597" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Abbiategrasso-Chiesa Rossa"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="short_name" v="Abbiategrasso"/>
+    <tag k="start_date" v="2005"/>
+    <tag k="station" v="subway"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q2820829"/>
+    <tag k="wikipedia" v="it:Abbiategrasso (metropolitana di Milano)"/>
+  </node>
   <node id="8734346176" lat="45.4760806" lon="9.1948071" version="2" timestamp="2021-09-24T15:53:25Z" changeset="111654491" uid="11220113" user="ivanbranco">
     <tag k="name" v="Turati M3"/>
     <tag k="public_transport" v="stop_position"/>
@@ -20230,7 +20257,7 @@
     <tag k="wikidata" v="Q1087596"/>
     <tag k="wikipedia" v="it:Sant'Agostino (metropolitana di Milano)"/>
   </node>
-  <node id="9887508376" lat="45.4613756" lon="9.1729419" version="1" timestamp="2022-07-14T14:21:53Z" changeset="123612714" uid="11242131" user="ja+">
+  <node id="9887508376" lat="45.4617730" lon="9.1733825" version="2" timestamp="2022-07-15T14:04:49Z" changeset="123655597" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Sant'Ambrogio"/>
     <tag k="name:it" v="Sant'Ambrogio"/>
@@ -26978,6 +27005,32 @@
     <nd ref="8992794547"/>
     <tag k="access" v="private"/>
     <tag k="layer" v="-1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="971662712" version="4" timestamp="2022-07-15T14:04:49Z" changeset="123655597" uid="11242131" user="ja+">
+    <center lat="45.4369469" lon="9.1682005"/>
+    <nd ref="9712177581"/>
+    <nd ref="8993200535"/>
+    <nd ref="8993200537"/>
+    <nd ref="8993200539"/>
+    <tag k="access" v="private"/>
+    <tag k="layer" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="971662713" version="3" timestamp="2022-07-15T14:04:49Z" changeset="123655597" uid="11242131" user="ja+">
+    <center lat="45.4369518" lon="9.1680661"/>
+    <nd ref="8993200542"/>
+    <nd ref="8993200538"/>
+    <nd ref="8993200536"/>
+    <nd ref="8993200541"/>
+    <tag k="access" v="private"/>
+    <tag k="layer" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="tunnel" v="yes"/>
