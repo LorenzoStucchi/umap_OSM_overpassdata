@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-28T04:29:51Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-08-29T04:49:09Z" areas="2022-07-20T10:48:09Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -1762,7 +1762,7 @@
     <tag k="website" v="http://www.hoteldeicavalieri.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="716008566" lat="45.4440938" lon="9.1673734" version="5" timestamp="2015-10-15T12:50:02Z" changeset="34654012" uid="668137" user="Ramying">
+  <node id="716008566" lat="45.4441017" lon="9.1673741" version="6" timestamp="2022-08-28T06:53:10Z" changeset="125464952" uid="8634948" user="cuginogionata">
     <tag k="bench" v="yes"/>
     <tag k="bus" v="yes"/>
     <tag k="name" v="Romolo"/>
@@ -2549,12 +2549,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1483484459" lat="45.4451009" lon="9.1236387" version="3" timestamp="2021-12-28T17:04:21Z" changeset="115480238" uid="89897" user="airon90">
+  <node id="1483484459" lat="45.4451009" lon="9.1236387" version="4" timestamp="2022-08-28T10:01:39Z" changeset="125469085" uid="16881505" user="Procsiab">
     <tag k="branch" v="Via Lorenteggio"/>
     <tag k="brand" v="Esselunga"/>
     <tag k="brand:wikidata" v="Q1059636"/>
     <tag k="brand:wikipedia" v="en:Esselunga"/>
     <tag k="name" v="Esselunga"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-22:00; Su 08:00-20:00"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -3777,7 +3778,7 @@
     <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Piazzale_Cimitero_Monumentale_Milan_-_02.jpg"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1790677195" lat="45.4440208" lon="9.1677781" version="5" timestamp="2014-10-20T10:28:48Z" changeset="26209819" uid="113669" user="AnyFile">
+  <node id="1790677195" lat="45.4440297" lon="9.1677728" version="6" timestamp="2022-08-28T06:53:10Z" changeset="125464952" uid="8634948" user="cuginogionata">
     <tag k="comment" v="closed after 21"/>
     <tag k="name" v="Romolo"/>
     <tag k="railway" v="subway_entrance"/>
@@ -18581,8 +18582,9 @@
     <tag k="ref:vatin" v="IT02463170460"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8871876516" lat="45.5010707" lon="9.2366855" version="2" timestamp="2022-02-25T07:13:16Z" changeset="117837322" uid="1875845" user="Valerio_Bozzolan">
+  <node id="8871876516" lat="45.5010707" lon="9.2366855" version="3" timestamp="2022-08-28T06:55:09Z" changeset="125464994" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="182"/>
     <tag k="addr:postcode" v="20132"/>
     <tag k="addr:street" v="Via Padova"/>
     <tag k="name" v="Studio 182"/>
@@ -19025,6 +19027,11 @@
     <tag k="phone" v="+39027386124"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://www.strambiosei.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9420885570" lat="45.4476449" lon="9.1377438" version="3" timestamp="2022-08-28T09:16:01Z" changeset="125468685" uid="16881505" user="Procsiab">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9427676868" lat="45.4841241" lon="9.1865955" version="1" timestamp="2022-01-18T08:41:27Z" changeset="116287098" uid="89897" user="airon90">
@@ -26548,6 +26555,25 @@
     <tag k="name" v="Piccolo Cottolengo Don Orione"/>
     <tag k="social_facility" v="assisted_living;day_care"/>
     <tag k="social_facility:for" v="disabled;senior"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="688121063" version="2" timestamp="2022-08-28T09:14:33Z" changeset="125468630" uid="16881505" user="Procsiab">
+    <center lat="45.4477013" lon="9.1385575"/>
+    <nd ref="6451574933"/>
+    <nd ref="6451574923"/>
+    <nd ref="6451574924"/>
+    <nd ref="6451574932"/>
+    <nd ref="6451574931"/>
+    <nd ref="6451574930"/>
+    <nd ref="6451574929"/>
+    <nd ref="6451574928"/>
+    <nd ref="6451574927"/>
+    <nd ref="6451574926"/>
+    <nd ref="6451574921"/>
+    <nd ref="6451574922"/>
+    <nd ref="6451574933"/>
+    <tag k="barrier" v="hedge"/>
+    <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="688908301" version="3" timestamp="2022-05-21T17:26:17Z" changeset="121291549" uid="6220204" user="Ysogo">
