@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-01T04:44:35Z" areas="2022-07-20T10:48:09Z"/>
+<meta osm_base="2022-09-02T04:51:55Z" areas="2022-07-20T10:48:09Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -3282,6 +3282,28 @@
     <tag k="reservation" v="yes"/>
     <tag k="smoking" v="outside"/>
     <tag k="survey:date" v="2022-07-10"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1650251595" lat="45.4623323" lon="9.2329266" version="2" timestamp="2022-09-01T17:13:40Z" changeset="125665141" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Viale Corsica"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="pizzeriafornoantico@gmail.com"/>
+    <tag k="contact:phone" v="+39 02 70102144"/>
+    <tag k="contact:tripadvisor" v="2470194"/>
+    <tag k="contact:website" v="https://fornoantico.eatbu.com"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Forno Antico"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-14:15, 18:30-22:30; "/>
+    <tag k="operator" v="Nuovo Forno Antico SAS"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT09722860153"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="smoking" v="outside"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -11393,6 +11415,26 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3899392302" lat="45.4862170" lon="9.2329236" version="2" timestamp="2022-09-01T17:03:45Z" changeset="125664833" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="167"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Nicola Antonio Porpora"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="noodlehouse.milano"/>
+    <tag k="contact:mobile" v="+39 333 2462642"/>
+    <tag k="contact:phone" v="+39 02 87382275"/>
+    <tag k="contact:tripadvisor" v="6774628"/>
+    <tag k="cuisine" v="korean"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Noodle House"/>
+    <tag k="operator" v="Lee Seong Ho"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT08558640960"/>
+    <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="3911701173" lat="45.4794646" lon="9.2111961" version="5" timestamp="2022-03-20T15:37:39Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
     <tag k="beauty" v="nails"/>
     <tag k="name" v="Gold beauty"/>
@@ -15266,8 +15308,10 @@
     <tag k="tourism" v="apartment"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5290174186" lat="45.4527629" lon="9.1663116" version="3" timestamp="2022-05-27T12:23:32Z" changeset="121574070" uid="13840929" user="aa30mom">
+  <node id="5290174186" lat="45.4527629" lon="9.1663116" version="4" timestamp="2022-09-01T22:19:10Z" changeset="125674226" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Via Tortona"/>
     <tag k="amenity" v="bar"/>
     <tag k="name" v="Morna"/>
