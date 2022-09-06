@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-05T04:55:13Z" areas="2022-07-20T10:48:09Z"/>
+<meta osm_base="2022-09-06T04:58:20Z" areas="2022-07-20T10:48:09Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -3932,7 +3932,7 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1832541469" lat="45.4634880" lon="9.1881332" version="10" timestamp="2021-08-12T09:57:00Z" changeset="109562875" uid="113669" user="AnyFile">
+  <node id="1832541469" lat="45.4634880" lon="9.1881332" version="11" timestamp="2022-09-05T09:31:47Z" changeset="125805295" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
@@ -3942,7 +3942,9 @@
     <tag k="brand:wikidata" v="Q305404"/>
     <tag k="brand:wikipedia" v="en:Intimissimi"/>
     <tag k="clothes" v="underwear"/>
+    <tag k="clothes:for" v="women"/>
     <tag k="contact:phone" v="+39 02 804721"/>
+    <tag k="level" v="0"/>
     <tag k="name" v="Intimissimi"/>
     <tag k="operator" v="Sarmont s.r.l."/>
     <tag k="ref:vatin" v="IT03517980128"/>
@@ -5425,12 +5427,14 @@
     <tag k="website" v="http://www.piubici.org/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2388894199" lat="45.4649336" lon="9.1942198" version="6" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="2388894199" lat="45.4649336" lon="9.1942198" version="7" timestamp="2022-09-05T09:31:47Z" changeset="125805295" uid="113669" user="AnyFile">
     <tag k="brand" v="Yamamay"/>
     <tag k="brand:wikidata" v="Q2599214"/>
     <tag k="brand:wikipedia" v="it:Yamamay"/>
     <tag k="clothes" v="underwear"/>
+    <tag k="clothes:for" v="women;men"/>
     <tag k="contact:phone" v="+39 02 76014100"/>
+    <tag k="level" v="0;-1"/>
     <tag k="name" v="Yamamay"/>
     <tag k="operator" v="Inticom spa"/>
     <tag k="ref:vatin" v="IT02649140122"/>
@@ -7872,7 +7876,7 @@
     <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2971317750" lat="45.4633926" lon="9.1880309" version="4" timestamp="2020-11-30T01:36:11Z" changeset="95008123" uid="454306" user="dega180">
+  <node id="2971317750" lat="45.4633926" lon="9.1880309" version="5" timestamp="2022-09-05T09:31:47Z" changeset="125805295" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="15"/>
@@ -7884,6 +7888,7 @@
     <tag k="clothes" v="underwear"/>
     <tag k="contact:phone" v="+39 02 89096069"/>
     <tag k="fixme" v="Position estimated"/>
+    <tag k="level" v="0"/>
     <tag k="name" v="Calzedonia"/>
     <tag k="operator" v="Patty srl"/>
     <tag k="ref:vatin" v="IT07140740965"/>
@@ -14903,14 +14908,16 @@
     <tag k="website" v="http://www.ristorantekaori.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5072120043" lat="45.4625189" lon="9.1865967" version="4" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="5072120043" lat="45.4625189" lon="9.1865967" version="5" timestamp="2022-09-05T09:54:35Z" changeset="125806292" uid="113669" user="AnyFile">
     <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Torino"/>
     <tag k="brand" v="Muji"/>
     <tag k="brand:en" v="Muji"/>
     <tag k="brand:ja" v="無印良品"/>
     <tag k="brand:wikidata" v="Q708789"/>
     <tag k="brand:wikipedia" v="en:Muji"/>
+    <tag k="clothes:for" v="women;men"/>
     <tag k="contact:phone" v="+39 02 809441"/>
     <tag k="contact:website" v="http://www.muji.it"/>
     <tag k="name" v="Muji"/>
