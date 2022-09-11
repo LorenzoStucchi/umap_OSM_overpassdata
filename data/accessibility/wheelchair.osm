@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-10T04:51:13Z" areas="2022-07-20T10:48:09Z"/>
+<meta osm_base="2022-09-11T04:42:14Z" areas="2022-07-20T11:06:24Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -3615,7 +3615,7 @@
     <tag k="motor_vehicle" v="private"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1726657131" lat="45.4723347" lon="9.1874378" version="4" timestamp="2020-02-28T19:49:52Z" changeset="81605235" uid="9006927" user="francians">
+  <node id="1726657131" lat="45.4723487" lon="9.1874481" version="5" timestamp="2022-09-10T12:43:56Z" changeset="126014447" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Brera"/>
@@ -5821,7 +5821,7 @@
     <tag k="website" v="http://www.altavolino.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2417414837" lat="45.4722688" lon="9.1869807" version="5" timestamp="2019-09-13T14:32:44Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2417414837" lat="45.4722688" lon="9.1869807" version="6" timestamp="2022-09-10T12:54:07Z" changeset="126014808" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="8"/>
@@ -5829,14 +5829,15 @@
     <tag k="addr:street" v="Via Fiori Chiari"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="email" v="info@osteriadibrera.it"/>
-    <tag k="fax" v="+39 02 72011266"/>
+    <tag k="fax" v="+39 02 7201 1266"/>
+    <tag k="fixme" v="Shop probably closed, or under construction. Unclear."/>
     <tag k="name" v="L'Osteria di Brera"/>
     <tag k="opening_hours" v="Mo-Fr 12:00-14:30,18:30-23:30; Sa,Su 12:00-23:30"/>
-    <tag k="phone" v="+39 02 89096628"/>
+    <tag k="phone" v="+39 02 8909 6628"/>
     <tag k="website" v="https://www.osteriadibrera.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2417414842" lat="45.4722447" lon="9.1868862" version="6" timestamp="2019-09-13T14:32:11Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2417414842" lat="45.4722447" lon="9.1868862" version="7" timestamp="2022-09-10T12:54:07Z" changeset="126014808" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="10"/>
@@ -5845,7 +5846,8 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="name" v="Ristorante Nabucco"/>
     <tag k="opening_hours" v="Mo-Fr 12:00-14:30, 19:00-23:30; Sa-Su 00:00-23:30"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2417414844" lat="45.4832616" lon="9.1980193" version="4" timestamp="2019-09-13T10:15:02Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -8079,6 +8081,16 @@
     <tag k="tobacco" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3007409044" lat="45.4647166" lon="9.1932795" version="3" timestamp="2022-09-10T10:36:01Z" changeset="126009964" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Miriade"/>
+    <tag k="shop" v="bag"/>
+    <tag k="was:brand" v="Carpisa"/>
+    <tag k="was:brand:wikidata" v="Q28035409"/>
+    <tag k="was:brand:wikipedia" v="en:Carpisa"/>
+    <tag k="was:name" v="Carpisa"/>
+    <tag k="was:shop" v="bag"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="3007409045" lat="45.4646967" lon="9.1932005" version="3" timestamp="2021-08-03T08:24:13Z" changeset="109076727" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
@@ -8089,12 +8101,12 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3007409048" lat="45.4648154" lon="9.1936577" version="2" timestamp="2019-09-13T10:25:40Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3007409048" lat="45.4647922" lon="9.1936238" version="3" timestamp="2022-09-10T10:36:01Z" changeset="126009964" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Libero Milano"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3007409050" lat="45.4648431" lon="9.1937690" version="2" timestamp="2019-09-13T10:25:24Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3007409050" lat="45.4648078" lon="9.1937127" version="3" timestamp="2022-09-10T10:36:01Z" changeset="126009964" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Nara Camicie"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
@@ -14209,20 +14221,22 @@
     <tag k="website" v="https://www.temakinho.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4802311657" lat="45.4721715" lon="9.1871438" version="5" timestamp="2020-12-01T21:52:10Z" changeset="95118399" uid="454306" user="dega180">
+  <node id="4802311657" lat="45.4721506" lon="9.1872316" version="7" timestamp="2022-09-10T12:54:07Z" changeset="126014808" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Fiori Chiari"/>
-    <tag k="brand" v="Brooks Brothers"/>
-    <tag k="brand:wikidata" v="Q929722"/>
-    <tag k="brand:wikipedia" v="en:Brooks Brothers"/>
-    <tag k="contact:phone" v="+39 02 878481"/>
-    <tag k="name" v="Brooks Brothers"/>
-    <tag k="operator" v="Brooks Brothers Europe srl"/>
-    <tag k="ref:vatin" v="IT03860610967"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.brooksbrothers.com/"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="name" v="Mandarina Duck"/>
+    <tag k="shop" v="bag"/>
+    <tag k="was:brand" v="Brooks Brothers"/>
+    <tag k="was:brand:wikidata" v="Q929722"/>
+    <tag k="was:brand:wikipedia" v="en:Brooks Brothers"/>
+    <tag k="was:contact:phone" v="+39 02 878481"/>
+    <tag k="was:name" v="Brooks Brothers"/>
+    <tag k="was:operator" v="Brooks Brothers Europe srl"/>
+    <tag k="was:ref:vatin" v="IT03860610967"/>
+    <tag k="was:shop" v="clothes"/>
+    <tag k="was:website" v="https://www.brooksbrothers.com/"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4802311658" lat="45.4714705" lon="9.1944709" version="2" timestamp="2019-09-13T09:34:57Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="44"/>
@@ -15705,15 +15719,16 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5499377509" lat="45.4722873" lon="9.1870943" version="3" timestamp="2019-09-13T14:32:43Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="5499377509" lat="45.4722873" lon="9.1870943" version="4" timestamp="2022-09-10T12:54:07Z" changeset="126014808" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Fiori Chiari"/>
-    <tag k="name" v="Culti Milano"/>
-    <tag k="shop" v="interior_decoration"/>
-    <tag k="website" v="https://robertaebasta.com/"/>
+    <tag k="name" v="Le Labo"/>
+    <tag k="shop" v="perfumery"/>
+    <tag k="was:name" v="Culti Milano"/>
+    <tag k="was:shop" v="interior_decoration"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5499377511" lat="45.4721933" lon="9.1865766" version="2" timestamp="2019-09-13T14:30:52Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -20922,6 +20937,31 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://hotelberna.com/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10012855217" lat="45.5248718" lon="9.1900696" version="2" timestamp="2022-09-10T09:01:16Z" changeset="126006967" uid="10153698" user="Francesco Cioria">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="charge" v="0.1 EUR"/>
+    <tag k="fee" v="yes"/>
+    <tag k="survey:date" v="2022-09-10"/>
+    <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10013104420" lat="45.4661835" lon="9.1925416" version="1" timestamp="2022-09-10T11:39:35Z" changeset="126012103" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Oniro"/>
+    <tag k="shop" v="furniture"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="10013235719" lat="45.4721329" lon="9.1870936" version="2" timestamp="2022-09-10T12:54:07Z" changeset="126014808" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Fiori Chiari"/>
+    <tag k="clothes" v="children"/>
+    <tag k="name" v="Modes"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="website" v="https://www.modes.com/"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
