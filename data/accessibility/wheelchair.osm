@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-24T04:51:22Z" areas="2022-07-20T10:48:09Z"/>
+<meta osm_base="2022-09-25T04:41:23Z" areas="2022-07-20T10:48:09Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -1600,12 +1600,12 @@
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="673971061" lat="45.4677475" lon="9.1817257" version="5" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
+  <node id="673971061" lat="45.4677475" lon="9.1817257" version="6" timestamp="2022-09-24T11:00:35Z" changeset="126577138" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Foro_Buonaparte_Milan.jpg"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Fountain of Foro Buonaparte Milan.jpg"/>
   </node>
   <node id="673971153" lat="45.4696659" lon="9.1816382" version="9" timestamp="2018-02-01T19:58:17Z" changeset="55976238" uid="1476146" user="Alecs01">
     <tag k="amenity" v="drinking_water"/>
@@ -3773,7 +3773,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1828890765" lat="45.4657850" lon="9.1915481" version="15" timestamp="2022-03-31T21:01:15Z" changeset="119177561" uid="113669" user="AnyFile">
+  <node id="1828890765" lat="45.4657850" lon="9.1915481" version="16" timestamp="2022-09-24T11:00:35Z" changeset="126577138" uid="11220113" user="ivanbranco">
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Santa Radegonda"/>
@@ -3787,12 +3787,10 @@
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/1097473"/>
     <tag k="contact:website" v="http://www.luini.it/"/>
     <tag k="diet:vegetarian" v="yes"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Panzerotti_Luini_Milano,_Italy_-_Shop_sign.jpg"/>
     <tag k="name" v="Luini"/>
     <tag k="name:it" v="Luini"/>
     <tag k="name:ru" v="Пирожки Панцеротти Luini"/>
     <tag k="opening_hours" v="Mo 10:00-15:00; Tu-Sa 10:00-20:00"/>
-    <tag k="opening_hours:covid19" v="Mo-Sa 10:30-20:00"/>
     <tag k="operator" v="Luini S.R.L."/>
     <tag k="payment:cash" v="yes"/>
     <tag k="ref:vatin" v="IT01011470158"/>
@@ -14614,72 +14612,66 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4953160519" lat="45.4846420" lon="9.1782413" version="3" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953160519" lat="45.4846420" lon="9.1782413" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Piazzale_Cimitero_Monumentale_Milan_-_01.jpg"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Fountain_of_Piazzale_Cimitero_Monumentale_Milan_-_01.jpg"/>
   </node>
-  <node id="4953161422" lat="45.4857315" lon="9.1909807" version="3" timestamp="2019-09-13T13:07:19Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953161422" lat="45.4857315" lon="9.1909807" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="drinking_water"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4953161463" lat="45.4855277" lon="9.1929180" version="3" timestamp="2019-09-13T12:59:35Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953161463" lat="45.4855277" lon="9.1929180" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="drinking_water"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4953161507" lat="45.5013677" lon="9.1463316" version="4" timestamp="2020-02-10T13:39:26Z" changeset="80799001" uid="576807" user="Cerrotorre1974">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953161507" lat="45.5013677" lon="9.1463316" version="5" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="drinking_water"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_Via_Demetrio_Cretese_Milan.jpg"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="limited"/>
+    <tag k="wikimedia_commons" v="File:Fountain_Via_Demetrio_Cretese_Milan.jpg"/>
   </node>
-  <node id="4953161511" lat="45.4943712" lon="9.1649904" version="3" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953161511" lat="45.4943712" lon="9.1649904" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Via_Principe_Eugenio_Milan_-_01.jpg"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Fountain_of_Via_Principe_Eugenio_Milan_-_01.jpg"/>
   </node>
-  <node id="4953162376" lat="45.4992175" lon="9.1509951" version="3" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953162376" lat="45.4992175" lon="9.1509951" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Piazza_Pompeo_Castelli_Milan.jpg"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="limited"/>
+    <tag k="wikimedia_commons" v="File:Fountain_of_Piazza_Pompeo_Castelli_Milan.jpg"/>
   </node>
   <node id="4953163040" lat="45.4811487" lon="9.2416115" version="4" timestamp="2021-04-22T17:13:27Z" changeset="103427490" uid="716570" user="Francesco V">
     <tag k="access" v="yes"/>
@@ -14693,53 +14685,49 @@
     <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4953163041" lat="45.4800877" lon="9.2342371" version="3" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953163041" lat="45.4800877" lon="9.2342371" version="4" timestamp="2022-09-24T11:00:35Z" changeset="126577138" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="drinking_water"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Via_Camillo_Golgi_Milan.jpg"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Fountain of Via Camillo Golgi Milan.jpg"/>
   </node>
-  <node id="4953163052" lat="45.4992674" lon="9.1479623" version="3" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953163052" lat="45.4992674" lon="9.1479623" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Console_Marcello_Milan.jpg"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="limited"/>
+    <tag k="wikimedia_commons" v="File:Fountain_of_Console_Marcello_Milan.jpg"/>
   </node>
-  <node id="4953163109" lat="45.4559623" lon="9.1819643" version="4" timestamp="2020-01-12T20:44:04Z" changeset="79487125" uid="567632" user="vittomg">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953163109" lat="45.4559623" lon="9.1819643" version="5" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="no"/>
     <tag k="fountain" v="milanese"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4953163465" lat="45.4970401" lon="9.1517543" version="3" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="4953163465" lat="45.4970401" lon="9.1517543" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Via_Bramantino_Milan.jpg"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Fountain_of_Via_Bramantino_Milan.jpg"/>
   </node>
   <node id="4958599054" lat="45.5183943" lon="9.2580342" version="3" timestamp="2021-06-17T21:10:27Z" changeset="106552724" uid="8716397" user="f_gonella">
     <tag k="barrier" v="gate"/>
@@ -15483,18 +15471,17 @@
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5414695507" lat="45.4739072" lon="9.1754319" version="2" timestamp="2020-03-22T13:39:17Z" changeset="82483520" uid="576807" user="Cerrotorre1974">
-    <tag k="Fonte" v="Metropolitana Milanese - MM"/>
-    <tag k="Licenza" v="CC-BY"/>
+  <node id="5414695507" lat="45.4739072" lon="9.1754319" version="4" timestamp="2022-09-24T11:09:32Z" changeset="126577361" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
-    <tag k="image" v="https://commons.wikimedia.org/wiki/File:Fountain_of_Viale_Giovanni_Battista_Racine_Parco_Sempione_Milan.jpg"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
-    <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Fountain of Viale Giovanni Battista Racine Parco Sempione Milan.jpg"/>
   </node>
   <node id="5417230115" lat="45.4649052" lon="9.1864452" version="3" timestamp="2022-05-16T08:33:50Z" changeset="121039892" uid="1967477" user="bubix">
     <tag k="addr:city" v="Milano"/>
