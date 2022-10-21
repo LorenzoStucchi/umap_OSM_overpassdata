@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-20T04:37:52Z" areas="2022-10-20T03:45:06Z"/>
+<meta osm_base="2022-10-21T04:31:17Z" areas="2022-10-21T03:55:34Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -11960,6 +11960,15 @@
     <tag k="website" v="https://www.gingercocktailab.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4051440973" lat="45.4870840" lon="9.2370632" version="2" timestamp="2022-10-20T14:01:41Z" changeset="127841234" uid="67550" user="Aiman">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Via Ronchi"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4073817208" lat="45.4768399" lon="9.2009694" version="3" timestamp="2020-12-14T22:54:20Z" changeset="95836692" uid="454306" user="dega180">
     <tag k="brand" v="Euronics"/>
     <tag k="brand:wikidata" v="Q184860"/>
@@ -19242,14 +19251,16 @@
     <tag k="website" v="https://www.indigomilano.it/it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9530370510" lat="45.4870792" lon="9.2369924" version="1" timestamp="2022-02-23T16:59:09Z" changeset="117779372" uid="67550" user="Aiman">
+  <node id="9530370510" lat="45.4870792" lon="9.2369924" version="2" timestamp="2022-10-20T14:01:08Z" changeset="127841206" uid="67550" user="Aiman">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Via Ronchi"/>
+    <tag k="alt_name" v="AIS sede nazionale"/>
     <tag k="contact:email" v="info@aismilano.it"/>
-    <tag k="level" v="2"/>
-    <tag k="name" v="AIS Milano"/>
+    <tag k="level" v="0,1,2"/>
+    <tag k="name" v="Associazione Italiana Sommelier sede nazionale"/>
     <tag k="office" v="association"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa-Su closed; PH closed"/>
     <tag k="website" v="http://www.aismilano.wine"/>
     <tag k="wheelchair" v="yes"/>
   </node>
