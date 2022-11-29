@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-28T03:42:52Z" areas="2022-11-28T03:00:01Z"/>
+<meta osm_base="2022-11-29T03:39:21Z" areas="2022-11-29T03:13:54Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -8480,6 +8480,14 @@
     <tag k="website" v="https://www.officinabernardi.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3027312488" lat="45.4862474" lon="9.2061099" version="5" timestamp="2022-11-28T16:57:44Z" changeset="129484507" uid="11220113" user="ivanbranco">
+    <tag k="amenity" v="toilets"/>
+    <tag k="charge" v="1 €"/>
+    <tag k="fee" v="yes"/>
+    <tag k="level" v="2"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3030459975" lat="45.4656789" lon="9.1908648" version="2" timestamp="2022-11-03T15:04:21Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="K-Way"/>
     <tag k="shop" v="clothes"/>
@@ -8547,14 +8555,18 @@
     <tag k="shop" v="newsagent"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3040011377" lat="45.4857038" lon="9.2055487" version="3" timestamp="2021-04-21T20:51:10Z" changeset="103364066" uid="4890411" user="phaerrax">
+  <node id="3040011377" lat="45.4857038" lon="9.2055487" version="7" timestamp="2022-11-28T21:22:15Z" changeset="129492777" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="place_of_worship"/>
-    <tag k="layer" v="2"/>
     <tag k="level" v="2"/>
+    <tag k="name" v="Cappella di Stazione"/>
+    <tag k="religion" v="christian"/>
+    <tag k="service_times" v="18:00"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Interni Cappella Stazione.jpg"/>
   </node>
-  <node id="3040011379" lat="45.4858341" lon="9.2056774" version="3" timestamp="2021-04-21T20:51:10Z" changeset="103364066" uid="4890411" user="phaerrax">
+  <node id="3040011379" lat="45.4858341" lon="9.2056774" version="4" timestamp="2022-11-28T17:17:13Z" changeset="129485157" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="police"/>
+    <tag k="operator" v="Polizia Ferroviaria"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3042197612" lat="45.4626895" lon="9.2064095" version="2" timestamp="2022-03-26T14:10:01Z" changeset="118947759" uid="1875845" user="Valerio_Bozzolan">
