@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-30T03:32:46Z" areas="2022-11-30T03:28:52Z"/>
+<meta osm_base="2022-12-01T03:51:54Z" areas="2022-12-01T03:42:38Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -1595,6 +1595,18 @@
     <tag k="ref:msal" v="2862"/>
     <tag k="ref:vatin" v="IT10146710966"/>
     <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="617299311" lat="45.4765871" lon="9.2310023" version="12" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="617299313" lat="45.4767975" lon="9.2305504" version="5" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Via Giovanni Celoria"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="639780037" lat="45.4852313" lon="9.2025963" version="5" timestamp="2019-09-13T08:41:13Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -4823,6 +4835,10 @@
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="http://www.equilibriourbano.it"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2135497615" lat="45.4761324" lon="9.2320501" version="7" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2139820630" lat="45.4367836" lon="9.1916515" version="8" timestamp="2021-11-06T17:29:48Z" changeset="113455809" uid="11645399" user="davidoskky">
     <tag k="brand" v="PENNY"/>
@@ -16855,6 +16871,11 @@
     <tag k="ref:vatin" v="IT10580160157"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="5734977916" lat="45.4765873" lon="9.2310721" version="3" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="5744250735" lat="45.5138581" lon="9.2113158" version="4" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
     <tag k="access" v="yes"/>
     <tag k="door" v="yes"/>
@@ -17406,6 +17427,10 @@
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912730458" lat="45.4762292" lon="9.2321998" version="4" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5913247063" lat="45.4808384" lon="9.2263821" version="2" timestamp="2019-10-18T22:04:46Z" changeset="75915016" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
@@ -18126,6 +18151,14 @@
     <tag k="website" v="http://www.la-caveja.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="6919811658" lat="45.4765547" lon="9.2275033" version="2" timestamp="2022-11-30T13:40:16Z" changeset="129562581" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6919811666" lat="45.4766903" lon="9.2274977" version="2" timestamp="2022-11-30T13:39:21Z" changeset="129562556" uid="17843669" user="DomKor">
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="6938841386" lat="45.4746789" lon="9.2072001" version="2" timestamp="2022-04-23T08:44:47Z" changeset="120081314" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
@@ -18179,6 +18212,14 @@
     <tag k="phone" v="+39 02 88462920"/>
     <tag k="ref:isil" v="IT-MI0499"/>
     <tag k="website" v="https://biblioteche.comune.milano.it/library/tibaldi"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7037174939" lat="45.4768124" lon="9.2320420" version="3" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Via Giovanni Celoria"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="material" v="metal"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7040174201" lat="45.4619849" lon="9.2192264" version="3" timestamp="2021-01-16T15:27:10Z" changeset="97608919" uid="12169583" user="davidfaure_bot">
