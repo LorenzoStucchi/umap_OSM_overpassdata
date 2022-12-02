@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-01T03:51:54Z" areas="2022-12-01T03:42:38Z"/>
+<meta osm_base="2022-12-02T03:29:09Z" areas="2022-12-02T03:22:49Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -10165,14 +10165,14 @@
     <tag k="ref:mise" v="4855"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3621790115" lat="45.4472755" lon="9.1587508" version="9" timestamp="2022-10-03T14:50:50Z" changeset="126942374" uid="13840929" user="aa30mom">
+  <node id="3621790115" lat="45.4472755" lon="9.1587508" version="10" timestamp="2022-12-01T22:06:51Z" changeset="129621918" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="20143"/>
     <tag k="addr:street" v="Viale Cassala"/>
     <tag k="alt_name" v="Arepaz"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="contact:email" v="info@arepaz.it;arepaz.milano@gmail.com"/>
+    <tag k="contact:email" v="info@arepaz.it"/>
     <tag k="contact:facebook" v="Arepazmilano"/>
     <tag k="contact:phone" v="+39 02 36736703"/>
     <tag k="contact:tripadvisor" v="441374"/>
@@ -13682,11 +13682,11 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4348681394" lat="45.4690445" lon="9.1818105" version="3" timestamp="2019-03-27T11:54:20Z" changeset="68583514" uid="9451067" user="b-jazz-bot">
+  <node id="4348681394" lat="45.4690445" lon="9.1818105" version="4" timestamp="2022-12-01T12:39:48Z" changeset="129602371" uid="113669" user="AnyFile">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Piazza Castello"/>
-    <tag k="amenity" v="bar"/>
+    <tag k="amenity" v="cafe"/>
     <tag k="cuisine" v="italian"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Bar Castello"/>
@@ -15364,6 +15364,23 @@
     <tag k="name" v="Birreria Okey"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="5009743821" lat="45.4743869" lon="9.2322786" version="2" timestamp="2022-12-01T10:03:20Z" changeset="129595579" uid="17843669" user="DomKor">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="no"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="name" v="Entrata veicoli"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5009743824" lat="45.4743881" lon="9.2324214" version="2" timestamp="2022-12-01T10:03:20Z" changeset="129595579" uid="17843669" user="DomKor">
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="no"/>
+    <tag k="locked" v="no"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="name" v="Uscita veicoli"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5015912580" lat="45.4917730" lon="9.1953179" version="2" timestamp="2019-09-13T13:21:01Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -16328,6 +16345,12 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="name" v="Breakbianco"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5539919308" lat="45.4751684" lon="9.2345552" version="3" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="access" v="permissive"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5544455847" lat="45.4837858" lon="9.1888512" version="3" timestamp="2019-09-13T13:05:53Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="1"/>
@@ -17427,6 +17450,91 @@
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912625872" lat="45.4743995" lon="9.2336128" version="3" timestamp="2022-12-01T09:25:09Z" changeset="129593850" uid="17843669" user="DomKor">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5912626104" lat="45.4747318" lon="9.2328515" version="2" timestamp="2022-12-01T09:25:09Z" changeset="129593850" uid="17843669" user="DomKor">
+    <tag k="access" v="permissive"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5912626110" lat="45.4746434" lon="9.2328806" version="2" timestamp="2022-12-01T09:25:09Z" changeset="129593850" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="level" v="1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5912626114" lat="45.4746433" lon="9.2328534" version="2" timestamp="2022-12-01T09:25:09Z" changeset="129593850" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912626289" lat="45.4744019" lon="9.2339851" version="3" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5912626361" lat="45.4755972" lon="9.2340647" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5912626381" lat="45.4752602" lon="9.2339860" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5912626382" lat="45.4753167" lon="9.2340135" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912626383" lat="45.4753400" lon="9.2340671" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5912626387" lat="45.4761129" lon="9.2328083" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912626388" lat="45.4761005" lon="9.2325921" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912626389" lat="45.4761297" lon="9.2325394" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="exit"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912626390" lat="45.4760697" lon="9.2328441" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912626416" lat="45.4759618" lon="9.2327757" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="staircase"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5912626428" lat="45.4757018" lon="9.2327701" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5912626568" lat="45.4757737" lon="9.2337748" version="2" timestamp="2022-12-01T09:15:58Z" changeset="129593439" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5912626596" lat="45.4762241" lon="9.2332133" version="2" timestamp="2022-12-01T10:03:20Z" changeset="129595579" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5912626600" lat="45.4760660" lon="9.2334314" version="5" timestamp="2022-12-01T10:03:20Z" changeset="129595579" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="fountain" v="bottle_refill"/>
+    <tag k="name" v="Casetta dell'acqua"/>
+    <tag k="operator" v="UNIMI"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5912730458" lat="45.4762292" lon="9.2321998" version="4" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
     <tag k="entrance" v="main"/>
@@ -22123,6 +22231,13 @@
     <tag k="start_date" v="2022"/>
     <tag k="toilets" v="yes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="10230441416" lat="45.4743962" lon="9.2330934" version="1" timestamp="2022-12-01T09:25:09Z" changeset="129593850" uid="17843669" user="DomKor">
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
