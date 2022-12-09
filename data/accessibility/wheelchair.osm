@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-08T03:26:39Z" areas="2022-12-08T02:33:45Z"/>
+<meta osm_base="2022-12-09T03:26:21Z" areas="2022-12-09T03:14:03Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -1393,8 +1393,9 @@
     <tag k="name" v="La Magolfa 3"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="471165586" lat="45.4668738" lon="9.1901997" version="6" timestamp="2018-11-14T22:56:47Z" changeset="64506433" uid="76884" user="philippec">
+  <node id="471165586" lat="45.4668738" lon="9.1901997" version="7" timestamp="2022-12-08T16:41:20Z" changeset="129868440" uid="11928236" user="megaloman-it">
     <tag k="amenity" v="drinking_water"/>
+    <tag k="fountain" v="bubbler"/>
     <tag k="mapillary" v="https://www.mapillary.com/app/?lat=45.4668276&amp;lng=9.19026180000214&amp;z=19.17634986432786&amp;mapStyle=osm&amp;pKey=t3ggxBtJXe9ZkR3SHP341A&amp;focus=photo&amp;x=0.49406098008875227&amp;y=0.49530522126797727&amp;zoom=0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -3839,7 +3840,7 @@
     <tag k="wikidata" v="Q100928198"/>
     <tag k="wikimedia_commons" v="Category:Panzerotti Luini"/>
   </node>
-  <node id="1828890767" lat="45.4673111" lon="9.1892579" version="15" timestamp="2022-09-22T22:11:09Z" changeset="126523422" uid="67550" user="Aiman">
+  <node id="1828890767" lat="45.4673111" lon="9.1892579" version="16" timestamp="2022-12-08T16:31:11Z" changeset="129867996" uid="11928236" user="megaloman-it">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20121"/>
@@ -3853,7 +3854,7 @@
     <tag k="name:es" v="Museo Teatro de la Scala"/>
     <tag k="name:it" v="Museo Teatrale alla Scala"/>
     <tag k="name:ru" v="Музей театра Ла Скала"/>
-    <tag k="opening_hours" v="10:00-18:00; Jan 01, May 01, Aug 15, Dec 07,Dec 25,Dec 26 off"/>
+    <tag k="opening_hours" v="Mo-Su 09:30-17:30; Jan 1, May 1, Aug 15, Dec 7, Dec 25, Dec 26 off"/>
     <tag k="phone" v="+39 02 88797473"/>
     <tag k="tourism" v="museum"/>
     <tag k="website" v="https://www.museoscala.org/"/>
@@ -11723,12 +11724,15 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3877991021" lat="45.4698917" lon="9.1931751" version="2" timestamp="2019-09-13T09:42:01Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3877991021" lat="45.4698917" lon="9.1931751" version="3" timestamp="2022-12-08T09:48:57Z" changeset="129853467" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Monte Napoleone"/>
+    <tag k="brand" v="Pinko"/>
+    <tag k="brand:wikidata" v="Q3905226"/>
+    <tag k="clothes" v="women"/>
     <tag k="name" v="Pinko"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
@@ -29542,6 +29546,61 @@
     <tag k="fee" v="no"/>
     <tag k="parking" v="surface"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1120407404" version="2" timestamp="2022-12-08T19:26:21Z" changeset="129874886" uid="2498239" user="maurizioa">
+    <center lat="45.4440963" lon="9.1856411"/>
+    <nd ref="10247420945"/>
+    <nd ref="10247420944"/>
+    <nd ref="10247420943"/>
+    <nd ref="10247420942"/>
+    <nd ref="10247420941"/>
+    <nd ref="10247462827"/>
+    <nd ref="10247420940"/>
+    <nd ref="10247420939"/>
+    <nd ref="10247420938"/>
+    <nd ref="10247420937"/>
+    <nd ref="10247462821"/>
+    <nd ref="10247420936"/>
+    <nd ref="10247420935"/>
+    <nd ref="10247420945"/>
+    <tag k="area" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="1"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1120407405" version="2" timestamp="2022-12-08T19:26:21Z" changeset="129874886" uid="2498239" user="maurizioa">
+    <center lat="45.4442586" lon="9.1856794"/>
+    <nd ref="10247420957"/>
+    <nd ref="10247420956"/>
+    <nd ref="10247462818"/>
+    <nd ref="10247420949"/>
+    <nd ref="10247420955"/>
+    <nd ref="10247420947"/>
+    <nd ref="10247420954"/>
+    <nd ref="10247462825"/>
+    <nd ref="10247420953"/>
+    <nd ref="10247420946"/>
+    <nd ref="10247420952"/>
+    <nd ref="10247420948"/>
+    <nd ref="10247420951"/>
+    <nd ref="10247420950"/>
+    <nd ref="10247420957"/>
+    <tag k="area" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="1"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
 
