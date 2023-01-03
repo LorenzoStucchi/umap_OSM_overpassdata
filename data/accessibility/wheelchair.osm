@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-02T03:18:58Z" areas="2023-01-02T02:21:09Z"/>
+<meta osm_base="2023-01-03T03:16:37Z" areas="2023-01-03T02:35:07Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -13945,6 +13945,16 @@
     <tag k="name" v="My Sushi - Rinascente"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4425378039" lat="45.4709459" lon="9.1938029" version="6" timestamp="2023-01-02T17:16:37Z" changeset="130796420" uid="13840929" user="aa30mom">
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
+    <tag k="name" v="Via Manzoni Via Pisoni"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="11830"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4438018230" lat="45.4654180" lon="9.1957811" version="8" timestamp="2022-11-03T14:26:24Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:postcode" v="20121"/>
@@ -15020,29 +15030,31 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4889473592" lat="45.4682761" lon="9.1825546" version="2" timestamp="2019-09-20T13:38:23Z" changeset="74719360" uid="9894556" user="Gabriele-Kinoa">
+  <node id="4889473592" lat="45.4682761" lon="9.1825546" version="3" timestamp="2023-01-02T17:07:52Z" changeset="130796019" uid="13840929" user="aa30mom">
     <tag k="bench" v="yes"/>
-    <tag k="name" v="Cairoli"/>
+    <tag k="name" v="Cairoli M1"/>
     <tag k="public_transport" v="platform"/>
     <tag k="ref" v="11536"/>
     <tag k="shelter" v="yes"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4889789447" lat="45.4681746" lon="9.1819464" version="3" timestamp="2023-01-01T16:17:21Z" changeset="130754898" uid="13840929" user="aa30mom">
+  <node id="4889789447" lat="45.4681746" lon="9.1819464" version="4" timestamp="2023-01-02T13:49:09Z" changeset="130788702" uid="13840929" user="aa30mom">
     <tag k="bench" v="yes"/>
     <tag k="name" v="Cairoli M1"/>
     <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="11535"/>
     <tag k="shelter" v="yes"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4889789488" lat="45.4781003" lon="9.1974648" version="4" timestamp="2022-07-22T11:12:52Z" changeset="123934263" uid="13689061" user="totoroot">
+  <node id="4889789488" lat="45.4781003" lon="9.1974648" version="5" timestamp="2023-01-02T13:49:09Z" changeset="130788702" uid="13840929" user="aa30mom">
     <tag k="bench" v="no"/>
     <tag k="bin" v="no"/>
     <tag k="name" v="Repubblica M3"/>
     <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="11871"/>
     <tag k="shelter" v="no"/>
     <tag k="tactile_paving" v="no"/>
@@ -22565,6 +22577,46 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1073674"/>
     <tag k="wikipedia" v="it:Università degli Studi di Milano-Bicocca"/>
+  </way>
+  <way id="25350197" version="4" timestamp="2023-01-02T16:28:49Z" changeset="130794590" uid="67550" user="Aiman">
+    <center lat="45.5100365" lon="9.1854313"/>
+    <nd ref="276266277"/>
+    <nd ref="1490290207"/>
+    <nd ref="1490290205"/>
+    <nd ref="1490290201"/>
+    <nd ref="1490290204"/>
+    <nd ref="276266279"/>
+    <nd ref="1490290203"/>
+    <nd ref="1490290202"/>
+    <nd ref="10300763571"/>
+    <nd ref="1490290213"/>
+    <nd ref="1490290215"/>
+    <nd ref="276266281"/>
+    <nd ref="1490290219"/>
+    <nd ref="1490290224"/>
+    <nd ref="1490290227"/>
+    <nd ref="1490290225"/>
+    <nd ref="276266283"/>
+    <nd ref="1490290223"/>
+    <nd ref="1490290226"/>
+    <nd ref="1490290222"/>
+    <nd ref="1490290220"/>
+    <nd ref="1490290218"/>
+    <nd ref="1490290217"/>
+    <nd ref="1490290216"/>
+    <nd ref="1490290214"/>
+    <nd ref="1490290212"/>
+    <nd ref="1490290211"/>
+    <nd ref="1490290210"/>
+    <nd ref="1490290209"/>
+    <nd ref="1490290208"/>
+    <nd ref="276266277"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Chiesa Santa Maria Annunciata"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="25527400" version="12" timestamp="2020-01-25T17:57:03Z" changeset="80080189" uid="561047" user="ggamba">
     <center lat="45.4988218" lon="9.1655690"/>
