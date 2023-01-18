@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-17T03:21:38Z" areas="2023-01-17T03:20:34Z"/>
+<meta osm_base="2023-01-18T03:24:29Z" areas="2023-01-18T02:31:48Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -7860,17 +7860,28 @@
     <tag k="phone" v="+39 02 39565381"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2909096958" lat="45.4839671" lon="9.2076329" version="7" timestamp="2022-12-05T09:53:20Z" changeset="129734068" uid="11220113" user="ivanbranco">
+  <node id="2909096958" lat="45.4839671" lon="9.2076329" version="8" timestamp="2023-01-17T10:15:10Z" changeset="131371593" uid="10772613" user="Ivan Caparros">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Domenico Scarlatti"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="bar" v="yes"/>
+    <tag k="description" v="The Andreola Central Hotel is a 4-star hotel located in the centre of Milan featuring architecture of columns in rose-coloured Portuguese and red French marble, plus classic rooms, business center, roopftop restaurant, Wi-Fi and breakfast buffet."/>
     <tag k="email" v="info@andreolahotel.it"/>
     <tag k="fax" v="+39 02 66713198"/>
+    <tag k="image" v="https://www.andreolahotel.it/cache/47/cb/47cb3aef6e4bcdb6c8845715d00f717b.jpg"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Hotel Andreola Central"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+39 02 6709141"/>
-    <tag k="rooms" v="78"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="rooms" v="85"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="source" v="survey;www.andreolahotel.it"/>
     <tag k="stars" v="4"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="tourism" v="hotel"/>
@@ -9249,20 +9260,33 @@
     <tag k="phone" v="+39 02 66987065"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3217983449" lat="45.4821264" lon="9.1986565" version="3" timestamp="2022-02-25T14:51:16Z" changeset="117852224" uid="13840929" user="aa30mom">
+  <node id="3217983449" lat="45.4821264" lon="9.1986565" version="4" timestamp="2023-01-17T09:52:42Z" changeset="131370727" uid="10772613" user="Ivan Caparros">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Fabio Filzi"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="bar" v="yes"/>
+    <tag k="description" v="Located in the heart of Milan’s Business district, the Hotel Marconi is a 4-star hotel with classical rooms with modern services, outdoor parking, transfer service, free Wi-Fi, meeting room, buffet breakfast and bar."/>
     <tag k="email" v="info@marconihotel.it"/>
     <tag k="fax" v="+39 02 6690738"/>
+    <tag k="image" v="https://www.marconihotel.it/cache/21/a4/21a41766835d7b675bbd49c301760d5b.jpg"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Hotel Marconi"/>
+    <tag k="operator" v="Dotcom Consulting"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+39 02 66985561"/>
+    <tag k="reservation" v="yes"/>
     <tag k="rooms" v="68"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="source" v="survey;www.marconihotel.it"/>
     <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
-    <tag k="website" v="http://www.marconihotel.it/it/"/>
+    <tag k="website" v="http://www.marconihotel.it"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3217983451" lat="45.4836670" lon="9.2015511" version="4" timestamp="2022-02-01T06:14:43Z" changeset="116850602" uid="3860151" user="Michele Aquilani">
@@ -15017,6 +15041,18 @@
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="ref" v="11840"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4889473590" lat="45.4662055" lon="9.1861696" version="5" timestamp="2023-01-17T13:22:27Z" changeset="131379352" uid="13840929" user="aa30mom">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="comment:it" v="con display indicatore di tempo di attesa;pensilina doppia"/>
+    <tag k="name" v="Cordusio M1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="ref" v="11497"/>
     <tag k="shelter" v="yes"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -29747,7 +29783,7 @@
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1074793331" version="2" timestamp="2022-07-05T14:09:09Z" changeset="123237449" uid="11242131" user="ja+">
+  <way id="1074793331" version="4" timestamp="2023-01-17T20:08:01Z" changeset="131394680" uid="18306404" user="over_the_edge">
     <center lat="45.5112807" lon="9.2605808"/>
     <nd ref="1496374708"/>
     <nd ref="4367024695"/>
@@ -29764,6 +29800,8 @@
     <nd ref="1496374708"/>
     <tag k="access" v="private"/>
     <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="covered" v="yes"/>
     <tag k="layer" v="1"/>
     <tag k="level" v="1"/>
     <tag k="lit" v="yes"/>
@@ -29773,7 +29811,7 @@
     <tag k="tunnel" v="building_passage"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="1074793332" version="2" timestamp="2022-07-05T14:09:09Z" changeset="123237449" uid="11242131" user="ja+">
+  <way id="1074793332" version="4" timestamp="2023-01-17T20:08:00Z" changeset="131394680" uid="18306404" user="over_the_edge">
     <center lat="45.5111577" lon="9.2606172"/>
     <nd ref="9858020625"/>
     <nd ref="4367024696"/>
@@ -29786,6 +29824,8 @@
     <nd ref="9858020625"/>
     <tag k="access" v="private"/>
     <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="covered" v="yes"/>
     <tag k="layer" v="1"/>
     <tag k="level" v="1"/>
     <tag k="lit" v="yes"/>
@@ -29795,7 +29835,7 @@
     <tag k="tunnel" v="building_passage"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="1074793333" version="2" timestamp="2022-07-05T14:09:09Z" changeset="123237449" uid="11242131" user="ja+">
+  <way id="1074793333" version="4" timestamp="2023-01-17T20:07:59Z" changeset="131394680" uid="18306404" user="over_the_edge">
     <center lat="45.5110366" lon="9.2606540"/>
     <nd ref="9858020627"/>
     <nd ref="4367024701"/>
@@ -29810,6 +29850,8 @@
     <nd ref="9858020627"/>
     <tag k="access" v="private"/>
     <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="covered" v="yes"/>
     <tag k="layer" v="1"/>
     <tag k="level" v="1"/>
     <tag k="lit" v="yes"/>
