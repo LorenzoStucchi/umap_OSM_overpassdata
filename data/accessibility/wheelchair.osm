@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-19T03:26:09Z" areas="2023-01-19T02:43:10Z"/>
+<meta osm_base="2023-01-20T03:26:10Z" areas="2023-01-20T03:21:05Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -552,16 +552,18 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="279124325" lat="45.4376831" lon="9.1552399" version="5" timestamp="2022-01-22T15:30:51Z" changeset="116470187" uid="13840929" user="aa30mom">
+  <node id="279124325" lat="45.4376831" lon="9.1552399" version="6" timestamp="2023-01-19T22:50:03Z" changeset="131485279" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20143"/>
     <tag k="addr:street" v="Piazza Guglielmo Miani"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
+    <tag k="fax" v="+390289181210"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Barona sas"/>
     <tag k="operator" v="Barona sas"/>
+    <tag k="phone" v="+3902817401"/>
     <tag k="ref:msal" v="2951"/>
     <tag k="ref:vatin" v="IT09270110969"/>
     <tag k="source" v="Ministero della Salute"/>
@@ -3069,6 +3071,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1611026298" lat="45.4636164" lon="9.1883065" version="7" timestamp="2023-01-19T16:31:17Z" changeset="131474780" uid="18306404" user="over_the_edge">
+    <tag k="comment" v="Closed at late night (even when the underground station is still open. In this case use other entrances and stairs to get access to the station or to exit from the station)"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1611026320" lat="45.4638744" lon="9.1899304" version="6" timestamp="2021-12-17T13:25:58Z" changeset="115056816" uid="8350372" user="Balaabirami">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -3169,6 +3176,11 @@
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1611026649" lat="45.4806379" lon="9.2111011" version="3" timestamp="2022-05-22T10:22:50Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026679" lat="45.4842289" lon="9.2150894" version="3" timestamp="2023-01-19T14:11:35Z" changeset="131468671" uid="18210119" user="VersusJH">
+    <tag k="name" v="Loreto"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -4996,6 +5008,11 @@
   </node>
   <node id="2181279992" lat="45.4846664" lon="9.2028165" version="5" timestamp="2021-08-31T12:17:20Z" changeset="110512020" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Centrale FS"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2181512761" lat="45.4635964" lon="9.1883969" version="8" timestamp="2023-01-19T16:31:17Z" changeset="131474780" uid="18306404" user="over_the_edge">
+    <tag k="comment" v="Closed at late night (even when the underground station is still open. In this case use other entrances and stairs to get access to the station or to exit from the station)"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -7860,7 +7877,7 @@
     <tag k="phone" v="+39 02 39565381"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2909096958" lat="45.4839671" lon="9.2076329" version="8" timestamp="2023-01-17T10:15:10Z" changeset="131371593" uid="10772613" user="Ivan Caparros">
+  <node id="2909096958" lat="45.4839671" lon="9.2076329" version="8" timestamp="2023-01-17T10:15:10Z" changeset="131371593" uid="10772613" user="Iván Caparrós">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="24"/>
@@ -9260,7 +9277,7 @@
     <tag k="phone" v="+39 02 66987065"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3217983449" lat="45.4821264" lon="9.1986565" version="4" timestamp="2023-01-17T09:52:42Z" changeset="131370727" uid="10772613" user="Ivan Caparros">
+  <node id="3217983449" lat="45.4821264" lon="9.1986565" version="4" timestamp="2023-01-17T09:52:42Z" changeset="131370727" uid="10772613" user="Iván Caparrós">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
