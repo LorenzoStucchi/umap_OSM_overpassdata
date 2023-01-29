@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-28T03:21:53Z" areas="2023-01-28T02:29:06Z"/>
+<meta osm_base="2023-01-29T03:25:17Z" areas="2023-01-29T02:38:55Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -13007,6 +13007,21 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4207082862" lat="45.4871628" lon="9.1719943" version="3" timestamp="2023-01-28T09:09:41Z" changeset="131800024" uid="1477895" user="il Rene">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Via Cenisio"/>
+    <tag k="brand" v="Sant'Agostino"/>
+    <tag k="brand:wikipedia" v="it:Banca Nazionale del Lavoro"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="name" v="Centro Medico Sant'Agostino"/>
+    <tag k="official_name:en" v="National Labor Bank"/>
+    <tag k="official_name:it" v="Banca Nazionale del Lavoro"/>
+    <tag k="operator" v="Sant'Agostino"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4217061020" lat="45.4775441" lon="9.1841451" version="3" timestamp="2019-12-14T13:00:53Z" changeset="78407111" uid="417672" user="Guidus">
     <tag k="amenity" v="nightclub"/>
     <tag k="email" v="info@theclubmilano.com"/>
@@ -15299,8 +15314,9 @@
     <tag k="website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4953163041" lat="45.4800877" lon="9.2342371" version="4" timestamp="2022-09-24T11:00:35Z" changeset="126577138" uid="11220113" user="ivanbranco">
+  <node id="4953163041" lat="45.4800877" lon="9.2342371" version="5" timestamp="2023-01-28T18:14:58Z" changeset="131817549" uid="4841818" user="122131">
     <tag k="amenity" v="drinking_water"/>
+    <tag k="fountain" v="drinking"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
     <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="source" v="Metropolitana Milanese - MM"/>
@@ -15530,21 +15546,6 @@
     <tag k="name" v="Royal Market"/>
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="5074925170" lat="45.4913274" lon="9.1890603" version="2" timestamp="2021-06-18T12:15:58Z" changeset="106587593" uid="4838813" user="LorenzoStucchi">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="20159"/>
-    <tag k="addr:street" v="Via Genova Thaon Di Revel"/>
-    <tag k="email" v="info@officinemermaid.com"/>
-    <tag k="fax" v="+39 02 36798174"/>
-    <tag k="name" v="Officine Mermaid"/>
-    <tag k="opening_hours" v="Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-13:00,14:30-19:00"/>
-    <tag k="phone" v="+39 02 36798170"/>
-    <tag k="shop" v="motorcycle"/>
-    <tag k="website" v="https://www.officinemermaid.com/"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5074925188" lat="45.4910848" lon="9.1888484" version="2" timestamp="2019-09-13T13:47:25Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="shop" v="dry_cleaning"/>
@@ -19190,11 +19191,7 @@
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8550552872" lat="45.4931995" lon="9.1499877" version="1" timestamp="2021-03-22T16:01:26Z" changeset="101516482" uid="113669" user="AnyFile">
-    <tag k="barrier" v="step"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="8550552873" lat="45.4931992" lon="9.1499871" version="1" timestamp="2021-03-22T16:01:26Z" changeset="101516482" uid="113669" user="AnyFile">
+  <node id="8550552873" lat="45.4931916" lon="9.1499734" version="2" timestamp="2023-01-28T11:23:10Z" changeset="131803828" uid="8716397" user="f_gonella">
     <tag k="barrier" v="gate"/>
     <tag k="foot" v="permissive"/>
     <tag k="wheelchair" v="no"/>
@@ -22396,6 +22393,17 @@
     <tag k="takeaway" v="yes"/>
     <tag k="toilets" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10588694444" lat="45.4911901" lon="9.1888467" version="4" timestamp="2023-01-28T10:44:00Z" changeset="131802700" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20129"/>
+    <tag k="addr:street" v="Via Genova Thaon Di Revel"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="4mat bistrot"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT11203180960"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
