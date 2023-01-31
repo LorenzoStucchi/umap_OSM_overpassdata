@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-30T03:19:54Z" areas="2023-01-30T02:50:23Z"/>
+<meta osm_base="2023-01-31T03:26:15Z" areas="2023-01-31T02:38:36Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -1570,6 +1570,11 @@
     <tag k="source" v="recipt"/>
     <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-express-milano-via-cosseria-1-2891.html"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="598599767" lat="45.4583724" lon="9.1698115" version="6" timestamp="2023-01-30T23:14:47Z" changeset="131899785" uid="18306404" user="over_the_edge">
+    <tag k="name" v="Sant'Agostino"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="598599858" lat="45.4582015" lon="9.1692907" version="6" timestamp="2022-06-14T11:28:54Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Sant'Agostino"/>
@@ -3616,45 +3621,21 @@
     <tag k="name" v="Ponte di Brera"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1730563114" lat="45.4808659" lon="9.1973212" version="6" timestamp="2022-10-12T21:29:08Z" changeset="127437402" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="bench" v="no"/>
+  <node id="1730563114" lat="45.4808659" lon="9.1973212" version="7" timestamp="2023-01-30T18:13:44Z" changeset="131891765" uid="13840929" user="aa30mom">
     <tag k="name" v="Piazza San Gioachimo"/>
     <tag k="public_transport" v="stop_position"/>
     <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="11874"/>
-    <tag k="shelter" v="no"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1730563145" lat="45.4780888" lon="9.1976255" version="6" timestamp="2022-10-12T08:36:07Z" changeset="127400119" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="bench" v="yes"/>
+  <node id="1730563145" lat="45.4780888" lon="9.1976255" version="7" timestamp="2023-01-30T18:13:44Z" changeset="131891765" uid="13840929" user="aa30mom">
     <tag k="name" v="Repubblica M3"/>
     <tag k="public_transport" v="stop_position"/>
     <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="11877"/>
-    <tag k="shelter" v="yes"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="1730563162" lat="45.4847457" lon="9.2005685" version="5" timestamp="2019-09-13T08:36:33Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="bench" v="no"/>
-    <tag k="name" v="Via Filzi - Via Galvani"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="15528"/>
-    <tag k="shelter" v="no"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1730563167" lat="45.4834802" lon="9.1997527" version="7" timestamp="2022-10-12T21:11:14Z" changeset="127436700" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="bench" v="yes"/>
-    <tag k="name" v="Via Filzi - Via Pirelli"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="11880"/>
-    <tag k="shelter" v="yes"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1735145991" lat="45.4729954" lon="9.2296118" version="2" timestamp="2016-04-23T10:58:31Z" changeset="38810680" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
@@ -15963,13 +15944,16 @@
     <tag k="tourism" v="apartment"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5290174186" lat="45.4527629" lon="9.1663116" version="4" timestamp="2022-09-01T22:19:10Z" changeset="125674226" uid="1781586" user="fick89">
+  <node id="5290174186" lat="45.4527629" lon="9.1663116" version="5" timestamp="2023-01-30T23:29:52Z" changeset="131900019" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Via Tortona"/>
     <tag k="amenity" v="bar"/>
+    <tag k="email" v="mornamilano@gmail.com"/>
     <tag k="name" v="Morna"/>
+    <tag k="phone" v="+393455895057"/>
+    <tag k="website" v="https://www.facebook.com/people/Morna/100032074466214/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5297949309" lat="45.5021265" lon="9.1657665" version="3" timestamp="2022-09-12T07:55:16Z" changeset="126076698" uid="1477895" user="il Rene">
@@ -19442,11 +19426,6 @@
     <tag k="wikidata" v="Q2820829"/>
     <tag k="wikipedia" v="it:Abbiategrasso (metropolitana di Milano)"/>
   </node>
-  <node id="8721624699" lat="45.5046067" lon="9.1761693" version="5" timestamp="2023-01-27T16:22:44Z" changeset="131780044" uid="8350372" user="Balaabirami">
-    <tag k="mapillary" v="2921278711480845"/>
-    <tag k="survey:date" v="2019-12-30"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="8746064877" lat="45.5022833" lon="9.1898620" version="1" timestamp="2021-05-19T13:47:22Z" changeset="104966584" uid="1366111" user="xmau">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="76"/>
@@ -22413,6 +22392,24 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT11203180960"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="10594645101" lat="45.4847319" lon="9.2006515" version="2" timestamp="2023-01-30T18:13:44Z" changeset="131891765" uid="13840929" user="aa30mom">
+    <tag k="bench" v="no"/>
+    <tag k="name" v="Via Filzi - Via Galvani"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="15528"/>
+    <tag k="shelter" v="no"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10594645102" lat="45.4834513" lon="9.1998482" version="1" timestamp="2023-01-30T18:02:43Z" changeset="131891410" uid="13840929" user="aa30mom">
+    <tag k="bench" v="yes"/>
+    <tag k="name" v="Via Filzi - Via Pirelli"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="11880"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
