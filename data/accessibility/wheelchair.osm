@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-09T03:27:38Z" areas="2023-02-09T01:47:06Z"/>
+<meta osm_base="2023-02-10T03:32:51Z" areas="2023-02-10T03:01:09Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -16840,7 +16840,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5683348855" lat="45.4775808" lon="9.2287441" version="4" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+  <node id="5683348855" lat="45.4775791" lon="9.2287390" version="5" timestamp="2023-02-09T16:17:01Z" changeset="132315844" uid="4841818" user="122131">
     <tag k="access" v="permissive"/>
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -20352,7 +20352,7 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9568166097" lat="45.4773829" lon="9.2287708" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+  <node id="9568166097" lat="45.4773807" lon="9.2287708" version="2" timestamp="2023-02-09T16:17:01Z" changeset="132315844" uid="4841818" user="122131">
     <tag k="access" v="permissive"/>
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -22543,6 +22543,14 @@
     <tag k="access" v="customers"/>
     <tag k="barrier" v="gate"/>
     <tag k="locked" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058867" lat="45.4770518" lon="9.2281567" version="1" timestamp="2023-02-09T16:17:01Z" changeset="132315844" uid="4841818" user="122131">
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="delivery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
@@ -30309,6 +30317,18 @@
     <tag k="building" v="residential"/>
     <tag k="roof:shape" v="flat"/>
     <tag k="start_date" v="2006"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1141445914" version="1" timestamp="2023-02-09T16:17:01Z" changeset="132315844" uid="4841818" user="122131">
+    <center lat="45.4770517" lon="9.2281422"/>
+    <nd ref="10633058858"/>
+    <nd ref="10633058867"/>
+    <nd ref="10633058857"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="delivery"/>
     <tag k="wheelchair" v="yes"/>
   </way>
 
