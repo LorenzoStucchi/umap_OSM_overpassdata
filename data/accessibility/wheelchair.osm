@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-11T03:22:17Z" areas="2023-02-11T03:13:24Z"/>
+<meta osm_base="2023-02-12T03:26:54Z" areas="2023-02-12T03:24:53Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -1232,7 +1232,7 @@
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="411817770" lat="45.4812546" lon="9.1860677" version="10" timestamp="2022-03-21T14:39:03Z" changeset="118739343" uid="616774" user="mueschel">
+  <node id="411817770" lat="45.4812546" lon="9.1860677" version="11" timestamp="2023-02-11T14:28:07Z" changeset="132406785" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Viale Pasubio"/>
@@ -1240,8 +1240,10 @@
     <tag k="comment:en" v="also selling of bottle of wine"/>
     <tag k="comment:it" v="anche vendita di bottiglie di vino"/>
     <tag k="description:it" v="Cantina con cucina"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Signorvino"/>
     <tag k="operator" v="Calzedonia S.P.A."/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 29061583"/>
     <tag k="was:name" v="La Fabbrica"/>
     <tag k="website" v="https://www.signorvino.com/it/negozi/lombardia/milano/milano_viale_pasubio_2/B029.html"/>
@@ -1758,7 +1760,7 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q111413065"/>
   </node>
-  <node id="718857119" lat="45.4812365" lon="9.2037873" version="4" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
+  <node id="718857119" lat="45.4812365" lon="9.2037873" version="5" timestamp="2023-02-11T19:11:49Z" changeset="132418230" uid="88183" user="Günter-CW">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="10"/>
@@ -1770,6 +1772,7 @@
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="en:UniCredit"/>
     <tag k="name" v="UniCredit Bank"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-12:45,13:35-16:35; Sa 08:20-12:45"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="718857124" lat="45.4799926" lon="9.2037127" version="5" timestamp="2019-09-13T09:48:26Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -5805,6 +5808,24 @@
     <tag k="clothes" v="men"/>
     <tag k="name" v="Adler 1973"/>
     <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2416147973" lat="45.4814460" lon="9.1852875" version="8" timestamp="2023-02-11T14:27:05Z" changeset="132406756" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Viale Pasubio"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="mapillary" v="163344778983858"/>
+    <tag k="name" v="Pasubio"/>
+    <tag k="operator" v="Farma Acquisition Srl"/>
+    <tag k="ref:msal" v="2598"/>
+    <tag k="ref:vatin" v="IT02489000998"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="survey:date" v="2019-08-29"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2416148127" lat="45.4800513" lon="9.1863597" version="3" timestamp="2019-09-13T13:28:43Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -11101,13 +11122,14 @@
     <tag k="ref:vatin" v="IT00863620969"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3848616435" lat="45.4828848" lon="9.2030854" version="3" timestamp="2021-09-17T08:20:41Z" changeset="111325360" uid="3860151" user="Michele Aquilani">
+  <node id="3848616435" lat="45.4828848" lon="9.2030854" version="4" timestamp="2023-02-11T19:12:07Z" changeset="132418230" uid="88183" user="Günter-CW">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Napo Torriani"/>
     <tag k="name" v="Continental Market"/>
+    <tag k="opening_hours" v="Mo-Sa 09:30-20:00"/>
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -11482,21 +11504,6 @@
     <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="3861246182" lat="45.4809459" lon="9.2038085" version="6" timestamp="2022-12-22T10:41:40Z" changeset="130367105" uid="12441930" user="Dremmy">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Via Mauro Macchi"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="name" v="Jumping"/>
-    <tag k="opening_hours" v="Mo-Sa 12:00-23:00"/>
-    <tag k="operator" v="CGZ s.r.l."/>
-    <tag k="phone" v="+39 02 66982069"/>
-    <tag k="ref:vatin" v="IT04888000967"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3861246895" lat="45.4817258" lon="9.2038991" version="3" timestamp="2019-09-13T09:36:57Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -18495,6 +18502,11 @@
     <tag k="ref:isil" v="IT-MI0499"/>
     <tag k="website" v="https://biblioteche.comune.milano.it/library/tibaldi"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6982284232" lat="45.4815403" lon="9.1849600" version="2" timestamp="2023-02-11T14:25:30Z" changeset="132406756" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Freitag"/>
+    <tag k="shop" v="bag"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="7037174939" lat="45.4768124" lon="9.2320420" version="3" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
     <tag k="addr:city" v="Milano"/>
