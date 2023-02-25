@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-24T03:26:43Z" areas="2023-02-24T02:54:23Z"/>
+<meta osm_base="2023-02-25T03:28:34Z" areas="2023-02-25T03:05:09Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -816,6 +816,21 @@
     <tag k="stars" v="4"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.nh-hotels.it/hotel/nh-milano-touring"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="298986524" lat="45.4786671" lon="9.1892849" version="6" timestamp="2023-02-24T15:35:10Z" changeset="132972940" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Castelfidardo"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Daniel"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 02 63793837"/>
+    <tag k="website" v="http://www.danielcanzian.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="301979351" lat="45.4507894" lon="9.1692677" version="9" timestamp="2022-06-14T11:30:21Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
@@ -4699,20 +4714,6 @@
     <tag k="shop" v="chemist"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2104097151" lat="45.4943527" lon="9.1854532" version="5" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="brand" v="Banca Popolare di Novara"/>
-    <tag k="brand:en" v="Popular Bank of Novara"/>
-    <tag k="brand:it" v="Banca Popolare di Novara"/>
-    <tag k="brand:wikidata" v="Q3633742"/>
-    <tag k="brand:wikipedia" v="en:Banca Popolare di Novara"/>
-    <tag k="name" v="Banca Popolare di Novara"/>
-    <tag k="name:en" v="Popular Bank of Novara"/>
-    <tag k="name:it" v="Banca Popolare di Novara"/>
-    <tag k="operator" v="Banca Popolare di Novara"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="2104112893" lat="45.4887822" lon="9.1826076" version="5" timestamp="2023-02-18T14:56:48Z" changeset="132717677" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -5334,7 +5335,7 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2341042330" lat="45.4823186" lon="9.1875639" version="3" timestamp="2019-09-13T13:15:43Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2341042330" lat="45.4823186" lon="9.1875639" version="4" timestamp="2023-02-24T15:45:46Z" changeset="132973244" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="12"/>
@@ -5342,9 +5343,11 @@
     <tag k="addr:street" v="Corso Como"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian;pizza"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Rocking Horse"/>
     <tag k="opening_hours" v="Mo-Su 12:00-01:00"/>
     <tag k="operator" v="Altopascio 2 s.r.l."/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT11636030154"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -6566,6 +6569,20 @@
     <tag k="website" v="https://www.pandenus.it/it/store/pandenus-largo-la-foppa-5/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="2476685965" lat="45.4827120" lon="9.1872261" version="6" timestamp="2023-02-24T15:46:24Z" changeset="132972940" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Corso Como"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Intesa Sanpaolo"/>
+    <tag k="brand:wikidata" v="Q1343118"/>
+    <tag k="brand:wikipedia" v="it:Intesa Sanpaolo"/>
+    <tag k="name" v="Intesa Sanpaolo"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="2476767206" lat="45.4615109" lon="9.1809868" version="7" timestamp="2023-02-19T13:38:31Z" changeset="132745851" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -7747,17 +7764,6 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2724252485" lat="45.4811989" lon="9.1872535" version="3" timestamp="2019-09-13T13:21:44Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="20154"/>
-    <tag k="addr:street" v="Corso Como"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Massimo Rebecchi"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="2724252493" lat="45.4814199" lon="9.1873097" version="3" timestamp="2019-09-13T13:21:01Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -7769,7 +7775,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2724252528" lat="45.4816726" lon="9.1873922" version="2" timestamp="2017-08-17T17:57:35Z" changeset="51212310" uid="371303" user="Rolliwood">
+  <node id="2724252528" lat="45.4816726" lon="9.1873922" version="3" timestamp="2023-02-24T15:44:51Z" changeset="132973244" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="6"/>
@@ -7777,7 +7783,9 @@
     <tag k="addr:street" v="Corso Como"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Pizzeria di Porta Garibaldi"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2747397911" lat="45.4411330" lon="9.1984944" version="6" timestamp="2017-01-25T21:34:04Z" changeset="45491231" uid="417672" user="Guidus">
@@ -7808,7 +7816,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2770307201" lat="45.4663193" lon="9.1647175" version="3" timestamp="2021-11-21T21:15:19Z" changeset="114073476" uid="113669" user="AnyFile">
+  <node id="2770307201" lat="45.4663193" lon="9.1647175" version="4" timestamp="2023-02-24T23:18:11Z" changeset="132988426" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20123"/>
@@ -7821,7 +7829,7 @@
     <tag k="name" v="Starbucks"/>
     <tag k="note:it" v="Indirizzo indicato diverso su diverse fonti. Su sconrtrino: Corso Vercelli, 2 20145 Milano. Su loro sito Piazzale Francesco Baracca, 10angolo Corso Vercelli Milan, MI 20121 (con CAP chiaramente errato). L'entrata è Corso Vercelli 'uscita Piazzale Baracca"/>
     <tag k="official_name" v="Starbucks Coffee"/>
-    <tag k="phone" v="+39 02 48024629"/>
+    <tag k="phone" v="+390248024629"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.starbucks.com/store-locator/store/1023281/starbucks-vercelli-piazzale-francesco-baracca-10-milan-mi-20121-it"/>
     <tag k="wheelchair" v="limited"/>
@@ -8812,6 +8820,19 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3079034142" lat="45.4810239" lon="9.1927387" version="5" timestamp="2023-02-24T13:18:10Z" changeset="132967299" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via Amerigo Vespucci"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Volemose bene"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 02 89690870"/>
+    <tag k="website" v="https://www.volemosebenemilano.it/"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3085870326" lat="45.4999694" lon="9.2106381" version="4" timestamp="2022-04-10T10:20:41Z" changeset="119529953" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="MD Market"/>
@@ -10699,6 +10720,16 @@
     <tag k="name" v="Metalia Due"/>
     <tag k="shop" v="hardware"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3675021625" lat="45.4780429" lon="9.1890337" version="2" timestamp="2023-02-24T15:33:55Z" changeset="132972940" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via San Marco"/>
+    <tag k="name" v="Cotril"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3675022028" lat="45.4775785" lon="9.1880661" version="2" timestamp="2019-09-13T14:49:36Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -15185,6 +15216,40 @@
     <tag k="tagline" v="Are you Greekable?"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4824578270" lat="45.4731293" lon="9.1916003" version="2" timestamp="2023-02-24T15:23:27Z" changeset="132972940" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Fatebenefratelli"/>
+    <tag k="name" v="Florarreda"/>
+    <tag k="shop" v="florist"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4824578821" lat="45.4731584" lon="9.1914461" version="2" timestamp="2023-02-24T15:23:31Z" changeset="132972940" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Fatebenefratelli"/>
+    <tag k="name" v="Rubelli"/>
+    <tag k="shop" v="furniture"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4824578832" lat="45.4746568" lon="9.1917054" version="4" timestamp="2023-02-24T15:25:55Z" changeset="132972940" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Corso di Porta Nuova"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Studio Legale Cislaghi Lessio Associati"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
+    <tag k="phone" v="+390294392452"/>
+    <tag k="website" v="studioclass.it"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4824593608" lat="45.4729902" lon="9.1926350" version="2" timestamp="2019-09-13T09:21:44Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -19737,15 +19802,16 @@
     <tag k="website" v="https://www.facebook.com/DISCHIVOLANTIMILANO/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8576960975" lat="45.4573995" lon="9.1681375" version="2" timestamp="2021-05-02T18:49:59Z" changeset="104008499" uid="12169583" user="davidfaure_bot">
+  <node id="8576960975" lat="45.4573995" lon="9.1681375" version="3" timestamp="2023-02-24T23:18:11Z" changeset="132988426" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Via Andrea Solari"/>
     <tag k="clothes" v="women;children"/>
+    <tag k="email" v="panpepato@panpepato.com"/>
     <tag k="name" v="Panpepato"/>
     <tag k="opening_hours" v="Mo 15:00-19:30; Tu-Sa 10:00-14:00,15:00-19:30"/>
-    <tag k="phone" v="+39 0243910243"/>
+    <tag k="phone" v="+390243910243"/>
     <tag k="shop" v="clothes"/>
     <tag k="stroller" v="yes"/>
     <tag k="website" v="http://www.panpepato.com/"/>
@@ -27653,7 +27719,7 @@
     <tag k="name" v="Youth Hostel Mailand"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="281552845" version="4" timestamp="2022-10-17T21:13:50Z" changeset="127694581" uid="1781586" user="fick89">
+  <way id="281552845" version="5" timestamp="2023-02-24T21:46:25Z" changeset="132985970" uid="18490865" user="lello_ba">
     <center lat="45.4798424" lon="9.2265250"/>
     <nd ref="2855180327"/>
     <nd ref="2855180332"/>
@@ -27666,6 +27732,7 @@
     <tag k="amenity" v="cafe"/>
     <tag k="building" v="kiosk"/>
     <tag k="name" v="Jolly Student Food"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-20:00"/>
     <tag k="ref:vatin" v="IT12969650154"/>
     <tag k="wheelchair" v="yes"/>
   </way>
