@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-25T03:28:34Z" areas="2023-02-25T03:05:09Z"/>
+<meta osm_base="2023-02-26T03:40:58Z" areas="2023-02-26T03:20:23Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -4584,6 +4584,18 @@
     <tag k="shop" v="ticket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2093165819" lat="45.4824446" lon="9.1819008" version="8" timestamp="2023-02-25T11:11:41Z" changeset="133000798" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Piazzale Antonio Baiamonti"/>
+    <tag k="brand" v="Carrefour Express"/>
+    <tag k="brand:wikidata" v="Q2940190"/>
+    <tag k="name" v="Carrefour Express"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2093480206" lat="45.4867224" lon="9.1850448" version="7" timestamp="2022-11-11T22:22:52Z" changeset="128795336" uid="11350549" user="Nitnerock">
     <tag k="amenity" v="bicycle_rental"/>
     <tag k="bicycle_rental" v="docking_station"/>
@@ -6022,9 +6034,10 @@
     <tag k="website" v="https://www.farmaciacaddeo.it/index.asp"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2419130541" lat="45.4925972" lon="9.1886628" version="4" timestamp="2019-09-13T13:41:02Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2419130541" lat="45.4928965" lon="9.1884689" version="7" timestamp="2023-02-25T15:16:28Z" changeset="133009189" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Pizzeria Alla Fontana"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
@@ -6045,15 +6058,15 @@
     <tag k="website" v="https://osterialnove.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2419130558" lat="45.4921349" lon="9.1888927" version="3" timestamp="2019-12-02T14:53:36Z" changeset="77829506" uid="10422214" user="Andrei Leca">
+  <node id="2419130558" lat="45.4921349" lon="9.1888927" version="6" timestamp="2023-02-25T15:12:23Z" changeset="133009190" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Genova Thaon Di Revel"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Ristorante al Tronco"/>
-    <tag k="phone" v="+39 02 606072"/>
-    <tag k="website" v="altronco.it"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Fra Diavolo"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2419130560" lat="45.4916240" lon="9.1917798" version="6" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
@@ -10624,6 +10637,16 @@
     <tag k="website" v="http://www.milanobeauty.it/sito/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3655625127" lat="45.4821932" lon="9.1824422" version="2" timestamp="2023-02-25T11:12:29Z" changeset="133000798" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Viale Pasubio"/>
+    <tag k="name" v="Autoricambi Volta"/>
+    <tag k="shop" v="car_parts"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3655625129" lat="45.4805984" lon="9.1830125" version="2" timestamp="2019-09-13T14:23:32Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -10633,6 +10656,19 @@
     <tag k="name" v="Bellezza al Cubo"/>
     <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3655625135" lat="45.4822823" lon="9.1821689" version="3" timestamp="2023-02-25T11:11:57Z" changeset="133000798" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Piazzale Antonio Baiamonti"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="kebab"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Mekan"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3655625136" lat="45.4800146" lon="9.1834730" version="2" timestamp="2019-09-13T14:25:34Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -16497,9 +16533,11 @@
     <tag k="name" v="Cafè Stendhal"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5338923022" lat="45.4923220" lon="9.1888930" version="2" timestamp="2019-09-13T13:36:49Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Surlì"/>
-    <tag k="shop" v="alcohol"/>
+  <node id="5338923022" lat="45.4922933" lon="9.1888918" version="6" timestamp="2023-02-25T15:13:30Z" changeset="133009190" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Ciopa"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5350658250" lat="45.4654696" lon="9.1917895" version="2" timestamp="2022-11-03T14:59:17Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
@@ -18321,7 +18359,7 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6067258870" lat="45.4858786" lon="9.2042617" version="8" timestamp="2023-02-23T17:05:21Z" changeset="132935832" uid="3860151" user="Michele Aquilani">
+  <node id="6067258870" lat="45.4858786" lon="9.2042617" version="9" timestamp="2023-02-25T16:43:01Z" changeset="133013471" uid="3860151" user="Michele Aquilani">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Centrale"/>
     <tag k="name:es" v="Milano Central"/>
@@ -18339,7 +18377,7 @@
     <tag k="uic_ref" v="8301700"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q801193"/>
-    <tag k="wikimedia_commons" v="https://commons.wikimedia.org/wiki/Category:Milano_Centrale_train_station"/>
+    <tag k="wikimedia_commons" v="Category:Milano_Centrale_train_station"/>
     <tag k="wikipedia" v="it:Stazione di Milano Centrale"/>
     <tag k="wikipedia:en" v="en:Milano Centrale railway station"/>
   </node>
@@ -21443,7 +21481,7 @@
     <tag k="wikidata" v="Q937693"/>
     <tag k="wikipedia" v="it:Sondrio (metropolitana di Milano)"/>
   </node>
-  <node id="9836271873" lat="45.4845016" lon="9.2032043" version="2" timestamp="2023-02-23T17:05:21Z" changeset="132935832" uid="3860151" user="Michele Aquilani">
+  <node id="9836271873" lat="45.4845016" lon="9.2032043" version="3" timestamp="2023-02-25T16:43:01Z" changeset="133013471" uid="3860151" user="Michele Aquilani">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Centrale FS"/>
     <tag k="name:it" v="Centrale FS"/>
@@ -21457,7 +21495,7 @@
     <tag k="subway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2258125"/>
-    <tag k="wikimedia_commons" v="https://commons.wikimedia.org/wiki/Category:Centrale_FS_station_(Milan_metro)"/>
+    <tag k="wikimedia_commons" v="Category:Centrale_FS_station_(Milan_metro)"/>
     <tag k="wikipedia" v="it:Centrale FS (metropolitana di Milano)"/>
   </node>
   <node id="9836271874" lat="45.4848114" lon="9.2026336" version="2" timestamp="2023-02-23T17:05:21Z" changeset="132935832" uid="3860151" user="Michele Aquilani">
@@ -21775,7 +21813,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9858020667" lat="45.5048602" lon="9.2477628" version="3" timestamp="2023-02-23T17:05:21Z" changeset="132935832" uid="3860151" user="Michele Aquilani">
+  <node id="9858020667" lat="45.5048602" lon="9.2477628" version="4" timestamp="2023-02-25T16:43:01Z" changeset="133013471" uid="3860151" user="Michele Aquilani">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Crescenzago"/>
     <tag k="network" v="STIBM"/>
@@ -21787,7 +21825,7 @@
     <tag k="subway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q3002492"/>
-    <tag k="wikimedia_commons" v="https://commons.wikimedia.org/wiki/Category:Crescenzago_station_(Milan_metro)"/>
+    <tag k="wikimedia_commons" v="Category:Crescenzago_station_(Milan_metro)"/>
     <tag k="wikipedia" v="it:Crescenzago (metropolitana di Milano)"/>
   </node>
   <node id="9858020698" lat="45.4995410" lon="9.2407696" version="2" timestamp="2022-09-29T14:38:13Z" changeset="126784137" uid="2370220" user="Paolo pn">
@@ -23285,6 +23323,11 @@
     <tag k="name" v="Sweet sweet way"/>
     <tag k="shop" v="confectionery"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="10693075530" lat="45.4923383" lon="9.1888897" version="2" timestamp="2023-02-25T15:14:14Z" changeset="133009190" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Milano Manifesti"/>
+    <tag k="shop" v="antiques"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
     <center lat="45.4540560" lon="9.1135048"/>
