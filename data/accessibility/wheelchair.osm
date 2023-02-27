@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-26T03:40:58Z" areas="2023-02-26T03:20:23Z"/>
+<meta osm_base="2023-02-27T03:30:29Z" areas="2023-02-27T02:34:54Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="14" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <tag k="addr:city" v="Milano"/>
@@ -1922,7 +1922,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1002628831" lat="45.4938763" lon="9.1848747" version="6" timestamp="2020-02-08T09:32:13Z" changeset="80718275" uid="1476146" user="Alecs01">
+  <node id="1002628831" lat="45.4938763" lon="9.1848747" version="7" timestamp="2023-02-26T19:46:49Z" changeset="133057096" uid="43207" user="kdkeller">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="71"/>
     <tag k="addr:street" v="Via Carlo Farini"/>
@@ -1932,6 +1932,7 @@
     <tag k="operator" v="Small Café di Mao Guangliang"/>
     <tag k="ref:vatin" v="IT05909671215"/>
     <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q106633216"/>
   </node>
   <node id="1025452349" lat="45.4853931" lon="9.1928980" version="5" timestamp="2022-01-21T06:49:00Z" changeset="116414025" uid="1875845" user="Valerio_Bozzolan">
     <tag k="entrance" v="yes"/>
@@ -2712,9 +2713,6 @@
     <tag k="name" v="Romolo"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="1505471150" lat="45.4982999" lon="9.1336965" version="5" timestamp="2022-03-01T11:05:45Z" changeset="117975515" uid="8350372" user="Balaabirami">
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1514307768" lat="45.5189083" lon="9.2074688" version="7" timestamp="2022-10-12T10:46:59Z" changeset="127407001" uid="10893865" user="Emanuele Lorenzo Corti">
     <tag k="name" v="Viale Testi - Via San Glicerio"/>
@@ -12895,6 +12893,20 @@
     <tag k="shop" v="furniture"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="4142385889" lat="45.5084036" lon="9.2012786" version="4" timestamp="2023-02-26T18:18:37Z" changeset="133054148" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Viale Fulvio Testi"/>
+    <tag k="brand" v="Expert"/>
+    <tag k="brand:wikidata" v="Q680990"/>
+    <tag k="brand:wikipedia" v="en:Expert (company)"/>
+    <tag k="name" v="Expert"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-12:30,15:00-19:30"/>
+    <tag k="shop" v="electronics"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4142386749" lat="45.4906749" lon="9.1937810" version="5" timestamp="2021-11-04T02:07:04Z" changeset="113354608" uid="11645399" user="davidoskky">
     <tag k="amenity" v="bicycle_rental"/>
     <tag k="brand" v="BikeMi"/>
@@ -13243,7 +13255,7 @@
     <tag k="ref:vatin" v="IT09542640157"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4198278497" lat="45.4516876" lon="9.1614577" version="4" timestamp="2020-01-15T09:56:39Z" changeset="79601292" uid="89897" user="airon90">
+  <node id="4198278497" lat="45.4516876" lon="9.1614577" version="5" timestamp="2023-02-26T19:44:42Z" changeset="133057096" uid="43207" user="kdkeller">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Via Tortona"/>
@@ -13259,6 +13271,7 @@
     <tag k="operator" v="Enrico Bartolini srl"/>
     <tag k="ref:vatin" v="IT02196350181"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q84265769"/>
   </node>
   <node id="4198407290" lat="45.4515575" lon="9.1616625" version="7" timestamp="2022-01-10T15:51:36Z" changeset="115987464" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
@@ -13514,7 +13527,7 @@
     <tag k="name" v="Replay - The Stage Fine Dining"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4304781699" lat="45.4839243" lon="9.1896426" version="7" timestamp="2023-02-03T10:14:01Z" changeset="132035589" uid="89897" user="airon90">
+  <node id="4304781699" lat="45.4839243" lon="9.1896426" version="8" timestamp="2023-02-26T19:42:57Z" changeset="133057096" uid="43207" user="kdkeller">
     <tag k="amenity" v="bank"/>
     <tag k="brand" v="UniCredit Bank"/>
     <tag k="brand:wikidata" v="Q45568"/>
@@ -13522,6 +13535,7 @@
     <tag k="name" v="UniCredit Bank"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-13:20,14:30-16:00; PH 08:20-12:45"/>
     <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q45568"/>
   </node>
   <node id="4305608500" lat="45.4718220" lon="9.1944244" version="2" timestamp="2019-09-13T09:34:24Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -17467,6 +17481,23 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="5712974783" lat="45.5087880" lon="9.2001667" version="4" timestamp="2023-02-26T18:17:30Z" changeset="133054148" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Cino da Pistoia"/>
+    <tag k="contact:phone" v="+39 02 6426023"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="delivery:fee" v="no"/>
+    <tag k="description:it" v="prenotazioni 8:30 - 13 dal lun al sab, consegne pomeriggio"/>
+    <tag k="name" v="Ortofrutta De Cillis"/>
+    <tag k="opening_hours:reservation" v=""/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="shop" v="greengrocer"/>
+    <tag k="source" v="ds959"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="5712974798" lat="45.5070368" lon="9.2005134" version="4" timestamp="2022-06-08T17:15:45Z" changeset="122127755" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Viale Fulvio Testi"/>
@@ -17496,6 +17527,26 @@
     <tag k="name" v="S&amp;M Calzature"/>
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5712975142" lat="45.5090189" lon="9.1995727" version="4" timestamp="2023-02-26T18:16:49Z" changeset="133054148" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Via Salvatore Pianell"/>
+    <tag k="contact:mobile" v="+39 393 678 8392"/>
+    <tag k="contact:phone" v="+39 02 642 6024"/>
+    <tag k="delivery:covid19" v="yes"/>
+    <tag k="delivery:fee" v="no"/>
+    <tag k="description" v="Macelleria–Gastronomia-Rosticceria"/>
+    <tag k="description:it" v="prenotazioni: tutti i giorni h 13/15 su telefono fisso, sempre su cellulare"/>
+    <tag k="name" v="Macelleria Bertolotti"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cheque" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="source" v="ds959"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5718382732" lat="45.4861102" lon="9.1887063" version="3" timestamp="2019-09-13T13:13:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -21275,6 +21326,11 @@
     <tag k="smoking" v="outside"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9804344576" lat="45.5090507" lon="9.1994385" version="2" timestamp="2023-02-26T18:16:38Z" changeset="133054148" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Casa Arredo"/>
+    <tag k="shop" v="interior_decoration"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9809614561" lat="45.4896031" lon="9.1272918" version="1" timestamp="2022-06-10T19:53:10Z" changeset="122226195" uid="67550" user="Aiman">
     <tag k="access" v="yes"/>
