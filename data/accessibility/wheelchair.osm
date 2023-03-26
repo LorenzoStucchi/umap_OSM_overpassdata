@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-25T03:12:10Z" areas="2023-03-24T22:39:52Z"/>
+<meta osm_base="2023-03-26T03:17:11Z" areas="2023-03-26T00:32:53Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -8596,6 +8596,24 @@
   <node id="3007564279" lat="45.4630222" lon="9.1872028" version="4" timestamp="2023-02-19T13:50:56Z" changeset="132746287" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Bar Miliardo"/>
     <tag k="shop" v="tobacco"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3011974302" lat="45.4776350" lon="9.2015517" version="5" timestamp="2023-03-25T12:43:48Z" changeset="134102723" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via Lazzaretto"/>
+    <tag k="brand" v="NH Hotels"/>
+    <tag k="brand:wikidata" v="Q1604631"/>
+    <tag k="brand:wikipedia" v="en:NH Hotel Group"/>
+    <tag k="email" v="nhmachiavelli@nh-hotels.com"/>
+    <tag k="name" v="NH Machiavelli"/>
+    <tag k="phone" v="+39 02 631141"/>
+    <tag k="rooms" v="103"/>
+    <tag k="stars" v="4"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.nh-hotels.it/hotel/nh-milano-machiavelli"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3013098587" lat="45.4785861" lon="9.2089699" version="4" timestamp="2022-03-20T14:14:51Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
@@ -18161,11 +18179,12 @@
     <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5798260284" lat="45.4779868" lon="9.2008806" version="3" timestamp="2021-11-06T17:16:45Z" changeset="113455401" uid="11645399" user="davidoskky">
+  <node id="5798260284" lat="45.4779868" lon="9.2008806" version="4" timestamp="2023-03-25T12:42:53Z" changeset="134102679" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="atm"/>
     <tag k="brand" v="Postamat"/>
     <tag k="brand:wikidata" v="Q3909447"/>
     <tag k="brand:wikipedia" v="it:Postamat"/>
+    <tag k="cash_in" v="no"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Postamat"/>
     <tag k="operator" v="Poste Italiane"/>
@@ -19974,7 +19993,7 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8550488914" lat="45.5210317" lon="9.2192969" version="2" timestamp="2022-07-12T09:21:59Z" changeset="123510403" uid="89897" user="airon90">
+  <node id="8550488914" lat="45.5210317" lon="9.2192969" version="3" timestamp="2023-03-25T13:15:24Z" changeset="134101048" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20126"/>
@@ -19984,6 +20003,7 @@
     <tag k="contact:instagram" v="iutabistrot"/>
     <tag k="contact:phone" v="+39 02 6431111"/>
     <tag k="contact:website" v="https://www.iutabistrot.com/"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Iuta Bistrot"/>
     <tag k="opening_hours" v="Mo closed; Tu-We 11:00-16:00; Th-Su 10:00-24:00"/>
@@ -21031,6 +21051,20 @@
     <tag k="mapillary" v="-GZ8a0hTAdNcZV3aL8mS6g"/>
     <tag k="survey:date" v="2018-02-15"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9526774695" lat="45.4775305" lon="9.2019158" version="2" timestamp="2023-03-25T12:44:04Z" changeset="134102723" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via Lazzaretto"/>
+    <tag k="email" v="info@hotelsienamilano.com"/>
+    <tag k="name" v="Hotel Siena"/>
+    <tag k="phone" v="+39 02 29516108"/>
+    <tag k="rooms" v="15"/>
+    <tag k="stars" v="2"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="http://www.hotelsienamilano.com/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9529538260" lat="45.4672257" lon="9.2018747" version="3" timestamp="2022-03-26T15:13:49Z" changeset="118947759" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
@@ -23639,6 +23673,23 @@
   <node id="10729760590" lat="45.4814015" lon="9.1751109" version="2" timestamp="2023-03-12T12:55:42Z" changeset="133585308" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Party Wan"/>
     <tag k="shop" v="party"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10760942889" lat="45.4773287" lon="9.2018716" version="3" timestamp="2023-03-25T12:44:44Z" changeset="134102723" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Tarantella"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10761008724" lat="45.4772050" lon="9.2017216" version="2" timestamp="2023-03-25T12:46:01Z" changeset="134102723" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Studio luce"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="10761026756" lat="45.4771879" lon="9.2017953" version="2" timestamp="2023-03-25T12:46:40Z" changeset="134102723" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Laboratorio16"/>
+    <tag k="shop" v="craft"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
