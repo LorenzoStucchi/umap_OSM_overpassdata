@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-01T03:08:01Z" areas="2023-03-31T22:48:38Z"/>
+<meta osm_base="2023-04-02T03:10:43Z" areas="2023-04-02T02:14:08Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -169,6 +169,22 @@
     <tag k="source" v="Ministero della Sanità"/>
     <tag k="website" v="http://farmaciasangiovannisnc.lafarmacia.biz/"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="250657226" lat="45.4999659" lon="9.1965393" version="6" timestamp="2023-04-01T10:26:37Z" changeset="134375267" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Viale Zara"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="fax" v="+39 02 6884311"/>
+    <tag k="name" v="Milano 58"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-13:35; Sa 08:20-12:35; Su off"/>
+    <tag k="operator" v="Poste Italiane"/>
+    <tag k="operator:wikidata" v="Q495026"/>
+    <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 69911111"/>
+    <tag k="ref" v="38430"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="251293086" lat="45.4651207" lon="9.1923650" version="11" timestamp="2022-12-05T09:52:38Z" changeset="129734068" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Milano"/>
@@ -2137,7 +2153,7 @@
     <tag k="wikidata" v="Q261233"/>
     <tag k="wikipedia" v="it:Museo del Novecento"/>
   </node>
-  <node id="1253820481" lat="45.4863171" lon="9.1866888" version="4" timestamp="2019-09-13T13:39:08Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="1253820481" lat="45.4863171" lon="9.1866888" version="5" timestamp="2023-04-01T11:12:52Z" changeset="134376457" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20159"/>
@@ -2145,8 +2161,10 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian;regional"/>
     <tag k="email" v="info@vecchisapori.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Osteria dei Vecchi Sapori"/>
     <tag k="opening_hours" v="Mo-Fr 12:30-14:30,19:30-23:30; Sa,Su 19:30-23:30"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="phone" v="+39 02 6686148"/>
     <tag k="website" v="http://www.vecchisapori.it/"/>
     <tag k="wheelchair" v="limited"/>
@@ -6106,7 +6124,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2419130560" lat="45.4916240" lon="9.1917798" version="6" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
+  <node id="2419130560" lat="45.4916240" lon="9.1917798" version="7" timestamp="2023-04-01T11:02:13Z" changeset="134376457" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="13"/>
@@ -6118,8 +6136,10 @@
     <tag k="brand:wikipedia" v="it:Old Wild West"/>
     <tag k="cuisine" v="american"/>
     <tag k="email" v="zara@oldwildwest.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Old Wild West"/>
     <tag k="opening_hours" v="Mo-Su 12:00-15:00,19:00-23:00"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="phone" v="+39 02 69004434"/>
     <tag k="website" v="http://www.oldwildwest.it/code/20026/Milano-Zara"/>
     <tag k="wheelchair" v="limited"/>
@@ -6705,15 +6725,17 @@
     <tag k="website" v="http://www.anche.it"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2479386561" lat="45.4864669" lon="9.1869791" version="6" timestamp="2021-01-25T15:04:13Z" changeset="98130315" uid="12181387" user="BurgezMI">
+  <node id="2479386561" lat="45.4864669" lon="9.1869791" version="7" timestamp="2023-04-01T11:12:22Z" changeset="134376457" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Via Carmagnola"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="burger"/>
     <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Burgez"/>
     <tag k="opening_hours" v="Su-Th 12:00-15:00,18:00-23:00, Fr,Sa 12:00-15:00,18:00-24:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="website" v="https://burgez.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -16168,6 +16190,16 @@
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="5074925236" lat="45.4904173" lon="9.1911739" version="5" timestamp="2023-04-01T11:03:48Z" changeset="134375267" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Viale Zara"/>
+    <tag k="name" v="Zara3design"/>
+    <tag k="shop" v="houseware"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="5088849761" lat="45.5068005" lon="9.2591491" version="1" timestamp="2017-09-08T14:21:16Z" changeset="51847222" uid="506470" user="LuSirto">
     <tag k="amenity" v="cafe"/>
     <tag k="cuisine" v="sandwich"/>
@@ -18682,13 +18714,15 @@
     <tag k="website" v="http://www.ristorantegemellidiversi.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6206031239" lat="45.4865053" lon="9.1866943" version="3" timestamp="2021-03-25T20:50:22Z" changeset="101744577" uid="1875845" user="Valerio_Bozzolan">
+  <node id="6206031239" lat="45.4865053" lon="9.1866943" version="4" timestamp="2023-04-01T11:12:43Z" changeset="134376457" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Pastrengo"/>
     <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="The Botanical Club"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 36523846"/>
     <tag k="ref:vatin" v="IT07434200965"/>
     <tag k="website" v="https://www.botanicalclub.com/"/>
@@ -19139,6 +19173,13 @@
     <tag k="phone" v="+39028375006"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6878186540" lat="45.4900732" lon="9.1907072" version="2" timestamp="2023-04-01T11:04:56Z" changeset="134375267" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:street" v="Piazzale Lagosta"/>
+    <tag k="name" v="Tabacchi Lagosta"/>
+    <tag k="shop" v="tobacco"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="6880971533" lat="45.4579103" lon="9.1800657" version="4" timestamp="2023-03-21T22:15:20Z" changeset="133958438" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
@@ -23728,6 +23769,10 @@
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
     <tag k="toilets:handwashing" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10777604722" lat="45.4999833" lon="9.1965990" version="1" timestamp="2023-04-01T10:34:56Z" changeset="134375532" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="atm"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <way id="4718366" version="11" timestamp="2021-02-26T20:58:44Z" changeset="100074591" uid="89897" user="airon90">
