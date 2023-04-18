@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-17T03:12:53Z" areas="2023-04-15T20:08:54Z"/>
+<meta osm_base="2023-04-18T03:12:13Z" areas="2023-04-15T20:08:54Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -1006,8 +1006,9 @@
     <tag k="name" v="Fineco"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="316535180" lat="45.4804283" lon="9.1991481" version="9" timestamp="2021-11-06T17:16:45Z" changeset="113455401" uid="11645399" user="davidoskky">
+  <node id="316535180" lat="45.4804283" lon="9.1991481" version="10" timestamp="2023-04-17T18:18:34Z" changeset="135027307" uid="9958443" user="cloak">
     <tag k="amenity" v="bicycle_rental"/>
+    <tag k="bicycle_rental" v="docking_station"/>
     <tag k="brand" v="BikeMi"/>
     <tag k="brand:wikidata" v="Q2902552"/>
     <tag k="brand:wikipedia" v="en:BikeMi"/>
@@ -1038,8 +1039,9 @@
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="316535195" lat="45.4790447" lon="9.1965650" version="9" timestamp="2021-11-06T17:16:45Z" changeset="113455401" uid="11645399" user="davidoskky">
+  <node id="316535195" lat="45.4790447" lon="9.1965650" version="10" timestamp="2023-04-17T11:40:40Z" changeset="135010442" uid="9958443" user="cloak">
     <tag k="amenity" v="bicycle_rental"/>
+    <tag k="bicycle_rental" v="docking_station"/>
     <tag k="brand" v="BikeMi"/>
     <tag k="brand:wikidata" v="Q2902552"/>
     <tag k="brand:wikipedia" v="en:BikeMi"/>
@@ -1296,7 +1298,7 @@
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="408783078" lat="45.4564731" lon="9.1746390" version="5" timestamp="2023-04-16T17:51:08Z" changeset="134985812" uid="15541433" user="paulbrunner">
+  <node id="408783078" lat="45.4564731" lon="9.1746390" version="6" timestamp="2023-04-17T17:22:15Z" changeset="135025096" uid="18452174" user="Chiarant">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="25"/>
@@ -1304,9 +1306,9 @@
     <tag k="addr:street" v="Corso Genova"/>
     <tag k="check_date" v="2023-04-16"/>
     <tag k="clothes" v="men"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Doppelgänger"/>
     <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -8554,15 +8556,15 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2991405599" lat="45.4643444" lon="9.1871859" version="6" timestamp="2023-04-16T13:40:31Z" changeset="134975766" uid="15541433" user="paulbrunner">
+  <node id="2991405599" lat="45.4643444" lon="9.1871859" version="7" timestamp="2023-04-17T17:22:15Z" changeset="135025096" uid="18452174" user="Chiarant">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Orefici"/>
     <tag k="check_date" v="2023-04-16"/>
     <tag k="clothes" v="men"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="0243413725"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
@@ -13866,7 +13868,8 @@
     <tag k="wikidata" v="Q15136611"/>
     <tag k="wikimedia_commons" v="File:Ufficio_Wikimedia_Italia_a_Milano.jpg"/>
   </node>
-  <node id="4253569591" lat="45.4733670" lon="9.2018093" version="4" timestamp="2020-03-09T11:42:31Z" changeset="81961394" uid="7134549" user="LucaGian">
+  <node id="4253569591" lat="45.4733670" lon="9.2018093" version="5" timestamp="2023-04-17T12:31:45Z" changeset="135013382" uid="9958443" user="cloak">
+    <tag k="access" v="yes"/>
     <tag k="description" v="Wheelchair accessible swing and merry-go-round"/>
     <tag k="leisure" v="playground"/>
     <tag k="wheelchair" v="yes"/>
@@ -15304,8 +15307,9 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4608456478" lat="45.4771551" lon="9.1960581" version="2" timestamp="2019-09-13T09:04:14Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="4608456478" lat="45.4771551" lon="9.1960581" version="3" timestamp="2023-04-17T18:13:09Z" changeset="135025680" uid="9958443" user="cloak">
     <tag k="amenity" v="atm"/>
+    <tag k="check_date" v="2023-04-17"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4608456481" lat="45.4745649" lon="9.1945811" version="2" timestamp="2019-09-13T09:16:57Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
