@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-12T03:11:24Z" areas="2023-04-25T08:53:24Z"/>
+<meta osm_base="2023-05-13T03:10:53Z" areas="2023-04-25T08:53:24Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -3138,9 +3138,9 @@
     <tag k="website" v="http://www.farmaciacomotti.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1606676475" lat="45.4947885" lon="9.1762559" version="6" timestamp="2023-04-13T09:50:10Z" changeset="134854682" uid="3396014" user="Moncecchi Daniele">
+  <node id="1606676475" lat="45.4947885" lon="9.1762559" version="7" timestamp="2023-05-12T14:47:00Z" changeset="136022293" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Milano Lancetti"/>
-    <tag k="railway" v="subway_entrance"/>
+    <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1606676493" lat="45.4761349" lon="9.2068749" version="5" timestamp="2022-05-22T10:48:20Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
@@ -20251,19 +20251,19 @@
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7902416057" lat="45.4806048" lon="9.1624209" version="3" timestamp="2022-04-28T11:08:59Z" changeset="120300419" uid="13878104" user="Nádudvari Tamás">
+  <node id="7902416057" lat="45.4806048" lon="9.1624209" version="4" timestamp="2023-05-12T15:01:05Z" changeset="136022850" uid="3396014" user="Moncecchi Daniele">
     <tag k="access" v="yes"/>
     <tag k="door" v="sliding"/>
-    <tag k="entrance" v="exit"/>
+    <tag k="entrance" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Milano Domodossola"/>
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7902416058" lat="45.4810845" lon="9.1619070" version="3" timestamp="2022-04-28T11:08:59Z" changeset="120300419" uid="13878104" user="Nádudvari Tamás">
+  <node id="7902416058" lat="45.4810845" lon="9.1619070" version="4" timestamp="2023-05-12T15:01:06Z" changeset="136022850" uid="3396014" user="Moncecchi Daniele">
     <tag k="access" v="yes"/>
     <tag k="door" v="sliding"/>
-    <tag k="entrance" v="exit"/>
+    <tag k="entrance" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Milano Domodossola"/>
     <tag k="railway" v="train_station_entrance"/>
@@ -22350,14 +22350,17 @@
     <tag k="shop" v="perfumery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9830606783" lat="45.4619866" lon="9.2078530" version="2" timestamp="2023-03-27T12:40:12Z" changeset="134175984" uid="18452174" user="Chiarant">
+  <node id="9830606783" lat="45.4619866" lon="9.2078530" version="3" timestamp="2023-05-12T22:54:05Z" changeset="136036944" uid="10396321" user="saunter">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20129"/>
     <tag k="addr:street" v="Piazza Cinque Giornate"/>
     <tag k="clothes" v="men"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Dopplegänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="0255013691"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
@@ -32666,7 +32669,7 @@
     <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1120407404" version="8" timestamp="2023-01-12T21:33:08Z" changeset="131205613" uid="113669" user="AnyFile">
+  <way id="1120407404" version="9" timestamp="2023-05-12T14:21:13Z" changeset="136021364" uid="3396014" user="Moncecchi Daniele">
     <center lat="45.4440939" lon="9.1856150"/>
     <nd ref="10247420945"/>
     <nd ref="10541930456"/>
@@ -32678,7 +32681,6 @@
     <nd ref="10247420940"/>
     <nd ref="10541930438"/>
     <nd ref="10247420939"/>
-    <nd ref="10247420938"/>
     <nd ref="10247420937"/>
     <nd ref="10249466925"/>
     <nd ref="10249466926"/>
@@ -32699,7 +32701,7 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1120407405" version="8" timestamp="2023-05-11T16:02:32Z" changeset="135984200" uid="3396014" user="Moncecchi Daniele">
+  <way id="1120407405" version="9" timestamp="2023-05-12T14:21:13Z" changeset="136021364" uid="3396014" user="Moncecchi Daniele">
     <center lat="45.4442248" lon="9.1856855"/>
     <nd ref="10540712276"/>
     <nd ref="10247420953"/>
@@ -32717,7 +32719,6 @@
     <nd ref="10247420949"/>
     <nd ref="10247420955"/>
     <nd ref="10540712279"/>
-    <nd ref="10540712278"/>
     <nd ref="10540712277"/>
     <nd ref="10540712276"/>
     <tag k="area" v="yes"/>
