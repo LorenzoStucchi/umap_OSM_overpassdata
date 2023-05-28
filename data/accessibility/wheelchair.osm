@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-27T03:10:56Z" areas="2023-05-26T23:17:55Z"/>
+<meta osm_base="2023-05-28T03:19:08Z" areas="2023-05-28T00:58:08Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -1755,8 +1755,9 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Fountain of Foro Buonaparte Milan.jpg"/>
   </node>
-  <node id="673971153" lat="45.4696659" lon="9.1816382" version="9" timestamp="2018-02-01T19:58:17Z" changeset="55976238" uid="1476146" user="Alecs01">
+  <node id="673971153" lat="45.4696659" lon="9.1816382" version="10" timestamp="2023-05-27T15:18:30Z" changeset="136628625" uid="17532303" user="morganOSM">
     <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="687897963" lat="45.4718956" lon="9.1676381" version="9" timestamp="2022-03-12T11:52:28Z" changeset="118395223" uid="113669" user="AnyFile">
@@ -2883,8 +2884,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1523205690" lat="45.4763250" lon="9.2070758" version="6" timestamp="2022-05-22T10:47:37Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
-    <tag k="comment" v="accesso per Passante Ferroviario"/>
+  <node id="1523205690" lat="45.4763302" lon="9.2070792" version="7" timestamp="2023-05-27T14:18:57Z" changeset="136626605" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Milano Porta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -3144,8 +3144,7 @@
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1606676493" lat="45.4761349" lon="9.2068749" version="5" timestamp="2022-05-22T10:48:20Z" changeset="121312254" uid="13933690" user="Andrea Carulli">
-    <tag k="comment" v="accesso per metropolitana stazione Porta Venezia lato Nord"/>
+  <node id="1606676493" lat="45.4761349" lon="9.2068749" version="6" timestamp="2023-05-27T14:18:58Z" changeset="136626605" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Porta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -4845,10 +4844,6 @@
     <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2168030929" lat="45.4647674" lon="9.1910636" version="3" timestamp="2023-04-07T13:49:23Z" changeset="134617338" uid="3396014" user="Moncecchi Daniele">
-    <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2168869456" lat="45.4835275" lon="9.2138213" version="6" timestamp="2023-02-06T17:22:08Z" changeset="132167385" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Pittarosso"/>
@@ -7344,7 +7339,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2606090384" lat="45.4747258" lon="9.2057435" version="2" timestamp="2023-04-27T14:16:00Z" changeset="135430830" uid="3396014" user="Moncecchi Daniele">
+  <node id="2606090384" lat="45.4747210" lon="9.2057398" version="3" timestamp="2023-05-27T14:19:08Z" changeset="136626605" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Porta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -21045,7 +21040,7 @@
     <tag k="operator:wikidata" v="Q144617"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9099943053" lat="45.4995991" lon="9.1789020" version="2" timestamp="2022-01-28T14:31:30Z" changeset="116709944" uid="13840929" user="aa30mom">
+  <node id="9099943053" lat="45.4995991" lon="9.1789020" version="3" timestamp="2023-05-27T05:33:39Z" changeset="136611164" uid="19325827" user="malegre">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6b"/>
     <tag k="addr:postcode" v="20158"/>
@@ -21054,6 +21049,7 @@
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Municipale n.11"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:00,15:30-19:30; Sa 09:00-13:00,15:00-19:00"/>
     <tag k="operator" v="Municipale n.11"/>
     <tag k="ref:msal" v="2712"/>
     <tag k="ref:vatin" v="IT01199250158"/>
@@ -21262,21 +21258,9 @@
     <tag k="shop" v="chemist"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9346355887" lat="45.4647660" lon="9.1924748" version="3" timestamp="2023-04-14T15:34:39Z" changeset="134909060" uid="3396014" user="Moncecchi Daniele">
-    <tag k="name" v="Duomo"/>
-    <tag k="name:de" v="Dom"/>
-    <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="9346358141" lat="45.4646007" lon="9.1910693" version="3" timestamp="2023-04-14T15:34:39Z" changeset="134909060" uid="3396014" user="Moncecchi Daniele">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="9346358144" lat="45.4645714" lon="9.1925445" version="2" timestamp="2023-04-14T15:34:40Z" changeset="134909060" uid="3396014" user="Moncecchi Daniele">
-    <tag k="name" v="Duomo"/>
-    <tag k="name:de" v="Dom"/>
-    <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9346381611" lat="45.4636080" lon="9.1882733" version="2" timestamp="2023-04-14T15:34:41Z" changeset="134909060" uid="3396014" user="Moncecchi Daniele">
     <tag k="comment" v="Closed at late night (even when the underground station is still open. In this case use other entrances and stairs to get access to the station or to exit from the station)"/>
@@ -21315,17 +21299,6 @@
     <tag k="name" v="Milano Repubblica"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="9352703647" lat="45.4647749" lon="9.1897445" version="2" timestamp="2023-04-14T15:34:48Z" changeset="134909060" uid="3396014" user="Moncecchi Daniele">
-    <tag k="name" v="Duomo"/>
-    <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9352705756" lat="45.4667045" lon="9.1972783" version="2" timestamp="2023-04-07T13:49:28Z" changeset="134617338" uid="3396014" user="Moncecchi Daniele">
-    <tag k="name" v="San Babila"/>
-    <tag k="railway" v="subway_entrance"/>
-    <tag k="source" v="Bing Sat and personal Knowledge"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="9376573933" lat="45.4529804" lon="9.1723141" version="4" timestamp="2022-12-19T20:41:55Z" changeset="130263286" uid="3911830" user="AnyFile_OsmAnd">
     <tag k="addr:city" v="Milano"/>
@@ -22021,7 +21994,7 @@
     <tag k="website" v="https://excelsa-milano-corso-genova.business.site/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9623569588" lat="45.4747167" lon="9.2057624" version="2" timestamp="2023-04-27T14:16:16Z" changeset="135430830" uid="3396014" user="Moncecchi Daniele">
+  <node id="9623569588" lat="45.4747155" lon="9.2057644" version="3" timestamp="2023-05-27T14:19:19Z" changeset="136626605" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Porta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -30358,7 +30331,7 @@
     <tag k="building:levels" v="1"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="390396072" version="5" timestamp="2022-03-14T14:10:57Z" changeset="118471724" uid="1875845" user="Valerio_Bozzolan">
+  <way id="390396072" version="6" timestamp="2023-05-27T15:05:40Z" changeset="136628156" uid="1875845" user="Valerio_Bozzolan">
     <center lat="45.5021739" lon="9.1988914"/>
     <nd ref="3935594895"/>
     <nd ref="471802369"/>
@@ -30380,6 +30353,7 @@
     <tag k="brand" v="Esso"/>
     <tag k="brand:wikidata" v="Q867662"/>
     <tag k="brand:wikipedia" v="en:Esso"/>
+    <tag k="compressed_air" v="yes"/>
     <tag k="fuel:GTL_diesel" v="yes"/>
     <tag k="fuel:diesel" v="yes"/>
     <tag k="fuel:octane_95" v="yes"/>
