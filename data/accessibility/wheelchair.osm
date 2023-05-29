@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-28T03:19:08Z" areas="2023-05-28T00:58:08Z"/>
+<meta osm_base="2023-05-29T03:16:23Z" areas="2023-05-28T22:14:26Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -3727,11 +3727,12 @@
     <tag k="opening_hours" v="Th 07:30-14:00"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1777066825" lat="45.4845459" lon="9.1796339" version="6" timestamp="2023-03-12T08:55:19Z" changeset="133577944" uid="11220113" user="ivanbranco">
+  <node id="1777066825" lat="45.4845459" lon="9.1796339" version="7" timestamp="2023-05-28T14:18:52Z" changeset="136658394" uid="19325827" user="malegre">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
+    <tag k="man_made" v="water_tap"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Fountain of Piazzale Cimitero Monumentale Milan - 02.jpg"/>
   </node>
@@ -4384,6 +4385,11 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="name" v="L'ombra della sera"/>
     <tag k="restaurant:type:it" v="ristorante;pizzeria"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2054087004" lat="45.5081991" lon="9.2021233" version="3" timestamp="2023-05-28T08:48:19Z" changeset="136647761" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name:signed" v="no"/>
+    <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2064483921" lat="45.4525484" lon="9.2151177" version="3" timestamp="2021-10-30T13:49:33Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
@@ -14582,7 +14588,7 @@
     <tag k="name" v="Ambulatorio Veterinario Sarca"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4424657436" lat="45.5182984" lon="9.2078115" version="2" timestamp="2021-12-13T15:54:01Z" changeset="114888776" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4424657436" lat="45.5182984" lon="9.2078115" version="3" timestamp="2023-05-28T08:52:22Z" changeset="136647894" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="220"/>
@@ -14591,8 +14597,10 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="seafood"/>
     <tag k="email" v="info@ristorantearcieri.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Ristorante Arcieri"/>
     <tag k="opening_hours" v="Tu-Su 12:00-14:30,19:30-22:30"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="phone" v="+39 02 6424721"/>
     <tag k="ref:vatin" v="IT10140900159"/>
     <tag k="reservation" v="recommended"/>
@@ -16085,11 +16093,12 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4953160519" lat="45.4846420" lon="9.1782413" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
+  <node id="4953160519" lat="45.4846420" lon="9.1782413" version="5" timestamp="2023-05-28T14:20:28Z" changeset="136658394" uid="19325827" user="malegre">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
+    <tag k="man_made" v="water_tap"/>
     <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
     <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="source" v="Metropolitana Milanese - MM"/>
