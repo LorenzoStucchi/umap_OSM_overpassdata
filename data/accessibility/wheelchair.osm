@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-11T03:42:36Z" areas="2023-06-11T02:52:09Z"/>
+<meta osm_base="2023-06-12T03:30:52Z" areas="2023-06-11T03:07:17Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -1466,7 +1466,7 @@
     <tag k="website" v="https://milano.biblioteche.it/library/oglio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="442022319" lat="45.4666904" lon="9.1980152" version="8" timestamp="2023-04-16T19:07:51Z" changeset="134988548" uid="15541433" user="paulbrunner">
+  <node id="442022319" lat="45.4666904" lon="9.1980152" version="9" timestamp="2023-06-11T10:37:31Z" changeset="137199246" uid="2884921" user="Ryccardo">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
@@ -1475,8 +1475,10 @@
     <tag k="brand" v="Lego"/>
     <tag k="brand:wikidata" v="Q1063455"/>
     <tag k="brand:wikipedia" v="en:The Lego Group"/>
-    <tag k="check_date" v="2023-04-16"/>
+    <tag k="check_date" v="2023-06-10"/>
+    <tag k="fax" v="+39 02 76001670"/>
     <tag k="name" v="Lego"/>
+    <tag k="operator" v="L'Innominato spa"/>
     <tag k="phone" v="+39 02 76001670"/>
     <tag k="ref:vatin" v="IT03328460161"/>
     <tag k="shop" v="toys"/>
@@ -24630,6 +24632,19 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="10969218293" lat="45.4438825" lon="9.2138798" version="1" timestamp="2023-06-11T13:51:10Z" changeset="137205774" uid="19198184" user="the_real_shb">
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="destination"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10969218294" lat="45.4440382" lon="9.2138191" version="1" timestamp="2023-06-11T13:51:10Z" changeset="137205774" uid="19198184" user="the_real_shb">
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="destination"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="destination"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="12" timestamp="2023-04-23T13:04:31Z" changeset="135261048" uid="2869848" user="maupao70">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -27322,43 +27337,6 @@
     <tag k="operator" v="Lidl"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="136488308" version="8" timestamp="2019-12-28T18:04:21Z" changeset="78961148" uid="1476146" user="Alecs01">
-    <center lat="45.4438282" lon="9.2133513"/>
-    <nd ref="1497181444"/>
-    <nd ref="1497181446"/>
-    <nd ref="1497188857"/>
-    <nd ref="1497181454"/>
-    <nd ref="1497181449"/>
-    <nd ref="1497181466"/>
-    <nd ref="7091103408"/>
-    <nd ref="7091103406"/>
-    <nd ref="7091103405"/>
-    <nd ref="7091103407"/>
-    <nd ref="1497181439"/>
-    <nd ref="1497181430"/>
-    <nd ref="1497181425"/>
-    <nd ref="1497181426"/>
-    <nd ref="1497181424"/>
-    <nd ref="1497181432"/>
-    <nd ref="1497181419"/>
-    <nd ref="1497181418"/>
-    <nd ref="1497181427"/>
-    <nd ref="1497181428"/>
-    <nd ref="1497181433"/>
-    <nd ref="1497181436"/>
-    <nd ref="1497181437"/>
-    <nd ref="1497181440"/>
-    <nd ref="1497181441"/>
-    <nd ref="1497181444"/>
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="building" v="church"/>
-    <tag k="denomination" v="catholic"/>
-    <tag k="name" v="Chiesa di San Luigi"/>
-    <tag k="religion" v="christian"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q19721615"/>
-    <tag k="wikipedia" v="it:Chiesa di San Luigi Gonzaga (Milano)"/>
   </way>
   <way id="136498427" version="6" timestamp="2022-02-08T14:18:08Z" changeset="117163186" uid="11645399" user="davidoskky">
     <center lat="45.4403305" lon="9.1500803"/>
