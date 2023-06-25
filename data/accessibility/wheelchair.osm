@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-24T03:41:33Z" areas="2023-06-11T03:07:17Z"/>
+<meta osm_base="2023-06-25T03:50:06Z" areas="2023-06-11T03:07:17Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -1308,11 +1308,12 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="411817770" lat="45.4812546" lon="9.1860677" version="11" timestamp="2023-02-11T14:28:07Z" changeset="132406785" uid="1875845" user="Valerio_Bozzolan">
+  <node id="411817770" lat="45.4812546" lon="9.1860677" version="12" timestamp="2023-06-24T19:18:05Z" changeset="137732523" uid="11220113" user="ivanbranco">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Viale Pasubio"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2023-06-24"/>
     <tag k="comment:en" v="also selling of bottle of wine"/>
     <tag k="comment:it" v="anche vendita di bottiglie di vino"/>
     <tag k="description:it" v="Cantina con cucina"/>
@@ -3728,8 +3729,9 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Fountain of Piazzale Cimitero Monumentale Milan - 02.jpg"/>
   </node>
-  <node id="1790677540" lat="45.4452536" lon="9.1672980" version="4" timestamp="2022-01-17T14:35:12Z" changeset="116257332" uid="13840929" user="aa30mom">
+  <node id="1790677540" lat="45.4452536" lon="9.1672980" version="5" timestamp="2023-06-24T10:37:01Z" changeset="137716736" uid="9450499" user="mrjackv">
     <tag k="name" v="Libraccio"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-19:30; PH,Su 10:00-13:00,15:00-19:00"/>
     <tag k="second_hand" v="yes"/>
     <tag k="shop" v="books"/>
     <tag k="wheelchair" v="limited"/>
@@ -5774,14 +5776,14 @@
     <tag k="website" v="http://osteriabrunello.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2416147956" lat="45.4807083" lon="9.1841566" version="4" timestamp="2019-09-13T14:03:05Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2416147956" lat="45.4807083" lon="9.1841566" version="5" timestamp="2023-06-24T19:18:05Z" changeset="137732523" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Viale Francesco Crispi"/>
+    <tag k="check_date" v="2023-06-24"/>
     <tag k="clothes" v="men"/>
-    <tag k="name" v="Adler 1973"/>
+    <tag k="name" v="Ader 1973"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -10744,12 +10746,12 @@
     <tag k="website" v="http://www.milanobeauty.it/sito/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3655625127" lat="45.4821932" lon="9.1824422" version="2" timestamp="2023-02-25T11:12:29Z" changeset="133000798" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="20154"/>
-    <tag k="addr:street" v="Viale Pasubio"/>
+  <node id="3655625127" lat="45.4821932" lon="9.1824422" version="4" timestamp="2023-06-24T21:01:45Z" changeset="137735121" uid="11220113" user="ivanbranco">
+    <tag k="check_date" v="2023-06-24"/>
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:housenumber" v="16"/>
+    <tag k="contact:postcode" v="20154"/>
+    <tag k="contact:street" v="Viale Pasubio"/>
     <tag k="name" v="Autoricambi Volta"/>
     <tag k="shop" v="car_parts"/>
     <tag k="wheelchair" v="no"/>
@@ -10764,13 +10766,14 @@
     <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3655625135" lat="45.4822823" lon="9.1821689" version="3" timestamp="2023-02-25T11:11:57Z" changeset="133000798" uid="1875845" user="Valerio_Bozzolan">
+  <node id="3655625135" lat="45.4822823" lon="9.1821689" version="4" timestamp="2023-06-24T19:18:05Z" changeset="137732523" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Piazzale Antonio Baiamonti"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2023-06-24"/>
     <tag k="cuisine" v="kebab"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Mekan"/>
@@ -13688,11 +13691,12 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q41753116"/>
   </node>
-  <node id="4235800588" lat="45.4501202" lon="9.1564590" version="4" timestamp="2018-07-24T20:51:24Z" changeset="61034979" uid="290680" user="wheelmap_visitor">
+  <node id="4235800588" lat="45.4501202" lon="9.1564590" version="5" timestamp="2023-06-24T16:31:10Z" changeset="137727803" uid="9450499" user="mrjackv">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:street" v="Via Tortona"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="description" v="Fontanella su ampia base rettangolare in cemento"/>
+    <tag k="man_made" v="water_tap"/>
     <tag k="website" v="https://commons.wikimedia.org/wiki/File:Fontanella_di_via_Tortona,_Milano.jpg"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -14112,12 +14116,13 @@
     <tag k="toilets" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4315735808" lat="45.4811811" lon="9.1865907" version="4" timestamp="2023-03-12T11:00:17Z" changeset="133581649" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4315735808" lat="45.4811811" lon="9.1865907" version="5" timestamp="2023-06-24T19:18:05Z" changeset="137732523" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Piazza Venticinque Aprile"/>
+    <tag k="check_date" v="2023-06-24"/>
     <tag k="name" v="Onitsuka Tiger"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
@@ -16986,13 +16991,14 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5317028338" lat="45.4813093" lon="9.1759365" version="7" timestamp="2023-03-17T16:16:46Z" changeset="133795158" uid="6178157" user="Tresho">
+  <node id="5317028338" lat="45.4813093" lon="9.1759365" version="8" timestamp="2023-06-24T19:18:05Z" changeset="137732523" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Via Paolo Sarpi"/>
     <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2023-06-24"/>
     <tag k="contact:facebook" v="ravioleriasarpi"/>
     <tag k="contact:instagram" v="laravioleriasarpi"/>
     <tag k="contact:mobile" v="+39 331 887 0596"/>
@@ -24044,12 +24050,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="10178741876" lat="45.4812096" lon="9.1863474" version="3" timestamp="2023-03-12T11:02:02Z" changeset="133581649" uid="1875845" user="Valerio_Bozzolan">
+  <node id="10178741876" lat="45.4812096" lon="9.1863474" version="4" timestamp="2023-06-24T19:18:05Z" changeset="137732523" uid="11220113" user="ivanbranco">
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:operator" v="Roadhouse S.p.A."/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Piazza Venticinque Aprile"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2023-06-24"/>
     <tag k="cuisine" v="mexican"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Billy Tacos"/>
@@ -24481,14 +24488,16 @@
     <tag k="website:menu" v="https://tinyurl.com/MenuPanzerDelivery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10729516478" lat="45.4812311" lon="9.1862817" version="3" timestamp="2023-03-12T11:05:31Z" changeset="133581649" uid="1875845" user="Valerio_Bozzolan">
+  <node id="10729516478" lat="45.4812311" lon="9.1862817" version="4" timestamp="2023-06-24T19:18:05Z" changeset="137732523" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2023-06-24"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Pokéria"/>
     <tag k="outdoor_seating" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="10729760590" lat="45.4814015" lon="9.1751109" version="2" timestamp="2023-03-12T12:55:42Z" changeset="133585308" uid="1875845" user="Valerio_Bozzolan">
+  <node id="10729760590" lat="45.4814015" lon="9.1751109" version="3" timestamp="2023-06-24T19:18:05Z" changeset="137732523" uid="11220113" user="ivanbranco">
+    <tag k="check_date" v="2023-06-24"/>
     <tag k="name" v="Party Wan"/>
     <tag k="shop" v="party"/>
     <tag k="wheelchair" v="no"/>
@@ -30220,7 +30229,7 @@
     <tag k="website" v="https://bobino.it/"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="350390881" version="1" timestamp="2015-05-31T16:21:08Z" changeset="31612277" uid="579545" user="Aury88">
+  <way id="350390881" version="2" timestamp="2023-06-24T15:22:10Z" changeset="137725613" uid="9450499" user="mrjackv">
     <center lat="45.4488954" lon="9.1588138"/>
     <nd ref="3516912280"/>
     <nd ref="3516912258"/>
@@ -30238,6 +30247,7 @@
     <nd ref="3561448614"/>
     <nd ref="3516912280"/>
     <tag k="amenity" v="parking"/>
+    <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="352969937" version="3" timestamp="2022-06-15T17:49:56Z" changeset="122428647" uid="1875845" user="Valerio_Bozzolan">
@@ -31066,6 +31076,21 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.doppiomalto.com/it/ristoranti/#/m/Milano"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="587717044" version="3" timestamp="2023-06-24T16:29:09Z" changeset="137727728" uid="9450499" user="mrjackv">
+    <center lat="45.4503420" lon="9.1570156"/>
+    <nd ref="5613720138"/>
+    <nd ref="5613720137"/>
+    <nd ref="5613720136"/>
+    <nd ref="5613720135"/>
+    <nd ref="6910568752"/>
+    <nd ref="5613720134"/>
+    <nd ref="5613720133"/>
+    <nd ref="5613720138"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="note" v="dimensioni approssimative"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="599459822" version="3" timestamp="2022-05-04T16:35:57Z" changeset="120552723" uid="6220204" user="Ysogo">
     <center lat="45.4363784" lon="9.2474858"/>
