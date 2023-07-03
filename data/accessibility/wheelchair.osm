@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-02T03:43:12Z" areas="2023-07-02T00:42:41Z"/>
+<meta osm_base="2023-07-03T03:40:00Z" areas="2023-07-03T01:39:58Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -680,7 +680,7 @@
     <tag k="website" v="http://www.daberti.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="281819178" lat="45.4893238" lon="9.1888396" version="8" timestamp="2022-01-12T11:12:20Z" changeset="116061985" uid="1875845" user="Valerio_Bozzolan">
+  <node id="281819178" lat="45.4892417" lon="9.1888269" version="10" timestamp="2023-07-02T14:11:10Z" changeset="138025296" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="35"/>
@@ -688,6 +688,7 @@
     <tag k="addr:street" v="Via Pietro Borsieri"/>
     <tag k="alt_name" v="NordEst Caffé;NordEst Café;Nord est café"/>
     <tag k="amenity" v="pub"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Nordest"/>
     <tag k="note" v="Sullo scontrino del Nordest Caffè c'è scritto &quot;Via P. Lambertenghi 25&quot; però penso sia errato lo scontrino."/>
     <tag k="opening_hours" v="08:00 - 01:00"/>
@@ -5599,6 +5600,14 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2411123330" lat="45.4791915" lon="9.2095284" version="5" timestamp="2023-07-02T15:34:06Z" changeset="138028434" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Bata"/>
+    <tag k="brand:wikidata" v="Q688082"/>
+    <tag k="brand:wikipedia" v="en:Bata Corporation"/>
+    <tag k="name" v="Bata"/>
+    <tag k="shop" v="shoes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2411123332" lat="45.4784453" lon="9.2088339" version="6" timestamp="2022-11-23T20:11:03Z" changeset="129296249" uid="974272" user="baprischka">
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
@@ -6890,6 +6899,18 @@
     <tag k="name" v="Il Cormorano"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2488613457" lat="45.4885109" lon="9.1887604" version="7" timestamp="2023-07-02T14:11:38Z" changeset="138025358" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Pietro Borsieri"/>
+    <tag k="female" v="yes"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Aldo Coppola"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2488621616" lat="45.4892000" lon="9.1874100" version="3" timestamp="2019-09-13T15:05:09Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -8617,6 +8638,13 @@
   </node>
   <node id="3013128784" lat="45.4789888" lon="9.2093825" version="5" timestamp="2022-03-20T14:20:29Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Portobello"/>
+    <tag k="shop" v="houseware"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3013128785" lat="45.4792712" lon="9.2096436" version="4" timestamp="2023-07-02T15:35:00Z" changeset="138028434" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Kasanova"/>
+    <tag k="brand:wikidata" v="Q116214505"/>
+    <tag k="name" v="Kasanova"/>
     <tag k="shop" v="houseware"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -21960,10 +21988,20 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9592263282" lat="45.4796169" lon="9.2099918" version="2" timestamp="2022-03-20T15:22:07Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="9592263282" lat="45.4796169" lon="9.2099918" version="3" timestamp="2023-07-02T15:32:41Z" changeset="138028401" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="name" v="Giochi preziosi"/>
     <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="ref:vatin" v="IT11771210967"/>
     <tag k="shop" v="toys"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9592342217" lat="45.4828352" lon="9.2131586" version="2" timestamp="2023-07-02T15:57:57Z" changeset="138028434" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="La esse"/>
+    <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9592826697" lat="45.4964311" lon="9.2473886" version="1" timestamp="2022-03-20T21:01:04Z" changeset="118710619" uid="2370220" user="Paolo pn">
@@ -21997,6 +22035,25 @@
     <tag k="leisure" v="fitness_station"/>
     <tag k="ref" v="13"/>
     <tag k="sport" v="fitness"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9596933510" lat="45.4799462" lon="9.2103374" version="7" timestamp="2023-07-02T15:42:03Z" changeset="138028434" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="name" v="Clayton"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9596933511" lat="45.4799165" lon="9.2103208" version="5" timestamp="2023-07-02T15:41:50Z" changeset="138028434" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="name" v="Buga Bags"/>
+    <tag k="opening_hours" v="Mo 11:00-19:30; Tu-Sa 10:00-19:30; Su 11:00-19:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="bag"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="9597000249" lat="45.4920925" lon="9.1930140" version="1" timestamp="2022-03-22T10:18:09Z" changeset="118772002" uid="1875845" user="Valerio_Bozzolan">
@@ -24765,6 +24822,13 @@
     <tag k="name" v="Home sas"/>
     <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11020533165" lat="45.4827606" lon="9.2130988" version="2" timestamp="2023-07-02T15:58:24Z" changeset="138028434" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Decathlon"/>
+    <tag k="brand:wikidata" v="Q509349"/>
+    <tag k="name" v="Decathlon"/>
+    <tag k="shop" v="sports"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="12" timestamp="2023-04-23T13:04:31Z" changeset="135261048" uid="2869848" user="maupao70">
     <center lat="45.4684792" lon="9.1567286"/>
