@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-05T03:41:30Z" areas="2023-07-04T23:07:35Z"/>
+<meta osm_base="2023-07-06T03:43:44Z" areas="2023-07-06T00:49:02Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -22039,12 +22039,15 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9596933510" lat="45.4799462" lon="9.2103374" version="7" timestamp="2023-07-02T15:42:03Z" changeset="138028434" uid="1875845" user="Valerio_Bozzolan">
+  <node id="9596933510" lat="45.4799462" lon="9.2103374" version="8" timestamp="2023-07-05T19:31:22Z" changeset="138161020" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="name" v="Clayton"/>
     <tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
+    <tag k="ref:vatin" v="IT02558861213"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -32419,36 +32422,6 @@
     <tag k="railway" v="platform"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="984451678" version="2" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
-    <center lat="45.4842505" lon="9.2348959"/>
-    <nd ref="9101840569"/>
-    <nd ref="9101840558"/>
-    <nd ref="9101840561"/>
-    <nd ref="9101840565"/>
-    <nd ref="9101840567"/>
-    <nd ref="9101840568"/>
-    <tag k="access" v="private"/>
-    <tag k="layer" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-  </way>
-  <way id="984451679" version="2" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
-    <center lat="45.4841720" lon="9.2349516"/>
-    <nd ref="9101840571"/>
-    <nd ref="9101840566"/>
-    <nd ref="9101840564"/>
-    <nd ref="9101840560"/>
-    <nd ref="9101840557"/>
-    <nd ref="9101840570"/>
-    <tag k="access" v="private"/>
-    <tag k="layer" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="985470352" version="3" timestamp="2022-06-28T13:54:21Z" changeset="122959169" uid="11242131" user="ja+">
     <center lat="45.4810629" lon="9.2260228"/>
