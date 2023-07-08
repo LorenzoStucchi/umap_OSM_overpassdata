@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-07T03:40:56Z" areas="2023-07-07T00:29:53Z"/>
+<meta osm_base="2023-07-08T03:42:58Z" areas="2023-07-08T00:10:24Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -7997,11 +7997,12 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2887383938" lat="45.4918286" lon="9.1461928" version="3" timestamp="2023-03-12T08:55:19Z" changeset="133577944" uid="11220113" user="ivanbranco">
+  <node id="2887383938" lat="45.4918286" lon="9.1461928" version="4" timestamp="2023-07-07T12:32:41Z" changeset="138227851" uid="2823582" user="a9i">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
+    <tag k="fountain" v="bubbler"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikimedia_commons" v="File:Fountain of Via Grosotto Milan.jpg"/>
   </node>
@@ -32309,6 +32310,23 @@
     <tag k="ref" v="1;2"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="959751675" version="2" timestamp="2023-07-07T12:52:02Z" changeset="138228556" uid="2823582" user="a9i">
+    <center lat="45.4904128" lon="9.1478653"/>
+    <nd ref="8879902167"/>
+    <nd ref="8879902168"/>
+    <nd ref="8879997918"/>
+    <nd ref="8879902170"/>
+    <nd ref="8879902171"/>
+    <nd ref="8879902172"/>
+    <nd ref="8879902173"/>
+    <nd ref="8879902174"/>
+    <nd ref="8879902175"/>
+    <nd ref="8879902165"/>
+    <nd ref="8879902166"/>
+    <nd ref="8879902167"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="961563660" version="1" timestamp="2021-07-05T10:17:27Z" changeset="107432413" uid="66295" user="emmexx">
     <center lat="45.5114716" lon="9.1902499"/>
