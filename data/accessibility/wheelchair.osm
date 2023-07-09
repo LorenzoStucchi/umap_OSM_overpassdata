@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-08T03:42:58Z" areas="2023-07-08T00:10:24Z"/>
+<meta osm_base="2023-07-09T03:45:12Z" areas="2023-07-09T01:37:57Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -149,6 +149,22 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="opening_hours" v="Mo-Fr 08:05-13:00,14:15-18:30; Sa 09:00-13:00"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="250048273" lat="45.4959347" lon="9.2036128" version="7" timestamp="2023-07-08T17:01:06Z" changeset="138270909" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Via Eugenio Pellini"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="LloydsFarmacia Milano n. 32"/>
+    <tag k="operator" v="LloydsFarmacia Milano n. 32"/>
+    <tag k="ref" v="32"/>
+    <tag k="ref:msal" v="2738"/>
+    <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="source" v="Ministero della Sanità"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="250051812" lat="45.5219373" lon="9.2161433" version="8" timestamp="2022-03-13T09:20:11Z" changeset="118422190" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
@@ -5531,13 +5547,14 @@
     <tag k="short_name" v="La Feltrinelli"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2403719026" lat="45.4863997" lon="9.2039414" version="3" timestamp="2019-09-13T08:50:12Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2403719026" lat="45.4863997" lon="9.2039414" version="4" timestamp="2023-07-08T07:20:09Z" changeset="138252837" uid="1521733" user="feyeandal">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Piazza Duca d'Aosta"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="brand" v="Roadhouse"/>
+    <tag k="check_date" v="2023-07-08"/>
     <tag k="level" v="3"/>
     <tag k="name" v="Roadhouse"/>
     <tag k="operator" v="Roadhouse"/>
@@ -10106,11 +10123,12 @@
     <tag k="website" v="http://www.laquiladoro.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3417124020" lat="45.4864789" lon="9.2037758" version="7" timestamp="2021-05-06T09:37:11Z" changeset="104239612" uid="4890411" user="phaerrax">
+  <node id="3417124020" lat="45.4864789" lon="9.2037758" version="8" timestamp="2023-07-08T07:17:50Z" changeset="138252794" uid="1521733" user="feyeandal">
     <tag k="brand" v="Sephora"/>
     <tag k="brand:wikidata" v="Q2408041"/>
     <tag k="brand:wikipedia" v="en:Sephora"/>
     <tag k="capacity:covid19" v="20"/>
+    <tag k="check_date" v="2023-07-08"/>
     <tag k="chemist" v="perfume;cosmetics"/>
     <tag k="contact:phone" v="+39 02 67391012"/>
     <tag k="contact:website" v="http://www.sephora.it/beauty-store/LOMBARDIA/SEPHORA-MILANO-STAZIONE-CENTRALE/S7251"/>
@@ -13302,6 +13320,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4162178514" lat="45.4899078" lon="9.1466392" version="4" timestamp="2023-07-08T08:24:06Z" changeset="138254371" uid="2823582" user="a9i">
+    <tag k="amenity" v="toilets"/>
+    <tag k="check_date" v="2023-07-06"/>
+    <tag k="fee" v="no"/>
+    <tag k="fixme" v="Position estimated"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4170002691" lat="45.4629769" lon="9.1934813" version="2" timestamp="2019-12-15T21:57:41Z" changeset="78439005" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -14989,6 +15014,18 @@
     <tag k="takeaway" v="yes"/>
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4547858698" lat="45.4958780" lon="9.2038842" version="4" timestamp="2023-07-08T17:01:06Z" changeset="138270909" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="Banca Popolare di Milano"/>
+    <tag k="brand:en" v="Popular Bank of Milan"/>
+    <tag k="brand:it" v="Banca Popolare di Milano"/>
+    <tag k="brand:wikidata" v="Q806154"/>
+    <tag k="brand:wikipedia" v="en:Banca Popolare di Milano"/>
+    <tag k="name" v="Banca Popolare di Milano"/>
+    <tag k="name:en" v="Popular Bank of Milan"/>
+    <tag k="name:it" v="Banca Popolare di Milano"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4550686878" lat="45.4682579" lon="9.1729416" version="6" timestamp="2023-05-24T08:08:10Z" changeset="136486340" uid="15541433" user="paulbrunner">
     <tag k="addr:city" v="Milano"/>
@@ -24840,6 +24877,23 @@
     <tag k="brand:wikidata" v="Q509349"/>
     <tag k="name" v="Decathlon"/>
     <tag k="shop" v="sports"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11033946348" lat="45.4949340" lon="9.2046061" version="2" timestamp="2023-07-08T10:05:46Z" changeset="138257626" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Volpi case"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11034451160" lat="45.4960437" lon="9.2033822" version="2" timestamp="2023-07-08T17:01:08Z" changeset="138270909" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Kasanova"/>
+    <tag k="brand:wikidata" v="Q116214505"/>
+    <tag k="name" v="Kasanova"/>
+    <tag k="shop" v="houseware"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11034485705" lat="45.4961081" lon="9.2031899" version="2" timestamp="2023-07-08T17:01:08Z" changeset="138270909" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Gelmarket"/>
+    <tag k="shop" v="frozen_food"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="12" timestamp="2023-04-23T13:04:31Z" changeset="135261048" uid="2869848" user="maupao70">
