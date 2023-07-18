@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-17T03:44:45Z" areas="2023-07-17T01:58:02Z"/>
+<meta osm_base="2023-07-18T03:37:59Z" areas="2023-07-18T01:40:01Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -14329,6 +14329,19 @@
     <tag k="phone" v="+39 02 65560841"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4333479131" lat="45.5156919" lon="9.2085178" version="3" timestamp="2023-07-17T17:25:09Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Via Giuseppe La Farina"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Ristorante La Bicocca"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="+39 02 6425226"/>
+    <tag k="ref:vatin" v="IT08414390156"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4338994017" lat="45.4712346" lon="9.1941842" version="2" timestamp="2019-09-13T09:35:29Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Sweet Coffee Bar"/>
@@ -14653,7 +14666,17 @@
     <tag k="website" v="http://testina.eu"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4424654968" lat="45.5164881" lon="9.2089800" version="2" timestamp="2022-02-23T09:38:42Z" changeset="117760887" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4424654939" lat="45.5149784" lon="9.2081334" version="2" timestamp="2023-07-17T17:26:08Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="name" v="E. Guadagni"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4424654968" lat="45.5164881" lon="9.2089800" version="3" timestamp="2023-07-17T17:23:49Z" changeset="138631224" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="187"/>
@@ -14661,10 +14684,22 @@
     <tag k="addr:street" v="Viale Sarca"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="sushi"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Sushi 187"/>
     <tag k="opening_hours" v="Tu-Su 11:20-23:30"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="website" v="http://www.sushi187milano.it/"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4424655372" lat="45.5158757" lon="9.2086372" version="3" timestamp="2023-07-17T17:24:49Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="name" v="Bankasa"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4424655802" lat="45.5150404" lon="9.2081682" version="2" timestamp="2022-02-23T09:41:38Z" changeset="117760887" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
@@ -14675,6 +14710,56 @@
     <tag k="amenity" v="veterinary"/>
     <tag k="name" v="Ambulatorio Veterinario Sarca"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4424655803" lat="45.5168818" lon="9.2092146" version="4" timestamp="2023-07-17T17:10:35Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="191"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="name" v="Medical Solutions"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4424655804" lat="45.5147200" lon="9.2079550" version="3" timestamp="2023-07-17T17:26:56Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="163"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza;kebab"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Bella Italia 2"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4424656509" lat="45.5178765" lon="9.2095057" version="5" timestamp="2023-07-17T17:08:10Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Via San Glicerio"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Il Panino dei Sogni"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 02 6424671"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4424656662" lat="45.5163077" lon="9.2088780" version="4" timestamp="2023-07-17T17:24:00Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="187"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="brand" v="Mail Boxes Etc."/>
+    <tag k="brand:wikidata" v="Q1139182"/>
+    <tag k="brand:wikipedia" v="en:Mail Boxes Etc."/>
+    <tag k="name" v="Mail Boxes Etc."/>
+    <tag k="office" v="courier"/>
+    <tag k="shop" v="copyshop"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4424657436" lat="45.5182984" lon="9.2078115" version="3" timestamp="2023-05-28T08:52:22Z" changeset="136647894" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
@@ -14716,7 +14801,7 @@
     <tag k="name" v="Why Not"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4424659850" lat="45.5166394" lon="9.2090779" version="3" timestamp="2022-02-23T09:38:23Z" changeset="117760887" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4424659850" lat="45.5167128" lon="9.2091045" version="4" timestamp="2023-07-17T17:11:08Z" changeset="138631293" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Fioreria"/>
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="limited"/>
@@ -15134,9 +15219,11 @@
     <tag k="website" v="https://www.dimanoinmano.it/it/pg563/sgomberi"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4568355082" lat="45.5098180" lon="9.2052567" version="3" timestamp="2022-02-23T09:50:41Z" changeset="117760887" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4568355082" lat="45.5098180" lon="9.2052567" version="4" timestamp="2023-07-17T17:36:15Z" changeset="138631224" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Il piccolo sogno"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4568358432" lat="45.5086591" lon="9.2023598" version="9" timestamp="2023-05-17T17:21:16Z" changeset="136222256" uid="1875845" user="Valerio_Bozzolan">
@@ -24897,6 +24984,13 @@
     <tag k="website" v="https://www.apophisclub.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="11051468910" lat="45.5166453" lon="9.2090753" version="2" timestamp="2023-07-17T17:23:39Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Tecnocasa"/>
+    <tag k="brand:wikidata" v="Q2399658"/>
+    <tag k="name" v="Tecnocasa"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <way id="4497311" version="12" timestamp="2023-04-23T13:04:31Z" changeset="135261048" uid="2869848" user="maupao70">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -30108,7 +30202,7 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q52940745"/>
   </way>
-  <way id="330823046" version="9" timestamp="2023-07-03T16:14:13Z" changeset="138071488" uid="447242" user="Diego Cruciat">
+  <way id="330823046" version="9" timestamp="2023-07-03T16:14:13Z" changeset="138071488" uid="447242" user="Rita Pampaloni">
     <center lat="45.4993039" lon="9.1475693"/>
     <nd ref="3378249229"/>
     <nd ref="11022996614"/>
@@ -30128,7 +30222,7 @@
     <tag k="website" v="https://biblioteche.comune.milano.it/library/villapizzone"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="330824163" version="3" timestamp="2021-03-01T17:05:05Z" changeset="100220848" uid="447242" user="Diego Cruciat">
+  <way id="330824163" version="3" timestamp="2021-03-01T17:05:05Z" changeset="100220848" uid="447242" user="Rita Pampaloni">
     <center lat="45.4991692" lon="9.1487816"/>
     <nd ref="3378259098"/>
     <nd ref="3378259116"/>
