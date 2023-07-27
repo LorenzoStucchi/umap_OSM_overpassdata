@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-26T03:13:56Z" areas="2023-07-26T01:01:02Z"/>
+<meta osm_base="2023-07-27T03:11:49Z" areas="2023-07-27T01:54:25Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -7108,6 +7108,11 @@
   <node id="2498673942" lat="45.4785025" lon="9.2280047" version="5" timestamp="2022-04-15T18:24:46Z" changeset="119761027" uid="4841818" user="122131">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2501673166" lat="45.4525023" lon="9.1700941" version="6" timestamp="2023-07-26T16:20:52Z" changeset="139045863" uid="19266080" user="frlrt">
+    <tag k="name" v="P.ta Genova FS"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2518620897" lat="45.4844586" lon="9.2156429" version="4" timestamp="2023-03-08T23:32:35Z" changeset="133459113" uid="18306404" user="over_the_edge">
@@ -24914,6 +24919,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="10853039922" lat="45.4523231" lon="9.1701259" version="4" timestamp="2023-07-26T16:21:11Z" changeset="139045863" uid="19266080" user="frlrt">
+    <tag k="name" v="P.ta Genova FS"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="10902365193" lat="45.4916566" lon="9.2054536" version="4" timestamp="2023-06-05T11:16:13Z" changeset="136967617" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="restaurant"/>
     <tag k="indoor_seating" v="yes"/>
@@ -32359,12 +32369,14 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="951200514" version="3" timestamp="2022-03-14T15:09:06Z" changeset="118473925" uid="11242131" user="ja+">
+  <way id="951200514" version="4" timestamp="2023-07-26T08:45:48Z" changeset="139025860" uid="8716397" user="f_gonella">
     <center lat="45.4594167" lon="9.2235482"/>
     <nd ref="8804473720"/>
     <nd ref="8804473719"/>
     <nd ref="8804473713"/>
     <nd ref="8804473714"/>
+    <nd ref="11068592947"/>
+    <nd ref="11068592938"/>
     <nd ref="8804473720"/>
     <tag k="area" v="yes"/>
     <tag k="covered" v="yes"/>
