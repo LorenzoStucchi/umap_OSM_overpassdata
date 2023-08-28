@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-27T03:11:04Z" areas="2023-08-27T00:06:44Z"/>
+<meta osm_base="2023-08-28T03:11:01Z" areas="2023-08-28T02:19:58Z"/>
 
   <node id="29797363" lat="45.4845300" lon="9.1873090" version="15" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Milano"/>
@@ -1310,7 +1310,7 @@
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="408783078" lat="45.4564731" lon="9.1746390" version="6" timestamp="2023-04-17T17:22:15Z" changeset="135025096" uid="18452174" user="Chiarant">
+  <node id="408783078" lat="45.4564731" lon="9.1746390" version="7" timestamp="2023-08-27T15:19:36Z" changeset="140456407" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="25"/>
@@ -1318,9 +1318,11 @@
     <tag k="addr:street" v="Corso Genova"/>
     <tag k="check_date" v="2023-04-16"/>
     <tag k="clothes" v="men"/>
+    <tag k="currency:EUR" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Doppelgänger"/>
     <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="phone" v="+39028321980"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -4379,7 +4381,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2045098824" lat="45.4570039" lon="9.1738715" version="3" timestamp="2023-04-16T17:51:08Z" changeset="134985812" uid="15541433" user="paulbrunner">
+  <node id="2045098824" lat="45.4570039" lon="9.1738715" version="4" timestamp="2023-08-27T15:19:36Z" changeset="140456407" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20123"/>
@@ -4387,9 +4389,10 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2023-04-16"/>
     <tag k="name" v="La Playa di Taormina"/>
+    <tag k="phone" v="+39028357062"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2045098842" lat="45.4563504" lon="9.1744985" version="5" timestamp="2023-04-16T17:51:08Z" changeset="134985812" uid="15541433" user="paulbrunner">
+  <node id="2045098842" lat="45.4563504" lon="9.1744985" version="6" timestamp="2023-08-27T15:19:36Z" changeset="140456407" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:postcode" v="20123"/>
@@ -4400,8 +4403,12 @@
     <tag k="drive_through" v="no"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Medi-market parafarmacia"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-19:30; Su 11:00-19:00"/>
+    <tag k="operator" v="Medi-Market Italia S.R.L."/>
     <tag k="outdoor_seating" v="yes"/>
-    <tag k="website" v="http://www.caffebotegacacao.it/"/>
+    <tag k="phone" v="+390250033180"/>
+    <tag k="ref:vatin" v="IT04873590964"/>
+    <tag k="website" v="https://parafarmacie.medi-market.it/it/medi-market-corso-genova"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2050577567" lat="45.4654403" lon="9.2075164" version="6" timestamp="2022-03-26T14:53:30Z" changeset="118947759" uid="1875845" user="Valerio_Bozzolan">
@@ -11514,7 +11521,7 @@
     <tag k="ref:vatin" v="09394790969"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3812740474" lat="45.4809664" lon="9.2034354" version="3" timestamp="2021-06-27T10:13:45Z" changeset="107030095" uid="11220113" user="ivanbranco">
+  <node id="3812740474" lat="45.4809664" lon="9.2034354" version="4" timestamp="2023-08-27T15:17:43Z" changeset="140456332" uid="557496" user="claudia10">
     <tag k="amenity" v="cafe"/>
     <tag k="contact:city" v="Milano"/>
     <tag k="contact:email" v="crazycatcafe@gmail.com"/>
@@ -11527,6 +11534,7 @@
     <tag k="note" v="Il Crazy Cat Café è la prima caffetteria-bistrot di Milano con all'interno tanti gatti da coccolare! Potrai stare con loro durante tutta la giornata, dalla colazione all'aperitivo"/>
     <tag k="opening_hours" v="Tu-Su 9:30-21:30"/>
     <tag k="start_date" v="2015-10"/>
+    <tag k="theme" v="cat"/>
     <tag k="website" v="http://www.crazycatcafe.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
