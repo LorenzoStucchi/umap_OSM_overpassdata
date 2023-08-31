@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-30T03:10:51Z" areas="2023-08-29T21:46:05Z"/>
+<meta osm_base="2023-08-31T03:11:36Z" areas="2023-08-30T23:51:48Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -6279,7 +6279,7 @@
     <tag k="name" v="Gelato e altre delizie"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2438861357" lat="45.4887645" lon="9.1912705" version="3" timestamp="2019-09-13T13:03:57Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2438861357" lat="45.4887645" lon="9.1912705" version="4" timestamp="2023-08-30T17:07:21Z" changeset="140599259" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
@@ -6287,7 +6287,9 @@
     <tag k="addr:street" v="Piazzale Lagosta"/>
     <tag k="amenity" v="cafe"/>
     <tag k="cuisine" v="ice_cream"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Il Caffè Ambrosiano"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2438861358" lat="45.4888078" lon="9.1931359" version="2" timestamp="2019-09-13T14:31:22Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -9331,12 +9333,13 @@
     <tag k="name" v="Osteria Borsieri"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3147203380" lat="45.4893008" lon="9.1919501" version="2" timestamp="2019-09-13T13:02:49Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3147203380" lat="45.4893008" lon="9.1919501" version="3" timestamp="2023-08-30T17:05:24Z" changeset="140599176" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Piazzale Lagosta"/>
+    <tag k="check_date" v="2023-08-30"/>
     <tag k="clothes" v="babies"/>
     <tag k="name" v="Baby Stella"/>
     <tag k="shop" v="clothes"/>
@@ -25230,6 +25233,12 @@
     <tag k="source" v="survey"/>
     <tag k="toilets" v="yes"/>
     <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11155519290" lat="45.4479077" lon="9.2508733" version="1" timestamp="2023-08-30T08:41:38Z" changeset="140576116" uid="8341975" user="m@u">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="12" timestamp="2023-04-23T13:04:31Z" changeset="135261048" uid="2869848" user="maupao70">
