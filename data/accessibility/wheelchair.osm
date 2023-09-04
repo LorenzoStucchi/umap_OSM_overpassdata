@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-03T03:10:46Z" areas="2023-09-02T23:28:28Z"/>
+<meta osm_base="2023-09-04T03:10:56Z" areas="2023-09-03T23:06:59Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -20408,6 +20408,21 @@
     <tag k="website:booking" v="http://www.officineanalfabeta.it/index.html#form4-9"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="7787907246" lat="45.4808740" lon="9.1622235" version="7" timestamp="2023-09-03T10:51:46Z" changeset="140752480" uid="1781586" user="fick89">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Milano Domodossola"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="official_name" v="Milano Nord Domodossola"/>
+    <tag k="old_name" v="Milano Nord Domodossola-Fiera"/>
+    <tag k="operator" v="FNM"/>
+    <tag k="platforms" v="4"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="2003"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q3113699"/>
+    <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
+  </node>
   <node id="7801411132" lat="45.4553979" lon="9.1129252" version="3" timestamp="2022-10-07T16:56:39Z" changeset="127162710" uid="4126696" user="bbgg">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Bisceglie"/>
@@ -32320,7 +32335,7 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147573" version="2" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+  <way id="907147573" version="5" timestamp="2023-09-03T10:51:10Z" changeset="140752457" uid="1781586" user="fick89">
     <center lat="45.4808481" lon="9.1624729"/>
     <nd ref="8423644167"/>
     <nd ref="8423644193"/>
@@ -32338,14 +32353,17 @@
     <tag k="bin" v="yes"/>
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name:signed" v="no"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="4"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147574" version="2" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+  <way id="907147574" version="5" timestamp="2023-09-03T10:51:42Z" changeset="140752457" uid="1781586" user="fick89">
     <center lat="45.4807228" lon="9.1622332"/>
     <nd ref="8423644176"/>
     <nd ref="8423644173"/>
@@ -32363,14 +32381,17 @@
     <tag k="bin" v="yes"/>
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name:signed" v="no"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="1"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147575" version="3" timestamp="2022-10-11T17:12:48Z" changeset="127372217" uid="10893865" user="Emanuele Lorenzo Corti">
+  <way id="907147575" version="6" timestamp="2023-09-03T10:51:32Z" changeset="140752457" uid="1781586" user="fick89">
     <center lat="45.4807901" lon="9.1623437"/>
     <nd ref="8423644188"/>
     <nd ref="8423644186"/>
@@ -32390,10 +32411,13 @@
     <tag k="bin" v="yes"/>
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name:signed" v="no"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="2;3"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
