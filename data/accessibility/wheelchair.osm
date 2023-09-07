@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-06T03:13:02Z" areas="2023-09-06T02:29:12Z"/>
+<meta osm_base="2023-09-07T03:10:50Z" areas="2023-09-06T22:23:12Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -732,6 +732,16 @@
     <tag k="ref:vatin" v="IT09432970961"/>
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="281828130" lat="45.5141993" lon="9.2083420" version="4" timestamp="2023-09-06T07:25:40Z" changeset="140879744" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Via Nicolò Fortiguerra"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Tempi moderni"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="281885884" lat="45.4666453" lon="9.1847704" version="7" timestamp="2022-11-26T09:37:24Z" changeset="129394561" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
@@ -2191,6 +2201,15 @@
     <tag k="reservation" v="recommended"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1138859879" lat="45.5075977" lon="9.2043976" version="6" timestamp="2023-09-06T07:37:58Z" changeset="140879744" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="alt_name" v="Punto 3"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Svapo web"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="tobacco" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1149228717" lat="45.4795274" lon="9.2268098" version="7" timestamp="2022-03-20T14:31:39Z" changeset="118698008" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
@@ -2874,6 +2893,16 @@
     <tag k="name" v="Brenta"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1505100174" lat="45.4468078" lon="9.2101776" version="4" timestamp="2023-09-06T17:20:50Z" changeset="140904815" uid="19198184" user="the_real_shb">
+    <tag k="name" v="Lodi TIBB"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1505100178" lat="45.4468145" lon="9.2104740" version="4" timestamp="2023-09-06T17:21:36Z" changeset="140904815" uid="19198184" user="the_real_shb">
+    <tag k="name" v="Lodi TIBB"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1505106677" lat="45.4365799" lon="9.1682887" version="5" timestamp="2023-05-30T14:41:29Z" changeset="136750299" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Famagosta"/>
@@ -4530,6 +4559,20 @@
     <tag k="phone" v="+39 02 66111172"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2084503046" lat="45.5088316" lon="9.2046810" version="4" timestamp="2023-09-06T07:34:01Z" changeset="140879744" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Via Gian Girolamo Savoldo"/>
+    <tag k="email" v="3motorspoint@gmail.com"/>
+    <tag k="fax" v="+39 02 66113824"/>
+    <tag k="name" v="3 Motors"/>
+    <tag k="phone" v="+39 02 66117045"/>
+    <tag k="shop" v="motorcycle"/>
+    <tag k="website" v="https://www.3motorspoint.it/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2090339750" lat="45.4685867" lon="9.1811492" version="3" timestamp="2022-03-30T10:18:52Z" changeset="119109101" uid="4974073" user="thom_bike_bln">
     <tag k="name" v="Autostradale"/>
@@ -14562,11 +14605,13 @@
     <tag k="outdoor_seating" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4344217206" lat="45.5075106" lon="9.2039512" version="4" timestamp="2023-05-21T22:33:30Z" changeset="136389252" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4344217206" lat="45.5075106" lon="9.2039512" version="5" timestamp="2023-09-06T07:38:24Z" changeset="140881483" uid="1875845" user="Valerio_Bozzolan">
     <tag k="indoor_seating" v="no"/>
     <tag k="name" v="Fantasie dolci e salate"/>
     <tag k="opening_hours" v="Mo-Sa 07:00-20:00"/>
     <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="bakery"/>
     <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="limited"/>
@@ -15535,8 +15580,24 @@
     <tag k="entrance" v="emergency"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4621725173" lat="45.5081176" lon="9.2042903" version="2" timestamp="2022-02-23T09:53:18Z" changeset="117760887" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4621725131" lat="45.5081486" lon="9.2046511" version="3" timestamp="2023-09-06T07:36:27Z" changeset="140879744" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="80"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="brand" v="Anytime Fitness"/>
+    <tag k="brand:wikidata" v="Q4778364"/>
+    <tag k="brand:wikipedia" v="en:Anytime Fitness"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Anytime Fitness"/>
+    <tag k="website" v="https://www.anytimefitness.it/gyms/it-0022/milano-mi-20125/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4621725173" lat="45.5081176" lon="9.2042903" version="3" timestamp="2023-09-06T07:36:36Z" changeset="140881483" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Punto 3"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -20067,6 +20128,15 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="7047896118" lat="45.5175933" lon="9.2100089" version="3" timestamp="2023-09-06T07:17:47Z" changeset="140879744" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="email" v="orastudio@fastwebnet.it"/>
+    <tag k="name" v="Centro Copie Bicocca"/>
+    <tag k="phone" v="+39 02 6610 2387"/>
+    <tag k="ref:vatin" v="IT12104780155"/>
+    <tag k="shop" v="copyshop"/>
+    <tag k="website" v="https://www.ccb-orastudio.net"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="7080187776" lat="45.4576818" lon="9.2188248" version="2" timestamp="2021-10-30T13:25:02Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="16"/>
@@ -21422,6 +21492,20 @@
     <tag k="phone" v="+39 379 1043776"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9085880019" lat="45.5279796" lon="9.2149923" version="4" timestamp="2023-09-06T06:57:51Z" changeset="140879744" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="brand" v="Lidl"/>
+    <tag k="brand:wikidata" v="Q151954"/>
+    <tag k="brand:wikipedia" v="en:Lidl"/>
+    <tag k="name" v="Lidl"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:30; Su 08:30-21:00"/>
+    <tag k="phone" v="+39 800 480048"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9088678931" lat="45.4489359" lon="9.1730707" version="3" timestamp="2022-06-28T09:49:48Z" changeset="122948304" uid="89897" user="airon90">
     <tag k="amenity" v="telephone"/>
@@ -25240,6 +25324,16 @@
     <tag k="phone" v="+39236523267"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://brasileirinhomilano.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11092079510" lat="45.5075329" lon="9.2044351" version="2" timestamp="2023-09-06T07:38:05Z" changeset="140879744" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Mundo latino"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11092192646" lat="45.5074823" lon="9.2045097" version="2" timestamp="2023-09-06T07:38:09Z" changeset="140879744" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Icona casa"/>
+    <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="11117119115" lat="45.4791547" lon="9.1856516" version="1" timestamp="2023-08-15T16:17:29Z" changeset="139923557" uid="4861141" user="Michael Montani">
