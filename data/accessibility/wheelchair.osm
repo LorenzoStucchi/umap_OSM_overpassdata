@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-12T03:11:12Z" areas="2023-09-12T01:05:10Z"/>
+<meta osm_base="2023-09-13T03:10:46Z" areas="2023-09-13T00:45:19Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4681,8 +4681,12 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2104097113" lat="45.4933127" lon="9.1846331" version="2" timestamp="2019-09-13T15:14:51Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2104097113" lat="45.4933127" lon="9.1846331" version="3" timestamp="2023-09-12T11:09:34Z" changeset="141158096" uid="1862505" user="svencb">
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:street" v="Via Lepontina"/>
+    <tag k="alt_name" v="Fior di farina"/>
     <tag k="name" v="Fiordifarina"/>
+    <tag k="phone" v="+39 3462311347"/>
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -5133,13 +5137,18 @@
     <tag k="website" v="https://www.lebanque.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2226705957" lat="45.4489991" lon="9.1771151" version="5" timestamp="2023-04-16T17:12:35Z" changeset="134984339" uid="15541433" user="paulbrunner">
+  <node id="2226705957" lat="45.4489991" lon="9.1771151" version="6" timestamp="2023-09-12T11:09:34Z" changeset="141158096" uid="1862505" user="svencb">
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Alzaia Naviglio Pavese"/>
     <tag k="amenity" v="cafe"/>
-    <tag k="check_date" v="2023-04-16"/>
+    <tag k="check_date" v="2023-09-11"/>
+    <tag k="drive_through" v="no"/>
     <tag k="name" v="Bar Tabacchi SI &amp; GA di Lupini Graziella"/>
     <tag k="phone" v="+39 02 36514963"/>
     <tag k="sells:tobacco" v="yes"/>
     <tag k="stamps" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2257692518" lat="45.5020581" lon="9.1596153" version="3" timestamp="2016-08-20T11:55:14Z" changeset="41574757" uid="1967477" user="bubix">
@@ -8376,12 +8385,18 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2991135319" lat="45.4780297" lon="9.2089059" version="5" timestamp="2022-05-15T10:55:45Z" changeset="121007483" uid="13933690" user="Andrea Carulli">
-    <tag k="name" v="Vans"/>
-    <tag k="opening_hours" v="Mo-Sa 10:15-19:00; Su 11:00-19:00"/>
+  <node id="2991135319" lat="45.4780297" lon="9.2089059" version="7" timestamp="2023-09-12T11:09:34Z" changeset="141158096" uid="1862505" user="svencb">
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="brand" v="Dr. Martens"/>
+    <tag k="brand:wikidata" v="Q1126126"/>
+    <tag k="check_date" v="2023-09-11"/>
+    <tag k="name" v="Dr. Martens"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="shoes"/>
+    <tag k="website" v="https://www.drmartens.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2991135320" lat="45.4783405" lon="9.2090882" version="6" timestamp="2022-03-20T14:31:20Z" changeset="118697522" uid="1875845" user="Valerio_Bozzolan">
@@ -13269,15 +13284,17 @@
     <tag k="shop" v="hearing_aids"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4142385792" lat="45.4922563" lon="9.1841894" version="3" timestamp="2020-02-11T18:22:23Z" changeset="80865088" uid="561047" user="ggamba">
+  <node id="4142385792" lat="45.4922563" lon="9.1841894" version="4" timestamp="2023-09-12T11:09:34Z" changeset="141158096" uid="1862505" user="svencb">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Carlo Farini"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2023-09-11"/>
     <tag k="name" v="Bar Azzurra"/>
     <tag k="opening_hours" v="Mo-Su 07:30-24:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4142385793" lat="45.4916024" lon="9.1836932" version="2" timestamp="2019-09-13T15:18:34Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -15449,8 +15466,14 @@
     <tag k="name" v="Caffè Bar Farini"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4585296924" lat="45.4941891" lon="9.1850018" version="2" timestamp="2019-09-13T15:13:02Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="4585296924" lat="45.4941891" lon="9.1850018" version="3" timestamp="2023-09-12T11:09:34Z" changeset="141158096" uid="1862505" user="svencb">
+    <tag k="check_date" v="2023-09-11"/>
+    <tag k="drink:coffee" v="yes"/>
     <tag k="name" v="Steven's"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="phone" v="+39 3292531881"/>
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -22208,7 +22231,7 @@
     <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9560479844" lat="45.4721477" lon="9.1734894" version="2" timestamp="2022-11-12T15:52:22Z" changeset="128818333" uid="18143" user="Laurentius">
+  <node id="9560479844" lat="45.4721477" lon="9.1734894" version="3" timestamp="2023-09-12T09:51:04Z" changeset="141154856" uid="1862505" user="svencb">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="6"/>
@@ -22219,7 +22242,7 @@
     <tag k="name" v="Triennale Design Museum"/>
     <tag k="name:es" v="Museo del Diseño"/>
     <tag k="name:it" v="Triennale Design Museum"/>
-    <tag k="opening_hours" v="Tu-Su 10:30-20:30; Mo off"/>
+    <tag k="opening_hours" v="Tu-Su 11:00-20:00; Mo off"/>
     <tag k="phone" v="+39 02 72434244"/>
     <tag k="start_date" v="1933"/>
     <tag k="toilets:wheelchair" v="yes"/>
@@ -27093,7 +27116,7 @@
     <tag k="wikidata" v="Q734216"/>
     <tag k="wikipedia" v="it:Basilica di Sant'Eufemia (Milano)"/>
   </way>
-  <way id="46103655" version="33" timestamp="2023-08-21T19:40:27Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <way id="46103655" version="34" timestamp="2023-09-12T09:51:04Z" changeset="141154856" uid="1862505" user="svencb">
     <center lat="45.4654424" lon="9.1789525"/>
     <nd ref="587698891"/>
     <nd ref="4209403190"/>
@@ -27120,12 +27143,11 @@
     <tag k="name:es" v="San Mauricio Monasterio Maggiore"/>
     <tag k="name:it" v="San Maurizio al Monastero Maggiore"/>
     <tag k="name:ru" v="Церковь Св.Маврикия"/>
-    <tag k="opening_hours" v="Tu-Sa 09:30-17:30"/>
-    <tag k="opening_hours:covid19" v="Fr-Su 10:00-17:30"/>
+    <tag k="opening_hours" v="Tu-Sa 10:00-17:30"/>
     <tag k="operator" v="Touring Club Italiano"/>
     <tag k="operator:wikidata" v="Q1069349"/>
     <tag k="religion" v="christian"/>
-    <tag k="reservation" v="only"/>
+    <tag k="reservation" v="no"/>
     <tag k="tourism" v="attraction"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1255890"/>
@@ -27952,7 +27974,7 @@
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="136077807" version="22" timestamp="2022-11-15T10:39:33Z" changeset="128932207" uid="13840929" user="aa30mom">
+  <way id="136077807" version="23" timestamp="2023-09-12T09:24:00Z" changeset="141153657" uid="13840929" user="aa30mom">
     <center lat="45.4867639" lon="9.1957961"/>
     <nd ref="1493256600"/>
     <nd ref="2010484618"/>
@@ -28073,7 +28095,7 @@
     <tag k="building:material" v="glass"/>
     <tag k="name" v="Palazzo Regione Lombardia"/>
     <tag k="office" v="government"/>
-    <tag k="phone" v="+39 800 318 318"/>
+    <tag k="phone" v="+39 02 67651"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="136312611" version="4" timestamp="2021-09-13T21:57:40Z" changeset="111166323" uid="290680" user="wheelmap_visitor">
