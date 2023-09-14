@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-13T03:10:46Z" areas="2023-09-13T00:45:19Z"/>
+<meta osm_base="2023-09-14T03:10:40Z" areas="2023-09-14T00:31:13Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -6593,6 +6593,16 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q45103736"/>
     <tag k="wikipedia" v="it:Monumento a Giovanni Battista Piatti"/>
+  </node>
+  <node id="2461220923" lat="45.4656881" lon="9.2304286" version="5" timestamp="2023-09-13T06:15:46Z" changeset="141191498" uid="10521220" user="sNappy_ml">
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="UBI Banca"/>
+    <tag k="brand:wikidata" v="Q1476162"/>
+    <tag k="brand:wikipedia" v="en:UBI Banca"/>
+    <tag k="name" v="UBI Banca"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:30,14:45-16:55"/>
+    <tag k="operator" v="UBI - Banca Popolare Commercio e Industria"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2461314556" lat="45.4836925" lon="9.1899846" version="20" timestamp="2023-05-21T19:08:11Z" changeset="136384204" uid="974272" user="baprischka">
     <tag k="addr:city" v="Milano"/>
@@ -14961,12 +14971,15 @@
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4425262905" lat="45.5032082" lon="9.1571452" version="10" timestamp="2022-03-21T12:49:47Z" changeset="118735093" uid="13840929" user="aa30mom">
+  <node id="4425262905" lat="45.5032082" lon="9.1571452" version="13" timestamp="2023-09-13T12:49:13Z" changeset="141210084" uid="18306404" user="over_the_edge">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20156"/>
     <tag k="addr:street" v="Via Raffaele Lambruschini"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="library"/>
+    <tag k="check_date:opening_hours" v="2023-09-13"/>
+    <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Biblioteca Bovisa La Masa"/>
     <tag k="name:en" v="Bovisa La Masa Library"/>
     <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
@@ -17534,8 +17547,9 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5414250926" lat="45.5036704" lon="9.1575406" version="3" timestamp="2018-07-24T20:41:27Z" changeset="61034979" uid="290680" user="wheelmap_visitor">
+  <node id="5414250926" lat="45.5036704" lon="9.1575406" version="4" timestamp="2023-09-13T11:17:50Z" changeset="141205553" uid="18306404" user="over_the_edge">
     <tag k="amenity" v="atm"/>
+    <tag k="check_date" v="2023-09-13"/>
     <tag k="operator" v="Banca Popolare di Sondrio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -18466,15 +18480,20 @@
     <tag k="foot" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5726198896" lat="45.5035302" lon="9.1574207" version="4" timestamp="2018-11-20T12:44:54Z" changeset="64695698" uid="417672" user="Guidus">
+  <node id="5726198896" lat="45.5035302" lon="9.1574207" version="8" timestamp="2023-09-13T12:30:19Z" changeset="141209065" uid="18306404" user="over_the_edge">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20156"/>
     <tag k="addr:street" v="Via Raffaele Lambruschini"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Cheezy Weezy"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00+"/>
     <tag k="operator" v="Be.Re S.r.l."/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT10580160157"/>
+    <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5734977916" lat="45.4765873" lon="9.2310721" version="3" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
@@ -25446,6 +25465,62 @@
     <tag k="locked" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11189034729" lat="45.4592084" lon="9.1900222" version="2" timestamp="2023-09-13T20:56:02Z" changeset="141229829" uid="33407" user="Zaffo80">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="via Rugabella"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/adspheragroup/"/>
+    <tag k="contact:phone" v="+39 02 21100085"/>
+    <tag k="contact:website" v="https://www.adwebagency.it/"/>
+    <tag k="description" v="Agenzia di web marketing strategico e di posizionamento digitale sui motori di ricerca"/>
+    <tag k="name" v="Ad Web Agency"/>
+    <tag k="office" v="advertising_agency"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11189080830" lat="45.4993609" lon="9.1372391" version="1" timestamp="2023-09-13T20:51:49Z" changeset="141229727" uid="33407" user="Zaffo80">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="20156"/>
+    <tag k="addr:street" v="Via Giovanni da Udine"/>
+    <tag k="contact:mobile" v="+39 392 4865115"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Assistenza lavatrici Bosch Milano"/>
+    <tag k="name" v="Assistenza riparazione lavatrici Bosch Milano"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cheque" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="shop" v="repair"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11189089904" lat="45.4659338" lon="9.1515113" version="1" timestamp="2023-09-13T21:19:11Z" changeset="141230538" uid="33407" user="Zaffo80">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20146"/>
+    <tag k="addr:street" v="Via Sacco"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:email" v="info@chocolatcafemilano.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/chococolat.cafe.milano"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/chocolat_cafe_milano/"/>
+    <tag k="contact:phone" v="+39 02 64082714"/>
+    <tag k="contact:tripadvisor" v="https://www.tripadvisor.it/Restaurant_Review-g187849-d24902661-Reviews-Chocolat_Cafe_Milano-Milan_Lombardy.html"/>
+    <tag k="contact:website" v="https://www.chocolatcafemilano.it/"/>
+    <tag k="contact:whatsapp" v="+39 02 64082714"/>
+    <tag k="name" v="Chocolat Cafè Milano"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-20:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="ref:vatin" v="IT07800720968"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="12" timestamp="2023-04-23T13:04:31Z" changeset="135261048" uid="2869848" user="maupao70">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -32244,6 +32319,17 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="819544963" version="2" timestamp="2023-09-13T06:43:16Z" changeset="141192423" uid="10521220" user="sNappy_ml">
+    <center lat="45.4790027" lon="9.1949707"/>
+    <nd ref="7653345714"/>
+    <nd ref="7653345710"/>
+    <nd ref="7653345713"/>
+    <nd ref="7653345712"/>
+    <nd ref="7653345711"/>
+    <nd ref="7653345714"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="835810877" version="8" timestamp="2022-11-15T16:47:39Z" changeset="128950887" uid="17635148" user="Nomebrutto">
     <center lat="45.5025182" lon="9.1590346"/>
     <nd ref="9449465225"/>
@@ -32267,7 +32353,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810878" version="6" timestamp="2022-11-15T16:46:35Z" changeset="128950845" uid="17635148" user="Nomebrutto">
+  <way id="835810878" version="9" timestamp="2023-09-13T12:45:04Z" changeset="141209896" uid="18306404" user="over_the_edge">
     <center lat="45.5024975" lon="9.1588728"/>
     <nd ref="256256362"/>
     <nd ref="5996463213"/>
@@ -32282,16 +32368,19 @@
     <nd ref="256256362"/>
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="1"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810879" version="5" timestamp="2022-11-15T16:47:04Z" changeset="128950845" uid="17635148" user="Nomebrutto">
+  <way id="835810879" version="8" timestamp="2023-09-13T12:45:03Z" changeset="141209896" uid="18306404" user="over_the_edge">
     <center lat="45.5025405" lon="9.1592088"/>
     <nd ref="9449465224"/>
     <nd ref="9449465223"/>
@@ -32302,16 +32391,19 @@
     <nd ref="9449465224"/>
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="4;5"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810880" version="4" timestamp="2022-03-14T15:09:06Z" changeset="118473925" uid="11242131" user="ja+">
+  <way id="835810880" version="8" timestamp="2023-09-13T12:45:03Z" changeset="141209896" uid="18306404" user="over_the_edge">
     <center lat="45.5025629" lon="9.1593898"/>
     <nd ref="9449465221"/>
     <nd ref="9449465230"/>
@@ -32321,16 +32413,20 @@
     <nd ref="9449465222"/>
     <nd ref="9449465221"/>
     <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="6;7"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810881" version="5" timestamp="2022-03-14T15:09:06Z" changeset="118473925" uid="11242131" user="ja+">
+  <way id="835810881" version="9" timestamp="2023-09-13T12:45:01Z" changeset="141209896" uid="18306404" user="over_the_edge">
     <center lat="45.5025844" lon="9.1595450"/>
     <nd ref="256256363"/>
     <nd ref="9449465220"/>
@@ -32346,12 +32442,16 @@
     <nd ref="2466195194"/>
     <nd ref="256256363"/>
     <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
+    <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="8"/>
+    <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
