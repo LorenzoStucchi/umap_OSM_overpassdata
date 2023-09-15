@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-14T03:10:40Z" areas="2023-09-14T00:31:13Z"/>
+<meta osm_base="2023-09-15T03:11:06Z" areas="2023-09-15T00:17:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3230,7 +3230,8 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1606676523" lat="45.4598163" lon="9.2243817" version="3" timestamp="2022-01-12T18:43:41Z" changeset="116078510" uid="89897" user="airon90">
+  <node id="1606676523" lat="45.4598163" lon="9.2243817" version="4" timestamp="2023-09-14T08:38:10Z" changeset="141245941" uid="3396014" user="Moncecchi Daniele">
+    <tag k="name" v="Milano Porta Vittoria"/>
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -17037,13 +17038,15 @@
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa-Su closed; PH closed"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5245525906" lat="45.5028773" lon="9.1615665" version="2" timestamp="2019-01-30T13:14:25Z" changeset="66760827" uid="290680" user="wheelmap_visitor">
+  <node id="5245525906" lat="45.5028773" lon="9.1615665" version="3" timestamp="2023-09-14T09:09:31Z" changeset="141247012" uid="18306404" user="over_the_edge">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="131"/>
     <tag k="addr:postcode" v="20158"/>
     <tag k="addr:street" v="Via Giuseppe Candiani"/>
     <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Civico 131"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5256152902" lat="45.5027250" lon="9.1613623" version="2" timestamp="2018-02-18T14:18:43Z" changeset="56464278" uid="1781586" user="fick89">
@@ -20656,18 +20659,21 @@
     <tag k="website" v="https://www.moxoff.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8010543302" lat="45.4847020" lon="9.2366788" version="3" timestamp="2023-04-25T15:00:34Z" changeset="135347951" uid="3396014" user="Moncecchi Daniele">
+  <node id="8010543302" lat="45.4847020" lon="9.2366788" version="4" timestamp="2023-09-14T08:38:10Z" changeset="141245941" uid="3396014" user="Moncecchi Daniele">
     <tag k="entrance" v="yes"/>
+    <tag k="name" v="Lambrate FS"/>
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8010543382" lat="45.4846503" lon="9.2367473" version="3" timestamp="2023-04-25T15:00:35Z" changeset="135347951" uid="3396014" user="Moncecchi Daniele">
+  <node id="8010543382" lat="45.4846503" lon="9.2367473" version="4" timestamp="2023-09-14T08:38:10Z" changeset="141245941" uid="3396014" user="Moncecchi Daniele">
     <tag k="entrance" v="yes"/>
+    <tag k="name" v="Lambrate FS"/>
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8010543383" lat="45.4847833" lon="9.2366438" version="3" timestamp="2023-04-25T15:00:35Z" changeset="135347951" uid="3396014" user="Moncecchi Daniele">
+  <node id="8010543383" lat="45.4847833" lon="9.2366438" version="4" timestamp="2023-09-14T08:38:10Z" changeset="141245941" uid="3396014" user="Moncecchi Daniele">
     <tag k="entrance" v="yes"/>
+    <tag k="name" v="Lambrate FS"/>
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -25463,6 +25469,15 @@
     <tag k="access" v="yes"/>
     <tag k="barrier" v="gate"/>
     <tag k="locked" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11186593686" lat="45.4881119" lon="9.1500253" version="3" timestamp="2023-09-14T17:29:26Z" changeset="141268736" uid="10521220" user="sNappy_ml">
+    <tag k="addr:housenumber" v="40"/>
+    <tag k="addr:street" v="via Marco Ulpio Traiano"/>
+    <tag k="description" v="Ufficio della Motorizzazione dedicato alle omologazioni"/>
+    <tag k="name" v="Centro Prove Autoveicoli di Milano"/>
+    <tag k="office" v="government"/>
+    <tag k="opening_hours" v="Mo 09:00-13:00; Tu 09:00-17:00; We 08:00-13:00; Th 09:00-17:00; Fr 09:00-17:00"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11189034729" lat="45.4592084" lon="9.1900222" version="2" timestamp="2023-09-13T20:56:02Z" changeset="141229829" uid="33407" user="Zaffo80">
@@ -31669,6 +31684,17 @@
     <tag k="name" v="Tropi&amp;Co"/>
     <tag k="website" v="http://www.tropi-co.com/"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="471311423" version="2" timestamp="2023-09-14T17:24:22Z" changeset="141268507" uid="19198184" user="the_real_shb">
+    <center lat="45.4543560" lon="9.1983545"/>
+    <nd ref="574675084"/>
+    <nd ref="4654764830"/>
+    <nd ref="4654764829"/>
+    <nd ref="4654764831"/>
+    <nd ref="574675471"/>
+    <nd ref="574675084"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="490205759" version="2" timestamp="2023-06-18T15:13:56Z" changeset="137482378" uid="706350" user="morenegade">
     <center lat="45.5219631" lon="9.2231275"/>
