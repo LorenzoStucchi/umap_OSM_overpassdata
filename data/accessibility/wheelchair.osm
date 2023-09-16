@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-15T03:11:06Z" areas="2023-09-15T00:17:15Z"/>
+<meta osm_base="2023-09-16T03:10:35Z" areas="2023-09-16T00:06:17Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3124,7 +3124,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1593793939" lat="45.5067569" lon="9.2014068" version="7" timestamp="2022-06-14T11:50:25Z" changeset="122370090" uid="1875845" user="Valerio_Bozzolan">
+  <node id="1593793939" lat="45.5067569" lon="9.2014068" version="8" timestamp="2023-09-15T16:31:51Z" changeset="141310141" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="58"/>
@@ -3135,8 +3135,10 @@
     <tag k="cuisine" v="pizza;japanese;italian"/>
     <tag k="email" v="RISTORANTEALDESIDERIO@GMAIL.COM"/>
     <tag k="facebook" v="ristorantealdesiderio"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Al Desiderio"/>
     <tag k="opening_hours" v="Su-Fr 12:00-14:30, 19:00-23:00; Sa 19:00-23:00; PH off"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 6471173"/>
     <tag k="ref:vatin" v="IT05072560963"/>
     <tag k="source" v="direct knowledge"/>
@@ -6414,9 +6416,11 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2446726390" lat="45.5037844" lon="9.1650880" version="9" timestamp="2023-05-24T07:15:45Z" changeset="136484382" uid="11220113" user="ivanbranco">
+  <node id="2446726390" lat="45.5037844" lon="9.1650880" version="10" timestamp="2023-09-15T10:48:10Z" changeset="141296940" uid="18306404" user="over_the_edge">
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Scudo Cafè"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2446726398" lat="45.5036679" lon="9.1645476" version="12" timestamp="2023-05-24T07:15:45Z" changeset="136484382" uid="11220113" user="ivanbranco">
@@ -15428,15 +15432,18 @@
     <tag k="opening_hours" v="Mo-Fr 08:20-13:20,14:30-15:30"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4568361059" lat="45.5079673" lon="9.2019593" version="3" timestamp="2022-01-20T12:09:39Z" changeset="116383074" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4568361059" lat="45.5079673" lon="9.2019593" version="4" timestamp="2023-09-15T16:30:17Z" changeset="141310141" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:postcode" v="20126"/>
     <tag k="addr:street" v="Viale Fulvio Testi"/>
+    <tag k="indoor_seating" v="no"/>
     <tag k="name" v="Piccolo Forno"/>
     <tag k="opening_hours" v="Tu-Su 06:00-20:00"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="shop" v="bakery"/>
+    <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4572043280" lat="45.4910130" lon="9.1856719" version="4" timestamp="2021-11-06T17:05:55Z" changeset="113454959" uid="11645399" user="davidoskky">
@@ -17049,7 +17056,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5256152902" lat="45.5027250" lon="9.1613623" version="2" timestamp="2018-02-18T14:18:43Z" changeset="56464278" uid="1781586" user="fick89">
+  <node id="5256152902" lat="45.5027250" lon="9.1613623" version="3" timestamp="2023-09-15T11:22:03Z" changeset="141296940" uid="18306404" user="over_the_edge">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:postcode" v="20158"/>
@@ -17057,8 +17064,9 @@
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="kebab"/>
     <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Kebap Bovisa"/>
-    <tag k="outdoor_seating" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
@@ -19320,8 +19328,9 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6016413001" lat="45.5054837" lon="9.1652832" version="4" timestamp="2023-05-24T07:15:45Z" changeset="136484382" uid="11220113" user="ivanbranco">
+  <node id="6016413001" lat="45.5054837" lon="9.1652832" version="5" timestamp="2023-09-15T09:25:00Z" changeset="141293584" uid="18306404" user="over_the_edge">
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Bistrot PolEATecnico"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-19:30"/>
     <tag k="outdoor_seating" v="yes"/>
@@ -25258,6 +25267,17 @@
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Golfo di Mondello"/>
     <tag k="outdoor_seating" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10905629393" lat="45.5099902" lon="9.2031548" version="2" timestamp="2023-09-15T16:26:37Z" changeset="141310670" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Fondocasa"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10905667158" lat="45.5092318" lon="9.2026925" version="3" timestamp="2023-09-15T16:27:47Z" changeset="141310670" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Angelo"/>
+    <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="10940031392" lat="45.4365792" lon="9.1683245" version="1" timestamp="2023-05-30T14:20:29Z" changeset="136749428" uid="3396014" user="Moncecchi Daniele">
