@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-17T03:11:22Z" areas="2023-09-17T00:46:13Z"/>
+<meta osm_base="2023-09-18T03:11:07Z" areas="2023-09-18T00:38:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -10664,6 +10664,10 @@
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="3608491840" lat="45.4953717" lon="9.1515801" version="2" timestamp="2023-09-17T14:24:54Z" changeset="141384220" uid="290680" user="wheelmap_visitor">
+    <tag k="shop" v="dry_cleaning"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="3610785895" lat="45.4932386" lon="9.1849401" version="4" timestamp="2019-09-13T15:05:36Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="International Store"/>
     <tag k="shop" v="supermarket"/>
@@ -16326,6 +16330,15 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q111413082"/>
   </node>
+  <node id="4889234648" lat="45.4946855" lon="9.1534339" version="2" timestamp="2023-09-17T14:24:43Z" changeset="141384220" uid="290680" user="wheelmap_visitor">
+    <tag k="bench" v="yes"/>
+    <tag k="name" v="Piazza Prealpi"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="ref" v="10975"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="tram" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4889473577" lat="45.4783043" lon="9.2025803" version="4" timestamp="2022-07-22T11:15:36Z" changeset="123934259" uid="13689061" user="totoroot">
     <tag k="bench" v="no"/>
     <tag k="bin" v="yes"/>
@@ -16600,6 +16613,14 @@
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikimedia_commons" v="File:Fountain_of_Console_Marcello_Milan.jpg"/>
+  </node>
+  <node id="4953163053" lat="45.4947828" lon="9.1532186" version="4" timestamp="2023-09-17T14:24:22Z" changeset="141384220" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
+    <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4953163109" lat="45.4559623" lon="9.1819643" version="5" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
     <tag k="access" v="yes"/>
@@ -25592,6 +25613,11 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11197699769" lat="45.4682907" lon="9.1990037" version="2" timestamp="2023-09-17T13:52:27Z" changeset="141382950" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Oliver Peoples"/>
+    <tag k="shop" v="optician"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <way id="4497311" version="12" timestamp="2023-04-23T13:04:31Z" changeset="135261048" uid="2869848" user="maupao70">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -31966,6 +31992,16 @@
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="557399584" version="2" timestamp="2023-09-17T14:26:51Z" changeset="141384220" uid="290680" user="wheelmap_visitor">
+    <center lat="45.4886653" lon="9.1468190"/>
+    <nd ref="5375739441"/>
+    <nd ref="5375739442"/>
+    <nd ref="5375739443"/>
+    <nd ref="5375739444"/>
+    <nd ref="5375739441"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="566449751" version="3" timestamp="2022-01-22T09:34:08Z" changeset="116458869" uid="13840929" user="aa30mom">
     <center lat="45.4442379" lon="9.1749943"/>
