@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-18T03:11:07Z" areas="2023-09-18T00:38:15Z"/>
+<meta osm_base="2023-09-19T03:11:24Z" areas="2023-09-18T22:57:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3667,7 +3667,11 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1722078886" lat="45.4785390" lon="9.2298087" version="6" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+  <node id="1722078886" lat="45.4785355" lon="9.2298201" version="7" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Via Giuseppe Ponzio"/>
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="permissive"/>
     <tag k="foot" v="permissive"/>
@@ -5725,6 +5729,17 @@
     <tag k="material" v="metal"/>
     <tag k="motor_vehicle" v="no"/>
     <tag k="motorcycle" v="private"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2407127348" lat="45.4777006" lon="9.2298297" version="6" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Via Giuseppe Ponzio"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="private"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2409688064" lat="45.4841912" lon="9.1872671" version="5" timestamp="2023-02-15T17:27:02Z" changeset="132592809" uid="89897" user="airon90">
@@ -15630,9 +15645,12 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4612299024" lat="45.4771347" lon="9.2297981" version="4" timestamp="2022-07-19T07:47:59Z" changeset="123792993" uid="4841818" user="122131">
+  <node id="4612299024" lat="45.4771347" lon="9.2297981" version="5" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
+    <tag k="access" v="private"/>
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
+    <tag k="toilets:position" v="seated"/>
+    <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4612318490" lat="45.4800199" lon="9.2290472" version="1" timestamp="2017-01-16T17:43:43Z" changeset="45221429" uid="3851725" user="Alice Bonfiglio">
@@ -33392,7 +33410,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1039015473" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
-    <center lat="45.4785097" lon="9.2298745"/>
+    <center lat="45.4785116" lon="9.2298807"/>
     <nd ref="9568174674"/>
     <nd ref="9568174673"/>
     <nd ref="9568174672"/>
@@ -33402,10 +33420,14 @@
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1039015474" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
-    <center lat="45.4786278" lon="9.2298742"/>
+  <way id="1039015474" version="2" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
+    <center lat="45.4786272" lon="9.2298830"/>
     <nd ref="9568174678"/>
     <nd ref="9568174676"/>
+    <nd ref="11200849515"/>
+    <nd ref="11200849516"/>
+    <nd ref="11200849517"/>
+    <nd ref="11200849518"/>
     <nd ref="9568174677"/>
     <nd ref="9568174675"/>
     <tag k="barrier" v="bollard"/>
@@ -33784,6 +33806,55 @@
     <tag k="foot" v="permissive"/>
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1208903064" version="1" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
+    <center lat="45.4785370" lon="9.2298202"/>
+    <nd ref="9568166073"/>
+    <nd ref="1722078886"/>
+    <nd ref="9568174660"/>
+    <tag k="access" v="permissive"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1208903067" version="1" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
+    <center lat="45.4776993" lon="9.2298298"/>
+    <nd ref="11200922026"/>
+    <nd ref="2407127348"/>
+    <nd ref="11200922027"/>
+    <tag k="access" v="permissive"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1208903078" version="1" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
+    <center lat="45.4772786" lon="9.2298886"/>
+    <nd ref="11200921993"/>
+    <nd ref="11200921991"/>
+    <nd ref="11200921992"/>
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1208903080" version="1" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
+    <center lat="45.4770654" lon="9.2298775"/>
+    <nd ref="206146206"/>
+    <nd ref="11200921940"/>
+    <nd ref="11200849522"/>
+    <nd ref="11200921941"/>
+    <nd ref="11200921942"/>
+    <nd ref="11200922002"/>
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="fixed"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
   </way>
 
 </osm>
