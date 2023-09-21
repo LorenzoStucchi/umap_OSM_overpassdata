@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-20T03:10:29Z" areas="2023-09-20T00:29:38Z"/>
+<meta osm_base="2023-09-21T03:10:35Z" areas="2023-09-20T22:32:18Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3633,17 +3633,20 @@
     <tag k="operator" v="AMSA"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1706453763" lat="45.4361949" lon="9.1717739" version="12" timestamp="2022-12-05T09:53:56Z" changeset="129734068" uid="11220113" user="ivanbranco">
+  <node id="1706453763" lat="45.4361949" lon="9.1717739" version="13" timestamp="2023-09-20T15:56:17Z" changeset="141520559" uid="20162644" user="SteZeta">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20142"/>
     <tag k="addr:street" v="Via Fra Cristoforo"/>
     <tag k="amenity" v="library"/>
     <tag k="email" v="c.bibliofracristoforo@comune.milano.it"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Biblioteca Comunale Fra Cristoforo"/>
-    <tag k="opening_hours" v="Tu-Fr 09:30-19:00; Sa 10:00-14:00; Su, Mo off"/>
+    <tag k="opening_hours" v="Tu-Fr 09:00-19:00; Sa 10:00-18:00; Su, Mo off"/>
     <tag k="operator" v="Comune di Milano"/>
     <tag k="operator:type" v="government"/>
+    <tag k="operator:wikidata" v="Q103903096"/>
     <tag k="phone" v="+39 02 88465806"/>
     <tag k="ref:isil" v="IT-MI1188"/>
     <tag k="website" v="https://biblioteche.comune.milano.it/library/fracristoforo"/>
@@ -30352,7 +30355,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="281552845" version="5" timestamp="2023-02-24T21:46:25Z" changeset="132985970" uid="18490865" user="lello_ba">
+  <way id="281552845" version="6" timestamp="2023-09-20T08:15:58Z" changeset="141500540" uid="18306404" user="over_the_edge">
     <center lat="45.4798424" lon="9.2265250"/>
     <nd ref="2855180327"/>
     <nd ref="2855180332"/>
@@ -30364,8 +30367,10 @@
     <tag k="addr:street" v="Via Andrea Maria Ampère"/>
     <tag k="amenity" v="cafe"/>
     <tag k="building" v="kiosk"/>
+    <tag k="indoor_seating" v="no"/>
     <tag k="name" v="Jolly Student Food"/>
     <tag k="opening_hours" v="Mo-Sa 07:00-20:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT12969650154"/>
     <tag k="wheelchair" v="yes"/>
   </way>
