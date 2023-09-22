@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-21T03:10:35Z" areas="2023-09-20T22:32:18Z"/>
+<meta osm_base="2023-09-22T03:11:11Z" areas="2023-09-22T00:45:28Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5643,10 +5643,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2401890308" lat="45.4647440" lon="9.1933832" version="6" timestamp="2023-08-28T12:08:42Z" changeset="140491884" uid="5686224" user="Boyan Alexiev">
+  <node id="2401890308" lat="45.4647445" lon="9.1933832" version="7" timestamp="2023-09-21T09:47:25Z" changeset="141550287" uid="5686224" user="Boyan Alexiev">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Galleria Pattari"/>
+    <tag k="brand" v="Alcott"/>
     <tag k="brand:wikidata" v="Q97763617"/>
     <tag k="check_date" v="2023-08-28"/>
     <tag k="clothes" v="women;men;underwear;denim"/>
@@ -12246,15 +12249,16 @@
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3877974347" lat="45.4701195" lon="9.1923871" version="2" timestamp="2019-09-13T09:47:39Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3877974347" lat="45.4701195" lon="9.1923871" version="3" timestamp="2023-09-21T15:57:32Z" changeset="141566591" uid="20306828" user="Relactions">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Alessandro Manzoni"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="name" v="Caruso Fuori"/>
+    <tag k="cuisine" v="italian;mediterranean"/>
+    <tag k="name" v="Caruso Nuovo"/>
+    <tag k="website" v="https://www.grandhoteletdemilan.it/en/dining/caruso-nuovo-restaurant.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3877974349" lat="45.4693895" lon="9.1937548" version="2" timestamp="2019-09-13T09:43:49Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -24557,6 +24561,20 @@
     <tag k="entrance" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10108660047" lat="45.4680832" lon="9.2319078" version="9" timestamp="2023-09-21T16:51:06Z" changeset="141569002" uid="10521220" user="sNappy_ml">
+    <tag k="name" v="Argonne"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="https://milano.repubblica.it/cronaca/2022/10/21/news/m4_metropolitana_milano_linate_dateo_apertura_26_novembre_sala-370998766/"/>
+    <tag k="start_date" v="2022-11-26"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q23018087"/>
+    <tag k="wikimedia_commons" v="Category:Argonne station (Milan metro)"/>
+    <tag k="wikipedia" v="it:Argonne (metropolitana di Milano)"/>
   </node>
   <node id="10118101852" lat="45.5176612" lon="9.2102413" version="1" timestamp="2022-10-21T06:33:01Z" changeset="127865357" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="La rosa nel deserto"/>
