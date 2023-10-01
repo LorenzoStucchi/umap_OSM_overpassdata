@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-30T03:10:57Z" areas="2023-09-30T00:17:54Z"/>
+<meta osm_base="2023-10-01T03:11:15Z" areas="2023-10-01T00:41:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2160,13 +2160,18 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1112456201" lat="45.4510206" lon="9.1705008" version="10" timestamp="2023-04-15T19:46:32Z" changeset="134953598" uid="1875845" user="Valerio_Bozzolan">
+  <node id="1112456201" lat="45.4510206" lon="9.1705008" version="11" timestamp="2023-09-30T11:18:38Z" changeset="141946674" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="20144"/>
+    <tag k="addr:street" v="Alzaia Naviglio Grande"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="I Capatosta Navigli"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 8941 5910"/>
+    <tag k="ref:vatin" v="IT05702560961"/>
     <tag k="website" v="https://www.icapatosta.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -3304,7 +3309,8 @@
     <tag k="operator" v="C. M. C. srl"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1641135136" lat="45.4510463" lon="9.1706976" version="4" timestamp="2023-04-15T19:46:49Z" changeset="134953598" uid="1875845" user="Valerio_Bozzolan">
+  <node id="1641135136" lat="45.4510463" lon="9.1706976" version="5" timestamp="2023-09-30T11:18:38Z" changeset="141946674" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Alzaia Naviglio Grande"/>
@@ -3312,8 +3318,13 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian"/>
     <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Osteria dei Formaggi"/>
+    <tag k="name" v="Asso di fiori"/>
+    <tag k="opening_hours" v="Mo-Sa 19.30-23.00"/>
+    <tag k="operator" v="SAM S.R.L."/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+390289409415"/>
+    <tag k="ref:vatin" v="IT12814840158"/>
+    <tag k="website:menu" v="https://assodifiori.com/menu/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1650244143" lat="45.4628035" lon="9.2275554" version="9" timestamp="2023-08-17T11:24:39Z" changeset="140008011" uid="3199858" user="Mateusz Konieczny - bot account">
@@ -4518,8 +4529,17 @@
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2064483921" lat="45.4525484" lon="9.2151177" version="3" timestamp="2021-10-30T13:49:33Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+  <node id="2064483921" lat="45.4525484" lon="9.2151177" version="4" timestamp="2023-09-30T21:37:54Z" changeset="141968731" uid="393359" user="Robot8A">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Via Tito Livio"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2023-09-30"/>
+    <tag k="cuisine" v="lebanese"/>
+    <tag k="name" v="Beirut"/>
+    <tag k="opening_hours" v="Mo-Sa 18:30-23:30"/>
+    <tag k="phone" v="+39 02 8434 7581"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.ristorantebeirut.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2064483945" lat="45.4550526" lon="9.2158714" version="4" timestamp="2021-10-30T13:38:26Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
@@ -7948,8 +7968,10 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2744645394" lat="45.4511723" lon="9.1712900" version="6" timestamp="2023-04-15T19:49:16Z" changeset="134953598" uid="1875845" user="Valerio_Bozzolan">
+  <node id="2744645394" lat="45.4511723" lon="9.1712900" version="7" timestamp="2023-09-30T11:18:38Z" changeset="141946674" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Via Casale"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="brand" v="Rossopomodoro"/>
@@ -7958,8 +7980,10 @@
     <tag k="cuisine" v="pizza;seafood"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Rossopomodoro"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-15:00,19:00-23:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 36597898"/>
+    <tag k="website" v="https://ristoranti.rossopomodoro.it/navigliograndemilano-283a40778d28"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2744645398" lat="45.4509513" lon="9.1701547" version="7" timestamp="2023-04-15T19:46:03Z" changeset="134953598" uid="1875845" user="Valerio_Bozzolan">
