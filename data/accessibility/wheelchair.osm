@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-16T03:11:00Z" areas="2023-10-15T22:17:16Z"/>
+<meta osm_base="2023-10-17T03:11:25Z" areas="2023-10-17T01:11:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4106,6 +4106,22 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1843088176" lat="45.4636823" lon="9.1879633" version="5" timestamp="2023-10-16T11:14:28Z" changeset="142659721" uid="11220113" user="ivanbranco">
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Torino"/>
+    <tag k="brand" v="Zara"/>
+    <tag k="brand:wikidata" v="Q147662"/>
+    <tag k="brand:wikipedia" v="en:Zara (retailer)"/>
+    <tag k="check_date" v="2023-10-15"/>
+    <tag k="clothes" v="women"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:ssid" v="Zara-WiFi"/>
+    <tag k="level" v="-1-1"/>
+    <tag k="name" v="Zara"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1855577204" lat="45.4699226" lon="9.1924982" version="8" timestamp="2023-10-02T17:31:07Z" changeset="142049925" uid="12500589" user="tg4567">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -5897,11 +5913,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2411123340" lat="45.4635354" lon="9.1883248" version="7" timestamp="2022-05-16T08:33:50Z" changeset="121039892" uid="1967477" user="bubix">
+  <node id="2411123340" lat="45.4635354" lon="9.1883248" version="8" timestamp="2023-10-16T11:14:28Z" changeset="142659721" uid="11220113" user="ivanbranco">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Giuseppe Mazzini"/>
     <tag k="brand" v="Outlet Dolciario"/>
+    <tag k="check_date" v="2023-10-15"/>
+    <tag k="level" v="0-1"/>
     <tag k="name" v="ODStore"/>
     <tag k="operator" v="ODStore Duomo Srl"/>
     <tag k="ref:vatin" v="IT04072770169"/>
@@ -8555,10 +8573,11 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2991348203" lat="45.4635058" lon="9.1881539" version="3" timestamp="2020-11-30T01:36:11Z" changeset="95008123" uid="454306" user="dega180">
+  <node id="2991348203" lat="45.4635058" lon="9.1881539" version="4" timestamp="2023-10-16T11:14:28Z" changeset="142659721" uid="11220113" user="ivanbranco">
     <tag k="brand" v="Oysho"/>
     <tag k="brand:wikidata" v="Q3327046"/>
     <tag k="brand:wikipedia" v="en:Oysho"/>
+    <tag k="check_date" v="2023-10-15"/>
     <tag k="clothes" v="underwear"/>
     <tag k="name" v="Oysho"/>
     <tag k="shop" v="clothes"/>
@@ -8913,9 +8932,11 @@
     <tag k="shop" v="houseware"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3013128786" lat="45.4787093" lon="9.2091006" version="5" timestamp="2022-03-20T14:16:23Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="3013128786" lat="45.4787093" lon="9.2091006" version="6" timestamp="2023-10-16T16:23:52Z" changeset="142674139" uid="69259" user="DnaX">
+    <tag k="brand" v="Wycon Cosmetics"/>
+    <tag k="brand:wikidata" v="Q55831243"/>
     <tag k="fixme" v="Position estimated; shop type to be checked"/>
-    <tag k="name" v="Wycon"/>
+    <tag k="name" v="Wycon Cosmetics"/>
     <tag k="shop" v="cosmetics"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -21458,6 +21479,34 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8653458841" lat="45.4855343" lon="9.2053635" version="6" timestamp="2023-10-16T11:14:28Z" changeset="142659721" uid="11220113" user="ivanbranco">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Piazza Duca d'Aosta"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="branch" v="Stazione Milano"/>
+    <tag k="brand" v="Burger King"/>
+    <tag k="brand:wikidata" v="Q177054"/>
+    <tag k="brand:wikipedia" v="en:Burger King"/>
+    <tag k="check_date" v="2023-10-15"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegan:description" v="Disponibile Plant Based Whopper (100% vegetale) e Plant Based Nuggets"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="level" v="2"/>
+    <tag k="name" v="Burger King"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="opening_hours" v="Mo-Th 10:00-00:00; Fr-Su 10:00-01:00"/>
+    <tag k="operator" v="Sarf s.p.a."/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:mastercard_contactless" v="yes"/>
+    <tag k="phone" v="+39 02 6705913"/>
+    <tag k="ref:vatin" v="IT00844260158"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.burgerking.it/ristoranti/lombardia/milano/burger-king-milano-122/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8690820717" lat="45.4634356" lon="9.1884062" version="4" timestamp="2023-04-16T13:40:31Z" changeset="134975766" uid="15541433" user="paulbrunner">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
@@ -22273,7 +22322,7 @@
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9445802325" lat="45.4818228" lon="9.2121698" version="3" timestamp="2022-08-25T09:02:01Z" changeset="125349320" uid="113669" user="AnyFile">
+  <node id="9445802325" lat="45.4818228" lon="9.2121698" version="4" timestamp="2023-10-16T16:23:52Z" changeset="142674139" uid="69259" user="DnaX">
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="branch" v="Milano Buenos Aires"/>
@@ -22288,7 +22337,7 @@
     <tag k="opening_hours" v="Mo-Su 10:00-20:30"/>
     <tag k="operator" v="Lush Italia s.r.l."/>
     <tag k="ref:vatin" v="IT12575920157"/>
-    <tag k="shop" v="chemist"/>
+    <tag k="shop" v="cosmetics"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="9455196953" lat="45.4526520" lon="9.2290155" version="3" timestamp="2022-05-18T14:47:58Z" changeset="121151445" uid="6220204" user="Ysogo">
