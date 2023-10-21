@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-20T03:10:46Z" areas="2023-10-20T01:05:43Z"/>
+<meta osm_base="2023-10-21T03:10:44Z" areas="2023-10-20T22:15:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -12762,6 +12762,19 @@
     <tag k="website" v="http://www.trattoriatrinacria.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="3935587728" lat="45.5029131" lon="9.1999351" version="2" timestamp="2023-10-20T23:06:39Z" changeset="142899694" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Via Pallanza"/>
+    <tag k="email" v="info@giannellicolori.it"/>
+    <tag k="name" v="Giannelli Colori"/>
+    <tag k="phone" v="+39 02 680758"/>
+    <tag k="shop" v="paint"/>
+    <tag k="website" v="http://www.giannellicolori.com/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3935587733" lat="45.5020205" lon="9.1999254" version="3" timestamp="2023-03-31T17:52:18Z" changeset="134355269" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -24340,6 +24353,12 @@
     <tag k="website" v="https://www.artecontemporanea.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="10000054744" lat="45.5007051" lon="9.1991364" version="2" timestamp="2023-10-20T23:00:41Z" changeset="142899694" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="Dentalarbe"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="10006107605" lat="45.4530827" lon="9.1739004" version="3" timestamp="2023-05-24T08:08:10Z" changeset="136486340" uid="15541433" user="paulbrunner">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
@@ -27383,6 +27402,35 @@
     <tag k="wikidata" v="Q15992518"/>
     <tag k="wikimedia_commons" v="Category:San Pio X (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Pio X (Milano)"/>
+  </way>
+  <way id="41267782" version="11" timestamp="2023-10-20T14:37:37Z" changeset="142873734" uid="2052228" user="kauevestena">
+    <center lat="45.4848999" lon="9.2259978"/>
+    <nd ref="504505410"/>
+    <nd ref="504505443"/>
+    <nd ref="3566360217"/>
+    <nd ref="504505411"/>
+    <nd ref="4350323439"/>
+    <nd ref="504505413"/>
+    <nd ref="3566360216"/>
+    <nd ref="504505415"/>
+    <nd ref="504505420"/>
+    <nd ref="4350323440"/>
+    <nd ref="4350323442"/>
+    <nd ref="4350323443"/>
+    <nd ref="4350323444"/>
+    <nd ref="4350323441"/>
+    <nd ref="504505421"/>
+    <nd ref="504505410"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="name" v="San Luca Evangelista"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q18223049"/>
+    <tag k="wikimedia_commons" v="Category:San Luca Evangelista (Milan)"/>
+    <tag k="wikipedia" v="it:Chiesa di San Luca Evangelista (Milano)"/>
   </way>
   <way id="41518948" version="9" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4916240" lon="9.2195752"/>
@@ -32303,6 +32351,23 @@
     <tag k="operator:type" v="private"/>
     <tag k="ref:vatin" v="IT04010210963"/>
     <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="495802988" version="2" timestamp="2023-10-20T15:09:22Z" changeset="142875224" uid="2052228" user="kauevestena">
+    <center lat="45.4888923" lon="9.2230574"/>
+    <nd ref="4875418573"/>
+    <nd ref="4875418549"/>
+    <nd ref="4875418572"/>
+    <nd ref="4875418295"/>
+    <nd ref="4875418292"/>
+    <nd ref="4875418291"/>
+    <nd ref="4875418571"/>
+    <nd ref="4875418570"/>
+    <nd ref="4875418569"/>
+    <nd ref="4875418568"/>
+    <nd ref="4875418573"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="496964500" version="3" timestamp="2018-12-12T10:52:07Z" changeset="65404438" uid="6817530" user="Mzzntn">
     <center lat="45.4534073" lon="9.1587457"/>
