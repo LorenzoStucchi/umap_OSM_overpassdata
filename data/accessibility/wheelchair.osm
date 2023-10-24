@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-23T03:10:30Z" areas="2023-10-23T00:14:36Z"/>
+<meta osm_base="2023-10-24T03:10:54Z" areas="2023-10-23T21:48:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -959,6 +959,17 @@
     <tag k="denomination" v="methodist"/>
     <tag k="name" v="Chiesa Evangelica Metodista"/>
     <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="310071805" lat="45.4765182" lon="9.2268104" version="5" timestamp="2023-10-23T09:33:55Z" changeset="143008376" uid="17843669" user="DomKor">
+    <tag k="email" v="sveglia_cittastudi@inventati.org"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="Ciclofficina Ruota Libera"/>
+    <tag k="opening_hours" v="Fr 17:00-19:30; PH off"/>
+    <tag k="service:bicycle:chain_tool" v="yes"/>
+    <tag k="service:bicycle:diy" v="yes"/>
+    <tag k="shop" v="bicycle"/>
+    <tag k="website" v="https://ciclofficinaruotalibera.wordpress.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="310072010" lat="45.4757092" lon="9.2233689" version="6" timestamp="2017-12-05T14:42:31Z" changeset="54367326" uid="2111087" user="asturksever">
@@ -3344,6 +3355,21 @@
   </node>
   <node id="1611026380" lat="45.4666375" lon="9.1504223" version="6" timestamp="2023-05-30T10:44:05Z" changeset="136739004" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="De Angeli"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026613" lat="45.4798759" lon="9.2106397" version="7" timestamp="2023-10-23T07:43:24Z" changeset="143003644" uid="2052228" user="kauevestena">
+    <tag k="name" v="Lima"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026615" lat="45.4800136" lon="9.2107743" version="5" timestamp="2023-10-23T07:43:29Z" changeset="143003644" uid="2052228" user="kauevestena">
+    <tag k="name" v="Lima"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026641" lat="45.4801303" lon="9.2105973" version="7" timestamp="2023-10-23T07:43:33Z" changeset="143003644" uid="2052228" user="kauevestena">
+    <tag k="name" v="Lima"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -19180,7 +19206,7 @@
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5787332282" lat="45.4839747" lon="9.2046296" version="6" timestamp="2023-10-09T05:14:44Z" changeset="142331308" uid="15096" user="tadams">
+  <node id="5787332282" lat="45.4839747" lon="9.2046296" version="7" timestamp="2023-10-23T18:25:41Z" changeset="143030340" uid="413098" user="Jeyh">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20124"/>
@@ -19193,6 +19219,7 @@
     <tag k="drive_through" v="no"/>
     <tag k="name" v="Centrale"/>
     <tag k="official_name" v="Centrale Turkish Kebap"/>
+    <tag k="opening_hours" v="Mo-Su 00:00-24:00"/>
     <tag k="operator" v="Dordubir Srl"/>
     <tag k="phone" v="+39 02 66989365"/>
     <tag k="ref:vatin" v="IT07236170960"/>
@@ -20610,6 +20637,10 @@
   <node id="6919811658" lat="45.4765547" lon="9.2275033" version="2" timestamp="2022-11-30T13:40:16Z" changeset="129562581" uid="17843669" user="DomKor">
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6919811659" lat="45.4765674" lon="9.2268100" version="2" timestamp="2023-10-23T09:33:55Z" changeset="143008376" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="6919811666" lat="45.4766903" lon="9.2274977" version="2" timestamp="2022-11-30T13:39:21Z" changeset="129562556" uid="17843669" user="DomKor">
     <tag k="entrance" v="main"/>
@@ -26313,6 +26344,25 @@
     <tag k="motor_vehicle" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="11283126945" lat="45.4765621" lon="9.2272839" version="1" timestamp="2023-10-23T09:33:55Z" changeset="143008376" uid="17843669" user="DomKor">
+    <tag k="description" v="Entrata aula magna"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11283126949" lat="45.4765776" lon="9.2273066" version="1" timestamp="2023-10-23T09:33:55Z" changeset="143008376" uid="17843669" user="DomKor">
+    <tag k="description" v="Ingresso aula 9"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11283126952" lat="45.4767479" lon="9.2271627" version="1" timestamp="2023-10-23T09:33:55Z" changeset="143008376" uid="17843669" user="DomKor">
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
+    <tag k="locked" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -26580,9 +26630,10 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="23950211" version="10" timestamp="2023-03-29T17:17:32Z" changeset="134272089" uid="9629951" user="MehFox">
+  <way id="23950211" version="11" timestamp="2023-10-23T09:33:55Z" changeset="143008376" uid="17843669" user="DomKor">
     <center lat="45.4766448" lon="9.2275165"/>
     <nd ref="259628115"/>
+    <nd ref="11283126951"/>
     <nd ref="259628117"/>
     <nd ref="259628118"/>
     <nd ref="6919811666"/>
@@ -26604,7 +26655,9 @@
     <nd ref="6919811658"/>
     <nd ref="401249154"/>
     <nd ref="401249157"/>
+    <nd ref="11283126949"/>
     <nd ref="401249159"/>
+    <nd ref="11283126945"/>
     <nd ref="401249156"/>
     <nd ref="259628146"/>
     <nd ref="259628115"/>
