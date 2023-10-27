@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-26T03:10:25Z" areas="2023-10-25T21:45:45Z"/>
+<meta osm_base="2023-10-27T03:10:54Z" areas="2023-10-27T02:23:14Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1644,6 +1644,16 @@
     <tag k="wikidata" v="Q24702775"/>
     <tag k="wikimedia_commons" v="Category:Birrificio Lambrate"/>
     <tag k="wikipedia" v="en:Birrificio Lambrate"/>
+  </node>
+  <node id="537953310" lat="45.4658319" lon="9.2026932" version="5" timestamp="2023-10-26T17:04:32Z" changeset="143171682" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="Via Conservatorio"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="538903511" lat="45.4489995" lon="9.1775600" version="5" timestamp="2023-04-16T17:25:39Z" changeset="134984839" uid="15541433" user="paulbrunner">
     <tag k="amenity" v="pub"/>
@@ -4715,6 +4725,17 @@
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2054093508" lat="45.4389616" lon="9.2245824" version="7" timestamp="2023-10-26T21:50:25Z" changeset="143182233" uid="18306404" user="over_the_edge">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Vivà"/>
+    <tag k="opening_hours" v="Mo-Su 11:45-14:30,18:30-24:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="2064483921" lat="45.4525484" lon="9.2151177" version="4" timestamp="2023-09-30T21:37:54Z" changeset="141968731" uid="393359" user="Robot8A">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Via Tito Livio"/>
@@ -7710,6 +7731,16 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="toilets:handwashing" v="yes"/>
     <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2573646575" lat="45.4659127" lon="9.2018657" version="3" timestamp="2023-10-26T17:04:32Z" changeset="143171682" uid="17843669" user="DomKor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="Via Pietro Mascagni"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2575832355" lat="45.4491418" lon="9.1633209" version="5" timestamp="2023-06-19T19:39:24Z" changeset="137532688" uid="9450499" user="mrjackv">
@@ -21127,6 +21158,11 @@
     <tag k="website:booking" v="http://www.officineanalfabeta.it/index.html#form4-9"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="7746228573" lat="45.4816763" lon="9.1503390" version="4" timestamp="2023-10-26T06:26:49Z" changeset="143145461" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Portello"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="7787907246" lat="45.4808740" lon="9.1622235" version="7" timestamp="2023-09-03T10:51:46Z" changeset="140752480" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Domodossola"/>
@@ -25731,6 +25767,11 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="10790511009" lat="45.4816975" lon="9.1503527" version="3" timestamp="2023-10-26T06:26:53Z" changeset="143145461" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Portello"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="10790511107" lat="45.4844257" lon="9.1668791" version="2" timestamp="2023-05-23T10:38:22Z" changeset="136450425" uid="3396014" user="Moncecchi Daniele">
     <tag k="comment" v="scale + scale mobili"/>
     <tag k="name" v="Gerusalemme"/>
@@ -26362,6 +26403,42 @@
     <tag k="bicycle" v="permissive"/>
     <tag k="foot" v="permissive"/>
     <tag k="locked" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11290806027" lat="45.4746419" lon="9.2284815" version="1" timestamp="2023-10-26T12:08:29Z" changeset="143159285" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="11290806029" lat="45.4743420" lon="9.2276335" version="1" timestamp="2023-10-26T12:08:29Z" changeset="143159285" uid="17843669" user="DomKor">
+    <tag k="barrier" v="gate"/>
+    <tag k="locked" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="11290806036" lat="45.4748063" lon="9.2276044" version="1" timestamp="2023-10-26T12:08:29Z" changeset="143159285" uid="17843669" user="DomKor">
+    <tag k="barrier" v="gate"/>
+    <tag k="locked" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11290878878" lat="45.4746169" lon="9.2281616" version="1" timestamp="2023-10-26T12:37:01Z" changeset="143160473" uid="17843669" user="DomKor">
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="11291340740" lat="45.4655738" lon="9.2020738" version="1" timestamp="2023-10-26T17:11:46Z" changeset="143171935" uid="17843669" user="DomKor">
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11291340741" lat="45.4655584" lon="9.2024692" version="1" timestamp="2023-10-26T17:11:46Z" changeset="143171935" uid="17843669" user="DomKor">
+    <tag k="access" v="permissive"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11291349898" lat="45.4657873" lon="9.2020963" version="1" timestamp="2023-10-26T17:04:32Z" changeset="143171682" uid="17843669" user="DomKor">
+    <tag k="entrance" v="shop"/>
+    <tag k="level" v="r"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11291349899" lat="45.4657744" lon="9.2021194" version="1" timestamp="2023-10-26T17:04:32Z" changeset="143171682" uid="17843669" user="DomKor">
+    <tag k="entrance" v="elevator"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -27491,7 +27568,7 @@
     <tag k="building:levels" v="6"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="35839780" version="12" timestamp="2023-07-16T13:34:53Z" changeset="138579382" uid="717233" user="jacopofar">
+  <way id="35839780" version="13" timestamp="2023-10-26T08:58:38Z" changeset="143151918" uid="20500231" user="fabiotolni">
     <center lat="45.5086660" lon="9.1985474"/>
     <nd ref="5712975110"/>
     <nd ref="5712975109"/>
@@ -27550,7 +27627,7 @@
     <tag k="building" v="church"/>
     <tag k="check_date" v="2023-06-04"/>
     <tag k="denomination" v="roman_catholic"/>
-    <tag k="name" v="Chiesa di San Dionigi in Santi Clemente e Guido"/>
+    <tag k="name" v="Chiesa parrocchiale di San Dionigi in Santi Clemente e Guido"/>
     <tag k="religion" v="christian"/>
     <tag k="roof:colour" v="#c97861"/>
     <tag k="source" v="local knowledge"/>
@@ -28922,7 +28999,7 @@
     <tag k="name" v="Sportello Unico"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="135746714" version="6" timestamp="2022-05-28T16:02:17Z" changeset="121623482" uid="6220204" user="Ysogo">
+  <way id="135746714" version="7" timestamp="2023-10-26T09:33:53Z" changeset="143153215" uid="20500231" user="fabiotolni">
     <center lat="45.4273219" lon="9.2515808"/>
     <nd ref="1490306367"/>
     <nd ref="1490306371"/>
@@ -28931,7 +29008,8 @@
     <nd ref="1490306367"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="church"/>
-    <tag k="name" v="San Martino"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Chiesa di San Martino"/>
     <tag k="religion" v="christian"/>
     <tag k="wheelchair" v="yes"/>
   </way>
