@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-29T03:10:16Z" areas="2023-10-29T02:10:19Z"/>
+<meta osm_base="2023-10-30T03:11:14Z" areas="2023-10-30T01:59:11Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -12164,13 +12164,14 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3848621230" lat="45.4837772" lon="9.2044247" version="6" timestamp="2021-11-28T10:01:49Z" changeset="114318223" uid="3860151" user="Michele Aquilani">
+  <node id="3848621230" lat="45.4837772" lon="9.2044247" version="7" timestamp="2023-10-29T09:00:36Z" changeset="143302529" uid="413098" user="Jeyh">
     <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2023-10-23"/>
     <tag k="contact:facebook" v="https://www.facebook.com/pages/Caffé%20Panzera/121025024632138/"/>
     <tag k="email" v="info@caffepanzera.it"/>
     <tag k="fax" v="+39 02 6692647"/>
     <tag k="name" v="Caffè Panzera"/>
-    <tag k="opening_hours" v="Mo-Su 07:00-23:45"/>
+    <tag k="opening_hours" v="07:00-23:30"/>
     <tag k="operator" v="Pa.Ka. srl"/>
     <tag k="phone" v="+39 02 6692647"/>
     <tag k="ref:vatin" v="IT00642480156"/>
@@ -18099,9 +18100,17 @@
     <tag k="operator:wikipedia" v="en:Banca Popolare di Sondrio"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5414611344" lat="45.4697490" lon="9.1794036" version="2" timestamp="2023-04-12T17:23:49Z" changeset="134828493" uid="12852" user="Double Jojo">
+  <node id="5414611344" lat="45.4697490" lon="9.1794036" version="3" timestamp="2023-10-29T15:13:05Z" changeset="143316620" uid="2052228" user="kauevestena">
+    <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
     <tag k="fountain" v="drinking"/>
+    <tag k="indoor" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="lit" v="yes"/>
+    <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5414611349" lat="45.4703727" lon="9.1803179" version="2" timestamp="2023-05-07T15:17:38Z" changeset="135816002" uid="717233" user="jacopofar">
@@ -26447,6 +26456,24 @@
   </node>
   <node id="11291349899" lat="45.4657744" lon="9.2021194" version="1" timestamp="2023-10-26T17:04:32Z" changeset="143171682" uid="17843669" user="DomKor">
     <tag k="entrance" v="elevator"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11297534982" lat="45.4913550" lon="9.1891260" version="1" timestamp="2023-10-29T10:18:23Z" changeset="143305220" uid="20515782" user="lanonaporta">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Francesco Arese"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="Dolzeto"/>
+    <tag k="name" v="Dolzeto"/>
+    <tag k="opening_hours" v="Tu-Su 07:00-18:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="phone" v="+390249441461"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="toilets" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
