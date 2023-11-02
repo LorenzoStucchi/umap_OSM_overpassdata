@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-01T03:10:28Z" areas="2023-10-31T22:15:30Z"/>
+<meta osm_base="2023-11-02T03:10:14Z" areas="2023-11-02T01:40:58Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -375,7 +375,7 @@
     <tag k="website" v="https://www.iper.it/milano-portello"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="257048400" lat="45.5067954" lon="9.2004583" version="7" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="257048400" lat="45.5067954" lon="9.2004583" version="8" timestamp="2023-11-01T19:02:16Z" changeset="143491753" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:postcode" v="20162"/>
@@ -385,6 +385,7 @@
     <tag k="brand" v="Intesa Sanpaolo"/>
     <tag k="brand:wikidata" v="Q1343118"/>
     <tag k="brand:wikipedia" v="it:Intesa Sanpaolo"/>
+    <tag k="check_date" v="2023-11-01"/>
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-13:30,14:15-16:15"/>
     <tag k="operator" v="Intesa San Paolo"/>
@@ -821,6 +822,25 @@
     <tag k="name" v="Bar Nilo"/>
     <tag k="website" v="http://www.barnilo.it/"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="282314361" lat="45.4882021" lon="9.1953454" version="8" timestamp="2023-11-01T11:49:10Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Viale Francesco Restelli"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Starbucks"/>
+    <tag k="brand:wikidata" v="Q37158"/>
+    <tag k="brand:wikipedia" v="en:Starbucks"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Starbucks"/>
+    <tag k="note:it" v="l'orario sulla porta diverso da quei indicato sul sito"/>
+    <tag k="official_name" v="Starbucks Coffee"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-18:30; Sa-Su 08:00-19:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="282534300" lat="45.4737824" lon="9.2038858" version="6" timestamp="2018-11-15T22:44:41Z" changeset="64546854" uid="76884" user="philippec">
     <tag k="amenity" v="drinking_water"/>
@@ -1624,6 +1644,21 @@
     <tag k="operator" v="Carrefour Market"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="518870633" lat="45.4625273" lon="9.2063528" version="8" timestamp="2023-11-01T11:14:40Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1A"/>
+    <tag k="addr:street" v="Piazza Cinque Giornate"/>
+    <tag k="brand" v="Coin"/>
+    <tag k="brand:wikidata" v="Q1107215"/>
+    <tag k="brand:wikipedia" v="it:Coin"/>
+    <tag k="contact:phone" v="+39 02 55192083"/>
+    <tag k="name" v="Coin"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-20:00; Sa 10:00-20:30; Su 10:00-20:00"/>
+    <tag k="ref:vatin" v="IT04850790967"/>
+    <tag k="shop" v="department_store"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="524320493" lat="45.4857051" lon="9.2315149" version="11" timestamp="2023-10-02T17:31:07Z" changeset="142049925" uid="12500589" user="tg4567">
     <tag k="addr:city" v="Milano"/>
@@ -3018,6 +3053,11 @@
     <tag k="name" v="Lodi TIBB"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1505105322" lat="45.4296593" lon="9.1775140" version="3" timestamp="2023-11-01T10:04:21Z" changeset="143465600" uid="19294642" user="Disperato">
+    <tag k="name" v="Abbiategrasso"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1505106677" lat="45.4365799" lon="9.1682887" version="5" timestamp="2023-05-30T14:41:29Z" changeset="136750299" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Famagosta"/>
@@ -7179,6 +7219,14 @@
     <tag k="name" v="L'Isola del gusto"/>
     <tag k="website" v="http://www.lisoladelgusto.info/?page_id=12"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2480566230" lat="45.4623990" lon="9.2086093" version="5" timestamp="2023-11-01T11:25:03Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Grom"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="website" v="https://www.grom.it/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2485511085" lat="45.4772153" lon="9.1921187" version="4" timestamp="2021-11-08T07:46:58Z" changeset="113509123" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
@@ -16536,6 +16584,15 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="4812221406" lat="45.4624011" lon="9.2084427" version="4" timestamp="2023-11-01T11:24:39Z" changeset="143469631" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:postcode" v="20129"/>
+    <tag k="addr:street" v="Corso Ventidue Marzo"/>
+    <tag k="fixme" v="Position estimated"/>
+    <tag k="name" v="Max 3R"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-14:00,15:15-19:30; Su 10:00-13:00,15:00-19:00"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4812221408" lat="45.4909245" lon="9.1896247" version="2" timestamp="2019-09-13T15:12:45Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="20159"/>
@@ -18986,9 +19043,10 @@
     <tag k="source" v="ds959"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5712974798" lat="45.5070368" lon="9.2005134" version="4" timestamp="2022-06-08T17:15:45Z" changeset="122127755" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5712974798" lat="45.5070368" lon="9.2005134" version="5" timestamp="2023-11-01T19:02:16Z" changeset="143491753" uid="717233" user="jacopofar">
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:street" v="Viale Fulvio Testi"/>
+    <tag k="check_date" v="2023-11-01"/>
     <tag k="name" v="Barber shop"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="limited"/>
@@ -20579,6 +20637,14 @@
     <tag k="shop" v="pastry"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="6812403778" lat="45.4621268" lon="9.2061147" version="3" timestamp="2023-11-01T11:15:16Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="branch" v="Local"/>
+    <tag k="brand" v="Pam"/>
+    <tag k="brand:wikidata" v="Q105615038"/>
+    <tag k="name" v="Pam"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="6840132634" lat="45.4620728" lon="9.2142698" version="1" timestamp="2019-10-01T10:05:19Z" changeset="75140365" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="28"/>
@@ -22098,6 +22164,13 @@
     <tag k="name" v="Adolfo Stefanelli"/>
     <tag k="shop" v="pastry"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="8953554155" lat="45.4623872" lon="9.2079788" version="3" timestamp="2023-11-01T11:20:27Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="KIKO Milano"/>
+    <tag k="brand:wikidata" v="Q3812045"/>
+    <tag k="name" v="KIKO Milano"/>
+    <tag k="shop" v="cosmetics"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="8960340681" lat="45.5084613" lon="9.1876542" version="1" timestamp="2021-07-29T15:09:23Z" changeset="108833741" uid="66295" user="emmexx">
     <tag k="access" v="no"/>
@@ -24261,6 +24334,15 @@
     <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9893836228" lat="45.4623959" lon="9.2082174" version="2" timestamp="2023-11-01T11:21:06Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:street" v="Corso ventidue marzo"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="name" v="Pam Local"/>
+    <tag k="operator" v="PAM Panorama S.p.A."/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="9897478673" lat="45.5174649" lon="9.2261092" version="1" timestamp="2022-07-19T13:16:10Z" changeset="123808411" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Villa San Giovanni"/>
@@ -25959,6 +26041,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="10853039712" lat="45.4296498" lon="9.1774749" version="2" timestamp="2023-11-01T10:04:22Z" changeset="143465600" uid="19294642" user="Disperato">
+    <tag k="name" v="Abbiategrasso"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="10853039916" lat="45.4619188" lon="9.1733325" version="3" timestamp="2023-07-14T16:44:12Z" changeset="138515731" uid="3396014" user="Moncecchi Daniele">
     <tag k="comment" v="upward escalator step - exit only in upward direction"/>
     <tag k="name" v="S. Ambrogio"/>
@@ -25987,7 +26074,8 @@
     <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="10905667158" lat="45.5092318" lon="9.2026925" version="3" timestamp="2023-09-15T16:27:47Z" changeset="141310670" uid="1875845" user="Valerio_Bozzolan">
+  <node id="10905667158" lat="45.5092318" lon="9.2026925" version="4" timestamp="2023-11-01T18:11:05Z" changeset="143489467" uid="717233" user="jacopofar">
+    <tag k="check_date" v="2023-11-01"/>
     <tag k="male" v="yes"/>
     <tag k="name" v="Angelo"/>
     <tag k="shop" v="hairdresser"/>
@@ -26505,6 +26593,24 @@
     <tag k="toilets" v="no"/>
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="website" v="www.panggioso.it"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11304289957" lat="45.4623991" lon="9.2083049" version="2" timestamp="2023-11-01T11:21:38Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="beauty" v="nails"/>
+    <tag k="name" v="W&amp;J"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11304293796" lat="45.4624018" lon="9.2081379" version="3" timestamp="2023-11-01T11:21:00Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="La piadineria"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11304297229" lat="45.4626806" lon="9.2087300" version="2" timestamp="2023-11-01T11:26:49Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Bass line"/>
+    <tag k="shop" v="musical_instrument"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -27135,7 +27241,7 @@
     <tag k="tourism" v="attraction"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="27626748" version="97" timestamp="2023-10-14T16:31:55Z" changeset="142584132" uid="2052228" user="kauevestena">
+  <way id="27626748" version="98" timestamp="2023-11-01T21:08:53Z" changeset="143496905" uid="1950277" user="Mannivu">
     <center lat="45.4641800" lon="9.1916158"/>
     <nd ref="2004515547"/>
     <nd ref="2004515556"/>
@@ -27320,9 +27426,6 @@
     <nd ref="2276749573"/>
     <nd ref="2276749570"/>
     <nd ref="2004515547"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:postcode" v="20122"/>
-    <tag k="addr:street" v="Piazza del Duomo"/>
     <tag k="alt_official_name" v="Cattedrale di Santa Maria Nascente"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="architect" v="Simone da Orsenigo"/>
