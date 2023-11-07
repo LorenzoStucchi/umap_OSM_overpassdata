@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-06T03:10:44Z" areas="2023-11-06T01:06:45Z"/>
+<meta osm_base="2023-11-07T03:11:00Z" areas="2023-11-07T00:53:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -136,6 +136,22 @@
     <tag k="ref:mise" v="6355"/>
     <tag k="self_service" v="yes"/>
     <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="243908976" lat="45.4673146" lon="9.1462773" version="7" timestamp="2023-11-06T09:12:34Z" changeset="143681695" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20149"/>
+    <tag k="addr:street" v="Viale Daniele Ranzoni"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia Ranzoni"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; PH,Su 10:00-20:00"/>
+    <tag k="operator" v="Farmacia Ranzoni"/>
+    <tag k="ref:msal" v="3003"/>
+    <tag k="ref:vatin" v="IT02489000998"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="247279762" lat="45.5023980" lon="9.1978174" version="7" timestamp="2021-10-18T15:11:08Z" changeset="112657415" uid="1875845" user="Valerio_Bozzolan">
@@ -887,7 +903,7 @@
     <tag k="operator" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="289646177" lat="45.5120915" lon="9.2044026" version="6" timestamp="2022-01-23T11:50:13Z" changeset="116495813" uid="13840929" user="aa30mom">
+  <node id="289646177" lat="45.5120915" lon="9.2044026" version="7" timestamp="2023-11-06T17:53:33Z" changeset="143704234" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="90"/>
@@ -895,6 +911,7 @@
     <tag k="addr:street" v="Viale Fulvio Testi"/>
     <tag k="alt_name" v="Farmacia Essere Benessere"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2023-11-06"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Farmacia Fulvio Testi"/>
@@ -3273,13 +3290,14 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1575654783" lat="45.5113662" lon="9.2041866" version="5" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="1575654783" lat="45.5113662" lon="9.2041866" version="6" timestamp="2023-11-06T17:53:33Z" changeset="143704234" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:street" v="Viale Fulvio Testi"/>
     <tag k="brand" v="Carrefour Market"/>
     <tag k="brand:wikidata" v="Q2689639"/>
     <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
+    <tag k="check_date" v="2023-11-06"/>
     <tag k="name" v="Carrefour Market"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-20:30; Su 09:00-13:30"/>
     <tag k="shop" v="supermarket"/>
@@ -5497,7 +5515,7 @@
     <tag k="ref" v="38060"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2215392638" lat="45.4322370" lon="9.2026589" version="5" timestamp="2018-07-21T19:11:39Z" changeset="60934493" uid="290680" user="wheelmap_visitor">
+  <node id="2215392638" lat="45.4322370" lon="9.2026589" version="6" timestamp="2023-11-06T18:24:56Z" changeset="143705266" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="12"/>
@@ -5505,7 +5523,7 @@
     <tag k="addr:street" v="Via Val di Sole"/>
     <tag k="name" v="Unes"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="website" v="www.unes.it"/>
+    <tag k="website" v="https://www.unes.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2226474648" lat="45.4661825" lon="9.1868875" version="3" timestamp="2018-01-20T08:37:38Z" changeset="55597282" uid="1476146" user="Alecs01">
@@ -15152,12 +15170,13 @@
     <tag k="phone" v="+39 02 65560841"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4333479131" lat="45.5156919" lon="9.2085178" version="3" timestamp="2023-07-17T17:25:09Z" changeset="138631235" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4333479131" lat="45.5156919" lon="9.2085178" version="4" timestamp="2023-11-07T03:03:52Z" changeset="143717042" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20126"/>
     <tag k="addr:street" v="Via Giuseppe La Farina"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2023-11-06"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Ristorante La Bicocca"/>
     <tag k="outdoor_seating" v="no"/>
@@ -21662,6 +21681,11 @@
     <tag k="office" v="lawyer"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="7935659387" lat="45.4674031" lon="9.1462218" version="4" timestamp="2023-11-06T09:12:47Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Red Room"/>
+    <tag k="shop" v="erotic"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="7966451765" lat="45.4287465" lon="9.2572092" version="4" timestamp="2023-06-06T13:12:35Z" changeset="137014744" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="San Donato"/>
     <tag k="railway" v="subway_entrance"/>
@@ -21767,6 +21791,20 @@
     <tag k="shop" v="supermarket"/>
     <tag k="start_date" v="2020-12-17"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8191190165" lat="45.4679572" lon="9.1460618" version="4" timestamp="2023-11-06T09:14:34Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Wu Fusion Milano"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="8191213758" lat="45.4673367" lon="9.1464768" version="2" timestamp="2023-11-06T09:10:31Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="beauty" v="nails"/>
+    <tag k="name" v="Blu Estetica Naturale"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="8284128789" lat="45.4875524" lon="9.1901707" version="2" timestamp="2021-05-01T08:24:17Z" changeset="103946544" uid="161619" user="FvGordon">
     <tag k="addr:city" v="Milano"/>
@@ -26489,6 +26527,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="10853039705" lat="45.4680401" lon="9.2181234" version="4" timestamp="2023-11-06T21:32:03Z" changeset="143711018" uid="2052228" user="kauevestena">
+    <tag k="name" v="Dateo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="10853039708" lat="45.4586451" lon="9.1696264" version="3" timestamp="2023-08-09T15:54:26Z" changeset="139667292" uid="1781586" user="fick89">
     <tag k="name" v="S. Agostino"/>
     <tag k="railway" v="subway_entrance"/>
@@ -27230,6 +27273,60 @@
   <node id="11314948540" lat="45.4920936" lon="9.2045810" version="2" timestamp="2023-11-04T18:00:11Z" changeset="143624248" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Magic moments"/>
     <tag k="shop" v="erotic"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328847623" lat="45.4671252" lon="9.1454547" version="2" timestamp="2023-11-06T08:36:29Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Rikò"/>
+    <tag k="shop" v="shoes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328852589" lat="45.4671385" lon="9.1453513" version="2" timestamp="2023-11-06T08:36:53Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="BluGold"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328857933" lat="45.4671454" lon="9.1452901" version="2" timestamp="2023-11-06T08:37:09Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Ferrandi"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328877572" lat="45.4668629" lon="9.1457560" version="3" timestamp="2023-11-06T08:34:28Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Bar Sesto"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="11328886319" lat="45.4671552" lon="9.1456482" version="2" timestamp="2023-11-06T08:33:59Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="iful"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328887031" lat="45.4671193" lon="9.1455906" version="2" timestamp="2023-11-06T08:34:19Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Fassi"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328887198" lat="45.4668919" lon="9.1454437" version="2" timestamp="2023-11-06T08:35:12Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Pepperina"/>
+    <tag k="shop" v="shoes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328889069" lat="45.4669102" lon="9.1452865" version="2" timestamp="2023-11-06T08:35:53Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Kasanova"/>
+    <tag k="brand:wikidata" v="Q116214505"/>
+    <tag k="name" v="Kasanova"/>
+    <tag k="shop" v="houseware"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328890976" lat="45.4671501" lon="9.1452272" version="2" timestamp="2023-11-06T08:37:32Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Humaira Telecom"/>
+    <tag k="shop" v="electronics"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11328923025" lat="45.4667919" lon="9.1467308" version="2" timestamp="2023-11-06T09:08:02Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Mariagrazia Gasparro"/>
+    <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
