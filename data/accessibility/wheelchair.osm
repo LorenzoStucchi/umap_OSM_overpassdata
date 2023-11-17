@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-16T03:10:04Z" areas="2023-11-16T00:53:52Z"/>
+<meta osm_base="2023-11-17T03:10:01Z" areas="2023-11-17T00:48:40Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -902,6 +902,26 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="operator" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="285608998" lat="45.4736312" lon="9.2305970" version="9" timestamp="2023-11-16T17:54:55Z" changeset="144106496" uid="4862063" user="tars4815">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Piazzale Paolo Gorini"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2023-11-16"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Rossetto s.n.c."/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-12:30,15:30-19:30"/>
+    <tag k="operator" v="DR.SSA FRANCONE CRISTIANA &amp; C."/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="ref:msal" v="2656"/>
+    <tag k="ref:vatin" v="IT01186290159"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="289646177" lat="45.5120915" lon="9.2044026" version="7" timestamp="2023-11-06T17:53:33Z" changeset="143704234" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
@@ -2036,14 +2056,6 @@
     <tag k="website" v="https://scuolaarteapplicata.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="715875735" lat="45.4656996" lon="9.1813074" version="12" timestamp="2023-02-22T17:25:28Z" changeset="132892209" uid="13840929" user="aa30mom">
-    <tag k="name" v="Via Meravigli"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="11483"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="715948252" lat="45.4608911" lon="9.1888069" version="4" timestamp="2022-02-24T16:00:11Z" changeset="117818035" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -2868,15 +2880,6 @@
     <tag k="website" v="https://www.ambreck.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1474206613" lat="45.5149689" lon="9.2066929" version="6" timestamp="2022-10-12T10:46:59Z" changeset="127407001" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="name" v="Viale Rodi (Bicocca M5)"/>
-    <tag k="operator" v="ATM"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="12281"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="1474688208" lat="45.4315575" lon="9.2450366" version="5" timestamp="2022-05-06T16:54:09Z" changeset="120639300" uid="6220204" user="Ysogo">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="70"/>
@@ -2981,23 +2984,6 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1494202845" lat="45.4552472" lon="9.1628046" version="8" timestamp="2022-12-28T10:12:47Z" changeset="130592688" uid="13840929" user="aa30mom">
-    <tag k="name" v="Piazza del Rosario"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="10855"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1494211826" lat="45.4562663" lon="9.1659488" version="7" timestamp="2022-10-10T19:32:45Z" changeset="127321150" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="name" v="Via Montevideo"/>
-    <tag k="old_name" v="Via Solari - Via Montevideo"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="11171"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="1498820996" lat="45.4501587" lon="9.2133572" version="6" timestamp="2021-11-05T21:58:49Z" changeset="113428674" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="28"/>
@@ -3061,22 +3047,6 @@
     <tag k="name" v="Scarpe&amp;Scarpe"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1502793093" lat="45.4541331" lon="9.1593476" version="7" timestamp="2022-10-10T19:32:45Z" changeset="127321150" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="name" v="Via Solari Via Stendhal"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="10848"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1504949740" lat="45.4447219" lon="9.1302257" version="8" timestamp="2022-10-10T19:32:45Z" changeset="127321150" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="name" v="San Cristoforo"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="10336"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="1505078333" lat="45.4403969" lon="9.2238330" version="4" timestamp="2023-04-11T13:00:20Z" changeset="134773201" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Corvetto"/>
     <tag k="railway" v="subway_entrance"/>
@@ -3129,15 +3099,6 @@
     <tag k="name" v="Famagosta"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1514307768" lat="45.5189083" lon="9.2074688" version="7" timestamp="2022-10-12T10:46:59Z" changeset="127407001" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="name" v="Viale Testi - Via San Glicerio"/>
-    <tag k="operator" v="ATM"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="12302"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="1514331907" lat="45.4952639" lon="9.1851342" version="8" timestamp="2023-05-25T12:05:08Z" changeset="136541014" uid="19325827" user="malegre">
     <tag k="brand" v="Upim"/>
@@ -3809,15 +3770,6 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-13:30,14:45-15:45; PH closed"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1679594686" lat="45.4793113" lon="9.2268225" version="7" timestamp="2022-10-12T21:59:52Z" changeset="127438131" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="name" v="Piazza Leonardo Da Vinci - Politecnico"/>
-    <tag k="old_name" v="Bonardi 23 - 33"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="12490"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="1679594690" lat="45.4633974" lon="9.2303916" version="7" timestamp="2022-02-11T07:27:49Z" changeset="117275115" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="14"/>
@@ -4015,14 +3967,6 @@
     <tag k="shop" v="copyshop"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1730563145" lat="45.4780888" lon="9.1976255" version="7" timestamp="2023-01-30T18:13:44Z" changeset="131891765" uid="13840929" user="aa30mom">
-    <tag k="name" v="Repubblica M3"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="11877"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="1735145991" lat="45.4729954" lon="9.2296118" version="2" timestamp="2016-04-23T10:58:31Z" changeset="38810680" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
@@ -4040,16 +3984,42 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1735145995" lat="45.4733193" lon="9.2305899" version="4" timestamp="2023-10-19T18:26:22Z" changeset="142830253" uid="413098" user="Jeyh">
+  <node id="1735145994" lat="45.4730094" lon="9.2305622" version="5" timestamp="2023-11-16T17:54:55Z" changeset="144106496" uid="4862063" user="tars4815">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Piazzale Paolo Gorini"/>
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="check_date" v="2023-11-16"/>
+    <tag k="contact:email" v="gelateria.gorini@libero.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/gelateria.gorini"/>
+    <tag k="contact:phone" v="+39 02 70000721"/>
+    <tag k="contact:tripadvisor" v="https://www.tripadvisor.it/Restaurant_Review-g187849-d5281564-Reviews-Gelateria_Gorini-Milan_Lombardy.html"/>
+    <tag k="name" v="Gelateria Gorini"/>
+    <tag k="opening_hours" v="Mo-Su  11:00-21:00"/>
+    <tag k="operator" v="Enza Addis &amp; C. SNC"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="ref:vatin" v="IT03504130968"/>
+    <tag k="start_date" v="2003"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1735145995" lat="45.4733193" lon="9.2305899" version="5" timestamp="2023-11-16T17:54:55Z" changeset="144106496" uid="4862063" user="tars4815">
     <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="no"/>
+    <tag k="check_date" v="2023-11-16"/>
     <tag k="dog" v="unleashed"/>
     <tag k="internet_access" v="no"/>
+    <tag k="microbrewery" v="no"/>
     <tag k="name" v="Cafè de Flore"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:qr_code" v="yes"/>
     <tag k="service:electricity" v="limited"/>
     <tag k="smoking" v="outside"/>
+    <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1759392423" lat="45.4831661" lon="9.2034252" version="8" timestamp="2022-02-17T15:54:27Z" changeset="117527850" uid="13840929" user="aa30mom">
@@ -7655,14 +7625,16 @@
     <tag k="website" v="https://www.actionaid.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2496456233" lat="45.4788607" lon="9.2278430" version="10" timestamp="2022-04-23T17:56:40Z" changeset="120100196" uid="11220113" user="ivanbranco">
+  <node id="2496456233" lat="45.4788607" lon="9.2278430" version="11" timestamp="2023-11-16T16:09:34Z" changeset="144103004" uid="4862063" user="tars4815">
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:city" v="Milano"/>
     <tag k="contact:housenumber" v="32"/>
     <tag k="contact:postcode" v="20100"/>
     <tag k="contact:street" v="Piazza Leonardo da Vinci"/>
     <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
     <tag k="name" v="SeRist"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:30"/>
     <tag k="operator" v="Serist S.r.l."/>
     <tag k="ramp:wheelchair" v="yes"/>
     <tag k="ref:vatin" v="IT09671780964"/>
@@ -7703,6 +7675,12 @@
     <tag k="name" v="P.ta Genova FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2516378868" lat="45.4724531" lon="9.2304599" version="2" timestamp="2023-11-16T17:56:13Z" changeset="144106536" uid="4862063" user="tars4815">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2023-11-16"/>
+    <tag k="name" v="Niki Bar"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2518620897" lat="45.4844586" lon="9.2156429" version="6" timestamp="2023-11-04T13:39:57Z" changeset="143614310" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Excelsa"/>
@@ -8142,15 +8120,6 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="department_store"/>
     <tag k="toilets" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2696102369" lat="45.4570635" lon="9.1686545" version="5" timestamp="2022-10-10T19:32:45Z" changeset="127321150" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="name" v="V.le Coni Zugna Via Solari"/>
-    <tag k="operator" v="ATM"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="11176"/>
-    <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2719628296" lat="45.4895296" lon="9.1888504" version="6" timestamp="2019-03-24T13:07:56Z" changeset="68470431" uid="9451067" user="b-jazz-bot">
@@ -21787,14 +21756,6 @@
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8022218396" lat="45.4793320" lon="9.2302353" version="3" timestamp="2022-10-12T21:59:52Z" changeset="127438131" uid="10893865" user="Emanuele Lorenzo Corti">
-    <tag k="name" v="Via Bassini - Via Ponzio"/>
-    <tag k="public_transport" v="stop_position"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="12499"/>
-    <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="8065894537" lat="45.5156354" lon="9.1574335" version="1" timestamp="2020-10-30T14:56:03Z" changeset="93297414" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
@@ -27385,6 +27346,18 @@
   <node id="11328923025" lat="45.4667919" lon="9.1467308" version="2" timestamp="2023-11-06T09:08:02Z" changeset="143681585" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Mariagrazia Gasparro"/>
     <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11356474934" lat="45.4725248" lon="9.2305328" version="1" timestamp="2023-11-16T17:56:13Z" changeset="144106536" uid="4862063" user="tars4815">
+    <tag k="check_date" v="2023-11-16"/>
+    <tag k="shop" v="dry_cleaning"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11356476414" lat="45.4732128" lon="9.2305988" version="1" timestamp="2023-11-16T17:54:55Z" changeset="144106496" uid="4862063" user="tars4815">
+    <tag k="beauty" v="nails"/>
+    <tag k="check_date" v="2023-11-16"/>
+    <tag k="name" v="Solarium Estetica"/>
+    <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
