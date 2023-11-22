@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-21T02:56:01Z" areas="2023-11-20T21:50:59Z"/>
+<meta osm_base="2023-11-22T02:55:55Z" areas="2023-11-22T00:06:45Z"/>
 
   <node id="340225481" lat="45.4941000" lon="9.1936265" version="14" timestamp="2023-02-06T11:21:55Z" changeset="132153078" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
@@ -365,9 +365,10 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="2829045284" lat="45.5135458" lon="9.2142173" version="3" timestamp="2023-01-26T09:08:08Z" changeset="131724220" uid="8350372" user="Balaabirami">
+  <node id="2829045284" lat="45.5135458" lon="9.2142173" version="4" timestamp="2023-11-21T16:36:57Z" changeset="144295293" uid="4862063" user="tars4815">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
+    <tag k="kerb:height" v="0.03"/>
     <tag k="tactile_paving" v="no"/>
   </node>
   <node id="2829045285" lat="45.5135619" lon="9.2141780" version="3" timestamp="2023-01-26T09:08:08Z" changeset="131724220" uid="8350372" user="Balaabirami">
@@ -7768,15 +7769,20 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="8349501499" lat="45.5135034" lon="9.2143177" version="2" timestamp="2023-01-26T09:08:08Z" changeset="131724220" uid="8350372" user="Balaabirami">
+  <node id="8349501499" lat="45.5135034" lon="9.2143177" version="3" timestamp="2023-11-21T16:36:57Z" changeset="144295293" uid="4862063" user="tars4815">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
+    <tag k="kerb:height" v="0"/>
+    <tag k="material" v="concrete"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="8349501500" lat="45.5135161" lon="9.2142882" version="2" timestamp="2023-01-26T09:08:08Z" changeset="131724220" uid="8350372" user="Balaabirami">
+  <node id="8349501500" lat="45.5135161" lon="9.2142882" version="3" timestamp="2023-11-21T16:36:57Z" changeset="144295293" uid="4862063" user="tars4815">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
+    <tag k="kerb:height" v="0"/>
+    <tag k="material" v="concrete"/>
     <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8349523062" lat="45.5171226" lon="9.2121712" version="4" timestamp="2022-05-16T09:42:49Z" changeset="121043260" uid="13933690" user="Andrea Carulli">
     <tag k="barrier" v="kerb"/>
