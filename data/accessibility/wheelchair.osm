@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-22T03:11:13Z" areas="2023-11-22T00:06:45Z"/>
+<meta osm_base="2023-11-23T03:10:21Z" areas="2023-11-23T00:07:29Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -7811,7 +7811,7 @@
     <tag k="ref:vatin" v="IT07520090965"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2541920263" lat="45.4742940" lon="9.1949132" version="3" timestamp="2023-06-06T13:12:35Z" changeset="137014744" uid="3396014" user="Moncecchi Daniele">
+  <node id="2541920263" lat="45.4742905" lon="9.1949251" version="4" timestamp="2023-11-22T12:22:12Z" changeset="144324142" uid="18038465" user="pboscherini">
     <tag k="name" v="Turati"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -35179,7 +35179,7 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="951200523" version="3" timestamp="2022-03-14T15:09:06Z" changeset="118473925" uid="11242131" user="ja+">
+  <way id="951200523" version="4" timestamp="2023-11-22T18:35:33Z" changeset="144338405" uid="2052228" user="kauevestena">
     <center lat="45.4756248" lon="9.2092282"/>
     <nd ref="8804473743"/>
     <nd ref="8804473747"/>
@@ -35191,6 +35191,7 @@
     <tag k="bin" v="yes"/>
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-2"/>
+    <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -35923,6 +35924,21 @@
     <tag k="material" v="metal"/>
     <tag k="motor_vehicle" v="no"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1225893492" version="1" timestamp="2023-11-22T12:22:12Z" changeset="144324142" uid="18038465" user="pboscherini">
+    <center lat="45.4743306" lon="9.1949183"/>
+    <nd ref="11368402050"/>
+    <nd ref="2541920263"/>
+    <nd ref="11368402051"/>
+    <nd ref="11368402052"/>
+    <nd ref="1538587691"/>
+    <nd ref="11368402053"/>
+    <nd ref="11368402050"/>
+    <tag k="building" v="roof"/>
+    <tag k="building:material" v="plastic"/>
+    <tag k="layer" v="1"/>
+    <tag k="roof:colour" v="#800000"/>
+    <tag k="wheelchair" v="no"/>
   </way>
 
 </osm>
