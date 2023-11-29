@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-28T03:10:28Z" areas="2023-11-28T01:04:27Z"/>
+<meta osm_base="2023-11-29T03:10:47Z" areas="2023-11-28T23:11:02Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -15,24 +15,6 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q801185"/>
     <tag k="wikipedia" v="it:Stazione di Milano Cadorna"/>
-  </node>
-  <node id="29797363" lat="45.4845300" lon="9.1873090" version="16" timestamp="2023-10-24T09:56:05Z" changeset="143056678" uid="20500231" user="fabiotolni">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:street" v="Piazza Sigmund Freud"/>
-    <tag k="description" v="Area STIBM: Mi1"/>
-    <tag k="name" v="Milano Porta Garibaldi"/>
-    <tag k="name:de" v="Bahnhof Milano Porta Garibaldi"/>
-    <tag k="name:en" v="Milano Porta Garibaldi railway station"/>
-    <tag k="name:es" v="Estación de Porta Garibaldi de Milán"/>
-    <tag k="network" v="STIBM"/>
-    <tag k="operator" v="RFI;Centostazioni"/>
-    <tag k="platforms" v="20"/>
-    <tag k="public_transport" v="station"/>
-    <tag k="railway" v="station"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q801187"/>
-    <tag k="wikimedia_commons" v="Category:Milano Porta Garibaldi train station"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Porta Garibaldi"/>
   </node>
   <node id="29978509" lat="45.4523980" lon="9.1546299" version="8" timestamp="2022-03-02T18:03:10Z" changeset="118028841" uid="13840929" user="aa30mom">
     <tag k="addr:street" v="Piazza Napoli"/>
@@ -16922,12 +16904,13 @@
     <tag k="shop" v="furniture"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4824578832" lat="45.4746568" lon="9.1917054" version="4" timestamp="2023-02-24T15:25:55Z" changeset="132972940" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4824578832" lat="45.4746568" lon="9.1917054" version="5" timestamp="2023-11-28T10:40:22Z" changeset="144542967" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Corso di Porta Nuova"/>
+    <tag k="check_date:currency:XBT" v="2018-02-20"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Studio Legale Cislaghi Lessio Associati"/>
     <tag k="office" v="lawyer"/>
@@ -27431,6 +27414,45 @@
     <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="11373896111" lat="45.5133752" lon="9.0979730" version="2" timestamp="2023-11-28T07:58:36Z" changeset="144535896" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="611"/>
+    <tag k="addr:postcode" v="20151"/>
+    <tag k="addr:street" v="Via Gottlieb Wilhelm Daimler"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="Cascina Merlata"/>
+    <tag k="brand" v="Esselunga"/>
+    <tag k="brand:wikidata" v="Q1059636"/>
+    <tag k="name" v="Esselunga"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11380919814" lat="45.5132293" lon="9.0989359" version="1" timestamp="2023-11-28T07:58:36Z" changeset="144535896" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="20151"/>
+    <tag k="addr:street" v="Via Gottlieb Wilhelm Daimler"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Cipiace"/>
+    <tag k="check_date" v="2023-11-26"/>
+    <tag k="contact:facebook" v="cipiace.official"/>
+    <tag k="contact:instagram" v="cipiace.official"/>
+    <tag k="cuisine" v="risotto;soup"/>
+    <tag k="delivery" v="no"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="highchair" v="no"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Cipiace"/>
+    <tag k="operator" v="C-Piace SRL"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT10910150969"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -28311,6 +28333,51 @@
     <tag k="wheelchair:description:it" v="Entrata gratuita per i portatori di disabilità"/>
     <tag k="wikidata" v="Q18068"/>
     <tag k="wikipedia" v="it:Duomo di Milano"/>
+  </way>
+  <way id="27638654" version="12" timestamp="2023-11-28T11:16:40Z" changeset="144544447" uid="715684" user="Eebie">
+    <center lat="45.4845218" lon="9.1872098"/>
+    <nd ref="1697767136"/>
+    <nd ref="1954441866"/>
+    <nd ref="2578379463"/>
+    <nd ref="2578379468"/>
+    <nd ref="2578379471"/>
+    <nd ref="2578379473"/>
+    <nd ref="2573561629"/>
+    <nd ref="2573561670"/>
+    <nd ref="2578379481"/>
+    <nd ref="2573561683"/>
+    <nd ref="2573561696"/>
+    <nd ref="2578379486"/>
+    <nd ref="2573561720"/>
+    <nd ref="2573561745"/>
+    <nd ref="2578379489"/>
+    <nd ref="2573561763"/>
+    <nd ref="2573561766"/>
+    <nd ref="2578379491"/>
+    <nd ref="2573561767"/>
+    <nd ref="2573561769"/>
+    <nd ref="2573561771"/>
+    <nd ref="303552925"/>
+    <nd ref="4891607721"/>
+    <nd ref="1697767136"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:street" v="Piazza Sigmund Freud"/>
+    <tag k="alt_name" v="Milano Porta Garibaldi"/>
+    <tag k="building" v="train_station"/>
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Stazione Milano Porta Garibaldi"/>
+    <tag k="name:de" v="Bahnhof Milano Porta Garibaldi"/>
+    <tag k="name:en" v="Milano Porta Garibaldi railway station"/>
+    <tag k="name:es" v="Estación de Porta Garibaldi de Milán"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="RFI;Centostazioni"/>
+    <tag k="platforms" v="20"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q801187"/>
+    <tag k="wikimedia_commons" v="Category:Milano Porta Garibaldi train station"/>
+    <tag k="wikipedia" v="it:Stazione di Milano Porta Garibaldi"/>
   </way>
   <way id="27755927" version="53" timestamp="2023-11-11T16:58:41Z" changeset="143907730" uid="9451067" user="b-jazz-bot">
     <center lat="45.4659723" lon="9.1711752"/>
@@ -35953,6 +36020,126 @@
     <tag k="foot" v="permissive"/>
     <tag k="material" v="metal"/>
     <tag k="motor_vehicle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1225398812" version="3" timestamp="2023-11-28T07:58:36Z" changeset="144535896" uid="89897" user="airon90">
+    <center lat="45.5135238" lon="9.0998746"/>
+    <nd ref="11363888954"/>
+    <nd ref="11363919033"/>
+    <nd ref="3497124899"/>
+    <nd ref="6112704467"/>
+    <nd ref="3476148500"/>
+    <nd ref="11310345664"/>
+    <nd ref="5113939652"/>
+    <nd ref="5113934150"/>
+    <nd ref="11363888955"/>
+    <nd ref="11363888956"/>
+    <nd ref="11363888957"/>
+    <nd ref="11363888958"/>
+    <nd ref="11363888959"/>
+    <nd ref="11363888960"/>
+    <nd ref="11363888961"/>
+    <nd ref="11363888962"/>
+    <nd ref="11363888963"/>
+    <nd ref="11363888964"/>
+    <nd ref="11363888965"/>
+    <nd ref="11363888966"/>
+    <nd ref="11363888967"/>
+    <nd ref="11363888968"/>
+    <nd ref="11363918969"/>
+    <nd ref="11363918970"/>
+    <nd ref="11363918971"/>
+    <nd ref="11363918972"/>
+    <nd ref="11363918973"/>
+    <nd ref="11363918974"/>
+    <nd ref="11363918975"/>
+    <nd ref="10792272575"/>
+    <nd ref="10792272572"/>
+    <nd ref="10792272571"/>
+    <nd ref="10792272568"/>
+    <nd ref="11363918976"/>
+    <nd ref="11363918977"/>
+    <nd ref="11363918978"/>
+    <nd ref="11363918979"/>
+    <nd ref="11363918980"/>
+    <nd ref="11363918981"/>
+    <nd ref="11363918982"/>
+    <nd ref="11363918983"/>
+    <nd ref="11363918984"/>
+    <nd ref="11363918985"/>
+    <nd ref="5113934153"/>
+    <nd ref="11363918986"/>
+    <nd ref="11363918987"/>
+    <nd ref="3497123491"/>
+    <nd ref="11310345665"/>
+    <nd ref="11363918988"/>
+    <nd ref="11363918989"/>
+    <nd ref="11363918990"/>
+    <nd ref="3497123484"/>
+    <nd ref="11363918991"/>
+    <nd ref="11363918992"/>
+    <nd ref="5113939093"/>
+    <nd ref="11363918993"/>
+    <nd ref="11363919035"/>
+    <nd ref="11363918994"/>
+    <nd ref="11363918995"/>
+    <nd ref="11363918996"/>
+    <nd ref="11363918997"/>
+    <nd ref="11363918998"/>
+    <nd ref="11363918999"/>
+    <nd ref="11363919000"/>
+    <nd ref="11363919001"/>
+    <nd ref="11363919002"/>
+    <nd ref="11363919003"/>
+    <nd ref="11363919004"/>
+    <nd ref="11363919005"/>
+    <nd ref="11363919006"/>
+    <nd ref="11363919007"/>
+    <nd ref="11363919008"/>
+    <nd ref="11363919009"/>
+    <nd ref="5113939626"/>
+    <nd ref="11363919036"/>
+    <nd ref="11363919010"/>
+    <nd ref="11363919011"/>
+    <nd ref="11363919012"/>
+    <nd ref="11363919013"/>
+    <nd ref="11363919014"/>
+    <nd ref="11363919015"/>
+    <nd ref="11363919016"/>
+    <nd ref="11363919017"/>
+    <nd ref="11363919018"/>
+    <nd ref="11363919019"/>
+    <nd ref="11363919020"/>
+    <nd ref="11363919021"/>
+    <nd ref="11363919022"/>
+    <nd ref="11363919023"/>
+    <nd ref="11363919024"/>
+    <nd ref="11363919025"/>
+    <nd ref="11363919026"/>
+    <nd ref="11363919027"/>
+    <nd ref="11363919028"/>
+    <nd ref="11363919029"/>
+    <nd ref="11363919030"/>
+    <nd ref="11363919031"/>
+    <nd ref="11363919032"/>
+    <nd ref="11363888954"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="20151"/>
+    <tag k="addr:street" v="Via Gottlieb Wilhelm Daimler"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="alt_name" v="Bloom Merlata"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2023-11-26"/>
+    <tag k="contact:email" v="info@merlatabloommilano.com"/>
+    <tag k="contact:phone" v="+39 02 50063040"/>
+    <tag k="contact:website" v="https://www.merlatabloommilano.com"/>
+    <tag k="name" v="Merlata Bloom Milano"/>
+    <tag k="shop" v="mall"/>
+    <tag k="short_name" v="Merlata Bloom"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1225893492" version="1" timestamp="2023-11-22T12:22:12Z" changeset="144324142" uid="18038465" user="pboscherini">
