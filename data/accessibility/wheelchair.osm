@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-09T03:11:00Z" areas="2023-12-08T22:57:23Z"/>
+<meta osm_base="2023-12-10T03:10:04Z" areas="2023-12-09T22:23:34Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4571,6 +4571,20 @@
     <tag k="name" v="Tabacchi"/>
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1922663958" lat="45.5227785" lon="9.2148290" version="8" timestamp="2023-12-09T17:17:30Z" changeset="144942343" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="232"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="brand" v="OVS"/>
+    <tag k="brand:wikidata" v="Q2042514"/>
+    <tag k="brand:wikipedia" v="en:OVS (company)"/>
+    <tag k="name" v="OVS"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="phone" v="+39 02 6611 1436"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="1923630872" lat="45.4816027" lon="9.2267259" version="4" timestamp="2023-05-30T14:42:45Z" changeset="136750347" uid="18210119" user="Nerwen">
     <tag k="amenity" v="ice_cream"/>
@@ -14542,6 +14556,11 @@
     <tag k="operator" v="Sant'Agostino"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4207083825" lat="45.4876088" lon="9.1718500" version="3" timestamp="2023-12-09T12:56:15Z" changeset="144933876" uid="10566220" user="Amanuense_del_diavolo">
+    <tag k="name" v="Cenisio"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4213618145" lat="45.4754529" lon="9.2055841" version="3" timestamp="2023-02-01T19:02:18Z" changeset="131974583" uid="18306404" user="over_the_edge">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="49"/>
@@ -17430,7 +17449,7 @@
     <tag k="wikidata" v="Q936357"/>
     <tag k="wikipedia" v="it:Porta Venezia (metropolitana di Milano)"/>
   </node>
-  <node id="4952154918" lat="45.5222541" lon="9.2144857" version="4" timestamp="2021-02-23T18:16:11Z" changeset="99847240" uid="89897" user="airon90">
+  <node id="4952154918" lat="45.5222541" lon="9.2144857" version="5" timestamp="2023-12-09T17:18:15Z" changeset="144942356" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20126"/>
     <tag k="addr:street" v="Via Friedrich Von Hayek"/>
@@ -17441,13 +17460,44 @@
     <tag k="brand:wikidata" v="Q105643882"/>
     <tag k="contact:website" v="http://www.spontinimilano.com/pizzerie/Milano-BICOCCA"/>
     <tag k="cuisine" v="pizza"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="customers"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Spontini"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 66116346"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4952154919" lat="45.5226750" lon="9.2151991" version="7" timestamp="2023-12-09T17:17:26Z" changeset="144942343" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="sinsay"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4952154921" lat="45.5221808" lon="9.2149766" version="6" timestamp="2023-12-09T17:19:47Z" changeset="144942343" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="228"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Sarca"/>
+    <tag k="alt_name" v="Kentucky Fried Chicken"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="KFC"/>
+    <tag k="brand:wikidata" v="Q524757"/>
+    <tag k="brand:wikipedia" v="en:KFC"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="KFC"/>
+    <tag k="note" v="Sullo scontrino c'è una informazione sbagliata: il CAP scritto è &quot;10126&quot; che però è errato, è quello di Torino."/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT09205750962"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4953160519" lat="45.4846420" lon="9.1782413" version="5" timestamp="2023-05-28T14:20:28Z" changeset="136658394" uid="19325827" user="malegre">
     <tag k="access" v="yes"/>
@@ -18886,6 +18936,21 @@
     <tag k="name" v="Pietro Brunelli"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5516678934" lat="45.5225670" lon="9.2146893" version="5" timestamp="2023-12-09T17:17:50Z" changeset="144942343" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Via Chiese"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="100 Montaditos"/>
+    <tag k="brand:wikidata" v="Q8355805"/>
+    <tag k="brand:wikipedia" v="en:Cervecería 100 Montaditos"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="100 Montaditos"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 339 175 4852"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5523083125" lat="45.4489330" lon="9.2071036" version="1" timestamp="2018-04-02T17:27:32Z" changeset="57744979" uid="113316" user="Andria Tzedda">
     <tag k="amenity" v="cafe"/>
@@ -22213,7 +22278,7 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8550488914" lat="45.5210317" lon="9.2192969" version="3" timestamp="2023-03-25T13:15:24Z" changeset="134101048" uid="1875845" user="Valerio_Bozzolan">
+  <node id="8550488914" lat="45.5209859" lon="9.2192700" version="4" timestamp="2023-12-09T16:50:36Z" changeset="144941495" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20126"/>
