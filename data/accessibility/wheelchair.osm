@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-15T03:10:13Z" areas="2023-12-14T21:50:17Z"/>
+<meta osm_base="2023-12-16T03:11:15Z" areas="2023-12-15T21:50:55Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1570,7 +1570,7 @@
     <tag k="ref:vatin" v="IT12125380159"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="429595357" lat="45.4725467" lon="9.2285930" version="8" timestamp="2023-11-21T21:59:18Z" changeset="144304226" uid="18379809" user="niels-valec">
+  <node id="429595357" lat="45.4725467" lon="9.2285930" version="9" timestamp="2023-12-15T11:37:33Z" changeset="145147223" uid="18379809" user="niels-valec">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="36"/>
     <tag k="addr:postcode" v="20133"/>
@@ -1586,6 +1586,8 @@
     <tag k="official_name" v="Union Club"/>
     <tag k="opening_hours" v="Mo 08:00-02:00; Tu-Fr 10:30-02:00; Sa-Su 18:30-02:00; May-Sep: Su off"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="smoking" v="no"/>
     <tag k="start_date" v="2000-08"/>
     <tag k="wheelchair" v="yes"/>
@@ -1919,8 +1921,10 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="617299313" lat="45.4767975" lon="9.2305504" version="5" timestamp="2022-11-30T14:18:15Z" changeset="129563897" uid="17843669" user="DomKor">
+  <node id="617299313" lat="45.4767975" lon="9.2305504" version="6" timestamp="2023-12-15T13:13:20Z" changeset="145150476" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Via Giovanni Celoria"/>
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="yes"/>
@@ -8872,11 +8876,7 @@
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2942352033" lat="45.4553201" lon="9.1724633" version="5" timestamp="2023-02-19T12:53:08Z" changeset="132745851" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="20144"/>
-    <tag k="addr:street" v="Piazzale Antonio Cantore"/>
+  <node id="2942352033" lat="45.4553201" lon="9.1724633" version="6" timestamp="2023-12-15T10:58:43Z" changeset="145145979" uid="13840929" user="aa30mom">
     <tag k="brand" v="Coin"/>
     <tag k="brand:wikidata" v="Q1107215"/>
     <tag k="brand:wikipedia" v="it:Coin"/>
