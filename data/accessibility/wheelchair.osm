@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-20T03:10:57Z" areas="2023-12-20T01:37:06Z"/>
+<meta osm_base="2023-12-21T03:10:07Z" areas="2023-12-21T02:25:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -16262,6 +16262,11 @@
     <tag k="ref" v="38525"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="4506047017" lat="45.4820094" lon="9.2103324" version="2" timestamp="2023-12-20T11:12:03Z" changeset="145326609" uid="2052228" user="kauevestena">
+    <tag k="name" v="La Libreria dei Ragazzi"/>
+    <tag k="shop" v="books"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4508862092" lat="45.4866529" lon="9.1909349" version="3" timestamp="2019-09-13T13:17:49Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Cibario takeaway"/>
@@ -25775,15 +25780,18 @@
     <tag k="wikidata" v="Q1087612"/>
     <tag k="wikipedia" v="it:Buonarroti (metropolitana di Milano)"/>
   </node>
-  <node id="9914785175" lat="45.4664527" lon="9.1495656" version="1" timestamp="2022-07-27T13:38:14Z" changeset="124142278" uid="11242131" user="ja+">
+  <node id="9914785175" lat="45.4664527" lon="9.1495656" version="2" timestamp="2023-12-20T20:35:07Z" changeset="145345354" uid="4126696" user="bbgg">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="De Angeli"/>
     <tag k="network" v="STIBM"/>
+    <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1966"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q2815996"/>
     <tag k="wikipedia" v="it:De Angeli (metropolitana di Milano)"/>
@@ -28321,7 +28329,7 @@
     <tag k="operator:wikipedia" v="it:Polizia di Stato"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="23154089" version="10" timestamp="2023-06-10T18:43:17Z" changeset="137182227" uid="13614052" user="MarioRossi1974">
+  <way id="23154089" version="11" timestamp="2023-12-20T14:07:19Z" changeset="145333041" uid="13840929" user="aa30mom">
     <center lat="45.5236376" lon="9.2195101"/>
     <nd ref="250146307"/>
     <nd ref="10761300841"/>
@@ -28331,8 +28339,6 @@
     <nd ref="250146309"/>
     <nd ref="250146310"/>
     <nd ref="250146307"/>
-    <tag k="addr:housenumber" v="336"/>
-    <tag k="addr:street" v="Viale Sarca"/>
     <tag k="building" v="university"/>
     <tag k="building:levels" v="3"/>
     <tag k="name" v="U14 – DISCo – Dipartimento di Informatica Sistemistica e Comunicazione"/>
@@ -31544,17 +31550,13 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="142718957" version="2" timestamp="2018-01-15T14:17:10Z" changeset="55464129" uid="7473153" user="Francesco Gobbo">
+  <way id="142718957" version="3" timestamp="2023-12-20T09:42:03Z" changeset="145323307" uid="13840929" user="aa30mom">
     <center lat="45.4402286" lon="9.1489025"/>
     <nd ref="1561854543"/>
     <nd ref="1561854526"/>
     <nd ref="1561854405"/>
     <nd ref="1561854429"/>
     <nd ref="1561854543"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="20143"/>
-    <tag k="addr:street" v="Via Santa Rita da Cascia"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Cooperativa Sociale S. Rita"/>
@@ -31575,17 +31577,13 @@
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="147639049" version="6" timestamp="2021-02-05T17:56:24Z" changeset="98783877" uid="17774" user="goldmund100">
-    <center lat="45.4934526" lon="9.0980829"/>
+  <way id="147639049" version="7" timestamp="2023-12-20T09:42:03Z" changeset="145323307" uid="13840929" user="aa30mom">
+    <center lat="45.4934422" lon="9.0980641"/>
     <nd ref="1608493855"/>
     <nd ref="1608493790"/>
     <nd ref="1608493759"/>
     <nd ref="1608493879"/>
     <nd ref="1608493855"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="20151"/>
-    <tag k="addr:street" v="Via Giorgio de Chirico"/>
     <tag k="building" v="residential"/>
     <tag k="building:levels" v="5"/>
     <tag k="roof:levels" v="0"/>
@@ -31606,7 +31604,7 @@
     <tag k="lit" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="163964336" version="9" timestamp="2023-10-02T17:31:09Z" changeset="142049925" uid="12500589" user="tg4567">
+  <way id="163964336" version="10" timestamp="2023-12-20T09:42:03Z" changeset="145323307" uid="13840929" user="aa30mom">
     <center lat="45.4758543" lon="9.1791582"/>
     <nd ref="1383340821"/>
     <nd ref="1383340689"/>
@@ -31686,11 +31684,6 @@
     <nd ref="1383340874"/>
     <nd ref="249176020"/>
     <nd ref="1383340821"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="20154"/>
-    <tag k="addr:street" v="Viale Giorgio Byron"/>
     <tag k="leisure" v="stadium"/>
     <tag k="name" v="Arena Civica Gianni Brera"/>
     <tag k="sport" v="multi"/>
@@ -31751,8 +31744,8 @@
     <tag k="website" v="https://all.accor.com/hotel/1137/index.it.shtml"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="173297147" version="8" timestamp="2021-08-06T08:25:41Z" changeset="109244091" uid="5479911" user="Pollux17">
-    <center lat="45.4856833" lon="9.1651272"/>
+  <way id="173297147" version="9" timestamp="2023-12-20T14:07:19Z" changeset="145333041" uid="13840929" user="aa30mom">
+    <center lat="45.4856833" lon="9.1651232"/>
     <nd ref="1841358639"/>
     <nd ref="1841358659"/>
     <nd ref="1841358665"/>
@@ -31764,10 +31757,6 @@
     <nd ref="4081142840"/>
     <nd ref="4081142871"/>
     <nd ref="1841358639"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:street" v="Via Losanna"/>
     <tag k="brand" v="Esselunga"/>
     <tag k="brand:wikidata" v="Q1059636"/>
     <tag k="brand:wikipedia" v="en:Esselunga"/>
