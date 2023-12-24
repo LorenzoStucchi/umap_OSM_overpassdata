@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-23T03:10:44Z" areas="2023-12-22T22:03:21Z"/>
+<meta osm_base="2023-12-24T03:10:29Z" areas="2023-12-23T21:59:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -8982,6 +8982,11 @@
     <tag k="operator" v="Gruppo Coin spa"/>
     <tag k="ref:vatin" v="IT04850790967"/>
     <tag k="shop" v="department_store"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2962393948" lat="45.4916049" lon="9.2369865" version="5" timestamp="2023-12-23T17:29:13Z" changeset="145444454" uid="20662316" user="Xaco97">
+    <tag k="name" v="Udine"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2964293266" lat="45.4896876" lon="9.1878040" version="2" timestamp="2021-11-06T17:11:03Z" changeset="113455191" uid="11645399" user="davidoskky">
@@ -19938,12 +19943,13 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5712974783" lat="45.5087880" lon="9.2001667" version="5" timestamp="2023-11-03T10:42:11Z" changeset="143568225" uid="14777719" user="Susymala">
+  <node id="5712974783" lat="45.5087880" lon="9.2001667" version="6" timestamp="2023-12-23T16:09:55Z" changeset="145442161" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Cino da Pistoia"/>
+    <tag k="check_date" v="2023-12-23"/>
     <tag k="contact:phone" v="+39 02 6426023"/>
     <tag k="delivery:covid19" v="yes"/>
     <tag k="delivery:fee" v="no"/>
@@ -28342,6 +28348,23 @@
     <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11446460814" lat="45.4981071" lon="9.2368696" version="1" timestamp="2023-12-23T16:00:23Z" changeset="145441855" uid="20662316" user="Xaco97">
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:street" v="Via Palmanova"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="check_date" v="2023-12-23"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="Endoscopy;physiatry;dental_oral_maxillo_facial_surgery;vaccination;blood_check"/>
+    <tag k="level" v="2"/>
+    <tag k="name" v="Centro Medico Santagostino"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-20:30; Sa 07:30-13:00; Su off"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="website" v="https://www.santagostino.it/it/sedi/cimiano"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -33412,9 +33435,10 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="290215602" version="6" timestamp="2023-10-02T17:31:09Z" changeset="142049925" uid="12500589" user="tg4567">
-    <center lat="45.4872151" lon="9.1899931"/>
+  <way id="290215602" version="7" timestamp="2023-12-23T16:50:56Z" changeset="145443446" uid="13840929" user="aa30mom">
+    <center lat="45.4872138" lon="9.1899831"/>
     <nd ref="2937708345"/>
+    <nd ref="3147151899"/>
     <nd ref="3147150836"/>
     <nd ref="3147154646"/>
     <nd ref="3147153708"/>
@@ -33425,11 +33449,6 @@
     <nd ref="1484958973"/>
     <nd ref="1484958972"/>
     <nd ref="2937708345"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Via Sebenico"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="church"/>
     <tag k="denomination" v="catholic"/>
