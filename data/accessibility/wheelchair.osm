@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-27T03:10:13Z" areas="2023-12-27T00:30:00Z"/>
+<meta osm_base="2023-12-28T03:10:26Z" areas="2023-12-28T00:20:59Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2493,7 +2493,7 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1223091032" lat="45.4633932" lon="9.1902304" version="19" timestamp="2022-07-14T19:58:33Z" changeset="123623632" uid="10901495" user="Martino Scaglione">
+  <node id="1223091032" lat="45.4633932" lon="9.1902304" version="20" timestamp="2023-12-27T12:03:24Z" changeset="145571536" uid="1925577" user="robertodelavega">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -2501,6 +2501,7 @@
     <tag k="addr:street" v="Via Guglielmo Marconi"/>
     <tag k="alt_name" v="Museo del 900"/>
     <tag k="email" v="c.museo900@comune.milano.it"/>
+    <tag k="fee" v="yes"/>
     <tag k="museum" v="art"/>
     <tag k="name" v="Museo del Novecento"/>
     <tag k="name:it" v="Museo del Novecento"/>
@@ -28387,6 +28388,38 @@
     <tag k="website" v="https://www.santagostino.it/it/sedi/cimiano"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11459833591" lat="45.4789784" lon="9.2029488" version="1" timestamp="2023-12-27T16:03:10Z" changeset="145582628" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:street" v="Via Felice Casati"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2022-07-08"/>
+    <tag k="contact:phone" v="+39 02 39431306"/>
+    <tag k="cuisine" v="sushi"/>
+    <tag k="facebook" v="https://it-it.facebook.com/pages/NARA-Japanese-Italian-Restaurant/381812181845831?sk=info&amp;tab=overview"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:ssid" v="NaraGuest"/>
+    <tag k="name" v="Ristorante Nara"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-14:30,19:00-23:30"/>
+    <tag k="operator" v="Nara S.r.l."/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="ref:vatin" v="IT08645930960"/>
+    <tag k="reservation" v="recommended"/>
+    <tag k="short_name" v="Nara"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11461009123" lat="45.5188489" lon="9.2209596" version="1" timestamp="2023-12-27T22:05:18Z" changeset="145594476" uid="3759691" user="fisherman89italia">
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -33741,36 +33774,6 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="320942910" version="4" timestamp="2022-07-08T11:48:56Z" changeset="123359305" uid="6526882" user="Marco Aceti">
-    <center lat="45.4789291" lon="9.2029153"/>
-    <nd ref="3276473591"/>
-    <nd ref="3276473590"/>
-    <nd ref="3276473589"/>
-    <nd ref="471637408"/>
-    <nd ref="3276473591"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:street" v="Via Felice Casati"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2022-07-08"/>
-    <tag k="contact:phone" v="+39 02 39431306"/>
-    <tag k="cuisine" v="sushi"/>
-    <tag k="facebook" v="https://it-it.facebook.com/pages/NARA-Japanese-Italian-Restaurant/381812181845831?sk=info&amp;tab=overview"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="internet_access:ssid" v="NaraGuest"/>
-    <tag k="name" v="Ristorante Nara"/>
-    <tag k="opening_hours" v="Mo-Su 12:00-14:30,19:00-23:30"/>
-    <tag k="operator" v="Nara S.r.l."/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bancomat" v="yes"/>
-    <tag k="ref:vatin" v="IT08645930960"/>
-    <tag k="reservation" v="recommended"/>
-    <tag k="short_name" v="Nara"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
   <way id="330234485" version="6" timestamp="2022-05-18T14:48:33Z" changeset="121151445" uid="6220204" user="Ysogo">
     <center lat="45.4519514" lon="9.2264311"/>
     <nd ref="3371880220"/>
@@ -33954,7 +33957,7 @@
     <tag k="sport" v="soccer"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="342789165" version="5" timestamp="2023-11-08T21:27:33Z" changeset="143798587" uid="9451067" user="b-jazz-bot">
+  <way id="342789165" version="6" timestamp="2023-12-27T17:59:36Z" changeset="145587106" uid="13840929" user="aa30mom">
     <center lat="45.5034198" lon="9.2292443"/>
     <nd ref="3503468445"/>
     <nd ref="3497441997"/>
@@ -33963,11 +33966,8 @@
     <nd ref="3497441996"/>
     <nd ref="9178454624"/>
     <nd ref="3377081581"/>
+    <nd ref="11460164715"/>
     <nd ref="3503468445"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:postcode" v="20127"/>
-    <tag k="addr:street" v="Via Luigi Bertelli"/>
     <tag k="amenity" v="pub"/>
     <tag k="building" v="yes"/>
     <tag k="name" v="Cascina Martesana"/>
