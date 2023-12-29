@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-28T03:10:26Z" areas="2023-12-28T00:20:59Z"/>
+<meta osm_base="2023-12-29T03:10:45Z" areas="2023-12-29T00:09:45Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -23330,6 +23330,17 @@
     <tag k="opening_hours" v="Mo-Sa 07:30-22:00; Su 09:00-20:00"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8987976982" lat="45.4739570" lon="9.1836158" version="2" timestamp="2023-12-28T13:02:56Z" changeset="145618871" uid="1925577" user="robertodelavega">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="La fabbrica del grano"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="customers"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="8995523245" lat="45.4559077" lon="9.1839344" version="2" timestamp="2023-01-13T09:29:30Z" changeset="131221075" uid="12739561" user="asdf editor">
     <tag k="access" v="yes"/>
     <tag k="addr:city" v="Milano"/>
@@ -28420,6 +28431,12 @@
     <tag k="motor_vehicle" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11463036544" lat="45.4699294" lon="9.1848479" version="1" timestamp="2023-12-28T15:27:30Z" changeset="145625187" uid="1925577" user="robertodelavega">
+    <tag k="name" v="Fabriano"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-19:30"/>
+    <tag k="shop" v="stationery"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -29620,7 +29637,7 @@
     <tag k="building:levels" v="6"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="35839780" version="13" timestamp="2023-10-26T08:58:38Z" changeset="143151918" uid="20500231" user="fabiotolni">
+  <way id="35839780" version="14" timestamp="2023-12-28T10:27:20Z" changeset="145611363" uid="13840929" user="aa30mom">
     <center lat="45.5086660" lon="9.1985474"/>
     <nd ref="5712975110"/>
     <nd ref="5712975109"/>
@@ -29670,10 +29687,6 @@
     <nd ref="5712975163"/>
     <nd ref="419023126"/>
     <nd ref="5712975110"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Largo San Dionigi in Pratocentenaro"/>
     <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="church"/>
@@ -34108,7 +34121,7 @@
     <tag k="website" v="https://www.hilton.com/en/hotels/milgigi-hilton-garden-inn-milan-north/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="350378071" version="6" timestamp="2019-03-27T11:57:28Z" changeset="68583614" uid="9451067" user="b-jazz-bot">
+  <way id="350378071" version="7" timestamp="2023-12-28T10:27:20Z" changeset="145611363" uid="13840929" user="aa30mom">
     <center lat="45.4490986" lon="9.1593146"/>
     <nd ref="3561448635"/>
     <nd ref="3561448656"/>
@@ -34124,14 +34137,10 @@
     <nd ref="3516912258"/>
     <nd ref="3516912266"/>
     <nd ref="3561448635"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housename" v="Bobino Club"/>
-    <tag k="addr:housenumber" v="116"/>
-    <tag k="addr:street" v="Alzaia Naviglio Grande"/>
-    <tag k="amenity" v="nightclub"/>
     <tag k="contact:email" v="info@bobino.it"/>
     <tag k="contact:mobile" v="+39 345 3385882"/>
     <tag k="contact:phone" v="+39 02 36559070"/>
+    <tag k="disused:amenity" v="nightclub"/>
     <tag k="name" v="Bobino Club"/>
     <tag k="opening_hours" v="Th-Su 19:00-03:00"/>
     <tag k="operator" v="New Wave s.r.l."/>
@@ -34187,7 +34196,7 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="356033617" version="4" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
+  <way id="356033617" version="5" timestamp="2023-12-28T10:27:20Z" changeset="145611363" uid="13840929" user="aa30mom">
     <center lat="45.4881304" lon="9.1964794"/>
     <nd ref="251487332"/>
     <nd ref="3615149464"/>
@@ -34197,11 +34206,6 @@
     <nd ref="1291613350"/>
     <nd ref="1291613369"/>
     <nd ref="251487332"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="34"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Via Luigi Galvani"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="Eni"/>
     <tag k="brand:wikidata" v="Q565594"/>
@@ -34212,10 +34216,9 @@
     <tag k="name" v="Eni"/>
     <tag k="operator" v="Gaio S.N.C. di Gaio Marco &amp; C."/>
     <tag k="ref:mise" v="25774"/>
-    <tag k="source:date" v="2018-04-16"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="356911635" version="9" timestamp="2021-11-03T23:01:21Z" changeset="113352352" uid="11645399" user="davidoskky">
+  <way id="356911635" version="10" timestamp="2023-12-28T10:27:20Z" changeset="145611363" uid="13840929" user="aa30mom">
     <center lat="45.4525192" lon="9.1596570"/>
     <nd ref="5502181438"/>
     <nd ref="3414894896"/>
@@ -34225,9 +34228,6 @@
     <nd ref="1493242565"/>
     <nd ref="3623097114"/>
     <nd ref="5502181438"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:postcode" v="20144"/>
-    <tag k="addr:street" v="Via Savona"/>
     <tag k="brand" v="Carrefour Express"/>
     <tag k="brand:wikidata" v="Q2940190"/>
     <tag k="brand:wikipedia" v="fr:Carrefour Express"/>
@@ -34275,7 +34275,7 @@
     <tag k="wikimedia_commons" v="Category:Starhotels Anderson"/>
     <tag k="wikipedia" v="en:Starhotels Anderson"/>
   </way>
-  <way id="368350056" version="6" timestamp="2022-12-05T09:52:43Z" changeset="129734068" uid="11220113" user="ivanbranco">
+  <way id="368350056" version="7" timestamp="2023-12-28T10:52:38Z" changeset="145612670" uid="13840929" user="aa30mom">
     <center lat="45.4842057" lon="9.2054105"/>
     <nd ref="3721938426"/>
     <nd ref="3721937557"/>
@@ -34283,10 +34283,6 @@
     <nd ref="5790660613"/>
     <nd ref="3721937545"/>
     <nd ref="3721938426"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Via Roberto Lepetit"/>
     <tag k="building" v="apartments"/>
     <tag k="building:levels" v="6"/>
     <tag k="contact:facebook" v="https://www.facebook.com/OstelloBelloGMilanHostel"/>
