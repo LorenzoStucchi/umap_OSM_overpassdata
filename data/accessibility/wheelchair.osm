@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-03T03:10:11Z" areas="2024-01-03T02:19:43Z"/>
+<meta osm_base="2024-01-04T03:10:52Z" areas="2024-01-04T02:17:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -17504,6 +17504,16 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="4853351731" lat="45.4797296" lon="9.1444193" version="5" timestamp="2024-01-03T16:44:05Z" changeset="145847158" uid="14302804" user="J_Aubrey">
+    <tag k="name" v="Lotto"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4853351732" lat="45.4796005" lon="9.1444112" version="5" timestamp="2024-01-03T16:43:41Z" changeset="145847158" uid="14302804" user="J_Aubrey">
+    <tag k="name" v="Lotto"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4853779985" lat="45.4800611" lon="9.1867477" version="2" timestamp="2019-09-13T13:26:16Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger"/>
@@ -22290,6 +22300,11 @@
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7746228573" lat="45.4816763" lon="9.1503390" version="4" timestamp="2023-10-26T06:26:49Z" changeset="143145461" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Portello"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="7746228575" lat="45.4814034" lon="9.1499832" version="4" timestamp="2024-01-03T18:15:10Z" changeset="145850233" uid="14302804" user="J_Aubrey">
     <tag k="name" v="Portello"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -27184,6 +27199,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="10790511116" lat="45.4813830" lon="9.1499679" version="3" timestamp="2024-01-03T18:15:14Z" changeset="145850233" uid="14302804" user="J_Aubrey">
+    <tag k="name" v="Portello"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="10797511335" lat="45.4590517" lon="9.1985778" version="1" timestamp="2023-04-09T19:35:13Z" changeset="134701553" uid="506470" user="LuSirto">
     <tag k="amenity" v="baby_hatch"/>
     <tag k="level" v="0"/>
@@ -30358,7 +30378,7 @@
     <tag k="wikimedia_commons" v="Category:San Maurizio al Monastero Maggiore (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Maurizio al Monastero Maggiore"/>
   </way>
-  <way id="49947480" version="9" timestamp="2022-07-16T12:52:56Z" changeset="123688699" uid="10901495" user="Martino Scaglione">
+  <way id="49947480" version="10" timestamp="2024-01-03T14:24:32Z" changeset="145841877" uid="13840929" user="aa30mom">
     <center lat="45.4865239" lon="9.1376044"/>
     <nd ref="634660300"/>
     <nd ref="2076591112"/>
@@ -30391,10 +30411,6 @@
     <nd ref="9891503792"/>
     <nd ref="2076591063"/>
     <nd ref="634660300"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="20148"/>
-    <tag k="addr:street" v="Piazza Santa Maria Nascente"/>
     <tag k="alt_name" v="Chiesa di Santa Maria Nascente;Chiesa di Santa Maria Nascente al QT8"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="architect" v="Vico Magistretti;Mario Tedeschi"/>
@@ -34746,7 +34762,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="491367824" version="11" timestamp="2022-11-03T14:35:34Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
+  <way id="491367824" version="12" timestamp="2024-01-03T13:32:50Z" changeset="145839973" uid="13840929" user="aa30mom">
     <center lat="45.4654442" lon="9.1940845"/>
     <nd ref="4834893868"/>
     <nd ref="4834893872"/>
@@ -34754,14 +34770,11 @@
     <nd ref="5781144799"/>
     <nd ref="4834893871"/>
     <nd ref="5781144806"/>
+    <nd ref="11482735548"/>
     <nd ref="5781144809"/>
     <nd ref="4834893865"/>
     <nd ref="5781144808"/>
     <nd ref="4834893868"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Piazza del Liberty"/>
     <tag k="brand" v="Apple Store"/>
     <tag k="brand:wikidata" v="Q421253"/>
     <tag k="brand:wikipedia" v="en:Apple Store"/>
@@ -34780,7 +34793,7 @@
     <tag k="short_name" v="Apple"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="491989474" version="3" timestamp="2021-03-19T22:45:33Z" changeset="101358943" uid="89897" user="airon90">
+  <way id="491989474" version="4" timestamp="2024-01-03T13:32:50Z" changeset="145839973" uid="13840929" user="aa30mom">
     <center lat="45.4997730" lon="9.1201944"/>
     <nd ref="4840727206"/>
     <nd ref="4840727205"/>
@@ -34795,10 +34808,6 @@
     <nd ref="4840727173"/>
     <nd ref="4840727208"/>
     <nd ref="4840727206"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="20151"/>
-    <tag k="addr:street" v="Via Luigi Rizzo"/>
     <tag k="amenity" v="clinic"/>
     <tag k="contact:email" v="milano@vistavision.it"/>
     <tag k="contact:phone" v="+39 02 38005605"/>
@@ -34845,7 +34854,7 @@
     <tag k="leisure" v="playground"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="515273042" version="7" timestamp="2023-10-02T17:31:11Z" changeset="142049925" uid="12500589" user="tg4567">
+  <way id="515273042" version="8" timestamp="2024-01-03T14:24:32Z" changeset="145841877" uid="13840929" user="aa30mom">
     <center lat="45.4635061" lon="9.1719089"/>
     <nd ref="576536033"/>
     <nd ref="576541792"/>
@@ -34854,6 +34863,7 @@
     <nd ref="576541777"/>
     <nd ref="5300438424"/>
     <nd ref="5300438423"/>
+    <nd ref="5300437401"/>
     <nd ref="6165355216"/>
     <nd ref="5300438422"/>
     <nd ref="576541812"/>
@@ -34877,9 +34887,6 @@
     <nd ref="576541843"/>
     <nd ref="576536035"/>
     <nd ref="576536033"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Via San Vittore"/>
     <tag k="amenity" v="hospital"/>
     <tag k="emergency" v="yes"/>
     <tag k="healthcare" v="hospital"/>
