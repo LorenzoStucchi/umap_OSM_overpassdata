@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-09T02:45:01Z" areas="2024-01-08T21:22:14Z"/>
+<meta osm_base="2024-01-10T02:45:06Z" areas="2024-01-09T22:01:05Z"/>
 
   <node id="2347917158" lat="43.5456560" lon="10.3083228">
     <tag k="artist_name" v="Gunter Demnig"/>
@@ -342,10 +342,12 @@
   </node>
   <node id="5401353526" lat="45.4452042" lon="12.3277009">
     <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="Qui abitava Achille Aboaf nato 1891 arrestato 20.8.1944 deportato Auschwitz assassinato 30.4.1945 Buchenwald"/>
     <tag k="memorial" v="stolperstein"/>
-    <tag k="memorial:text" v="Quì abitava Achille Aboaf nato 1891 arrestato 20.08.1944 deportato Auschwitz assassinato 30.4.1975 Buchenwald"/>
-    <tag k="memorial:type" v="stolperstein"/>
     <tag k="name" v="Achille Aboaf"/>
+    <tag k="person:date_of_birth" v="1891"/>
+    <tag k="person:date_of_death" v="1945"/>
+    <tag k="wikimedia_commons" v="File:Stolperstein für Achille Aboaf 2 (Venice).jpg"/>
   </node>
   <node id="5410060741" lat="45.4452582" lon="12.3323951">
     <tag k="historic" v="memorial"/>
@@ -2134,9 +2136,10 @@
   </node>
   <node id="9810711059" lat="45.5215287" lon="9.5927930">
     <tag k="historic" v="memorial"/>
-    <tag k="inscription" v="A Treviglio viveva/Rachele Rea/Mänas Stern/Nata 1989/Arrestata dic. 1943/Internata Fossoli/Deportata 1944/Auschwitz/Assassinata"/>
-    <tag k="material" v="metal"/>
+    <tag k="inscription" v="A Treviglio viveva/Rachele Lea/Mänas Stern/Nata 1889/Arrestata dic. 1943/Internata Fossoli/Deportata 1944/Auschwitz/Assassinata"/>
+    <tag k="material" v="brass"/>
     <tag k="memorial" v="stolperstein"/>
+    <tag k="person:date_of_birth" v="1889"/>
     <tag k="wikimedia_commons" v="File:Treviglio - Pietra d'inciampo.jpg"/>
   </node>
   <node id="9906017289" lat="44.8010685" lon="10.3281970">
