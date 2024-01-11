@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-10T03:10:45Z" areas="2024-01-10T02:13:47Z"/>
+<meta osm_base="2024-01-11T03:10:42Z" areas="2024-01-10T21:53:26Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -8417,13 +8417,14 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2724178306" lat="45.4820332" lon="9.1871610" version="3" timestamp="2019-09-13T13:17:04Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2724178306" lat="45.4820332" lon="9.1871610" version="4" timestamp="2024-01-10T17:56:34Z" changeset="146113468" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Corso Como"/>
     <tag k="name" v="Comoretto"/>
+    <tag k="phone" v="+39 02 6599495"/>
     <tag k="shop" v="electronics"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -23351,11 +23352,12 @@
     <tag k="website" v="https://www.thatsvapore.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8949514385" lat="45.4848359" lon="9.1910340" version="1" timestamp="2021-07-25T20:43:56Z" changeset="108580334" uid="13320122" user="lorenzvs">
+  <node id="8949514385" lat="45.4848359" lon="9.1910340" version="2" timestamp="2024-01-10T16:20:02Z" changeset="146110392" uid="19367" user="lastman">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
+    <tag k="man_made" v="water_tap"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8953522654" lat="45.4643500" lon="9.2078946" version="2" timestamp="2023-11-05T10:11:59Z" changeset="143642985" uid="1875845" user="Valerio_Bozzolan">
@@ -26851,16 +26853,6 @@
     <tag k="shop" v="beauty"/>
     <tag k="website" v="http://setabeauty.com/index.php"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="10284746945" lat="45.4817584" lon="9.1812198" version="1" timestamp="2022-12-24T15:30:15Z" changeset="130460041" uid="81648" user="grimpeur78">
-    <tag k="amenity" v="bar"/>
-    <tag k="internet_access" v="no"/>
-    <tag k="name" v="Bloom"/>
-    <tag k="smoking" v="no"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="toilets:access" v="customers"/>
-    <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="10312753835" lat="45.5073839" lon="9.2017018" version="2" timestamp="2023-11-03T23:03:35Z" changeset="143593652" uid="1875845" user="Valerio_Bozzolan">
     <tag k="beauty" v="nails"/>
@@ -35251,6 +35243,24 @@
     <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="641267009" version="5" timestamp="2024-01-10T16:20:27Z" changeset="146110416" uid="19367" user="lastman">
+    <center lat="45.4845800" lon="9.1907616"/>
+    <nd ref="6039571588"/>
+    <nd ref="6039571587"/>
+    <nd ref="6039571586"/>
+    <nd ref="6039571585"/>
+    <nd ref="11007070224"/>
+    <nd ref="6039532684"/>
+    <nd ref="6039571588"/>
+    <tag k="access" v="yes"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="dog" v="designated"/>
+    <tag k="fence_type" v="chain_link"/>
+    <tag k="height" v="1"/>
+    <tag k="landuse" v="grass"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="661097834" version="3" timestamp="2019-01-20T15:49:39Z" changeset="66478740" uid="1476146" user="Alecs01">
     <center lat="45.4588687" lon="9.1450890"/>
     <nd ref="6189385972"/>
@@ -36244,7 +36254,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="961563660" version="1" timestamp="2021-07-05T10:17:27Z" changeset="107432413" uid="66295" user="emmexx">
+  <way id="961563660" version="2" timestamp="2024-01-10T10:19:24Z" changeset="146098007" uid="13840929" user="aa30mom">
     <center lat="45.5114716" lon="9.1902499"/>
     <nd ref="8894713636"/>
     <nd ref="8894713635"/>
@@ -36256,10 +36266,6 @@
     <nd ref="8894713629"/>
     <nd ref="8894713628"/>
     <nd ref="8894713636"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="20162"/>
-    <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
     <tag k="email" v="segreteria@spaziovitaniguarda.it"/>
     <tag k="name" v="Spazio Vita Niguarda"/>
     <tag k="office" v="association"/>
