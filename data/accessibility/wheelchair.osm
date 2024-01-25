@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-24T03:10:54Z" areas="2024-01-23T22:55:45Z"/>
+<meta osm_base="2024-01-25T03:11:41Z" areas="2024-01-25T02:17:09Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -7953,13 +7953,17 @@
     <tag k="name" v="Cafe al 20"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2533981833" lat="45.4843555" lon="9.2178400" version="5" timestamp="2023-12-04T18:28:27Z" changeset="144765633" uid="2052228" user="kauevestena">
+  <node id="2533981833" lat="45.4843555" lon="9.2178400" version="6" timestamp="2024-01-24T17:39:34Z" changeset="146640012" uid="20911634" user="Daerreio">
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20131"/>
     <tag k="addr:street" v="Via Giuseppe Pecchio"/>
+    <tag k="brand:wikidata" v="Q29637"/>
     <tag k="name" v="Autorigoldi"/>
+    <tag k="phone" v="02 438181"/>
+    <tag k="service:vehicle:new_car_sales" v="yes"/>
+    <tag k="service:vehicle:used_car_sales" v="yes"/>
     <tag k="shop" v="car"/>
-    <tag k="website" v="www.Autorigoldi.it"/>
+    <tag k="website" v="www.autorigoldi.it"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2534312566" lat="45.4832413" lon="9.2135984" version="4" timestamp="2022-03-20T15:55:01Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
@@ -28623,6 +28627,35 @@
     <tag k="recycling_type" v="container"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11545591134" lat="45.4456408" lon="9.1883503" version="1" timestamp="2024-01-24T09:21:50Z" changeset="146620748" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="20136"/>
+    <tag k="addr:street" v="Viale Toscana"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="branch" v="Toscana 31"/>
+    <tag k="brand" v="Santeria"/>
+    <tag k="contact:email" v="hellotoscana@santeriamilano.it"/>
+    <tag k="contact:facebook" v="santeriatoscana31"/>
+    <tag k="contact:phone" v="+39 02 2219 9381"/>
+    <tag k="contact:website" v="https://www.santeria.milano.it/toscana-31"/>
+    <tag k="name" v="Santeria Toscana 31"/>
+    <tag k="opening_hours" v="Su-Mo 11:00-01:00, Tu-Th 11:00-02:00, Fr-Sa 11:00-03:00"/>
+    <tag k="ref:vatin" v="IT07109250964"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="start_date" v="2015-11-09"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11546677740" lat="45.4548642" lon="9.1234601" version="2" timestamp="2024-01-24T15:58:28Z" changeset="146635933" uid="20911634" user="Daerreio">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="81"/>
+    <tag k="addr:postcode" v="20147"/>
+    <tag k="addr:street" v="Via Angelo Inganni"/>
+    <tag k="addr:unit" v="A"/>
+    <tag k="entrance" v="service"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -30678,6 +30711,26 @@
     <tag k="ref:vatin" v="IT02275030233"/>
     <tag k="shop" v="supermarket"/>
     <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="59590846" version="10" timestamp="2024-01-24T09:21:50Z" changeset="146620748" uid="89897" user="airon90">
+    <center lat="45.4456546" lon="9.1883337"/>
+    <nd ref="739257324"/>
+    <nd ref="10029725923"/>
+    <nd ref="10029725924"/>
+    <nd ref="739257321"/>
+    <nd ref="10029725934"/>
+    <nd ref="10029725933"/>
+    <nd ref="739257323"/>
+    <nd ref="10029725922"/>
+    <nd ref="739257326"/>
+    <nd ref="10029725919"/>
+    <nd ref="4222236184"/>
+    <nd ref="10029725920"/>
+    <nd ref="739257325"/>
+    <nd ref="10029725921"/>
+    <nd ref="739257324"/>
+    <tag k="building" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="77218448" version="5" timestamp="2020-08-05T17:06:28Z" changeset="88993515" uid="717233" user="jacopofar">
