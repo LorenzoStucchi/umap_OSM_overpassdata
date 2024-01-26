@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-25T03:11:41Z" areas="2024-01-25T02:17:09Z"/>
+<meta osm_base="2024-01-26T03:10:13Z" areas="2024-01-25T21:34:56Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -19470,18 +19470,30 @@
     <tag k="foot" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5544455847" lat="45.4837858" lon="9.1888512" version="3" timestamp="2019-09-13T13:05:53Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="5544455847" lat="45.4837858" lon="9.1888512" version="4" timestamp="2024-01-25T08:41:39Z" changeset="146662634" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Piazza Gae Aulenti"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="branch" v="Piazza Gae Aulenti 1"/>
+    <tag k="brand" v="Macha Cafè"/>
+    <tag k="check_date" v="2024-01-02"/>
     <tag k="contact:phone" v="+39 02 62087231"/>
+    <tag k="contact:website" v="https://www.machacafe.it/"/>
+    <tag k="cuisine" v="poke"/>
+    <tag k="drive_through" v="no"/>
     <tag k="fixme" v="Position estimated"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="level" v="-1"/>
     <tag k="name" v="Macha"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-22:00; Sa-Su 10:00-22:00"/>
     <tag k="operator" v="Macha S.r.l."/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="ref:vatin" v="IT08818500962"/>
-    <tag k="website" v="https://www.machacafe.it/"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5547032021" lat="45.4648375" lon="9.1919717" version="2" timestamp="2022-11-03T14:57:14Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
@@ -24885,11 +24897,12 @@
     <tag k="shop" v="perfumery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9830606783" lat="45.4619866" lon="9.2078530" version="3" timestamp="2023-05-12T22:54:05Z" changeset="136036944" uid="10396321" user="saunter">
+  <node id="9830606783" lat="45.4619866" lon="9.2078530" version="4" timestamp="2024-01-25T09:48:40Z" changeset="146665386" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20129"/>
     <tag k="addr:street" v="Piazza Cinque Giornate"/>
+    <tag k="check_date" v="2023-03-27"/>
     <tag k="clothes" v="men"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Dopplegänger"/>
@@ -30204,6 +30217,31 @@
     <tag k="wikidata" v="Q66372321"/>
     <tag k="wikimedia_commons" v="Category:San Gioachimo (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Gioachimo (Milano)"/>
+  </way>
+  <way id="40123601" version="6" timestamp="2024-01-25T12:52:30Z" changeset="146672575" uid="2052228" user="kauevestena">
+    <center lat="45.4784720" lon="9.2209068"/>
+    <nd ref="482875470"/>
+    <nd ref="482875471"/>
+    <nd ref="482875472"/>
+    <nd ref="482875474"/>
+    <nd ref="482875475"/>
+    <nd ref="482875477"/>
+    <nd ref="482875478"/>
+    <nd ref="482875480"/>
+    <nd ref="482875482"/>
+    <nd ref="482875483"/>
+    <nd ref="482875486"/>
+    <nd ref="482875488"/>
+    <nd ref="482875470"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="San Giovanni in Laterano"/>
+    <tag k="religion" v="christian"/>
+    <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q64009344"/>
+    <tag k="wikimedia_commons" v="Category:San Giovanni in Laterano (Milan)"/>
   </way>
   <way id="40123818" version="9" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4796261" lon="9.2261285"/>
@@ -37071,7 +37109,7 @@
     <tag k="motor_vehicle" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1225398812" version="6" timestamp="2024-01-18T20:36:32Z" changeset="146420005" uid="113669" user="AnyFile">
+  <way id="1225398812" version="7" timestamp="2024-01-25T20:52:27Z" changeset="146687973" uid="113669" user="AnyFile">
     <center lat="45.5135238" lon="9.0998746"/>
     <nd ref="11363888954"/>
     <nd ref="11363919033"/>
@@ -37142,6 +37180,7 @@
     <nd ref="11363919001"/>
     <nd ref="11363919002"/>
     <nd ref="11429017093"/>
+    <nd ref="11552177515"/>
     <nd ref="11363919003"/>
     <nd ref="11363919004"/>
     <nd ref="11528921308"/>
