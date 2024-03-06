@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-05T03:10:45Z" areas="2024-03-04T23:18:00Z"/>
+<meta osm_base="2024-03-06T03:10:42Z" areas="2024-03-05T22:25:55Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -18832,7 +18832,7 @@
     <tag k="tourism" v="apartment"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5290174186" lat="45.4527629" lon="9.1663116" version="5" timestamp="2023-01-30T23:29:52Z" changeset="131900019" uid="1781586" user="fick89">
+  <node id="5290174186" lat="45.4527629" lon="9.1663116" version="6" timestamp="2024-03-05T21:21:59Z" changeset="148268534" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="20144"/>
@@ -18840,6 +18840,7 @@
     <tag k="amenity" v="bar"/>
     <tag k="email" v="mornamilano@gmail.com"/>
     <tag k="name" v="Morna"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-02:00; Sa 18:00-02:00; Su off"/>
     <tag k="phone" v="+393455895057"/>
     <tag k="website" v="https://www.facebook.com/people/Morna/100032074466214/"/>
     <tag k="wheelchair" v="yes"/>
@@ -18982,9 +18983,8 @@
     <tag k="name" v="Cafè Stendhal"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5336417838" lat="45.4601024" lon="9.1716783" version="2" timestamp="2023-04-16T16:35:24Z" changeset="134982771" uid="15541433" user="paulbrunner">
+  <node id="5336417838" lat="45.4601024" lon="9.1716783" version="3" timestamp="2024-03-05T21:21:59Z" changeset="148268534" uid="1781586" user="fick89">
     <tag k="disused:shop" v="bicycle"/>
-    <tag k="name" v="Ciclofficina"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5338923022" lat="45.4922933" lon="9.1888918" version="6" timestamp="2023-02-25T15:13:30Z" changeset="133009190" uid="1875845" user="Valerio_Bozzolan">
@@ -28831,18 +28831,20 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11638882004" lat="45.4625663" lon="9.1729177" version="1" timestamp="2024-02-18T20:24:37Z" changeset="147624064" uid="13986573" user="dombul">
+  <node id="11638882004" lat="45.4625663" lon="9.1729177" version="2" timestamp="2024-03-05T12:41:49Z" changeset="148248799" uid="13986573" user="dombul">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Sant'Ambrogio"/>
     <tag k="name:it" v="Sant'Ambrogio"/>
     <tag k="name:ja" v="サンタンブロージョ"/>
     <tag k="network" v="STIBM"/>
+    <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024"/>
     <tag k="station" v="subway"/>
     <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087580"/>
     <tag k="wikimedia_commons" v="Category:Sant'Ambrogio station (Milan metro)"/>
