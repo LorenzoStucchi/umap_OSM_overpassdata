@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-07T03:10:51Z" areas="2024-03-06T22:36:30Z"/>
+<meta osm_base="2024-03-08T03:10:30Z" areas="2024-03-07T23:03:08Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5237,7 +5237,7 @@
     <tag k="website" v="https://www.scalofarini.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2104112901" lat="45.4913943" lon="9.1837689" version="5" timestamp="2021-01-02T18:59:02Z" changeset="96820696" uid="9082724" user="Davide Baroffio">
+  <node id="2104112901" lat="45.4913943" lon="9.1837689" version="6" timestamp="2024-03-07T08:06:49Z" changeset="148328035" uid="6520581" user="pfez">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="47"/>
@@ -5253,6 +5253,7 @@
     <tag k="name" v="Banca Popolare di Sondrio"/>
     <tag k="name:en" v="Popular Bank of Sandrio"/>
     <tag k="name:it" v="Banca Popolare di Sondrio"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:30,14:45-15:45+"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2106249902" lat="45.4838639" lon="9.1872016" version="4" timestamp="2023-07-14T16:17:57Z" changeset="138514843" uid="3396014" user="Moncecchi Daniele">
@@ -21027,7 +21028,7 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5913247063" lat="45.4808384" lon="9.2263821" version="2" timestamp="2019-10-18T22:04:46Z" changeset="75915016" uid="89897" user="airon90">
+  <node id="5913247063" lat="45.4808384" lon="9.2263821" version="3" timestamp="2024-03-07T19:43:22Z" changeset="148357525" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="20131"/>
@@ -21038,8 +21039,10 @@
     <tag k="contact:facebook" v="https://www.facebook.com/ForgiadegliEroi"/>
     <tag k="contact:phone" v="+39 02 49799108"/>
     <tag k="contact:website" v="http://www.laforgiadeglieroi.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="La Forgia degli Eroi"/>
     <tag k="operator" v="La Forgia degli Eroi Srl"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="ref:vatin" v="IT09483070968"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -21406,6 +21409,24 @@
     <tag k="name" v="Posto Unico"/>
     <tag k="outdoor_seating" v="no"/>
     <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6284640534" lat="45.4771659" lon="9.2297918" version="4" timestamp="2024-03-07T19:04:58Z" changeset="148356313" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:floor" v="0"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Via Giovanni Celoria"/>
+    <tag k="addr:unit" v="Edificio 9"/>
+    <tag k="alt_name" v="Politecnico Open unix Labs"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="club" v="linux"/>
+    <tag k="community_centre:for" v="student"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="POuL"/>
+    <tag k="opening_hours" v="&quot;Opening hours vary based on voluntary presence of members. Typical opening hours and current open/closed status can be verified via https://bits.poul.org&quot;"/>
+    <tag k="opening_hours:url" v="https://bits.poul.org"/>
+    <tag k="website" v="https://poul.org"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="6298787242" lat="45.4855830" lon="9.1914416" version="2" timestamp="2019-09-13T13:06:34Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -24980,7 +25001,9 @@
     <tag k="website" v="https://www.instagram.com/baozi_streetfood?igshid=MzRlODBiNWFlZA%3D%3D"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9820626919" lat="45.5066010" lon="9.2033857" version="2" timestamp="2023-04-25T15:07:31Z" changeset="135348237" uid="1875845" user="Valerio_Bozzolan">
+  <node id="9820626919" lat="45.5066010" lon="9.2033857" version="3" timestamp="2024-03-07T16:41:39Z" changeset="148351375" uid="69259" user="DnaX">
+    <tag k="brand" v="SNAI"/>
+    <tag k="brand:wikidata" v="Q3943772"/>
     <tag k="name" v="SNAI"/>
     <tag k="shop" v="bookmaker"/>
     <tag k="wheelchair" v="limited"/>
