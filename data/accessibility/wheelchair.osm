@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-12T03:10:45Z" areas="2024-03-11T22:51:38Z"/>
+<meta osm_base="2024-03-13T03:11:05Z" areas="2024-03-12T23:40:04Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1060,6 +1060,22 @@
     <tag k="name" v="Matricola"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="310772644" lat="45.5161175" lon="9.2029905" version="8" timestamp="2024-03-12T17:23:14Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Viale Giovanni Suzzani"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n. 16"/>
+    <tag k="operator" v="Municipale n. 16"/>
+    <tag k="ref" v="16"/>
+    <tag k="ref:msal" v="2713"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="311821023" lat="45.4527433" lon="9.1421771" version="10" timestamp="2021-02-26T10:06:47Z" changeset="100040023" uid="89897" user="airon90">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
@@ -1396,6 +1412,21 @@
   <node id="363906078" lat="45.4747902" lon="9.1720038" version="5" timestamp="2023-03-19T08:45:26Z" changeset="133848408" uid="5479911" user="Pollux17">
     <tag k="amenity" v="drinking_water"/>
     <tag k="fountain" v="bubbler"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="365547375" lat="45.5225744" lon="9.2066697" version="7" timestamp="2024-03-12T17:52:24Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Viale Giovanni Suzzani"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Municipale n.41"/>
+    <tag k="operator" v="Municipale n.41"/>
+    <tag k="ref:msal" v="2749"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="374411346" lat="45.4790873" lon="9.1841339" version="3" timestamp="2019-09-13T14:29:02Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -4664,6 +4695,16 @@
     <tag k="ref:vatin" v="IT06414420965"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1890385232" lat="45.5146428" lon="9.2048765" version="6" timestamp="2024-03-12T17:14:15Z" changeset="148559507" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Bicocca"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1890385241" lat="45.5146108" lon="9.2049910" version="6" timestamp="2024-03-12T17:14:58Z" changeset="148559507" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Bicocca"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1896797416" lat="45.4755690" lon="9.1941954" version="9" timestamp="2019-09-13T09:09:47Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -11208,17 +11249,6 @@
     <tag k="healthcare" v="dentist"/>
     <tag k="name" v="DentalFarini"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="3386286627" lat="45.4894684" lon="9.1833367" version="2" timestamp="2019-09-13T15:23:19Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20159"/>
-    <tag k="addr:street" v="Via Luigi Porro Lambertenghi"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="seafood"/>
-    <tag k="name" v="L'Angolino"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3386286628" lat="45.4893324" lon="9.1829390" version="2" timestamp="2019-09-13T15:23:53Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -21064,6 +21094,13 @@
     <tag k="ref:vatin" v="IT09483070968"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="5937655549" lat="45.5231979" lon="9.2073996" version="3" timestamp="2024-03-12T17:54:23Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="PANetto"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="5940637586" lat="45.4735432" lon="9.1765453" version="4" timestamp="2022-07-02T21:05:18Z" changeset="123133313" uid="11220113" user="ivanbranco">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
@@ -21853,6 +21890,13 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="6797341881" lat="45.5222624" lon="9.2064449" version="3" timestamp="2024-03-12T17:51:31Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Acqua &amp; Sapone"/>
+    <tag k="brand:wikidata" v="Q51079044"/>
+    <tag k="name" v="Acqua &amp; Sapone"/>
+    <tag k="shop" v="chemist"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="6804188461" lat="45.4709406" lon="9.1899548" version="2" timestamp="2022-08-27T12:37:46Z" changeset="125441177" uid="13920670" user="skizz98">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
@@ -21942,26 +21986,6 @@
     <tag k="name" v="Tabacchi Lagosta"/>
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="6880971533" lat="45.4579103" lon="9.1800657" version="4" timestamp="2023-03-21T22:15:20Z" changeset="133958438" uid="1781586" user="fick89">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="20123"/>
-    <tag k="addr:street" v="Via Edmondo De Amicis"/>
-    <tag k="alt_name" v="Milano Check Point"/>
-    <tag k="contact:email" v="info@milanocheckpoint.it;test@milanocheckpoint.it;prep@milanocheckpoint.it"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/milanocheckpoint"/>
-    <tag k="contact:phone" v="+39 389 4211749"/>
-    <tag k="description" v="On Tuesdays you can test yourself against HIV and syphilis for free. On Thursdays you can start PrEP therapy by appointment"/>
-    <tag k="description:it" v="Ogni martedì è possibile effettuare liberamente i test rapidi di HIV e sifilide mentre i giovedì su appuntamento è possibile intraprendere il percorso della PrEP"/>
-    <tag k="fixme" v="Da spostare nella nuova sede di via Pergolesi 15"/>
-    <tag k="medical_service" v="vct_hiv_counselling_test"/>
-    <tag k="name" v="Milano Checkpoint"/>
-    <tag k="office" v="association"/>
-    <tag k="opening_hours" v="Tu,Th 14:30-18:00"/>
-    <tag k="start_date" v="2019-02-05"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q64485035"/>
   </node>
   <node id="6908833837" lat="45.4526801" lon="9.1554103" version="2" timestamp="2022-01-11T17:59:49Z" changeset="116034834" uid="13840929" user="aa30mom">
     <tag k="addr:housenumber" v="21"/>
@@ -28992,6 +29016,53 @@
     <tag k="shop" v="travel_agency"/>
     <tag k="website" v="https://www.nrgviaggi.it/"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11724786281" lat="45.4842833" lon="9.2114353" version="1" timestamp="2024-03-12T14:45:28Z" changeset="148553466" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via Giovanni Battista Pergolesi"/>
+    <tag k="alt_name" v="Milano Check Point"/>
+    <tag k="contact:email" v="info@milanocheckpoint.it;test@milanocheckpoint.it;prep@milanocheckpoint.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/milanocheckpoint"/>
+    <tag k="contact:phone" v="+39 329 7318562"/>
+    <tag k="description" v="On Tuesdays you can test yourself against HIV and syphilis for free. On Thursdays you can start PrEP therapy by appointment"/>
+    <tag k="description:it" v="Ogni martedì è possibile effettuare liberamente i test rapidi di HIV e sifilide mentre i giovedì su appuntamento è possibile intraprendere il percorso della PrEP"/>
+    <tag k="medical_service" v="vct_hiv_counselling_test"/>
+    <tag k="name" v="Milano Checkpoint"/>
+    <tag k="office" v="association"/>
+    <tag k="opening_hours" v="Tu,Th 14:30-18:00"/>
+    <tag k="start_date" v="2019-02-05"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q64485035"/>
+  </node>
+  <node id="11725137027" lat="45.5163475" lon="9.2031402" version="2" timestamp="2024-03-12T17:26:50Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Oltre la squola"/>
+    <tag k="shop" v="stationery"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11725194614" lat="45.5162500" lon="9.2030893" version="3" timestamp="2024-03-12T17:25:08Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="PaneLatte"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11725206724" lat="45.5163996" lon="9.2031761" version="2" timestamp="2024-03-12T17:28:16Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="craft" v="key_cutter"/>
+    <tag k="name" v="Tacco Lampo"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11725216502" lat="45.5161582" lon="9.2030217" version="2" timestamp="2024-03-12T17:24:24Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="damian"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11725254625" lat="45.5232958" lon="9.2070307" version="2" timestamp="2024-03-12T17:57:56Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Non solo cartoleria"/>
+    <tag k="shop" v="stationery"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
