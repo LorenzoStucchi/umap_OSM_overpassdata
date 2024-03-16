@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-15T03:10:41Z" areas="2024-03-15T02:17:47Z"/>
+<meta osm_base="2024-03-16T03:10:15Z" areas="2024-03-16T01:50:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1439,15 +1439,16 @@
     <tag k="name" v="The Manhattan"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="379230328" lat="45.4524518" lon="9.1642241" version="9" timestamp="2022-03-25T13:24:50Z" changeset="118910246" uid="13840929" user="aa30mom">
+  <node id="379230328" lat="45.4524518" lon="9.1642241" version="10" timestamp="2024-03-15T13:32:32Z" changeset="148688934" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Via Bergognone Da Fossano"/>
     <tag k="amenity" v="post_office"/>
+    <tag k="branch" v="Milano 112"/>
     <tag k="fax" v="+39 02 42297165"/>
-    <tag k="name" v="Milano 112"/>
-    <tag k="opening_hours" v="Mo, We, Fr 08:20-13:35"/>
+    <tag k="name" v="Poste Italiane"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-13:45; Sa, Su off"/>
     <tag k="opening_hours:covid19" v="Mo, We, Fr 08:20-13:45"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
@@ -11847,7 +11848,7 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q111123744"/>
   </node>
-  <node id="3649262338" lat="45.4627057" lon="9.1728109" version="1" timestamp="2015-07-13T16:47:10Z" changeset="32607715" uid="1211510" user="arcanma">
+  <node id="3649262338" lat="45.4626968" lon="9.1728026" version="2" timestamp="2024-03-15T16:17:29Z" changeset="148696708" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20123"/>
@@ -18895,9 +18896,9 @@
     <tag k="tourism" v="apartment"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5290174186" lat="45.4527629" lon="9.1663116" version="6" timestamp="2024-03-05T21:21:59Z" changeset="148268534" uid="1781586" user="fick89">
+  <node id="5290174186" lat="45.4527629" lon="9.1663116" version="7" timestamp="2024-03-15T13:32:32Z" changeset="148688934" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:housenumber" v="30/A"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Via Tortona"/>
     <tag k="amenity" v="bar"/>
@@ -24095,11 +24096,11 @@
     <tag k="operator" v="Metropolitana Milanese"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9384004655" lat="45.4731704" lon="9.1973962" version="2" timestamp="2023-01-06T14:59:19Z" changeset="130951273" uid="2166519" user="unfoxo">
+  <node id="9384004655" lat="45.4731704" lon="9.1973962" version="3" timestamp="2024-03-15T10:31:06Z" changeset="148680692" uid="6662874" user="Jan0707">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
-    <tag k="fountain" v="bottle_refill"/>
+    <tag k="fee" v="yes"/>
     <tag k="operator" v="Metropolitana Milanese"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -35610,7 +35611,7 @@
     <tag k="leisure" v="playground"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="515273042" version="8" timestamp="2024-01-03T14:24:32Z" changeset="145841877" uid="13840929" user="aa30mom">
+  <way id="515273042" version="9" timestamp="2024-03-15T16:17:29Z" changeset="148696708" uid="13840929" user="aa30mom">
     <center lat="45.4635061" lon="9.1719089"/>
     <nd ref="576536033"/>
     <nd ref="576541792"/>
@@ -35620,7 +35621,6 @@
     <nd ref="5300438424"/>
     <nd ref="5300438423"/>
     <nd ref="5300437401"/>
-    <nd ref="6165355216"/>
     <nd ref="5300438422"/>
     <nd ref="576541812"/>
     <nd ref="576541813"/>
