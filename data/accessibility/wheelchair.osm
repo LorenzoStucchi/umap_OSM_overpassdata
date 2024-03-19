@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-18T03:10:40Z" areas="2024-03-17T22:38:46Z"/>
+<meta osm_base="2024-03-19T03:09:58Z" areas="2024-03-18T23:06:14Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -135,6 +135,27 @@
     <tag k="ref:vatin" v="IT02489000998"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="246991615" lat="45.4871424" lon="9.1665689" version="7" timestamp="2024-03-18T09:34:01Z" changeset="148806587" uid="20905165" user="nu99et">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Via San Galdino"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="email" v="info@farmaciacenisio.it"/>
+    <tag k="fax" v="+39 02 3311032"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia Cenisio srl"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:30; Sa 09:00-19:00"/>
+    <tag k="operator" v="Farmacia Cenisio srl"/>
+    <tag k="phone" v="+39 02 3311859"/>
+    <tag k="ref:msal" v="2607"/>
+    <tag k="ref:vatin" v="IT11469180969"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="http://www.farmaciacenisio.it/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="247279762" lat="45.5023980" lon="9.1978174" version="7" timestamp="2021-10-18T15:11:08Z" changeset="112657415" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
@@ -713,13 +734,14 @@
     <tag k="shop" v="doityourself"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="281727033" lat="45.4954632" lon="9.1852280" version="8" timestamp="2022-03-12T11:52:28Z" changeset="118395223" uid="113669" user="AnyFile">
+  <node id="281727033" lat="45.4954632" lon="9.1852280" version="9" timestamp="2024-03-18T07:35:32Z" changeset="148802069" uid="6520581" user="pfez">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:street" v="Via Carlo Farini"/>
     <tag k="brand" v="Carrefour Market"/>
     <tag k="brand:wikidata" v="Q2689639"/>
     <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
+    <tag k="check_date" v="2024-03-18"/>
     <tag k="comment:it" v="sullo scontrino indirizzo come Via Farini 79/81"/>
     <tag k="contact:phone" v="+39 02 6888089"/>
     <tag k="name" v="Carrefour Market"/>
@@ -7817,14 +7839,16 @@
     <tag k="website" v="http://operazionesangennaro.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2488649742" lat="45.4895356" lon="9.1860770" version="4" timestamp="2019-09-13T15:00:24Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="2488649742" lat="45.4895356" lon="9.1860770" version="5" timestamp="2024-03-18T17:27:42Z" changeset="148827406" uid="6520581" user="pfez">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Cola Montano"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="burger"/>
+    <tag k="drive_through" v="no"/>
     <tag k="name" v="Burger Italy"/>
+    <tag k="opening_hours" v="Mo-Sa 11:30-15:30,18:00-24:00"/>
     <tag k="phone" v="+39 02 680710"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -12881,11 +12905,12 @@
     <tag k="website" v="https://www.smarthotelmilano.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3848621226" lat="45.4836296" lon="9.2047004" version="5" timestamp="2022-02-24T17:38:27Z" changeset="117821384" uid="13840929" user="aa30mom">
+  <node id="3848621226" lat="45.4836296" lon="9.2047004" version="6" timestamp="2024-03-18T17:43:39Z" changeset="148828070" uid="1914637" user="alcaprar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Vitruvio"/>
+    <tag k="check_date" v="2024-03-18"/>
     <tag k="email" v="spice@operaser.it"/>
     <tag k="name" v="Spice Hotel"/>
     <tag k="phone" v="+39 02 83597000"/>
@@ -27225,7 +27250,7 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="10602381863" lat="45.4647453" lon="9.1643109" version="1" timestamp="2023-02-02T21:24:25Z" changeset="132019607" uid="1781586" user="fick89">
+  <node id="10602381863" lat="45.4647458" lon="9.1642858" version="2" timestamp="2024-03-18T17:33:58Z" changeset="148827666" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20144"/>
