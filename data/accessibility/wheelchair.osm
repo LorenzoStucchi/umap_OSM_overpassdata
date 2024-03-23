@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-22T03:10:16Z" areas="2024-03-22T00:58:01Z"/>
+<meta osm_base="2024-03-23T03:10:45Z" areas="2024-03-23T01:18:12Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5001,6 +5001,13 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="2042409082" lat="45.4856742" lon="9.1799039" version="5" timestamp="2024-03-22T16:19:45Z" changeset="149021154" uid="20905165" user="nu99et">
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="check_date" v="2024-03-22"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2045098824" lat="45.4570039" lon="9.1738715" version="4" timestamp="2023-08-27T15:19:36Z" changeset="140456407" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
@@ -7461,6 +7468,19 @@
     <tag k="name" v="Fiori e Fornelli &amp; Capra e Cavoli"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="2479386548" lat="45.4864607" lon="9.1873683" version="13" timestamp="2024-03-22T16:20:24Z" changeset="149021197" uid="20905165" user="nu99et">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Pastrengo"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="KoBo vegan"/>
+    <tag k="opening_hours" v="Tu-Sa 08:30-19:30; Su 08:30-13:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2479386550" lat="45.4866973" lon="9.1867076" version="4" timestamp="2023-11-08T01:51:12Z" changeset="143759874" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
@@ -9880,7 +9900,7 @@
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3025658135" lat="45.4628473" lon="9.1870103" version="5" timestamp="2024-03-21T15:54:45Z" changeset="148971159" uid="13840929" user="aa30mom">
+  <node id="3025658135" lat="45.4628371" lon="9.1869751" version="6" timestamp="2024-03-22T09:01:37Z" changeset="149002012" uid="13840929" user="aa30mom">
     <tag k="clothes" v="sports"/>
     <tag k="name" v="Treesse"/>
     <tag k="shop" v="clothes"/>
@@ -17269,13 +17289,14 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4756745035" lat="45.4562513" lon="9.1701433" version="6" timestamp="2023-01-26T22:19:55Z" changeset="131750369" uid="1781586" user="fick89">
+  <node id="4756745035" lat="45.4562513" lon="9.1701433" version="7" timestamp="2024-03-22T22:53:52Z" changeset="149033404" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Via Savona"/>
     <tag k="email" v="info@allwash.it"/>
     <tag k="name" v="All wash Lavanderia self service"/>
+    <tag k="ref:vatin" v="IT09621430157"/>
     <tag k="self_service" v="yes"/>
     <tag k="shop" v="laundry"/>
     <tag k="website" v="https://www.allwash.it/"/>
@@ -22562,10 +22583,11 @@
     <tag k="website" v="www.paninidimare.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7598197239" lat="45.4895129" lon="9.1033262" version="1" timestamp="2020-06-06T14:47:00Z" changeset="86281971" uid="245439" user="adirricor">
+  <node id="7598197239" lat="45.4895129" lon="9.1033262" version="2" timestamp="2024-03-22T15:24:34Z" changeset="149018715" uid="21070564" user="Tommaso-S">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
+    <tag k="toilets:disposal" v="chemical"/>
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -27891,6 +27913,25 @@
     <tag k="start_date" v="2023-06-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11004324231" lat="45.4821584" lon="9.1825626" version="5" timestamp="2024-03-22T16:20:22Z" changeset="149021171" uid="20905165" user="nu99et">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100049526024701"/>
+    <tag k="contact:housenumber" v="16"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/rosmarinolagastronomia/"/>
+    <tag k="contact:postcode" v="20154"/>
+    <tag k="contact:street" v="Viale Pasubio"/>
+    <tag k="diet:vegan" v="only"/>
+    <tag k="diet:vegetarian" v="only"/>
+    <tag k="email" v="rosmarinolagastronomia@gmail.com"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Rosmarino"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-23:00, Su 11:00-16:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 02 39663211"/>
+    <tag k="website" v="https://www.rosmarinogastronomiavegana.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="11012660855" lat="45.4883988" lon="9.1887323" version="3" timestamp="2023-06-28T16:36:20Z" changeset="137886730" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="mexican"/>
@@ -29580,6 +29621,12 @@
     <tag k="website" v="http://gruppohumantech.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11753167456" lat="45.4826859" lon="9.1074205" version="1" timestamp="2024-03-22T15:24:34Z" changeset="149018715" uid="21070564" user="Tommaso-S">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -29657,6 +29704,76 @@
     <tag k="park_ride" v="yes"/>
     <tag k="parking" v="underground"/>
     <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="4915384" version="21" timestamp="2024-03-22T16:20:00Z" changeset="149021171" uid="20905165" user="nu99et">
+    <center lat="45.4875007" lon="9.1778949"/>
+    <nd ref="32179303"/>
+    <nd ref="32179304"/>
+    <nd ref="3446474992"/>
+    <nd ref="3446474993"/>
+    <nd ref="9665780147"/>
+    <nd ref="32179305"/>
+    <nd ref="32179307"/>
+    <nd ref="32179308"/>
+    <nd ref="32179310"/>
+    <nd ref="258062670"/>
+    <nd ref="258062671"/>
+    <nd ref="303167177"/>
+    <nd ref="303168763"/>
+    <nd ref="3446474977"/>
+    <nd ref="3446474974"/>
+    <nd ref="3446474969"/>
+    <nd ref="3446474965"/>
+    <nd ref="3446474938"/>
+    <nd ref="3446474879"/>
+    <nd ref="3446474874"/>
+    <nd ref="3446474857"/>
+    <nd ref="3446474858"/>
+    <nd ref="32179313"/>
+    <nd ref="258062832"/>
+    <nd ref="3446474856"/>
+    <nd ref="3446474855"/>
+    <nd ref="4895438586"/>
+    <nd ref="4895438584"/>
+    <nd ref="3446474863"/>
+    <nd ref="283063706"/>
+    <nd ref="3446239470"/>
+    <nd ref="3446239471"/>
+    <nd ref="4895438592"/>
+    <nd ref="4895438593"/>
+    <nd ref="283063707"/>
+    <nd ref="283063710"/>
+    <nd ref="3446474859"/>
+    <nd ref="3446269354"/>
+    <nd ref="3446474871"/>
+    <nd ref="32179297"/>
+    <nd ref="283063751"/>
+    <nd ref="283063756"/>
+    <nd ref="283063757"/>
+    <nd ref="3446242394"/>
+    <nd ref="283063760"/>
+    <nd ref="3446474911"/>
+    <nd ref="4895439149"/>
+    <nd ref="4895439159"/>
+    <nd ref="4895439164"/>
+    <nd ref="3446474920"/>
+    <nd ref="3446474921"/>
+    <nd ref="2377015286"/>
+    <nd ref="2377015279"/>
+    <nd ref="4895439158"/>
+    <nd ref="2377015284"/>
+    <nd ref="2377015283"/>
+    <nd ref="3446474914"/>
+    <nd ref="3446498485"/>
+    <nd ref="32179303"/>
+    <tag k="landuse" v="cemetery"/>
+    <tag k="name" v="Cimitero Monumentale"/>
+    <tag k="start_date" v="1866"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="http://www.monumentale.net/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q608405"/>
+    <tag k="wikipedia" v="it:Cimitero monumentale di Milano"/>
   </way>
   <way id="23119240" version="6" timestamp="2021-11-07T19:47:41Z" changeset="113494098" uid="11645399" user="davidoskky">
     <center lat="45.4504373" lon="9.1349017"/>
