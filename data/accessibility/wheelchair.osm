@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-25T03:10:16Z" areas="2024-03-25T01:39:25Z"/>
+<meta osm_base="2024-03-26T03:10:42Z" areas="2024-03-26T02:16:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -7468,11 +7468,14 @@
     <tag k="name" v="Fiori e Fornelli &amp; Capra e Cavoli"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2479386548" lat="45.4864607" lon="9.1873683" version="13" timestamp="2024-03-22T16:20:24Z" changeset="149021197" uid="20905165" user="nu99et">
+  <node id="2479386548" lat="45.4864607" lon="9.1873683" version="14" timestamp="2024-03-25T14:51:18Z" changeset="149135194" uid="20905165" user="nu99et">
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Pastrengo"/>
+    <tag k="diet:vegan" v="only"/>
+    <tag k="diet:vegetarian" v="only"/>
     <tag k="indoor_seating" v="yes"/>
+    <tag k="lunch" v="yes"/>
     <tag k="name" v="KoBo vegan"/>
     <tag k="opening_hours" v="Tu-Sa 08:30-19:30; Su 08:30-13:00"/>
     <tag k="outdoor_seating" v="no"/>
@@ -9146,6 +9149,12 @@
     <tag k="ref:vatin" v="IT04850790967"/>
     <tag k="shop" v="department_store"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2946697691" lat="45.4787192" lon="9.2364614" version="4" timestamp="2024-03-25T11:14:18Z" changeset="149125611" uid="1914637" user="alcaprar">
+    <tag k="amenity" v="toilets"/>
+    <tag k="check_date" v="2024-03-02"/>
+    <tag k="fee" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2962393948" lat="45.4916049" lon="9.2369865" version="5" timestamp="2023-12-23T17:29:13Z" changeset="145444454" uid="20662316" user="Xaco97">
     <tag k="name" v="Udine"/>
@@ -27874,7 +27883,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="10944515516" lat="45.4602109" lon="9.1757966" version="9" timestamp="2024-03-20T15:16:06Z" changeset="148919481" uid="20905165" user="nu99et">
+  <node id="10944515516" lat="45.4602109" lon="9.1757966" version="10" timestamp="2024-03-25T15:05:27Z" changeset="149135829" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:postcode" v="20123"/>
@@ -27885,9 +27894,14 @@
     <tag k="diet:vegetarian" v="yes"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="DedasPuri"/>
+    <tag k="name:etymology:description" v="The name is a combination of two georgian words: Deda (mother) and Puri (bread)."/>
+    <tag k="name:etymology:wikidata" v="Q7560;Q7802"/>
     <tag k="opening_hours" v="Tu 19:00-23:30; We-Su 12:00-15:00,19:00-23:30"/>
+    <tag k="operator" v="Dedaspuri SAS di Lela Khoriauli"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
     <tag k="phone" v="+390284574576"/>
+    <tag k="ref:vatin" v="IT02741070185"/>
     <tag k="toilets" v="yes"/>
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="website" v="https://www.dedaspuri.it/"/>
@@ -31296,7 +31310,7 @@
     <tag k="wikimedia_commons" v="Category:San Pio X (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Pio X (Milano)"/>
   </way>
-  <way id="41267782" version="11" timestamp="2023-10-20T14:37:37Z" changeset="142873734" uid="2052228" user="kauevestena">
+  <way id="41267782" version="12" timestamp="2024-03-25T10:32:44Z" changeset="149123947" uid="11220113" user="ivanbranco">
     <center lat="45.4848999" lon="9.2259978"/>
     <nd ref="504505410"/>
     <nd ref="504505443"/>
@@ -31322,7 +31336,6 @@
     <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q18223049"/>
-    <tag k="wikimedia_commons" v="Category:San Luca Evangelista (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Luca Evangelista (Milano)"/>
   </way>
   <way id="41518948" version="9" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -31502,14 +31515,15 @@
     <tag k="wikidata" v="Q205844"/>
     <tag k="wikipedia" v="it:Porta Garibaldi (Milano)"/>
   </way>
-  <way id="43016115" version="9" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
-    <center lat="45.4748328" lon="9.1699502"/>
+  <way id="43016115" version="10" timestamp="2024-03-25T15:31:50Z" changeset="149137024" uid="13840929" user="aa30mom">
+    <center lat="45.4748328" lon="9.1699385"/>
     <nd ref="538846982"/>
     <nd ref="5515794793"/>
     <nd ref="3052384647"/>
     <nd ref="5515794792"/>
     <nd ref="538847030"/>
     <nd ref="538847031"/>
+    <nd ref="11761442777"/>
     <nd ref="538847033"/>
     <nd ref="538847036"/>
     <nd ref="538847032"/>
@@ -31520,6 +31534,7 @@
     <nd ref="538847013"/>
     <nd ref="538847050"/>
     <nd ref="1904230470"/>
+    <nd ref="11761442776"/>
     <nd ref="538847023"/>
     <nd ref="538847015"/>
     <nd ref="1904230478"/>
@@ -33556,7 +33571,7 @@
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="204721782" version="16" timestamp="2023-10-02T17:31:09Z" changeset="142049925" uid="12500589" user="tg4567">
+  <way id="204721782" version="17" timestamp="2024-03-25T10:02:33Z" changeset="149122735" uid="13840929" user="aa30mom">
     <center lat="45.4634482" lon="9.1917463"/>
     <nd ref="2147024573"/>
     <nd ref="4170020890"/>
@@ -33565,6 +33580,7 @@
     <nd ref="2147024558"/>
     <nd ref="2147024565"/>
     <nd ref="2147024571"/>
+    <nd ref="4170004390"/>
     <nd ref="2147024568"/>
     <nd ref="2147024574"/>
     <nd ref="9888148670"/>
