@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-27T03:10:28Z" areas="2024-03-26T21:49:00Z"/>
+<meta osm_base="2024-03-28T03:10:12Z" areas="2024-03-27T23:47:42Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -15290,7 +15290,7 @@
     <tag k="name" v="Autoscuola Brera"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4304781356" lat="45.4831789" lon="9.1903027" version="6" timestamp="2023-06-17T14:39:09Z" changeset="137449779" uid="13365656" user="glemco">
+  <node id="4304781356" lat="45.4831789" lon="9.1903027" version="7" timestamp="2024-03-27T14:16:33Z" changeset="149227960" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="6"/>
@@ -15299,9 +15299,16 @@
     <tag k="alt_name" v="Illy caffè"/>
     <tag k="amenity" v="cafe"/>
     <tag k="check_date:opening_hours" v="2023-06-17"/>
+    <tag k="contact:phone" v="+39 02 65560331"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="level" v="0"/>
     <tag k="name" v="Illy"/>
     <tag k="note" v="Il CAP sullo scontrino è 20124 ma è mappato come 20154 - nota gennaio 2021"/>
     <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
+    <tag k="operator" v="Illy Caffè S.p.a."/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT000551180327"/>
+    <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4304781358" lat="45.4831836" lon="9.1887121" version="2" timestamp="2019-09-13T13:04:42Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -29620,7 +29627,7 @@
     <tag k="operator:wikidata" v="Q651222"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11748269682" lat="45.4843698" lon="9.2121397" version="2" timestamp="2024-03-20T15:10:49Z" changeset="148919200" uid="67550" user="Aiman">
+  <node id="11748269682" lat="45.4843698" lon="9.2121397" version="3" timestamp="2024-03-27T06:46:00Z" changeset="149206339" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="20124"/>
@@ -29631,10 +29638,10 @@
     <tag k="opening_hours" v="Mo-Sa 09:00-13:00,15:00-19:00; Su closed; PH closed"/>
     <tag k="operator" v="Gruppo Humantec"/>
     <tag k="shop" v="medical_supply"/>
-    <tag k="website" v="http://gruppohumantech.com/"/>
+    <tag k="website" v="https://gruppohumantech.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11748278641" lat="45.4876661" lon="9.2301403" version="1" timestamp="2024-03-20T15:10:49Z" changeset="148919200" uid="67550" user="Aiman">
+  <node id="11748278641" lat="45.4876661" lon="9.2301403" version="2" timestamp="2024-03-27T06:45:56Z" changeset="149206339" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:postcode" v="20131"/>
@@ -29645,7 +29652,7 @@
     <tag k="opening_hours" v="Mo-Sa 09:00-13:00,15:00-19:00; Su closed; PH closed"/>
     <tag k="operator" v="Gruppo Humantech"/>
     <tag k="shop" v="medical_supply"/>
-    <tag k="website" v="http://gruppohumantech.com/"/>
+    <tag k="website" v="https://gruppohumantech.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11753167456" lat="45.4826859" lon="9.1074205" version="1" timestamp="2024-03-22T15:24:34Z" changeset="149018715" uid="21070564" user="Tommaso-S">
@@ -30148,6 +30155,24 @@
     <nd ref="268566310"/>
     <nd ref="268566311"/>
     <nd ref="268566301"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="25102933" version="18" timestamp="2024-03-27T17:10:42Z" changeset="149235648" uid="290680" user="wheelmap_visitor">
+    <center lat="45.5136624" lon="9.2113202"/>
+    <nd ref="273230829"/>
+    <nd ref="273230830"/>
+    <nd ref="8228281247"/>
+    <nd ref="3247873881"/>
+    <nd ref="3247873882"/>
+    <nd ref="3247873877"/>
+    <nd ref="250147293"/>
+    <nd ref="250147292"/>
+    <nd ref="3247873875"/>
+    <nd ref="11741426696"/>
+    <nd ref="8348954624"/>
+    <nd ref="273230829"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="Università degli Studi di Milano Bicocca"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="25102946" version="10" timestamp="2022-11-24T11:34:22Z" changeset="129321018" uid="11976" user="Map47">
@@ -31425,8 +31450,8 @@
     <tag k="wikimedia_commons" v="Category:Santa Maria Beltrade (Milan, new church)"/>
     <tag k="wikipedia" v="it:Chiesa di Santa Maria Beltrade (Nolo)"/>
   </way>
-  <way id="42206561" version="8" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
-    <center lat="45.4769480" lon="9.1899095"/>
+  <way id="42206561" version="9" timestamp="2024-03-27T18:03:48Z" changeset="149237713" uid="13840929" user="aa30mom">
+    <center lat="45.4769447" lon="9.1899024"/>
     <nd ref="525654963"/>
     <nd ref="525654964"/>
     <nd ref="1954796265"/>
@@ -31435,6 +31460,8 @@
     <nd ref="1954796264"/>
     <nd ref="525654968"/>
     <nd ref="525654970"/>
+    <nd ref="11766693757"/>
+    <nd ref="11766693760"/>
     <nd ref="525654972"/>
     <nd ref="525654974"/>
     <nd ref="1954796268"/>
