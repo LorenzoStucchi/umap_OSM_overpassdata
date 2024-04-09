@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-08T03:09:56Z" areas="2024-04-08T01:03:37Z"/>
+<meta osm_base="2024-04-09T03:10:40Z" areas="2024-04-08T21:35:40Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3042,10 +3042,15 @@
     <tag k="name" v="Kimos Pizza"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1476116761" lat="45.4360737" lon="9.2399615" version="5" timestamp="2018-02-01T21:54:54Z" changeset="55979006" uid="7272314" user="marc__marc">
+  <node id="1476116761" lat="45.4360737" lon="9.2399615" version="6" timestamp="2024-04-08T07:43:47Z" changeset="149721887" uid="20817555" user="Alessandro_Gianfelici">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20138"/>
+    <tag k="addr:street" v="Via Francesco Pizzolpasso"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="pizzeria Santa Giulia"/>
+    <tag k="cuisine" v="pizza;italian"/>
+    <tag k="name" v="Pizzeria Santa Giulia"/>
+    <tag k="phone" v="+39 0251630051"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1476116763" lat="45.4358912" lon="9.2402861" version="5" timestamp="2019-01-14T23:53:59Z" changeset="66318425" uid="95387" user="rugamarcus">
@@ -4237,14 +4242,14 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1735148398" lat="45.4755528" lon="9.2341070" version="6" timestamp="2024-03-13T13:33:52Z" changeset="148594191" uid="15213811" user="bollarex">
+  <node id="1735148398" lat="45.4755528" lon="9.2341070" version="7" timestamp="2024-04-08T14:29:07Z" changeset="149738229" uid="15213811" user="bollarex">
     <tag k="alt_name" v="Calicantus"/>
     <tag k="amenity" v="cafe"/>
     <tag k="indoor" v="yes"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="La Statale Café"/>
     <tag k="opening_hours" v="Mo-Fr 07:30-16:00"/>
-    <tag k="outdoor_seating" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1759392423" lat="45.4831661" lon="9.2034252" version="8" timestamp="2022-02-17T15:54:27Z" changeset="117527850" uid="13840929" user="aa30mom">
@@ -29063,7 +29068,7 @@
     <tag k="recycling_type" v="container"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11545591134" lat="45.4456408" lon="9.1883503" version="1" timestamp="2024-01-24T09:21:50Z" changeset="146620748" uid="89897" user="airon90">
+  <node id="11545591134" lat="45.4456408" lon="9.1883503" version="2" timestamp="2024-04-08T23:58:07Z" changeset="149756122" uid="19981378" user="u1009">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:postcode" v="20136"/>
@@ -29073,8 +29078,10 @@
     <tag k="brand" v="Santeria"/>
     <tag k="contact:email" v="hellotoscana@santeriamilano.it"/>
     <tag k="contact:facebook" v="santeriatoscana31"/>
+    <tag k="contact:instagram" v="santeriamilano"/>
     <tag k="contact:phone" v="+39 02 2219 9381"/>
     <tag k="contact:website" v="https://www.santeria.milano.it/toscana-31"/>
+    <tag k="live_music" v="yes"/>
     <tag k="name" v="Santeria Toscana 31"/>
     <tag k="opening_hours" v="Su-Mo 11:00-01:00, Tu-Th 11:00-02:00, Fr-Sa 11:00-03:00"/>
     <tag k="ref:vatin" v="IT07109250964"/>
