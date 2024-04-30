@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-29T03:09:59Z" areas="2024-04-29T01:43:35Z"/>
+<meta osm_base="2024-04-30T03:09:57Z" areas="2024-04-30T01:51:58Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -25069,16 +25069,6 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9702630137" lat="45.5110045" lon="9.2606287" version="4" timestamp="2023-07-14T16:18:17Z" changeset="138514843" uid="3396014" user="Moncecchi Daniele">
-    <tag k="name" v="Cascina Gobba"/>
-    <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9702630138" lat="45.5113108" lon="9.2605574" version="4" timestamp="2023-07-14T16:18:18Z" changeset="138514843" uid="3396014" user="Moncecchi Daniele">
-    <tag k="name" v="Cascina Gobba"/>
-    <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="9707996819" lat="45.5026220" lon="9.1989621" version="2" timestamp="2023-07-25T17:28:43Z" changeset="139000670" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
@@ -29819,6 +29809,16 @@
     <tag k="smoking" v="outside"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="11865983802" lat="45.5110042" lon="9.2606295" version="1" timestamp="2024-04-29T11:43:16Z" changeset="150659079" uid="13878104" user="Nádudvari Tamás">
+    <tag k="name" v="Cascina Gobba"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11865983803" lat="45.5113100" lon="9.2605561" version="1" timestamp="2024-04-29T11:43:16Z" changeset="150659079" uid="13878104" user="Nádudvari Tamás">
+    <tag k="name" v="Cascina Gobba"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
@@ -34928,27 +34928,6 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="257619647" version="6" timestamp="2023-07-20T16:11:44Z" changeset="138772879" uid="40276" user="Fabio Locati">
-    <center lat="45.5001433" lon="9.2415626"/>
-    <nd ref="2631105895"/>
-    <nd ref="2631105882"/>
-    <nd ref="9858020675"/>
-    <nd ref="1655919495"/>
-    <nd ref="1655919497"/>
-    <nd ref="9858020676"/>
-    <nd ref="9858020677"/>
-    <nd ref="2631105895"/>
-    <tag k="area" v="yes"/>
-    <tag k="bench" v="yes"/>
-    <tag k="bin" v="yes"/>
-    <tag k="covered" v="partial"/>
-    <tag k="lit" v="yes"/>
-    <tag k="name" v="Cimiano"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-  </way>
   <way id="264207426" version="4" timestamp="2021-06-25T09:38:54Z" changeset="106951349" uid="9355632" user="Pitastrudl">
     <center lat="45.4855930" lon="9.1927095"/>
     <nd ref="2698624858"/>
@@ -37115,42 +37094,6 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="764457259" version="5" timestamp="2022-06-27T14:12:36Z" changeset="122913117" uid="11242131" user="ja+">
-    <center lat="45.5055787" lon="9.1795874"/>
-    <nd ref="7141687544"/>
-    <nd ref="7141687539"/>
-    <nd ref="7141687526"/>
-    <nd ref="7141687545"/>
-    <nd ref="7141687543"/>
-    <tag k="access" v="private"/>
-    <tag k="bin" v="yes"/>
-    <tag k="layer" v="-2"/>
-    <tag k="level" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="surface" v="paved"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="764457266" version="5" timestamp="2022-06-27T14:12:36Z" changeset="122913117" uid="11242131" user="ja+">
-    <center lat="45.5055530" lon="9.1795085"/>
-    <nd ref="7141687548"/>
-    <nd ref="7141687550"/>
-    <nd ref="7141687529"/>
-    <nd ref="7141687552"/>
-    <nd ref="7141687549"/>
-    <tag k="access" v="private"/>
-    <tag k="bin" v="yes"/>
-    <tag k="layer" v="-2"/>
-    <tag k="level" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="surface" v="paved"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
   <way id="767694334" version="5" timestamp="2023-10-11T15:10:15Z" changeset="142441048" uid="12202620" user="nessdoor">
     <center lat="45.4839130" lon="9.2386837"/>
     <nd ref="7167658994"/>
@@ -37963,35 +37906,6 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="970913663" version="3" timestamp="2022-06-27T14:12:36Z" changeset="122913117" uid="11242131" user="ja+">
-    <center lat="45.5136923" lon="9.1739147"/>
-    <nd ref="8985884333"/>
-    <nd ref="3224047379"/>
-    <nd ref="3214848884"/>
-    <nd ref="8985884332"/>
-    <tag k="access" v="private"/>
-    <tag k="layer" v="-2"/>
-    <tag k="level" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="970913665" version="3" timestamp="2022-06-27T14:12:36Z" changeset="122913117" uid="11242131" user="ja+">
-    <center lat="45.5135197" lon="9.1738861"/>
-    <nd ref="3214848882"/>
-    <nd ref="3224047374"/>
-    <nd ref="8985884335"/>
-    <tag k="access" v="private"/>
-    <tag k="layer" v="-2"/>
-    <tag k="level" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
   <way id="971622088" version="3" timestamp="2022-06-27T14:12:36Z" changeset="122913117" uid="11242131" user="ja+">
     <center lat="45.4292597" lon="9.2559613"/>
     <nd ref="8992794540"/>
@@ -38003,65 +37917,6 @@
     <tag k="platform" v="metro"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="971662712" version="4" timestamp="2022-07-15T14:04:49Z" changeset="123655597" uid="11242131" user="ja+">
-    <center lat="45.4369469" lon="9.1682005"/>
-    <nd ref="9712177581"/>
-    <nd ref="8993200535"/>
-    <nd ref="8993200537"/>
-    <nd ref="8993200539"/>
-    <tag k="access" v="private"/>
-    <tag k="layer" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="971662713" version="3" timestamp="2022-07-15T14:04:49Z" changeset="123655597" uid="11242131" user="ja+">
-    <center lat="45.4369518" lon="9.1680661"/>
-    <nd ref="8993200542"/>
-    <nd ref="8993200538"/>
-    <nd ref="8993200536"/>
-    <nd ref="8993200541"/>
-    <tag k="access" v="private"/>
-    <tag k="layer" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="985546663" version="3" timestamp="2022-06-27T14:12:36Z" changeset="122913117" uid="11242131" user="ja+">
-    <center lat="45.5213085" lon="9.1686118"/>
-    <nd ref="9111245074"/>
-    <nd ref="3236590946"/>
-    <nd ref="3236590948"/>
-    <nd ref="9111245083"/>
-    <nd ref="9111245079"/>
-    <nd ref="9111245073"/>
-    <tag k="access" v="private"/>
-    <tag k="level" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="985546664" version="3" timestamp="2022-06-27T14:12:36Z" changeset="122913117" uid="11242131" user="ja+">
-    <center lat="45.5212832" lon="9.1685441"/>
-    <nd ref="9111245077"/>
-    <nd ref="9111245081"/>
-    <nd ref="3216465540"/>
-    <nd ref="3214793541"/>
-    <nd ref="3214793536"/>
-    <nd ref="9111245076"/>
-    <nd ref="9111245075"/>
-    <tag k="access" v="private"/>
-    <tag k="level" v="-2"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
@@ -38299,113 +38154,6 @@
     <tag k="name" v="NoLo Downtown open area"/>
     <tag k="operator" v="Mosso"/>
     <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="1074793331" version="8" timestamp="2023-06-06T10:48:19Z" changeset="137009020" uid="3396014" user="Moncecchi Daniele">
-    <center lat="45.5112807" lon="9.2605808"/>
-    <nd ref="1496374708"/>
-    <nd ref="4367024695"/>
-    <nd ref="9858020621"/>
-    <nd ref="9858020620"/>
-    <nd ref="9858020657"/>
-    <nd ref="1496374706"/>
-    <nd ref="268985026"/>
-    <nd ref="2074442785"/>
-    <nd ref="1479171010"/>
-    <nd ref="9702630138"/>
-    <nd ref="1479171153"/>
-    <nd ref="1496374708"/>
-    <tag k="access" v="private"/>
-    <tag k="area" v="yes"/>
-    <tag k="bench" v="yes"/>
-    <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
-    <tag k="layer" v="1"/>
-    <tag k="level" v="1"/>
-    <tag k="lit" v="yes"/>
-    <tag k="name" v="Cascina Gobba"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="ref" v="4"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="building_passage"/>
-    <tag k="wheelchair" v="limited"/>
-  </way>
-  <way id="1074793332" version="7" timestamp="2023-05-30T07:52:18Z" changeset="136730325" uid="18210119" user="Nerwen">
-    <center lat="45.5111577" lon="9.2606172"/>
-    <nd ref="9858020625"/>
-    <nd ref="4367024696"/>
-    <nd ref="4367024700"/>
-    <nd ref="9858020624"/>
-    <nd ref="9858020623"/>
-    <nd ref="9858020661"/>
-    <nd ref="9858020656"/>
-    <nd ref="9858020622"/>
-    <nd ref="9858020625"/>
-    <tag k="access" v="private"/>
-    <tag k="area" v="yes"/>
-    <tag k="bench" v="yes"/>
-    <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
-    <tag k="layer" v="1"/>
-    <tag k="level" v="1"/>
-    <tag k="lit" v="yes"/>
-    <tag k="name" v="Cascina Gobba"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="ref" v="2;3"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="building_passage"/>
-    <tag k="wheelchair" v="limited"/>
-  </way>
-  <way id="1074793333" version="7" timestamp="2023-05-30T07:52:27Z" changeset="136730325" uid="18210119" user="Nerwen">
-    <center lat="45.5110366" lon="9.2606540"/>
-    <nd ref="9858020627"/>
-    <nd ref="4367024701"/>
-    <nd ref="1496374711"/>
-    <nd ref="9702630137"/>
-    <nd ref="9858020651"/>
-    <nd ref="2074442779"/>
-    <nd ref="1793601766"/>
-    <nd ref="1496374705"/>
-    <nd ref="9858020660"/>
-    <nd ref="9858020626"/>
-    <nd ref="9858020627"/>
-    <tag k="access" v="private"/>
-    <tag k="area" v="yes"/>
-    <tag k="bench" v="yes"/>
-    <tag k="bin" v="yes"/>
-    <tag k="covered" v="yes"/>
-    <tag k="layer" v="1"/>
-    <tag k="level" v="1"/>
-    <tag k="lit" v="yes"/>
-    <tag k="name" v="Cascina Gobba"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="ref" v="1"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="building_passage"/>
-    <tag k="wheelchair" v="limited"/>
-  </way>
-  <way id="1074793339" version="5" timestamp="2023-07-20T16:12:39Z" changeset="138772879" uid="40276" user="Fabio Locati">
-    <center lat="45.5054449" lon="9.2485326"/>
-    <nd ref="9858020669"/>
-    <nd ref="1498960216"/>
-    <nd ref="9858020672"/>
-    <nd ref="9858020673"/>
-    <nd ref="9858020674"/>
-    <nd ref="1498960223"/>
-    <nd ref="9858020668"/>
-    <nd ref="9858020669"/>
-    <tag k="area" v="yes"/>
-    <tag k="bench" v="yes"/>
-    <tag k="bin" v="yes"/>
-    <tag k="covered" v="partial"/>
-    <tag k="lit" v="yes"/>
-    <tag k="name" v="Crescenzago"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="platform"/>
-    <tag k="tactile_paving" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="1077236230" version="1" timestamp="2022-07-09T20:10:05Z" changeset="123412798" uid="3921" user="cimm">
     <center lat="45.5195980" lon="9.1926414"/>
