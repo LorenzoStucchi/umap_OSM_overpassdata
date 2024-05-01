@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-30T03:09:57Z" areas="2024-04-30T01:51:58Z"/>
+<meta osm_base="2024-05-01T03:10:15Z" areas="2024-04-30T21:45:31Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -665,6 +665,23 @@
     <tag k="name" v="Bomaki"/>
     <tag k="opening_hours" v="Mo-Su 12:30-14:30,19:30-23:30"/>
     <tag k="phone" v="+39 02 39663308"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="278197357" lat="45.5001613" lon="9.1787591" version="9" timestamp="2024-04-30T16:03:03Z" changeset="150715603" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="20158"/>
+    <tag k="addr:street" v="Via Monte San Genesio"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="check_date:opening_hours" v="2023-05-24"/>
+    <tag k="fax" v="+39 02 6686538"/>
+    <tag k="name" v="Milano 47"/>
+    <tag k="opening_hours" v="Mo-Fr 08:20-13:35; Sa 08:20-12:35"/>
+    <tag k="operator" v="Poste Italiane"/>
+    <tag k="operator:wikidata" v="Q495026"/>
+    <tag k="operator:wikipedia" v="en:Poste italiane"/>
+    <tag k="phone" v="+39 02 603556"/>
+    <tag k="ref" v="38261"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="278200767" lat="45.5019609" lon="9.1647025" version="6" timestamp="2022-02-16T10:20:21Z" changeset="117469519" uid="13840929" user="aa30mom">
@@ -6521,10 +6538,11 @@
     <tag k="website" v="https://odstore.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2411123341" lat="45.4801846" lon="9.2105684" version="5" timestamp="2022-05-22T10:26:55Z" changeset="121311339" uid="13933690" user="Andrea Carulli">
+  <node id="2411123341" lat="45.4801846" lon="9.2105684" version="6" timestamp="2024-04-30T07:29:07Z" changeset="150693019" uid="15298985" user="wwjd2022">
     <tag k="brand" v="Sephora"/>
     <tag k="brand:wikidata" v="Q2408041"/>
     <tag k="brand:wikipedia" v="en:Sephora"/>
+    <tag k="check_date:opening_hours" v="2024-04-29"/>
     <tag k="chemist" v="perfume;cosmetics"/>
     <tag k="name" v="Sephora"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-20:30; Su 10:00-20:00"/>
@@ -9286,10 +9304,10 @@
     <tag k="shop" v="cosmetics"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2991135311" lat="45.4778545" lon="9.2087276" version="4" timestamp="2023-03-11T08:50:38Z" changeset="133544416" uid="3199858" user="Mateusz Konieczny - bot account">
+  <node id="2991135311" lat="45.4778545" lon="9.2087276" version="5" timestamp="2024-04-30T07:28:55Z" changeset="150693035" uid="15298985" user="wwjd2022">
     <tag k="fixme" v="shop type unknown"/>
     <tag k="name" v="Capitol"/>
-    <tag k="shop" v="yes"/>
+    <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2991135312" lat="45.4780891" lon="9.2089725" version="4" timestamp="2022-03-20T14:34:37Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
@@ -12776,14 +12794,16 @@
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3799690524" lat="45.4780134" lon="9.1849748" version="4" timestamp="2023-08-15T16:17:29Z" changeset="139923557" uid="4861141" user="Michael Montani">
+  <node id="3799690524" lat="45.4780134" lon="9.1849748" version="5" timestamp="2024-04-30T17:26:43Z" changeset="150719463" uid="69259" user="DnaX">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Largo La Foppa"/>
+    <tag k="brand" v="NAU!"/>
+    <tag k="brand:wikidata" v="Q122148631"/>
     <tag k="check_date" v="2023-08-15"/>
-    <tag k="name" v="Nau"/>
+    <tag k="name" v="NAU!"/>
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -16133,6 +16153,34 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4394863015" lat="45.4838069" lon="9.1888601" version="3" timestamp="2024-04-30T10:40:03Z" changeset="150700707" uid="10536958" user="exilexi">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Piazza Gae Aulenti"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="bar" v="no"/>
+    <tag k="brewery" v="no"/>
+    <tag k="check_date" v="2024-04-30"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="fixme" v="position estimated"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="level" v="-1"/>
+    <tag k="microbrewery" v="no"/>
+    <tag k="name" v="Miscusi"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="reservation" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="survey"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4403273515" lat="45.4566414" lon="9.1721970" version="1" timestamp="2016-09-15T19:17:44Z" changeset="42184412" uid="506470" user="LuSirto">
     <tag k="amenity" v="marketplace"/>
     <tag k="name" v="Mercato Papiniano"/>
@@ -16158,6 +16206,14 @@
     <tag k="brand:wikidata" v="Q1343118"/>
     <tag k="brand:wikipedia" v="it:Intesa Sanpaolo"/>
     <tag k="name" v="Intesa Sanpaolo"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4417429003" lat="45.4433845" lon="9.1599723" version="5" timestamp="2024-04-30T16:05:40Z" changeset="150715683" uid="290680" user="wheelmap_visitor">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Via Enrico Schievano"/>
+    <tag k="name" v="Mondogatto Associazione"/>
+    <tag k="opening_hours" v="Sa,Su 15:00-17:30"/>
+    <tag k="shop" v="pet"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4417961790" lat="45.4563953" lon="9.2171851" version="4" timestamp="2023-11-07T09:55:57Z" changeset="143728613" uid="9451067" user="b-jazz-bot">
@@ -21878,6 +21934,11 @@
     <tag k="ref:vatin" v="IT02979410152"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="6457602938" lat="45.4679488" lon="9.1828348" version="4" timestamp="2024-04-30T07:31:31Z" changeset="150693054" uid="15298985" user="wwjd2022">
+    <tag k="name" v="Cairoli"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="6475087590" lat="45.5161589" lon="9.1794377" version="4" timestamp="2023-02-10T09:09:56Z" changeset="132346645" uid="1337142" user="Nordpfeil">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="98"/>
@@ -24179,6 +24240,11 @@
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9346398995" lat="45.4639361" lon="9.1893055" version="3" timestamp="2023-09-07T19:22:55Z" changeset="140954987" uid="17454105" user="ArnaudDvs">
+    <tag k="name" v="Duomo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9346418107" lat="45.4645259" lon="9.1900682" version="5" timestamp="2024-04-30T07:29:22Z" changeset="150693054" uid="15298985" user="wwjd2022">
     <tag k="name" v="Duomo"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -29820,6 +29886,13 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11869871813" lat="45.4727946" lon="9.1266045" version="1" timestamp="2024-04-30T20:09:09Z" changeset="150725436" uid="17843669" user="DomKor">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -29984,7 +30057,7 @@
     <tag k="operator:wikipedia" v="it:Polizia di Stato"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="23154089" version="11" timestamp="2023-12-20T14:07:19Z" changeset="145333041" uid="13840929" user="aa30mom">
+  <way id="23154089" version="12" timestamp="2024-04-30T09:26:08Z" changeset="150697519" uid="20152820" user="Fede Z">
     <center lat="45.5236376" lon="9.2195101"/>
     <nd ref="250146307"/>
     <nd ref="10761300841"/>
@@ -29996,7 +30069,8 @@
     <nd ref="250146307"/>
     <tag k="building" v="university"/>
     <tag k="building:levels" v="3"/>
-    <tag k="name" v="U14 – DISCo – Dipartimento di Informatica Sistemistica e Comunicazione"/>
+    <tag k="description" v="Edificio del Dipartimento di Informatica Sistemistica e Comunicazione (DISCo)"/>
+    <tag k="name" v="U14 – Abacus (DISCo)"/>
     <tag k="operator" v="Università degli Studi di Milano - Bicocca"/>
     <tag k="roof:shape" v="flat"/>
     <tag k="website" v="https://www.disco.unimib.it/"/>
@@ -32712,6 +32786,44 @@
     <tag k="roof:levels" v="0"/>
     <tag k="roof:shape" v="flat"/>
     <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="135285973" version="10" timestamp="2024-04-30T16:01:16Z" changeset="150715515" uid="290680" user="wheelmap_visitor">
+    <center lat="45.4981421" lon="9.1812536"/>
+    <nd ref="1485865582"/>
+    <nd ref="1485865588"/>
+    <nd ref="1485865583"/>
+    <nd ref="1485865585"/>
+    <nd ref="1485865570"/>
+    <nd ref="1485865573"/>
+    <nd ref="11429211240"/>
+    <nd ref="1485865561"/>
+    <nd ref="1485865556"/>
+    <nd ref="1485865504"/>
+    <nd ref="1485865502"/>
+    <nd ref="1485865498"/>
+    <nd ref="1485865487"/>
+    <nd ref="1485865499"/>
+    <nd ref="1485865486"/>
+    <nd ref="1485865479"/>
+    <nd ref="1485865472"/>
+    <nd ref="1485865485"/>
+    <nd ref="1485865483"/>
+    <nd ref="1485865580"/>
+    <nd ref="1485865581"/>
+    <nd ref="1485865582"/>
+    <tag k="brand" v="Esselunga"/>
+    <tag k="brand:wikidata" v="Q1059636"/>
+    <tag k="brand:wikipedia" v="en:Esselunga"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Esselunga"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 08:00-20:00"/>
+    <tag k="operator" v="Esselunga s.p.a."/>
+    <tag k="phone" v="+390269015604"/>
+    <tag k="ref:vatin" v="IT04916380159"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.esselunga.it/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="135701873" version="6" timestamp="2017-02-26T17:31:07Z" changeset="46421136" uid="1476146" user="Alecs01">
