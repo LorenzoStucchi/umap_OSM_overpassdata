@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-03T03:10:09Z" areas="2024-05-02T22:57:22Z"/>
+<meta osm_base="2024-05-04T03:10:27Z" areas="2024-05-03T23:18:41Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -21373,14 +21373,16 @@
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5983921245" lat="45.4809707" lon="9.1877192" version="6" timestamp="2024-02-28T17:30:25Z" changeset="148022159" uid="13840929" user="aa30mom">
+  <node id="5983921245" lat="45.4809707" lon="9.1877192" version="7" timestamp="2024-05-03T12:13:30Z" changeset="150834429" uid="6817530" user="Mzzntn">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Piazza Venticinque Aprile"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="regional"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Dispensa Emilia"/>
     <tag k="operator" v="Vaimo S.p.A."/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT03143150369"/>
     <tag k="website" v="https://www.dispensaemilia.it/it/i-ristoranti.html"/>
     <tag k="website:menu" v="https://www.dispensaemilia.it/locationMenu/milano-garibaldi-menu-it.pdf"/>
@@ -33253,14 +33255,18 @@
     <tag k="wikimedia_commons" v="Category:Villa Necchi Campiglio (Milan)"/>
     <tag k="wikipedia" v="it:Villa Necchi Campiglio"/>
   </way>
-  <way id="139092049" version="8" timestamp="2022-06-07T11:09:55Z" changeset="122067109" uid="11242131" user="ja+">
+  <way id="139092049" version="9" timestamp="2024-05-03T09:05:05Z" changeset="150826317" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5193804" lon="9.1450533"/>
     <nd ref="1524568248"/>
     <nd ref="9801401610"/>
+    <nd ref="11876064881"/>
+    <nd ref="11876064879"/>
     <nd ref="9801401611"/>
     <nd ref="1524568241"/>
     <nd ref="1524568250"/>
     <nd ref="9801401612"/>
+    <nd ref="11876064880"/>
+    <nd ref="11876064878"/>
     <nd ref="9801401609"/>
     <nd ref="1524568243"/>
     <nd ref="1524568248"/>
@@ -33272,17 +33278,22 @@
     <tag k="ref" v="3;4"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="139092054" version="8" timestamp="2022-06-07T11:09:55Z" changeset="122067109" uid="11242131" user="ja+">
+  <way id="139092054" version="9" timestamp="2024-05-03T09:05:05Z" changeset="150826317" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5194456" lon="9.1452096"/>
     <nd ref="1524568234"/>
     <nd ref="1524568242"/>
     <nd ref="9801401614"/>
+    <nd ref="11876064875"/>
+    <nd ref="11876064877"/>
     <nd ref="9801401615"/>
     <nd ref="1524568237"/>
     <nd ref="1524568253"/>
     <nd ref="9801401616"/>
+    <nd ref="11876064876"/>
+    <nd ref="11876064874"/>
     <nd ref="9801401613"/>
     <nd ref="1524568234"/>
     <tag k="area" v="yes"/>
@@ -33293,9 +33304,10 @@
     <tag k="ref" v="1;2"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="139161526" version="12" timestamp="2023-08-29T16:23:48Z" changeset="140550460" uid="1781586" user="fick89">
+  <way id="139161526" version="13" timestamp="2024-05-03T08:17:16Z" changeset="150824692" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4692781" lon="9.1743100"/>
     <nd ref="1525120847"/>
     <nd ref="10982055857"/>
@@ -33305,6 +33317,7 @@
     <nd ref="10982055860"/>
     <nd ref="10982055861"/>
     <nd ref="1525120829"/>
+    <nd ref="11875986796"/>
     <nd ref="1525120801"/>
     <nd ref="10982055863"/>
     <nd ref="10982055862"/>
@@ -33323,10 +33336,11 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="139161527" version="11" timestamp="2023-08-29T16:24:21Z" changeset="140550460" uid="1781586" user="fick89">
+  <way id="139161527" version="12" timestamp="2024-05-03T08:17:16Z" changeset="150824692" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4692008" lon="9.1741823"/>
     <nd ref="1525120836"/>
     <nd ref="1525120843"/>
+    <nd ref="11875986798"/>
     <nd ref="1525120852"/>
     <nd ref="1525120782"/>
     <nd ref="1525120836"/>
@@ -33343,12 +33357,13 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="139161528" version="13" timestamp="2023-08-29T16:23:50Z" changeset="140550460" uid="1781586" user="fick89">
+  <way id="139161528" version="14" timestamp="2024-05-03T08:17:16Z" changeset="150824692" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4693649" lon="9.1744376"/>
     <nd ref="1525120830"/>
     <nd ref="10982055855"/>
     <nd ref="10982055856"/>
     <nd ref="8423644206"/>
+    <nd ref="11875986794"/>
     <nd ref="8423644207"/>
     <nd ref="1525120794"/>
     <nd ref="1525120830"/>
@@ -33365,7 +33380,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="139161529" version="12" timestamp="2023-08-29T16:23:14Z" changeset="140550460" uid="1781586" user="fick89">
+  <way id="139161529" version="13" timestamp="2024-05-03T08:17:16Z" changeset="150824692" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4694357" lon="9.1745671"/>
     <nd ref="1525120853"/>
     <nd ref="10982055836"/>
@@ -33382,6 +33397,7 @@
     <nd ref="10982055854"/>
     <nd ref="10982055852"/>
     <nd ref="1525120783"/>
+    <nd ref="11875986792"/>
     <nd ref="10982055847"/>
     <nd ref="10982055846"/>
     <nd ref="1525120804"/>
@@ -33400,7 +33416,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="139161530" version="14" timestamp="2023-08-29T16:24:23Z" changeset="140550460" uid="1781586" user="fick89">
+  <way id="139161530" version="15" timestamp="2024-05-03T08:17:16Z" changeset="150824692" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4691124" lon="9.1740585"/>
     <nd ref="1525120799"/>
     <nd ref="10982055864"/>
@@ -33418,6 +33434,7 @@
     <nd ref="1525120832"/>
     <nd ref="10982055845"/>
     <nd ref="10982055844"/>
+    <nd ref="11875986800"/>
     <nd ref="1525120818"/>
     <nd ref="1525120805"/>
     <nd ref="10982055872"/>
@@ -33723,13 +33740,19 @@
     <tag k="wikimedia_commons" v="Category:Ponte delle Sirenette"/>
     <tag k="wikipedia" v="it:Ponte delle Sirenette"/>
   </way>
-  <way id="177514943" version="12" timestamp="2023-02-17T16:50:00Z" changeset="132685945" uid="989858" user="lohgun">
+  <way id="177514943" version="13" timestamp="2024-05-03T09:38:44Z" changeset="150827633" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5212057" lon="9.1674475"/>
     <nd ref="1879371337"/>
+    <nd ref="11876112909"/>
+    <nd ref="11876112905"/>
+    <nd ref="11876112903"/>
     <nd ref="1879371322"/>
     <nd ref="8772447343"/>
     <nd ref="8772447344"/>
     <nd ref="1879371321"/>
+    <nd ref="11876112902"/>
+    <nd ref="11876112904"/>
+    <nd ref="11876112908"/>
     <nd ref="1879371334"/>
     <nd ref="8772447346"/>
     <nd ref="8772447345"/>
@@ -33744,20 +33767,22 @@
     <tag k="ref" v="2;3"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="177514945" version="13" timestamp="2023-02-17T16:49:36Z" changeset="132685928" uid="989858" user="lohgun">
+  <way id="177514945" version="14" timestamp="2024-05-03T09:38:44Z" changeset="150827633" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5212394" lon="9.1672915"/>
     <nd ref="1879371323"/>
     <nd ref="8772447360"/>
+    <nd ref="11876112906"/>
+    <nd ref="11876112907"/>
+    <nd ref="11876112910"/>
     <nd ref="8772447347"/>
     <nd ref="1879371340"/>
     <nd ref="1879371343"/>
     <nd ref="8772447358"/>
     <nd ref="8772447359"/>
     <nd ref="8206691259"/>
-    <nd ref="1836582532"/>
-    <nd ref="1830617597"/>
     <nd ref="1830617595"/>
     <nd ref="8772447380"/>
     <nd ref="2066408438"/>
@@ -33776,6 +33801,7 @@
     <tag k="ref" v="1"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="181679626" version="3" timestamp="2020-11-17T20:20:57Z" changeset="94305856" uid="17774" user="goldmund100">
@@ -35562,16 +35588,18 @@
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="309384277" version="13" timestamp="2022-03-22T13:29:34Z" changeset="118779095" uid="11242131" user="ja+">
+  <way id="309384277" version="14" timestamp="2024-05-03T09:46:52Z" changeset="150827925" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5332492" lon="9.1726949"/>
     <nd ref="3147137576"/>
     <nd ref="3147137572"/>
+    <nd ref="11876063167"/>
     <nd ref="8290074500"/>
     <nd ref="8290074503"/>
     <nd ref="3147137578"/>
     <nd ref="3147137571"/>
     <nd ref="8290074502"/>
     <nd ref="8290074501"/>
+    <nd ref="11876063166"/>
     <nd ref="3147137576"/>
     <tag k="area" v="yes"/>
     <tag k="covered" v="partial"/>
@@ -35581,16 +35609,20 @@
     <tag k="ref" v="1;2"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="309384278" version="12" timestamp="2023-12-19T17:27:08Z" changeset="145300632" uid="3396014" user="Moncecchi Daniele">
+  <way id="309384278" version="13" timestamp="2024-05-03T09:46:52Z" changeset="150827925" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5332391" lon="9.1728640"/>
     <nd ref="3147137573"/>
     <nd ref="8290074498"/>
     <nd ref="8290074497"/>
+    <nd ref="11876063164"/>
     <nd ref="3406798700"/>
     <nd ref="3147137563"/>
     <nd ref="3147137564"/>
+    <nd ref="11876063158"/>
+    <nd ref="11876063165"/>
     <nd ref="8290074496"/>
     <nd ref="8290074499"/>
     <nd ref="3147137565"/>
@@ -35606,6 +35638,7 @@
     <tag k="ref" v="3"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="309386315" version="3" timestamp="2024-04-14T17:02:36Z" changeset="150002134" uid="20187800" user="micheledm">
@@ -37425,13 +37458,15 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810877" version="8" timestamp="2022-11-15T16:47:39Z" changeset="128950887" uid="17635148" user="Nomebrutto">
+  <way id="835810877" version="9" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5025182" lon="9.1590346"/>
     <nd ref="9449465225"/>
+    <nd ref="11876058070"/>
     <nd ref="9449465233"/>
     <nd ref="9449465234"/>
     <nd ref="9449465236"/>
     <nd ref="9449465235"/>
+    <nd ref="11876058069"/>
     <nd ref="9449465226"/>
     <nd ref="9449465225"/>
     <tag k="area" v="yes"/>
@@ -37448,17 +37483,19 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810878" version="9" timestamp="2023-09-13T12:45:04Z" changeset="141209896" uid="18306404" user="over_the_edge">
+  <way id="835810878" version="10" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5024975" lon="9.1588728"/>
     <nd ref="256256362"/>
     <nd ref="5996463213"/>
     <nd ref="1930274078"/>
-    <nd ref="1930273972"/>
+    <nd ref="11876058072"/>
+    <nd ref="11876058088"/>
     <nd ref="256256366"/>
     <nd ref="292694304"/>
     <nd ref="292694308"/>
     <nd ref="9449465238"/>
     <nd ref="9449465237"/>
+    <nd ref="11876058071"/>
     <nd ref="9449465227"/>
     <nd ref="256256362"/>
     <tag k="area" v="yes"/>
@@ -37475,14 +37512,16 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810879" version="8" timestamp="2023-09-13T12:45:03Z" changeset="141209896" uid="18306404" user="over_the_edge">
+  <way id="835810879" version="9" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5025405" lon="9.1592088"/>
     <nd ref="9449465224"/>
     <nd ref="9449465223"/>
+    <nd ref="11876046668"/>
     <nd ref="9449465240"/>
     <nd ref="9449465239"/>
     <nd ref="9449465241"/>
     <nd ref="9449465242"/>
+    <nd ref="11876046667"/>
     <nd ref="9449465224"/>
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
@@ -37498,13 +37537,15 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810880" version="8" timestamp="2023-09-13T12:45:03Z" changeset="141209896" uid="18306404" user="over_the_edge">
+  <way id="835810880" version="9" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5025629" lon="9.1593898"/>
     <nd ref="9449465221"/>
+    <nd ref="11876046666"/>
     <nd ref="9449465230"/>
     <nd ref="9449465229"/>
     <nd ref="9449465231"/>
     <nd ref="9449465232"/>
+    <nd ref="11876046665"/>
     <nd ref="9449465222"/>
     <nd ref="9449465221"/>
     <tag k="area" v="yes"/>
@@ -37521,10 +37562,11 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810881" version="9" timestamp="2023-09-13T12:45:01Z" changeset="141209896" uid="18306404" user="over_the_edge">
+  <way id="835810881" version="10" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5025844" lon="9.1595450"/>
     <nd ref="256256363"/>
     <nd ref="9449465220"/>
+    <nd ref="11876046664"/>
     <nd ref="9449465228"/>
     <nd ref="8804456850"/>
     <nd ref="7801398944"/>
@@ -37533,6 +37575,7 @@
     <nd ref="5144492023"/>
     <nd ref="1594544235"/>
     <nd ref="292694314"/>
+    <nd ref="11876046663"/>
     <nd ref="8804456849"/>
     <nd ref="2466195194"/>
     <nd ref="256256363"/>
@@ -37740,16 +37783,18 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147573" version="5" timestamp="2023-09-03T10:51:10Z" changeset="140752457" uid="1781586" user="fick89">
+  <way id="907147573" version="6" timestamp="2024-05-03T08:45:16Z" changeset="150825655" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4808481" lon="9.1624729"/>
     <nd ref="8423644167"/>
     <nd ref="8423644193"/>
     <nd ref="8423644191"/>
     <nd ref="8423644190"/>
+    <nd ref="11876023560"/>
     <nd ref="8423644189"/>
     <nd ref="8423644192"/>
     <nd ref="8423644166"/>
     <nd ref="8423644163"/>
+    <nd ref="11876023559"/>
     <nd ref="8423644164"/>
     <nd ref="8423644165"/>
     <nd ref="8423644167"/>
@@ -37768,15 +37813,17 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147574" version="5" timestamp="2023-09-03T10:51:42Z" changeset="140752457" uid="1781586" user="fick89">
+  <way id="907147574" version="6" timestamp="2024-05-03T08:45:16Z" changeset="150825655" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4807228" lon="9.1622332"/>
     <nd ref="8423644176"/>
     <nd ref="8423644173"/>
     <nd ref="8423644174"/>
+    <nd ref="11876023562"/>
     <nd ref="8423644175"/>
     <nd ref="8423644177"/>
     <nd ref="8423644172"/>
     <nd ref="8423644170"/>
+    <nd ref="11876023561"/>
     <nd ref="8423644169"/>
     <nd ref="8423644168"/>
     <nd ref="8423644171"/>
@@ -37796,17 +37843,19 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147575" version="6" timestamp="2023-09-03T10:51:32Z" changeset="140752457" uid="1781586" user="fick89">
+  <way id="907147575" version="7" timestamp="2024-05-03T08:45:16Z" changeset="150825655" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4807901" lon="9.1623437"/>
     <nd ref="8423644188"/>
     <nd ref="8423644186"/>
     <nd ref="8423644185"/>
+    <nd ref="11876023553"/>
     <nd ref="8423644184"/>
     <nd ref="8423644183"/>
     <nd ref="7661246271"/>
     <nd ref="8423644187"/>
     <nd ref="8423644182"/>
     <nd ref="8423644180"/>
+    <nd ref="11876023554"/>
     <nd ref="8423644179"/>
     <nd ref="8423644178"/>
     <nd ref="8423644181"/>
