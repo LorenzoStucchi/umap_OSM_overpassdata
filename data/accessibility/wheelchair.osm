@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-08T03:10:10Z" areas="2024-05-07T21:35:16Z"/>
+<meta osm_base="2024-05-09T03:11:01Z" areas="2024-05-08T22:14:20Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5648,8 +5648,10 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2168869456" lat="45.4835275" lon="9.2138213" version="7" timestamp="2023-11-04T15:44:09Z" changeset="143617391" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="name" v="Pittarosso"/>
+  <node id="2168869456" lat="45.4835275" lon="9.2138213" version="8" timestamp="2024-05-08T21:32:43Z" changeset="151076332" uid="69259" user="DnaX">
+    <tag k="brand" v="PittaRosso"/>
+    <tag k="brand:wikidata" v="Q105643314"/>
+    <tag k="name" v="PittaRosso"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="shoes"/>
@@ -6393,19 +6395,6 @@
     <tag k="shop" v="books"/>
     <tag k="short_name" v="La Feltrinelli"/>
     <tag k="website" v="https://www.lafeltrinelli.it/punto-vendita/milano/ls-milano-centrale/808"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2403719026" lat="45.4863997" lon="9.2039414" version="4" timestamp="2023-07-08T07:20:09Z" changeset="138252837" uid="1521733" user="feyeandal">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Piazza Duca d'Aosta"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="brand" v="Roadhouse"/>
-    <tag k="check_date" v="2023-07-08"/>
-    <tag k="level" v="3"/>
-    <tag k="name" v="Roadhouse"/>
-    <tag k="operator" v="Roadhouse"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2403719035" lat="45.4861743" lon="9.2036638" version="3" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="Davide Baroffio">
@@ -8234,7 +8223,10 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2542758142" lat="45.4836966" lon="9.2140168" version="4" timestamp="2023-11-04T15:44:37Z" changeset="143614303" uid="1875845" user="Valerio_Bozzolan">
+  <node id="2542758142" lat="45.4836966" lon="9.2140168" version="5" timestamp="2024-05-08T21:32:43Z" changeset="151076332" uid="69259" user="DnaX">
+    <tag k="brand" v="Lovable"/>
+    <tag k="brand:wikidata" v="Q122223926"/>
+    <tag k="clothes" v="underwear"/>
     <tag k="name" v="Lovable"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
@@ -14492,14 +14484,14 @@
     <tag k="wikimedia_commons" v="Category:Baptistery of San Giovanni alle Fonti (Milan)"/>
     <tag k="wikipedia" v="it:Battistero di San Giovanni alle Fonti"/>
   </node>
-  <node id="4142384896" lat="45.5081160" lon="9.2020779" version="4" timestamp="2023-11-04T01:00:45Z" changeset="143596207" uid="717233" user="jacopofar">
+  <node id="4142384896" lat="45.5081160" lon="9.2020779" version="5" timestamp="2024-05-08T19:52:41Z" changeset="151073180" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:postcode" v="20126"/>
     <tag k="addr:street" v="Viale Fulvio Testi"/>
     <tag k="brand" v="Ethos"/>
-    <tag k="check_date" v="2023-11-04"/>
+    <tag k="check_date" v="2024-05-08"/>
     <tag k="email" v="info@profumeriaerika.it"/>
     <tag k="fax" v="+39 02 66119815"/>
     <tag k="name" v="Erika Ethos"/>
@@ -16907,7 +16899,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4568358432" lat="45.5086591" lon="9.2023598" version="9" timestamp="2023-05-17T17:21:16Z" changeset="136222256" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4568358432" lat="45.5086591" lon="9.2023598" version="10" timestamp="2024-05-08T19:53:30Z" changeset="151073205" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="74"/>
@@ -16915,6 +16907,7 @@
     <tag k="addr:street" v="Viale Fulvio Testi"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-05-08"/>
     <tag k="check_date:opening_hours" v="2020-12-17"/>
     <tag k="cuisine" v="japanese"/>
     <tag k="email" v="info@kaseisushi.it"/>
@@ -16974,12 +16967,13 @@
     <tag k="website" v="https://www.otticabarili.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4568361059" lat="45.5079673" lon="9.2019593" version="4" timestamp="2023-09-15T16:30:17Z" changeset="141310141" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4568361059" lat="45.5079673" lon="9.2019593" version="5" timestamp="2024-05-08T19:52:41Z" changeset="151073180" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:postcode" v="20126"/>
     <tag k="addr:street" v="Viale Fulvio Testi"/>
+    <tag k="check_date" v="2024-05-08"/>
     <tag k="indoor_seating" v="no"/>
     <tag k="name" v="Piccolo Forno"/>
     <tag k="opening_hours" v="Tu-Su 06:00-20:00"/>
@@ -23518,6 +23512,18 @@
     <tag k="ref:vatin" v="IT09781370961"/>
     <tag k="reservation" v="yes"/>
     <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8653458830" lat="45.4862504" lon="9.2042450" version="7" timestamp="2024-05-08T09:23:20Z" changeset="151045029" uid="15581197" user="Luke_Vader">
+    <tag k="brand" v="MAC Cosmetics"/>
+    <tag k="brand:wikidata" v="Q2624442"/>
+    <tag k="brand:wikipedia" v="en:MAC Cosmetics"/>
+    <tag k="check_date" v="2023-07-08"/>
+    <tag k="level" v="2"/>
+    <tag k="name" v="MAC Cosmetics"/>
+    <tag k="opening_hours" v="Mo-Su 10:15-19:00"/>
+    <tag k="shop" v="cosmetics"/>
+    <tag k="short_name" v="M·A·C"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8653458841" lat="45.4855343" lon="9.2053635" version="6" timestamp="2023-10-16T11:14:28Z" changeset="142659721" uid="11220113" user="ivanbranco">
