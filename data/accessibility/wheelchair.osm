@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-09T03:11:01Z" areas="2024-05-08T22:14:20Z"/>
+<meta osm_base="2024-05-10T03:10:58Z" areas="2024-05-10T01:28:05Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -607,14 +607,14 @@
     <tag k="website" v="https://www.radetzky.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="269924649" lat="45.4799222" lon="9.1832687" version="9" timestamp="2023-11-11T16:58:38Z" changeset="143907730" uid="9451067" user="b-jazz-bot">
+  <node id="269924649" lat="45.4799222" lon="9.1832687" version="10" timestamp="2024-05-09T11:17:48Z" changeset="151094563" uid="18452174" user="Chiarant">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Alessandro Volta"/>
     <tag k="amenity" v="pub"/>
-    <tag k="check_date:currency:XBT" v="2023-01-05"/>
+    <tag k="check_date:currency:XBT" v="2024-05-09"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@scottduff.it"/>
     <tag k="name" v="Scott Duff"/>
@@ -15074,13 +15074,6 @@
     <tag k="website" v="http://www.mudec.it/ita/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4198482903" lat="45.4845787" lon="9.1671475" version="4" timestamp="2023-06-08T10:27:38Z" changeset="137090785" uid="3396014" user="Moncecchi Daniele">
-    <tag k="comment" v="ascensore"/>
-    <tag k="layer" v="0;-1"/>
-    <tag k="name" v="Gerusalemme"/>
-    <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="4207082862" lat="45.4871628" lon="9.1719943" version="3" timestamp="2023-01-28T09:09:41Z" changeset="131800024" uid="1477895" user="Renato Lapio">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -18808,8 +18801,9 @@
     <tag k="wikidata" v="Q2519375"/>
     <tag k="wikipedia" v="it:Duomo (metropolitana di Milano)"/>
   </node>
-  <node id="5239949512" lat="45.4701978" lon="9.1787439" version="5" timestamp="2018-02-17T15:14:00Z" changeset="56442665" uid="1476146" user="Alecs01">
+  <node id="5239949512" lat="45.4701978" lon="9.1787439" version="6" timestamp="2024-05-09T14:41:39Z" changeset="151104003" uid="5666811" user="DrWaluigi">
     <tag k="amenity" v="toilets"/>
+    <tag k="check_date" v="2024-05-09"/>
     <tag k="fee" v="no"/>
     <tag k="opening_hours" v="09:00-17:15"/>
     <tag k="wheelchair" v="yes"/>
@@ -19630,9 +19624,11 @@
     <tag k="phone" v="+39 02 2360187"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5486065954" lat="45.4718483" lon="9.1841364" version="2" timestamp="2019-09-13T14:15:32Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="5486065954" lat="45.4718483" lon="9.1841364" version="3" timestamp="2024-05-09T08:57:57Z" changeset="151087185" uid="5666811" user="DrWaluigi">
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Bar Cinque Stelle"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5486359528" lat="45.4442295" lon="9.2159570" version="6" timestamp="2023-12-01T20:02:00Z" changeset="144673508" uid="660521" user="konfiot">
@@ -30037,6 +30033,14 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11891071470" lat="45.5145032" lon="9.1655379" version="1" timestamp="2024-05-09T10:19:13Z" changeset="151092171" uid="10153698" user="Francesco Cioria">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="charge" v="0.1 cash"/>
+    <tag k="fee" v="yes"/>
+    <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -38182,18 +38186,22 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="951200514" version="5" timestamp="2024-05-02T08:27:35Z" changeset="150782118" uid="13878104" user="Nádudvari Tamás">
+  <way id="951200514" version="6" timestamp="2024-05-09T11:50:22Z" changeset="151095982" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4594167" lon="9.2235482"/>
     <nd ref="8804473720"/>
     <nd ref="8804473719"/>
+    <nd ref="11891232514"/>
+    <nd ref="11891232510"/>
     <nd ref="8804473713"/>
+    <nd ref="11891232507"/>
     <nd ref="8804473714"/>
+    <nd ref="11891232511"/>
     <nd ref="11068592947"/>
-    <nd ref="11068592938"/>
+    <nd ref="11891232515"/>
     <nd ref="8804473720"/>
     <tag k="area" v="yes"/>
     <tag k="covered" v="yes"/>
-    <tag k="layer" v="-1"/>
+    <tag k="layer" v="-2"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -38202,16 +38210,21 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="951200515" version="4" timestamp="2024-05-02T08:27:35Z" changeset="150782118" uid="13878104" user="Nádudvari Tamás">
+  <way id="951200515" version="5" timestamp="2024-05-09T11:50:22Z" changeset="151095982" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4595815" lon="9.2235494"/>
     <nd ref="8804473722"/>
     <nd ref="8804473721"/>
+    <nd ref="11891232517"/>
+    <nd ref="11891232513"/>
     <nd ref="8804473718"/>
+    <nd ref="11891232509"/>
     <nd ref="8804473717"/>
+    <nd ref="11891232512"/>
+    <nd ref="11891232516"/>
     <nd ref="8804473722"/>
     <tag k="area" v="yes"/>
     <tag k="covered" v="yes"/>
-    <tag k="layer" v="-1"/>
+    <tag k="layer" v="-2"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
@@ -38239,13 +38252,12 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="951200517" version="5" timestamp="2024-05-02T08:09:33Z" changeset="150781512" uid="13878104" user="Nádudvari Tamás">
+  <way id="951200517" version="6" timestamp="2024-05-09T11:00:34Z" changeset="151093928" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4668843" lon="9.2172931"/>
     <nd ref="8804473736"/>
     <nd ref="8804473730"/>
     <nd ref="8804473729"/>
     <nd ref="8804473735"/>
-    <nd ref="10743540201"/>
     <nd ref="8804473736"/>
     <tag k="area" v="yes"/>
     <tag k="bin" v="yes"/>
