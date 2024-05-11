@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-10T03:10:58Z" areas="2024-05-10T01:28:05Z"/>
+<meta osm_base="2024-05-11T03:09:50Z" areas="2024-05-10T23:21:41Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -626,7 +626,7 @@
     <tag k="website" v="https://scottduff.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="269925843" lat="45.4785976" lon="9.1842604" version="7" timestamp="2019-09-13T14:30:53Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="269925843" lat="45.4785976" lon="9.1842604" version="8" timestamp="2024-05-10T17:33:24Z" changeset="151157063" uid="5666811" user="DrWaluigi">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
@@ -634,7 +634,9 @@
     <tag k="addr:street" v="Via Alessandro Volta"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="email" v="info@voltastreet.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Volta Street"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 39669373"/>
     <tag k="website" v="http://www.voltastreet.it/"/>
     <tag k="wheelchair" v="no"/>
@@ -1670,7 +1672,7 @@
     <tag k="shop" v="mobile_phone"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="429422743" lat="45.4783800" lon="9.1843080" version="8" timestamp="2023-12-19T15:05:36Z" changeset="145295834" uid="4862063" user="tars4815">
+  <node id="429422743" lat="45.4783800" lon="9.1843080" version="9" timestamp="2024-05-10T17:33:09Z" changeset="151157063" uid="5666811" user="DrWaluigi">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1683,8 +1685,10 @@
     <tag k="check_date" v="2023-12-19"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="email" v="milano.lafoppa@assaje.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Assaje"/>
     <tag k="name:it" v="Assaje"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
@@ -3601,6 +3605,11 @@
   </node>
   <node id="1611026292" lat="45.4681214" lon="9.1550788" version="3" timestamp="2023-04-13T08:49:14Z" changeset="134851610" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Wagner"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026366" lat="45.4657092" lon="9.1860760" version="6" timestamp="2024-05-10T09:27:00Z" changeset="151134961" uid="5666811" user="DrWaluigi">
+    <tag k="name" v="Cordusio"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -12325,6 +12334,11 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3706579434" lat="45.4686396" lon="9.1820941" version="5" timestamp="2024-05-10T08:23:06Z" changeset="151132752" uid="5666811" user="DrWaluigi">
+    <tag k="name" v="Cairoli"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3706949085" lat="45.4791058" lon="9.2026434" version="7" timestamp="2023-04-15T09:04:20Z" changeset="134932119" uid="15541433" user="paulbrunner">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -17980,13 +17994,15 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4889789447" lat="45.4681746" lon="9.1819464" version="4" timestamp="2023-01-02T13:49:09Z" changeset="130788702" uid="13840929" user="aa30mom">
+  <node id="4889789447" lat="45.4681746" lon="9.1819464" version="6" timestamp="2024-05-10T09:11:26Z" changeset="151134827" uid="5666811" user="DrWaluigi">
     <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
     <tag k="name" v="Cairoli M1"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="tram_stop"/>
     <tag k="ref" v="11535"/>
     <tag k="shelter" v="yes"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -18747,10 +18763,12 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5176383323" lat="45.4531636" lon="9.1767658" version="3" timestamp="2022-11-12T18:21:49Z" changeset="128823125" uid="11350549" user="Nitnerock">
+  <node id="5176383323" lat="45.4531636" lon="9.1767658" version="4" timestamp="2024-05-10T14:48:42Z" changeset="151148702" uid="5666811" user="DrWaluigi">
     <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Vista Darsena"/>
     <tag k="opening_hours" v="Mo-Th 10:00-24:00; Fr,Sa 10:00-01:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5182384976" lat="45.4857690" lon="9.2051801" version="3" timestamp="2022-01-29T23:23:38Z" changeset="116762827" uid="11645399" user="davidoskky">
@@ -21116,16 +21134,17 @@
     <tag k="shop" v="furniture"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5808074659" lat="45.4757548" lon="9.1838823" version="7" timestamp="2024-03-30T17:32:19Z" changeset="149362045" uid="13840929" user="aa30mom">
+  <node id="5808074659" lat="45.4757548" lon="9.1838823" version="8" timestamp="2024-05-10T17:18:07Z" changeset="151157063" uid="5666811" user="DrWaluigi">
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
     <tag k="amenity" v="ice_cream"/>
     <tag k="email" v="info@oggigelato.it"/>
     <tag k="facebook" v="oggigelatomilano"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Officina gelato"/>
     <tag k="operator" v="Quinta Pila Srl"/>
-    <tag k="outdoor_seating" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 3944 7388"/>
     <tag k="ref:vatin" v="IT03664601204"/>
     <tag k="website" v="https://oggigelato.it/"/>
@@ -21998,6 +22017,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="6458102205" lat="45.4685038" lon="9.1829155" version="4" timestamp="2024-05-10T09:14:32Z" changeset="151134961" uid="5666811" user="DrWaluigi">
+    <tag k="name" v="Cairoli"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="6475087590" lat="45.5161589" lon="9.1794377" version="4" timestamp="2023-02-10T09:09:56Z" changeset="132346645" uid="1337142" user="Nordpfeil">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="98"/>
@@ -22343,12 +22367,12 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6966514005" lat="45.5054768" lon="9.1723645" version="4" timestamp="2024-02-27T09:54:55Z" changeset="147965613" uid="13840929" user="aa30mom">
+  <node id="6966514005" lat="45.5054768" lon="9.1723645" version="5" timestamp="2024-05-10T09:27:55Z" changeset="151135514" uid="13840929" user="aa30mom">
     <tag k="access" v="private"/>
     <tag k="addr:city" v="Milano"/>
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="private"/>
-    <tag k="colour" v="nero"/>
+    <tag k="colour" v="black"/>
     <tag k="foot" v="yes"/>
     <tag k="horse" v="no"/>
     <tag k="material" v="metal"/>
@@ -24631,12 +24655,14 @@
     <tag k="name" v="Romeo la Pinseria der Colosseo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9465886246" lat="45.4502173" lon="9.1778578" version="2" timestamp="2023-04-16T17:25:39Z" changeset="134984839" uid="15541433" user="paulbrunner">
+  <node id="9465886246" lat="45.4502173" lon="9.1778578" version="3" timestamp="2024-05-10T11:35:35Z" changeset="151141364" uid="5666811" user="DrWaluigi">
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2023-04-16"/>
     <tag k="cuisine" v="regional;pizza"/>
     <tag k="delivery" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Ai Balestrari"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 84934534"/>
     <tag k="website" v="https://www.aibalestrari.com/index.html"/>
     <tag k="wheelchair" v="yes"/>
