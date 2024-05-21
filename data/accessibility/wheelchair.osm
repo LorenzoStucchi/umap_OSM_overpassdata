@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-20T03:11:02Z" areas="2024-05-20T00:00:58Z"/>
+<meta osm_base="2024-05-21T03:10:15Z" areas="2024-05-21T00:44:59Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1672,7 +1672,7 @@
     <tag k="shop" v="mobile_phone"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="429422743" lat="45.4783800" lon="9.1843080" version="9" timestamp="2024-05-10T17:33:09Z" changeset="151157063" uid="5666811" user="DrWaluigi">
+  <node id="429422743" lat="45.4783800" lon="9.1843080" version="12" timestamp="2024-05-20T12:46:00Z" changeset="151578449" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -1684,10 +1684,13 @@
     <tag k="brewery" v="yes"/>
     <tag k="check_date" v="2023-12-19"/>
     <tag k="cuisine" v="pizza"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
     <tag k="email" v="milano.lafoppa@assaje.it"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Assaje"/>
     <tag k="name:it" v="Assaje"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-15:30,19:00-00:30"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
@@ -10306,7 +10309,7 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikimedia_commons" v="File:Fountain of Via Giovanni Calvino Milan.jpg"/>
   </node>
-  <node id="3133041040" lat="45.4721090" lon="9.1868077" version="4" timestamp="2022-11-20T17:37:09Z" changeset="129164508" uid="13840929" user="aa30mom">
+  <node id="3133041040" lat="45.4721090" lon="9.1868077" version="5" timestamp="2024-05-20T08:10:48Z" changeset="151565661" uid="113669" user="AnyFile">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Fiori Chiari"/>
@@ -10314,7 +10317,11 @@
     <tag k="cuisine" v="fish"/>
     <tag k="fixme" v="posizione"/>
     <tag k="name" v="Vesta Fiori Chiari"/>
+    <tag k="operator" v="Vest S.r.l"/>
     <tag k="phone" v="+39 02 49500590"/>
+    <tag k="reservation" v="recommended"/>
+    <tag k="reservation:website" v="https://www.sevenrooms.com/reservations/ristorantevesta"/>
+    <tag k="short_name" v="Vesta"/>
     <tag k="website" v="https://vestafiorichiari.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -12484,7 +12491,7 @@
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3758912413" lat="45.4820332" lon="9.1977872" version="3" timestamp="2019-09-13T10:06:59Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3758912413" lat="45.4822067" lon="9.1978522" version="4" timestamp="2024-05-20T20:57:19Z" changeset="151600263" uid="13920670" user="skizz98">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
@@ -12493,22 +12500,6 @@
     <tag k="name" v="Massive music"/>
     <tag k="shop" v="electronics"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="3758912416" lat="45.4826556" lon="9.1980147" version="2" timestamp="2019-09-13T10:10:06Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Via Gustavo Fara"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="email" v="info@osteriaquidanoi.it"/>
-    <tag k="fax" v="+39 02 66980365"/>
-    <tag k="name" v="Osteria Qui da Noi"/>
-    <tag k="opening_hours" v="Mo-Su 12:30-14:30,19:30-23:30"/>
-    <tag k="phone" v="+39 02 49634201"/>
-    <tag k="website" v="http://www.osteriaquidanoi.it/"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3758912417" lat="45.4839897" lon="9.1981999" version="2" timestamp="2019-09-13T10:18:05Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -19511,12 +19502,13 @@
     <tag k="operator" v="Banca Popolare di Sondrio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5414250927" lat="45.5012984" lon="9.1543176" version="5" timestamp="2021-09-25T10:26:24Z" changeset="111682321" uid="89897" user="airon90">
+  <node id="5414250927" lat="45.5012984" lon="9.1543176" version="7" timestamp="2024-05-20T07:40:10Z" changeset="151564452" uid="20905165" user="nu99et">
     <tag k="amenity" v="atm"/>
     <tag k="brand" v="Banca Popolare di Sondrio"/>
     <tag k="brand:wikidata" v="Q686176"/>
     <tag k="brand:wikipedia" v="en:Banca Popolare di Sondrio"/>
-    <tag k="check_date" v="2021-08-26"/>
+    <tag k="cash_in" v="no"/>
+    <tag k="check_date" v="2024-05-20"/>
     <tag k="name" v="Banca Popolare di Sondrio"/>
     <tag k="operator" v="Banca Popolare di Sondrio"/>
     <tag k="operator:wikidata" v="Q686176"/>
