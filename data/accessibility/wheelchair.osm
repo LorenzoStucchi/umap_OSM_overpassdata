@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-23T03:10:15Z" areas="2024-05-22T21:35:45Z"/>
+<meta osm_base="2024-05-24T03:10:35Z" areas="2024-05-23T22:04:53Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5468,7 +5468,7 @@
     <tag k="website" v="http://www.farmaciaorio.com/index.asp"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2116897931" lat="45.4756863" lon="9.2071426" version="10" timestamp="2021-09-26T21:04:10Z" changeset="111740681" uid="89897" user="airon90">
+  <node id="2116897931" lat="45.4756863" lon="9.2071426" version="11" timestamp="2024-05-23T19:41:29Z" changeset="151740684" uid="20905165" user="nu99et">
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:street" v="Via Lazzaro Spallanzani"/>
     <tag k="brand" v="U2"/>
@@ -5476,7 +5476,7 @@
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="U2"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-24:00; Su 09:00-24:00"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-22:00; Su 08:00-22:00"/>
     <tag k="operator" v="Unes Maxi S.p.A."/>
     <tag k="ref:vatin" v="IT07515280159"/>
     <tag k="shop" v="supermarket"/>
@@ -8471,6 +8471,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="2606120415" lat="45.4750862" lon="9.2058807" version="6" timestamp="2024-05-23T19:41:25Z" changeset="151740727" uid="20905165" user="nu99et">
+    <tag k="name" v="P.ta Venezia"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2610178738" lat="45.4844497" lon="9.2208922" version="3" timestamp="2018-07-30T20:05:58Z" changeset="61207012" uid="92387" user="SimonPoole">
     <tag k="amenity" v="vending_machine"/>
     <tag k="level" v="0"/>
@@ -10183,6 +10188,32 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="3073149777" lat="45.4759192" lon="9.2074484" version="9" timestamp="2024-05-23T19:41:33Z" changeset="151740675" uid="20905165" user="nu99et">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Via Lazzaro Spallanzani"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="branch" v="Via Spallanzani"/>
+    <tag k="brand" v="Radicetonda"/>
+    <tag k="capacity" v="50"/>
+    <tag k="check_date" v="2022-11-23"/>
+    <tag k="contact:email" v="info@radicetonda.it"/>
+    <tag k="contact:facebook" v="Radicetonda"/>
+    <tag k="contact:instagram" v="radicetonda.milano"/>
+    <tag k="contact:phone" v="+39 02 36737924"/>
+    <tag k="contact:website" v="https://www.radicetonda.it"/>
+    <tag k="diet:vegan" v="only"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Radicetonda"/>
+    <tag k="note:it" v="I 50 posti di capienza sono la somma dei 30 interni + 20 disponibili nel dehor"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-23:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="start_date" v="2012-03-01"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3078963339" lat="45.4831753" lon="9.1900897" version="6" timestamp="2023-06-17T14:36:23Z" changeset="137449779" uid="13365656" user="glemco">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -11535,6 +11566,18 @@
     <tag k="ref:vatin" v="IT02032980464"/>
     <tag k="shop" v="games"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3446545600" lat="45.4752777" lon="9.2048123" version="7" timestamp="2024-05-23T19:40:16Z" changeset="151740675" uid="20905165" user="nu99et">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="diet:vegan" v="no"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Maruzella"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-14:30,19:00-23:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="website" v="https://www.pizzeriamaruzzellamilano.it/"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3446548173" lat="45.4855047" lon="9.1881543" version="5" timestamp="2019-09-13T13:10:38Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="drinking_water"/>
@@ -15208,6 +15251,27 @@
     <tag k="shop" v="deli"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4224004271" lat="45.4757953" lon="9.2073824" version="7" timestamp="2024-05-23T19:41:34Z" changeset="151740675" uid="20905165" user="nu99et">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20129"/>
+    <tag k="addr:street" v="Via Lazzaro Spallanzani"/>
+    <tag k="branch" v="Milano Spallanzani"/>
+    <tag k="brand" v="Città del sole"/>
+    <tag k="brand:wikidata" v="Q115215840"/>
+    <tag k="check_date" v="2022-11-23"/>
+    <tag k="contact:email" v="mi.spallanzani@cittadelsole.com"/>
+    <tag k="contact:phone" v="+39 02 29412335"/>
+    <tag k="contact:twitter" v="Cittdelsole"/>
+    <tag k="contact:website" v="http://www.cittadelsole.it"/>
+    <tag k="contact:yelp" v="citt%C3%A0-del-sole-milano-10"/>
+    <tag k="name" v="Città del sole"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-19:30; Su 15:00-19:00"/>
+    <tag k="operator" v="Città del Sole SRL"/>
+    <tag k="ref:vatin" v="IT01362880153"/>
+    <tag k="shop" v="toys"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4225477389" lat="45.4651323" lon="9.1948315" version="5" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20122"/>
@@ -17124,7 +17188,7 @@
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4597769521" lat="45.4761875" lon="9.2075507" version="6" timestamp="2023-01-27T22:55:11Z" changeset="131791458" uid="77904" user="Kristjan ESPERANTO">
+  <node id="4597769521" lat="45.4761875" lon="9.2075507" version="8" timestamp="2024-05-23T19:41:31Z" changeset="151740673" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="20129"/>
@@ -17139,12 +17203,14 @@
     <tag k="cuisine" v="burger"/>
     <tag k="delivery" v="yes"/>
     <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
     <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Bun"/>
     <tag k="opening_hours" v="Mo-Su 11:00-23:00"/>
     <tag k="operator" v="Bun srl"/>
-    <tag k="outdoor_seating" v="terrace"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:edenred_card" v="yes"/>
@@ -17316,7 +17382,7 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4714128505" lat="45.4759847" lon="9.2075828" version="6" timestamp="2023-01-27T21:09:57Z" changeset="131788845" uid="77904" user="Kristjan ESPERANTO">
+  <node id="4714128505" lat="45.4759847" lon="9.2075828" version="7" timestamp="2024-05-23T19:41:32Z" changeset="151740672" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="20129"/>
@@ -17335,6 +17401,7 @@
     <tag k="delivery" v="yes"/>
     <tag k="diet:vegan" v="yes"/>
     <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Poke House"/>
     <tag k="opening_hours" v="Mo-Su 11:30-22:30"/>
@@ -22299,6 +22366,15 @@
     <tag k="shop" v="chemist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="6800357794" lat="45.4758087" lon="9.2068812" version="4" timestamp="2024-05-23T19:41:39Z" changeset="151740675" uid="20905165" user="nu99et">
+    <tag k="brand" v="H&amp;M"/>
+    <tag k="brand:wikidata" v="Q188326"/>
+    <tag k="brand:wikipedia" v="en:H&amp;M"/>
+    <tag k="name" v="H&amp;M"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="6804188461" lat="45.4709406" lon="9.1899548" version="2" timestamp="2022-08-27T12:37:46Z" changeset="125441177" uid="13920670" user="skizz98">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
@@ -22341,12 +22417,11 @@
     <tag k="ref:vatin" v="IT09495860968"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6847439725" lat="45.4751952" lon="9.2080791" version="4" timestamp="2021-01-16T15:21:18Z" changeset="97608619" uid="12169583" user="davidfaure_bot">
+  <node id="6847439725" lat="45.4751952" lon="9.2080791" version="5" timestamp="2024-05-23T19:41:36Z" changeset="151740682" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:postcode" v="20129"/>
     <tag k="addr:street" v="Via Melzo"/>
-    <tag k="amenity" v="cafe"/>
     <tag k="contact:email" v="info@teieraeclettica.it"/>
     <tag k="contact:facebook" v="https://www.facebook.com/LaTeieraEclettica"/>
     <tag k="contact:instagram" v="https://www.instagram.com/la_teiera_eclettica/"/>
@@ -22425,6 +22500,13 @@
   <node id="6919811666" lat="45.4766903" lon="9.2274977" version="2" timestamp="2022-11-30T13:39:21Z" changeset="129562556" uid="17843669" user="DomKor">
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6938836679" lat="45.4753541" lon="9.2078948" version="3" timestamp="2024-05-23T19:41:36Z" changeset="151740675" uid="20905165" user="nu99et">
+    <tag k="clothes" v="women"/>
+    <tag k="name" v="Eivissa"/>
+    <tag k="opening_hours" v="Tu-Sa 10:00-13:30,15:00-19:30"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="6938841386" lat="45.4746789" lon="9.2072001" version="4" timestamp="2023-08-17T11:25:07Z" changeset="140008011" uid="3199858" user="Mateusz Konieczny - bot account">
     <tag k="addr:city" v="Milano"/>
@@ -23956,6 +24038,16 @@
   <node id="8930870307" lat="45.4707841" lon="9.2221788" version="2" timestamp="2023-10-15T13:02:56Z" changeset="142616945" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Essegi.Car"/>
     <tag k="shop" v="car_repair"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="8938964143" lat="45.4742375" lon="9.2053652" version="8" timestamp="2024-05-23T19:41:16Z" changeset="151740727" uid="20905165" user="nu99et">
+    <tag k="name" v="P.ta Venezia"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="8938964161" lat="45.4745847" lon="9.2046544" version="5" timestamp="2024-05-23T19:41:06Z" changeset="151740727" uid="20905165" user="nu99et">
+    <tag k="name" v="P.ta Venezia"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="8946291224" lat="45.4834475" lon="9.1888055" version="5" timestamp="2022-09-09T08:31:38Z" changeset="125971280" uid="13840929" user="aa30mom">
@@ -25764,7 +25856,7 @@
     <tag k="wikidata" v="Q430991"/>
     <tag k="wikipedia" v="it:Comasina (metropolitana di Milano)"/>
   </node>
-  <node id="9844914105" lat="45.4754354" lon="9.2078100" version="2" timestamp="2023-05-24T08:08:10Z" changeset="136486340" uid="15541433" user="paulbrunner">
+  <node id="9844914105" lat="45.4755984" lon="9.2076299" version="4" timestamp="2024-05-23T19:41:35Z" changeset="151740672" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:postcode" v="20129"/>
@@ -25776,6 +25868,7 @@
     <tag k="contact:website" v="https://www.cocciuto.com/menu-cocciuto-spallanzani"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="delivery" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Cocciuto"/>
     <tag k="opening_hours" v="Mo-Th 12:00-15:00,19:00-23:30; Fr-Su 12:00-15:00,19:00-24:00"/>
@@ -27596,7 +27689,7 @@
     <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="10536755533" lat="45.4762039" lon="9.2049555" version="3" timestamp="2023-01-27T22:22:37Z" changeset="131790715" uid="77904" user="Kristjan ESPERANTO">
+  <node id="10536755533" lat="45.4762039" lon="9.2049555" version="4" timestamp="2024-05-23T19:40:24Z" changeset="151740672" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20124"/>
@@ -27611,6 +27704,7 @@
     <tag k="diet:gluten_free" v="yes"/>
     <tag k="diet:lactose_free" v="yes"/>
     <tag k="diet:vegan" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="customers"/>
     <tag k="internet_access:ssid" v="Guest-Caciara"/>
@@ -30204,6 +30298,14 @@
     <tag k="fee" v="yes"/>
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11929281923" lat="45.4756322" lon="9.2046415" version="4" timestamp="2024-05-23T19:40:22Z" changeset="151740675" uid="20905165" user="nu99et">
+    <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Orange Spritz Bar"/>
+    <tag k="opening_hours" v="Tu-Sa 18:00-02:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
@@ -35313,7 +35415,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="253369771" version="5" timestamp="2024-05-02T10:46:37Z" changeset="150787680" uid="13878104" user="Nádudvari Tamás">
+  <way id="253369771" version="6" timestamp="2024-05-23T15:14:51Z" changeset="151728726" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4527126" lon="9.1686563"/>
     <nd ref="2593050457"/>
     <nd ref="2593050452"/>
@@ -35331,6 +35433,7 @@
     <nd ref="11873863534"/>
     <nd ref="333763672"/>
     <nd ref="333763671"/>
+    <nd ref="11928579061"/>
     <nd ref="234702821"/>
     <nd ref="2593050641"/>
     <nd ref="2593050633"/>
@@ -35343,6 +35446,7 @@
     <nd ref="2593050654"/>
     <nd ref="2593050651"/>
     <nd ref="2593050629"/>
+    <nd ref="11928579060"/>
     <nd ref="2593050605"/>
     <nd ref="11873863535"/>
     <nd ref="2593050595"/>
@@ -37953,17 +38057,19 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845544" version="5" timestamp="2024-05-02T09:54:27Z" changeset="150785381" uid="13878104" user="Nádudvari Tamás">
+  <way id="904845544" version="6" timestamp="2024-05-23T14:24:29Z" changeset="151726330" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4342783" lon="9.2385322"/>
     <nd ref="8402976071"/>
     <nd ref="9560637372"/>
     <nd ref="9560637373"/>
     <nd ref="8402976084"/>
+    <nd ref="11928482742"/>
     <nd ref="11873758811"/>
     <nd ref="11873758812"/>
     <nd ref="8402976085"/>
     <nd ref="8402976083"/>
     <nd ref="9560637402"/>
+    <nd ref="11928482741"/>
     <nd ref="9566060284"/>
     <nd ref="8402976081"/>
     <nd ref="8402976072"/>
@@ -37989,19 +38095,21 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845545" version="6" timestamp="2024-05-02T09:54:27Z" changeset="150785381" uid="13878104" user="Nádudvari Tamás">
+  <way id="904845545" version="7" timestamp="2024-05-23T14:24:29Z" changeset="151726330" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4339605" lon="9.2393620"/>
     <nd ref="8402976089"/>
     <nd ref="9560637398"/>
     <nd ref="9530169290"/>
     <nd ref="8402976087"/>
     <nd ref="9560637397"/>
+    <nd ref="11928482726"/>
     <nd ref="9560637395"/>
     <nd ref="1474688241"/>
     <nd ref="4923004083"/>
     <nd ref="8402976088"/>
     <nd ref="11873758798"/>
     <nd ref="11873758797"/>
+    <nd ref="11928482727"/>
     <nd ref="8402976089"/>
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
@@ -38016,11 +38124,12 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845546" version="6" timestamp="2024-05-02T09:54:27Z" changeset="150785381" uid="13878104" user="Nádudvari Tamás">
+  <way id="904845546" version="7" timestamp="2024-05-23T14:24:29Z" changeset="151726330" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4341766" lon="9.2391159"/>
     <nd ref="8402976096"/>
     <nd ref="8402976094"/>
     <nd ref="9560637386"/>
+    <nd ref="11928482729"/>
     <nd ref="8402976092"/>
     <nd ref="11873758800"/>
     <nd ref="11873758802"/>
@@ -38030,6 +38139,7 @@
     <nd ref="9560637387"/>
     <nd ref="11873758801"/>
     <nd ref="11873758799"/>
+    <nd ref="11928482728"/>
     <nd ref="11153279204"/>
     <nd ref="8402976096"/>
     <tag k="area" v="yes"/>
@@ -38045,11 +38155,12 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845547" version="4" timestamp="2024-05-02T09:54:27Z" changeset="150785381" uid="13878104" user="Nádudvari Tamás">
+  <way id="904845547" version="5" timestamp="2024-05-23T14:24:29Z" changeset="151726330" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4337537" lon="9.2390640"/>
     <nd ref="8402976099"/>
     <nd ref="8402976098"/>
     <nd ref="8402976107"/>
+    <nd ref="11928482731"/>
     <nd ref="11873758804"/>
     <nd ref="11873758806"/>
     <nd ref="8402976106"/>
@@ -38058,6 +38169,7 @@
     <nd ref="11873758805"/>
     <nd ref="11873758803"/>
     <nd ref="9560637384"/>
+    <nd ref="11928482730"/>
     <nd ref="8402976104"/>
     <nd ref="9560637382"/>
     <nd ref="8402976099"/>
@@ -38074,12 +38186,13 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845548" version="5" timestamp="2024-05-02T09:54:27Z" changeset="150785381" uid="13878104" user="Nádudvari Tamás">
+  <way id="904845548" version="6" timestamp="2024-05-23T14:24:29Z" changeset="151726330" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4337307" lon="9.2389007"/>
     <nd ref="8402976114"/>
     <nd ref="8402976112"/>
     <nd ref="11873758808"/>
     <nd ref="11873758809"/>
+    <nd ref="11928482732"/>
     <nd ref="8402976111"/>
     <nd ref="9560637381"/>
     <nd ref="8402976109"/>
@@ -38088,6 +38201,7 @@
     <nd ref="9560637380"/>
     <nd ref="9560637376"/>
     <nd ref="8402976113"/>
+    <nd ref="11928482733"/>
     <nd ref="11873758810"/>
     <nd ref="11873758807"/>
     <nd ref="8402976114"/>
@@ -38164,7 +38278,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147575" version="7" timestamp="2024-05-03T08:45:16Z" changeset="150825655" uid="13878104" user="Nádudvari Tamás">
+  <way id="907147575" version="8" timestamp="2024-05-23T16:28:49Z" changeset="151731882" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4807901" lon="9.1623437"/>
     <nd ref="8423644188"/>
     <nd ref="8423644186"/>
@@ -38172,7 +38286,6 @@
     <nd ref="11876023553"/>
     <nd ref="8423644184"/>
     <nd ref="8423644183"/>
-    <nd ref="7661246271"/>
     <nd ref="8423644187"/>
     <nd ref="8423644182"/>
     <nd ref="8423644180"/>
