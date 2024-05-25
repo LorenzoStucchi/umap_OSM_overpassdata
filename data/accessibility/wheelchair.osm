@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-24T03:10:35Z" areas="2024-05-23T22:04:53Z"/>
+<meta osm_base="2024-05-25T03:10:49Z" areas="2024-05-24T23:29:12Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1533,13 +1533,14 @@
     <tag k="ref" v="38669"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="380522320" lat="45.4575393" lon="9.1923557" version="5" timestamp="2022-05-12T18:47:51Z" changeset="120902235" uid="6220204" user="Ysogo">
+  <node id="380522320" lat="45.4575393" lon="9.1923557" version="6" timestamp="2024-05-24T16:06:08Z" changeset="151777989" uid="6220204" user="Ysogo">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Via Santa Sofia"/>
     <tag k="amenity" v="post_office"/>
+    <tag k="check_date:opening_hours" v="2024-05-22"/>
     <tag k="fax" v="+39 02 58308396"/>
     <tag k="name" v="Milano 16"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-13:35, Sa 08:20-12:35; Su off"/>
@@ -9993,17 +9994,22 @@
     <tag k="shop" v="fabric"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3025539010" lat="45.4600131" lon="9.1803988" version="4" timestamp="2023-02-19T13:33:09Z" changeset="132745851" uid="1875845" user="Valerio_Bozzolan">
+  <node id="3025539010" lat="45.4600131" lon="9.1803988" version="5" timestamp="2024-05-24T13:13:56Z" changeset="151769442" uid="1861652" user="mascalzone67">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Cesare Correnti"/>
-    <tag k="brand" v="Conad City"/>
-    <tag k="brand:wikidata" v="Q57543102"/>
-    <tag k="name" v="Conad City"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.conad.it/ricerca-negozi/negozio.009944.html"/>
+    <tag k="brand" v="Pam Local"/>
+    <tag k="brand:wikidata" v="Q105614389"/>
+    <tag k="name" v="Pam Local"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-22:00, Su 09:00-22:00"/>
+    <tag k="operator" v="Pam"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="https://www.gdonews.it/2024/05/23/milano-e-sempre-piu-local-inaugurato-il-nuovo-punto-vendita-pam/"/>
+    <tag k="start_date" v="2024-05-21"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3025595217" lat="45.4611295" lon="9.1846857" version="3" timestamp="2019-01-01T13:11:04Z" changeset="65931770" uid="290680" user="wheelmap_visitor">
@@ -19375,7 +19381,7 @@
     <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5317139125" lat="45.4813587" lon="9.1746231" version="3" timestamp="2023-02-23T08:44:02Z" changeset="132914054" uid="89897" user="airon90">
+  <node id="5317139125" lat="45.4813587" lon="9.1746231" version="4" timestamp="2024-05-24T18:16:03Z" changeset="151783487" uid="8922202" user="CJJ2501">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:postcode" v="20154"/>
@@ -19383,6 +19389,7 @@
     <tag k="air_conditioning" v="yes"/>
     <tag k="alt_name" v="Longchang"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-05-24"/>
     <tag k="contact:email" v="info@trattorialongchang.com"/>
     <tag k="contact:facebook" v="100065801430122"/>
     <tag k="contact:foursquare" v="4c97b4a9533aa093d641dc45"/>
@@ -22764,6 +22771,16 @@
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="shop" v="convenience"/>
     <tag k="website" v="https://www.esselunga.it/cms/negozi/laesse.html"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7176356891" lat="45.5028987" lon="9.1797864" version="2" timestamp="2024-05-24T17:36:45Z" changeset="151781914" uid="21579419" user="IlVotta">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:postcode" v="20158"/>
+    <tag k="addr:street" v="Via Legnone"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza;burger;sandwich;fish;pasta"/>
+    <tag k="name" v="la grotta"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7177698268" lat="45.5030013" lon="9.1764761" version="2" timestamp="2021-01-31T09:32:41Z" changeset="98440383" uid="290680" user="wheelmap_visitor">
