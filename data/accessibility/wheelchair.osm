@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-07T03:14:19Z" areas="2024-06-07T00:08:15Z"/>
+<meta osm_base="2024-06-08T03:12:02Z" areas="2024-06-08T01:36:10Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5791,6 +5791,11 @@
     <tag k="name" v="Yamamay"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2175986839" lat="45.4575717" lon="9.1217163" version="4" timestamp="2024-06-07T19:46:05Z" changeset="152391145" uid="21337492" user="TetakTrinaesti">
+    <tag k="name" v="Inganni"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2181279962" lat="45.4837300" lon="9.2028876" version="4" timestamp="2023-04-07T15:33:27Z" changeset="134621873" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Centrale FS"/>
@@ -12178,7 +12183,7 @@
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3605721840" lat="45.4827529" lon="9.1808669" version="5" timestamp="2024-06-01T19:43:36Z" changeset="152136539" uid="1950277" user="Mannivu">
+  <node id="3605721840" lat="45.4827529" lon="9.1808669" version="6" timestamp="2024-06-07T13:44:14Z" changeset="152377594" uid="1950277" user="Mannivu">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:floor" v="0"/>
@@ -12187,6 +12192,7 @@
     <tag k="addr:street" v="Piazzale Antonio Baiamonti"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2024-06-01"/>
+    <tag k="contact:phone" v="+39 02 8278 4417"/>
     <tag k="cuisine" v="vietnamese"/>
     <tag k="internet_access" v="no"/>
     <tag k="level" v="0"/>
@@ -14191,6 +14197,17 @@
     <tag k="website" v="http://www.giannellicolori.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3935587732" lat="45.5015481" lon="9.1989969" version="6" timestamp="2024-06-07T16:33:38Z" changeset="152384523" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Piazzale Istria"/>
+    <tag k="name" v="Toscano"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="source" v="ds959"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3935589852" lat="45.5029049" lon="9.1990998" version="4" timestamp="2023-11-03T19:31:38Z" changeset="143588626" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -14211,6 +14228,18 @@
     <tag k="name" v="H.M. Tex."/>
     <tag k="ref:vatin" v="IT10792960964"/>
     <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3935596715" lat="45.5012221" lon="9.1986867" version="6" timestamp="2024-06-07T16:32:53Z" changeset="152384523" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Piazzale Istria"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Bar tabacchi"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Bar Vega"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3935597016" lat="45.5013132" lon="9.1982642" version="2" timestamp="2023-04-27T16:18:04Z" changeset="135435044" uid="3396014" user="Moncecchi Daniele">
@@ -20981,6 +21010,18 @@
   <node id="5716100921" lat="45.5007903" lon="9.1979043" version="3" timestamp="2023-11-03T19:41:10Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Arquati"/>
     <tag k="shop" v="fabric"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5716126874" lat="45.5011325" lon="9.1985261" version="3" timestamp="2024-06-07T16:32:42Z" changeset="152384523" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Piazzale Istria"/>
+    <tag k="craft" v="electronics_repair"/>
+    <tag k="name" v="Zara service"/>
+    <tag k="opening_hours" v="Mo 15:30-19:00; Tu-Fr 09:30-12:30,15:30-19:00; Sa 09:30-12:30; Su off"/>
+    <tag k="phone" v="+39 02 6080552"/>
+    <tag k="website" v="http://www.riparazionielettrodomesticimilano.net"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5718382732" lat="45.4861102" lon="9.1887063" version="3" timestamp="2019-09-13T13:13:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
