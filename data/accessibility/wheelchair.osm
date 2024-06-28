@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-27T03:13:00Z" areas="2024-06-13T01:59:49Z"/>
+<meta osm_base="2024-06-28T03:14:33Z" areas="2024-06-13T01:59:49Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -25145,11 +25145,12 @@
     <tag k="operator" v="Metropolitana Milanese"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9384004655" lat="45.4731704" lon="9.1973962" version="3" timestamp="2024-03-15T10:31:06Z" changeset="148680692" uid="6662874" user="Jan0707">
+  <node id="9384004655" lat="45.4731704" lon="9.1973962" version="4" timestamp="2024-06-27T15:46:25Z" changeset="153253915" uid="13551254" user="geo_thom">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="yes"/>
+    <tag k="fountain" v="drinking"/>
     <tag k="operator" v="Metropolitana Milanese"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -29139,6 +29140,16 @@
     <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="11019780945" lat="45.4287434" lon="9.2545457" version="2" timestamp="2024-06-28T01:00:07Z" changeset="153270850" uid="9319767" user="busnotturno95">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="11020498923" lat="45.4792309" lon="9.2096062" version="5" timestamp="2023-11-04T14:42:30Z" changeset="143614476" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Erboristeria Magentina"/>
     <tag k="shop" v="herbalist"/>
@@ -32362,6 +32373,31 @@
     <tag k="amenity" v="parking"/>
     <tag k="wheelchair" v="limited"/>
   </way>
+  <way id="30703942" version="8" timestamp="2024-06-27T16:56:45Z" changeset="153256925" uid="3847112" user="YieldMapper">
+    <center lat="45.4740692" lon="9.2015228"/>
+    <nd ref="339559642"/>
+    <nd ref="339559610"/>
+    <nd ref="339559615"/>
+    <nd ref="5606565276"/>
+    <nd ref="339559608"/>
+    <nd ref="339559619"/>
+    <nd ref="339559606"/>
+    <nd ref="339559638"/>
+    <nd ref="5606565275"/>
+    <nd ref="339559635"/>
+    <nd ref="339559632"/>
+    <nd ref="5606565274"/>
+    <nd ref="339559642"/>
+    <tag k="attraction" v="carousel"/>
+    <tag k="building" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Giostra"/>
+    <tag k="name:de" v="Karussell"/>
+    <tag k="name:es" v="Carrusel"/>
+    <tag k="name:fr" v="Caroussel"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
   <way id="31068302" version="17" timestamp="2023-12-24T17:57:20Z" changeset="145476553" uid="13840929" user="aa30mom">
     <center lat="45.4545040" lon="9.1617516"/>
     <nd ref="345452703"/>
@@ -32875,6 +32911,20 @@
     <tag k="wikidata" v="Q15992518"/>
     <tag k="wikimedia_commons" v="Category:San Pio X (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Pio X (Milano)"/>
+  </way>
+  <way id="40492172" version="6" timestamp="2024-06-27T16:57:01Z" changeset="153256925" uid="3847112" user="YieldMapper">
+    <center lat="45.4737691" lon="9.2013864"/>
+    <nd ref="490790765"/>
+    <nd ref="490790766"/>
+    <nd ref="490790768"/>
+    <nd ref="490790769"/>
+    <nd ref="490790765"/>
+    <tag k="attraction" v="bumper_car"/>
+    <tag k="building" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Autoscontri per bambini"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="41267782" version="12" timestamp="2024-03-25T10:32:44Z" changeset="149123947" uid="11220113" user="ivanbranco">
     <center lat="45.4848999" lon="9.2259978"/>
