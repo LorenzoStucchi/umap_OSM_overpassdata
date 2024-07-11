@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-10T03:14:06Z" areas="2024-07-10T00:45:00Z"/>
+<meta osm_base="2024-07-11T03:15:35Z" areas="2024-07-10T22:01:02Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -608,7 +608,7 @@
     <tag k="website" v="https://www.radetzky.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="269924649" lat="45.4799222" lon="9.1832687" version="10" timestamp="2024-05-09T11:17:48Z" changeset="151094563" uid="18452174" user="Chiarant">
+  <node id="269924649" lat="45.4799222" lon="9.1832687" version="11" timestamp="2024-07-10T19:37:15Z" changeset="153798357" uid="1496865" user="mauropili">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="13"/>
@@ -623,7 +623,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="no"/>
-    <tag k="phone" v="+39 229002574"/>
+    <tag k="phone" v="+39 02 29002574"/>
     <tag k="website" v="https://scottduff.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -11600,6 +11600,25 @@
     <tag k="ref:vatin" v="IT08604100159"/>
     <tag k="shop" v="watches"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3312777051" lat="45.4782695" lon="9.1826780" version="3" timestamp="2024-07-10T07:38:16Z" changeset="153771330" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:street" v="Via della Moscova"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-06-29"/>
+    <tag k="contact:foursquare" v="bece82fec74e42f5195a335d"/>
+    <tag k="contact:phone" v="+39 02 29006558"/>
+    <tag k="contact:tripadvisor" v="17605810"/>
+    <tag k="contact:yelp" v="granny-di-loiacono-milano"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Bar Granny"/>
+    <tag k="operator" v="Loiacono Caterina Loredana"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT111658660151"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3312782861" lat="45.4779218" lon="9.1839707" version="6" timestamp="2024-03-28T14:40:09Z" changeset="149272728" uid="13840929" user="aa30mom">
     <tag k="amenity" v="bank"/>
@@ -23639,19 +23658,19 @@
     <tag k="website" v="https://www.moxoff.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8010543302" lat="45.4847020" lon="9.2366788" version="4" timestamp="2023-09-14T08:38:10Z" changeset="141245941" uid="3396014" user="Moncecchi Daniele">
+  <node id="8010543302" lat="45.4847159" lon="9.2367212" version="5" timestamp="2024-07-10T22:49:35Z" changeset="153802173" uid="9319767" user="busnotturno95">
     <tag k="entrance" v="yes"/>
     <tag k="name" v="Lambrate FS"/>
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8010543382" lat="45.4846503" lon="9.2367473" version="4" timestamp="2023-09-14T08:38:10Z" changeset="141245941" uid="3396014" user="Moncecchi Daniele">
+  <node id="8010543382" lat="45.4846696" lon="9.2367905" version="5" timestamp="2024-07-10T22:49:35Z" changeset="153802173" uid="9319767" user="busnotturno95">
     <tag k="entrance" v="yes"/>
     <tag k="name" v="Lambrate FS"/>
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8010543383" lat="45.4847833" lon="9.2366438" version="4" timestamp="2023-09-14T08:38:10Z" changeset="141245941" uid="3396014" user="Moncecchi Daniele">
+  <node id="8010543383" lat="45.4848051" lon="9.2366834" version="5" timestamp="2024-07-10T22:49:35Z" changeset="153802173" uid="9319767" user="busnotturno95">
     <tag k="entrance" v="yes"/>
     <tag k="name" v="Lambrate FS"/>
     <tag k="railway" v="train_station_entrance"/>
@@ -40674,6 +40693,23 @@
     <tag k="height" v="30"/>
     <tag k="layer" v="0"/>
     <tag k="roof:colour" v="#ACA4A4"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1300621459" version="1" timestamp="2024-07-10T22:49:35Z" changeset="153802173" uid="9319767" user="busnotturno95">
+    <center lat="45.4848563" lon="9.2366019"/>
+    <nd ref="12046814137"/>
+    <nd ref="12046814138"/>
+    <nd ref="12046814139"/>
+    <nd ref="12046814140"/>
+    <nd ref="12046814137"/>
+    <tag k="amenity" v="shelter"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="no"/>
+    <tag k="building" v="yes"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Lambrate FS M2"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="shelter_type" v="public_transport"/>
     <tag k="wheelchair" v="yes"/>
   </way>
 
