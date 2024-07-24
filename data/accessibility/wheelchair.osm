@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-23T03:15:30Z" areas="2024-07-23T01:46:00Z"/>
+<meta osm_base="2024-07-24T03:14:57Z" areas="2024-07-23T22:23:45Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -13681,15 +13681,21 @@
     <tag k="website" v="https://spontinimilano.com/pizzerie/MILANO-DUCA-D-AOSTA/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3848621999" lat="45.4823746" lon="9.2035057" version="4" timestamp="2021-09-17T08:20:41Z" changeset="111325360" uid="3860151" user="Michele Aquilani">
+  <node id="3848621999" lat="45.4823746" lon="9.2035057" version="5" timestamp="2024-07-23T11:37:09Z" changeset="154302895" uid="21774131" user="fretzi">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Roberto Lepetit"/>
     <tag k="amenity" v="cafe"/>
-    <tag k="name" v="Tuyo Cafè"/>
-    <tag k="wheelchair" v="limited"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Nice Cafè"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-02:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+393279736359"/>
+    <tag k="website" v="https://nicecafe.eatbu.com/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3848624522" lat="45.4812038" lon="9.2012194" version="5" timestamp="2023-11-07T09:55:48Z" changeset="143728613" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
@@ -31196,12 +31202,12 @@
     <tag k="survey:date" v="2024-07-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12064649717" lat="45.4904079" lon="9.1880093" version="1" timestamp="2024-07-20T12:48:30Z" changeset="154177968" uid="3911830" user="AnyFile_OsmAnd">
+  <node id="12064649717" lat="45.4904079" lon="9.1880093" version="2" timestamp="2024-07-23T07:12:08Z" changeset="154291845" uid="616774" user="mueschel">
     <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Alserio"/>
-    <tag k="addrr:postcode" v="20159"/>
     <tag k="amenity" v="cafe"/>
-    <tag k="contact:facebook" v="https://m.facebook.com/dolcevitabistrot/"/>
+    <tag k="contact:facebook" v="dolcevitabistrot"/>
     <tag k="name" v="Dolcevita Bistrot"/>
     <tag k="opening_hours" v="Tu-Su 07:00-23:00; Mo 07:00-18:00"/>
     <tag k="phone" v="+39 02 39525210"/>
@@ -38332,7 +38338,7 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="548544434" version="5" timestamp="2024-06-23T18:56:35Z" changeset="153081734" uid="9319767" user="busnotturno95">
+  <way id="548544434" version="6" timestamp="2024-07-23T09:14:27Z" changeset="154296983" uid="8350372" user="Balaabirami">
     <center lat="45.4575829" lon="9.2221915"/>
     <nd ref="5299252942"/>
     <nd ref="10613872833"/>
@@ -38340,6 +38346,7 @@
     <tag k="bench" v="yes"/>
     <tag k="bus" v="no"/>
     <tag k="departures_board" v="realtime"/>
+    <tag k="footway" v="sidewalk"/>
     <tag k="lit" v="yes"/>
     <tag k="name" v="Piazzale Martini"/>
     <tag k="network" v="STIBM"/>
