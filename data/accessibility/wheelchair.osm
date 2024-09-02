@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-01T03:29:30Z" areas="2024-08-31T22:08:14Z"/>
+<meta osm_base="2024-09-02T03:23:13Z" areas="2024-09-01T22:09:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1556,7 +1556,7 @@
     <tag k="ref" v="38129"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="389528607" lat="45.4577323" lon="9.1652355" version="6" timestamp="2018-02-03T09:17:06Z" changeset="56024051" uid="1476146" user="Alecs01">
+  <node id="389528607" lat="45.4578178" lon="9.1651745" version="7" timestamp="2024-09-01T14:47:13Z" changeset="156058021" uid="13857163" user="Nokse22">
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -19599,17 +19599,15 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5271533014" lat="45.4713986" lon="9.1843249" version="2" timestamp="2019-09-13T14:17:28Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="5271533014" lat="45.4713986" lon="9.1843249" version="3" timestamp="2024-09-01T13:27:24Z" changeset="156054533" uid="3911830" user="AnyFile_OsmAnd">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Mercato"/>
-    <tag k="amenity" v="fast_food"/>
+    <tag k="amenity" v="cafe"/>
     <tag k="cuisine" v="sandwich"/>
-    <tag k="name" v="Panini Durini"/>
-    <tag k="opening_hours" v="Mo 07:00-20:30; Tu-Su 07:00-23:00"/>
-    <tag k="phone" v="+39 02 89095343"/>
+    <tag k="name" v="Emma Coffee and Bakery"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5271533019" lat="45.4712593" lon="9.1840548" version="3" timestamp="2023-01-07T15:42:04Z" changeset="130985745" uid="1875845" user="Valerio_Bozzolan">
@@ -31229,6 +31227,16 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="12149734931" lat="45.4785599" lon="9.2275629" version="1" timestamp="2024-09-01T13:18:28Z" changeset="156054117" uid="13857163" user="Nokse22">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12149734932" lat="45.4789510" lon="9.2275760" version="1" timestamp="2024-09-01T13:18:28Z" changeset="156054117" uid="13857163" user="Nokse22">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -37317,13 +37325,15 @@
     <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="339751565" version="4" timestamp="2021-10-20T16:51:19Z" changeset="112753593" uid="13204656" user="Erica Pedone">
-    <center lat="45.4552797" lon="9.1583812"/>
+  <way id="339751565" version="5" timestamp="2024-09-01T16:22:18Z" changeset="156062170" uid="13857163" user="Nokse22">
+    <center lat="45.4552797" lon="9.1583784"/>
     <nd ref="3469674650"/>
     <nd ref="3356929739"/>
     <nd ref="3469674620"/>
     <nd ref="4885927716"/>
+    <nd ref="12150038529"/>
     <nd ref="3469674624"/>
+    <nd ref="12150038528"/>
     <nd ref="4885927717"/>
     <nd ref="3469674650"/>
     <tag k="barrier" v="fence"/>
