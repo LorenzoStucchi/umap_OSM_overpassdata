@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-09T03:24:30Z" areas="2024-09-09T02:00:30Z"/>
+<meta osm_base="2024-09-10T03:23:11Z" areas="2024-09-09T22:11:59Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -538,6 +538,21 @@
     <tag k="ref:vatin" v="IT12588160155"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="website" v="https://www.farmaciahumanitas.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="267879828" lat="45.4903622" lon="9.1010367" version="8" timestamp="2024-09-09T11:12:27Z" changeset="156389365" uid="21935859" user="IMMdesignlab">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20151"/>
+    <tag k="addr:street" v="Piazza Rosa Scolari"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2024-09-09"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia Municipale 44"/>
+    <tag k="ref:msal" v="2675"/>
+    <tag k="ref:vatin" v="IT01199250158"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="268403462" lat="45.4312791" lon="9.1626739" version="4" timestamp="2021-11-07T00:42:13Z" changeset="113465038" uid="11645399" user="davidoskky">
@@ -1556,8 +1571,9 @@
     <tag k="ref" v="38129"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="389528607" lat="45.4578178" lon="9.1651745" version="7" timestamp="2024-09-01T14:47:13Z" changeset="156058021" uid="13857163" user="Nokse22">
+  <node id="389528607" lat="45.4578178" lon="9.1651745" version="8" timestamp="2024-09-09T23:35:39Z" changeset="156417275" uid="13857163" user="Nokse22">
     <tag k="amenity" v="drinking_water"/>
+    <tag k="man_made" v="water_tap"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="389949446" lat="45.4804312" lon="9.2106619" version="9" timestamp="2024-05-04T16:57:03Z" changeset="150889699" uid="21081459" user="Nathan Hadley">
@@ -4435,6 +4451,15 @@
     <tag k="addr:street" v="Via Gaetano De Castillia"/>
     <tag k="name" v="Maire Tecnimont"/>
     <tag k="office" v="company"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1771383950" lat="45.5043176" lon="9.1720578" version="4" timestamp="2024-09-09T11:12:31Z" changeset="156389368" uid="21935859" user="IMMdesignlab">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="20158"/>
+    <tag k="addr:street" v="Via Filippo Baldinucci"/>
+    <tag k="barrier" v="gate"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="1772521140" lat="45.5050197" lon="9.2471266" version="5" timestamp="2023-06-06T10:25:47Z" changeset="137008232" uid="3396014" user="Moncecchi Daniele">
@@ -25067,9 +25092,11 @@
     <tag k="shop" v="chemist"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9346217264" lat="45.4824867" lon="9.2127510" version="5" timestamp="2024-06-19T19:12:20Z" changeset="152911286" uid="717233" user="jacopofar">
+  <node id="9346217264" lat="45.4824867" lon="9.2127510" version="6" timestamp="2024-09-09T07:31:35Z" changeset="156380898" uid="21876070" user="Ebadm">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="brand" v="Nike"/>
+    <tag k="brand:wikidata" v="Q483915"/>
     <tag k="check_date" v="2024-06-19"/>
     <tag k="clothes" v="sports"/>
     <tag k="name" v="Nike"/>
@@ -31265,10 +31292,11 @@
     <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12162487781" lat="45.4578692" lon="9.1651186" version="1" timestamp="2024-09-07T21:06:03Z" changeset="156329183" uid="13857163" user="Nokse22">
+  <node id="12162487781" lat="45.4578692" lon="9.1651186" version="2" timestamp="2024-09-09T23:35:45Z" changeset="156417275" uid="13857163" user="Nokse22">
     <tag k="access" v="permissive"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="no"/>
+    <tag k="fountain" v="bottle_refill"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -38720,6 +38748,30 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="no"/>
   </way>
+  <way id="731955525" version="3" timestamp="2024-09-09T11:12:27Z" changeset="156389365" uid="21935859" user="IMMdesignlab">
+    <center lat="45.4914797" lon="9.1019240"/>
+    <nd ref="6854095813"/>
+    <nd ref="1917469764"/>
+    <nd ref="1917469762"/>
+    <nd ref="1917469776"/>
+    <nd ref="1917469774"/>
+    <nd ref="1917469750"/>
+    <nd ref="9297341566"/>
+    <nd ref="6854095813"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:postcode" v="20151"/>
+    <tag k="addr:street" v="Via Lampugnano"/>
+    <tag k="architect" v="Farnia Ferrari"/>
+    <tag k="building" v="residential"/>
+    <tag k="building:colour" v="Bianco"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:levels:underground" v="0"/>
+    <tag k="building:material" v="plaster"/>
+    <tag k="building:prefabricated" v="no"/>
+    <tag k="description" v="Recupero cascina storica"/>
+    <tag k="roof:shape" v="gabled"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="732244879" version="6" timestamp="2024-04-06T10:13:17Z" changeset="149648484" uid="19981378" user="u1009">
     <center lat="45.4946949" lon="9.1823561"/>
     <nd ref="6856566089"/>
@@ -39744,6 +39796,24 @@
     <nd ref="8947215714"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="1007787066" version="2" timestamp="2024-09-09T11:12:27Z" changeset="156389365" uid="21935859" user="IMMdesignlab">
+    <center lat="45.4902722" lon="9.1013874"/>
+    <nd ref="9297341541"/>
+    <nd ref="9297341545"/>
+    <nd ref="9297341542"/>
+    <nd ref="9297341543"/>
+    <nd ref="9297341544"/>
+    <nd ref="9297341567"/>
+    <nd ref="9297341541"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2024-09-09"/>
+    <tag k="description" v="Cappella votiva alla Madonna"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="opening_hours" v="off"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="1021171778" version="3" timestamp="2024-05-01T10:53:29Z" changeset="150744039" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.4780332" lon="9.1567504"/>
