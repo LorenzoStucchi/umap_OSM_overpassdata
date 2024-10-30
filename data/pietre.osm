@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-29T03:04:02Z" areas="2024-10-29T00:46:40Z"/>
+<meta osm_base="2024-10-30T03:03:29Z" areas="2024-10-29T21:03:14Z"/>
 
   <node id="2347917158" lat="43.5456560" lon="10.3083228">
     <tag k="artist_name" v="Gunter Demnig"/>
@@ -2000,6 +2000,7 @@
     <tag k="name" v="Jožef Ferfolja"/>
     <tag k="operator" v="Občina Sovodnje - VZPI-AMPI za Gabrje, Rupo, Peč in Sovodnje"/>
     <tag k="start_date" v="2022-01-26"/>
+    <tag k="wikimedia_commons" v="File:Stolperstein für Jožef Ferfolja (Savogna d`Isonzo).jpg"/>
   </node>
   <node id="9452983536" lat="45.9102681" lon="13.5815951">
     <tag k="historic" v="memorial"/>
@@ -2008,6 +2009,7 @@
     <tag k="name" v="Peter Uršič"/>
     <tag k="operator" v="Občina Sovodnje - VZPI-AMPI za Gabrje, Rupo, Peč in Sovodnje"/>
     <tag k="start_date" v="2022-01-26"/>
+    <tag k="wikimedia_commons" v="File:Stolperstein für Peter Uršič (Savogna d'Isonzo).jpg"/>
   </node>
   <node id="9453642571" lat="45.6168011" lon="9.4181502">
     <tag k="historic" v="memorial"/>
@@ -3160,24 +3162,51 @@
   </node>
   <node id="12294266323" lat="45.8724415" lon="13.5791500">
     <tag k="historic" v="memorial"/>
-    <tag k="memorial" v="stolperstein"/>
-    <tag k="name" v="Severina Malič"/>
-    <tag k="operator" v="Slovensko katoliško društvo Hrast"/>
-    <tag k="start_date" v="2023-01-27"/>
-  </node>
-  <node id="12294266324" lat="45.8724440" lon="13.5791519">
-    <tag k="historic" v="memorial"/>
-    <tag k="memorial" v="stolperstein"/>
-    <tag k="name" v="Jožef Malič"/>
-    <tag k="operator" v="Slovensko katoliško društvo Hrast"/>
-    <tag k="start_date" v="2023-01-27"/>
-  </node>
-  <node id="12294266325" lat="45.8724427" lon="13.5791509">
-    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="TUKAJ JE PREBIVALA / ALOJZIJA / MARUŠIČ MALIČ / ROJ. 1901 / PREGNANA 15.12.1944 / RAVENSBRÜCK / UMORJENA"/>
+    <tag k="material" v="metal"/>
     <tag k="memorial" v="stolperstein"/>
     <tag k="name" v="Alojzija Marušič"/>
     <tag k="operator" v="Slovensko katoliško društvo Hrast"/>
     <tag k="start_date" v="2023-01-27"/>
+    <tag k="wikimedia_commons" v="File:Stolperstein Alojzija Marušič Malič (DEVETAKI-GO-I).jpg"/>
+  </node>
+  <node id="12294266324" lat="45.8724440" lon="13.5791519">
+    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="TUKAJ JE PREBIVAL / JOŽEF MALIČ / ROJ. 1900 / PREGNAN 15.12.1944 / DACHAU / UMORJEN"/>
+    <tag k="material" v="metal"/>
+    <tag k="memorial" v="stolperstein"/>
+    <tag k="name" v="Jožef Malič"/>
+    <tag k="operator" v="Slovensko katoliško društvo Hrast"/>
+    <tag k="start_date" v="2023-01-27"/>
+    <tag k="wikimedia_commons" v="File:Stolperstein Jožef Malič (DEVETAKI-GO-I).jpg"/>
+  </node>
+  <node id="12294266325" lat="45.8724427" lon="13.5791509">
+    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="TUKAJ JE PREBIVALA / SEVERINA MALIČ / ROJ. 1925 / PREGNANA 15.12.1944 / RAVENSBRÜCK / UMORJENA"/>
+    <tag k="material" v="metal"/>
+    <tag k="memorial" v="stolperstein"/>
+    <tag k="name" v="Severina Malič"/>
+    <tag k="operator" v="Slovensko katoliško društvo Hrast"/>
+    <tag k="start_date" v="2023-01-27"/>
+    <tag k="wikimedia_commons" v="File:Stolperstein Severina Malič (DEVETAKI-GO-I).jpg"/>
+  </node>
+  <node id="12297231766" lat="45.8947632" lon="13.5822686">
+    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="TUKAJ JE PREBIVAL / PETER JUREN / ROJ. 1905 / DEPORTIRAN 1944 / DACHAU / UMORJEN 8.1.1945 / BUCHENWALD"/>
+    <tag k="memorial" v="stolperstein"/>
+    <tag k="name" v="Peter Juren"/>
+    <tag k="operator" v="Občina Sovodnje - VZPI-AMPI za Gabrje, Rupo, Peč in Sovodnje"/>
+    <tag k="start_date" v="2023-01-25"/>
+    <tag k="wikimedia_commons" v="File:Stolperstein für Peter Juren (Peci).jpg"/>
+  </node>
+  <node id="12297800244" lat="45.9099021" lon="13.5793703">
+    <tag k="historic" v="memorial"/>
+    <tag k="inscription" v="TUKAJ JE PREBIVAL / ALOJZ TOMSIČ / ROJ. 1908 / USTRELJEN 3.11.1944 / RIŽARNA V TRSTU"/>
+    <tag k="memorial" v="stolperstein"/>
+    <tag k="name" v="Alojz Tomsič"/>
+    <tag k="operator" v="Občina Sovodnje - VZPI-AMPI za Gabrje, Rupo, Peč in Sovodnje"/>
+    <tag k="start_date" v="2023-01-25"/>
+    <tag k="wikimedia_commons" v="File:Stolperstein für Alojz Tomsič (Savogna d´Isonzo).jpg"/>
   </node>
 
 </osm>
