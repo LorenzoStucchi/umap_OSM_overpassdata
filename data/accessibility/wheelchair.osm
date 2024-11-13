@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-12T03:28:26Z" areas="2024-10-28T01:00:14Z"/>
+<meta osm_base="2024-11-13T03:26:45Z" areas="2024-11-13T02:04:05Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -623,24 +623,31 @@
     <tag k="website" v="https://www.radetzky.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="269924649" lat="45.4799222" lon="9.1832687" version="14" timestamp="2024-09-23T12:45:22Z" changeset="156994175" uid="21850090" user="mpbin">
+  <node id="269924649" lat="45.4799222" lon="9.1832687" version="15" timestamp="2024-11-12T22:29:23Z" changeset="159070726" uid="17565129" user="descubrebitcoin">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Alessandro Volta"/>
     <tag k="amenity" v="pub"/>
-    <tag k="check_date" v="2024-09-20"/>
+    <tag k="check_date" v="2024-11-12"/>
     <tag k="check_date:currency:XBT" v="2024-09-20"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@scottduff.it"/>
+    <tag k="image" v="https://scottduff.it/img/esterno_ScottDuff.jpg"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="internet_access:ssid" v="scott_duff_EXT"/>
     <tag k="name" v="Scott Duff"/>
     <tag k="opening_hours" v="Mo-Su 18:00-02:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="no"/>
     <tag k="phone" v="+39 02 29002574"/>
+    <tag k="ref:vatin" v="IT01631310677"/>
     <tag k="website" v="https://scottduff.it/"/>
+    <tag k="website:menu" v="https://scottduff.it/menu/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="269925843" lat="45.4785976" lon="9.1842604" version="8" timestamp="2024-05-10T17:33:24Z" changeset="151157063" uid="5666811" user="DrWaluigi">
@@ -2539,10 +2546,6 @@
     <tag k="ref:vatin" v="IT05909671215"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q106633216"/>
-  </node>
-  <node id="1025452349" lat="45.4854030" lon="9.1928953" version="6" timestamp="2024-01-09T10:16:43Z" changeset="146060453" uid="13840929" user="aa30mom">
-    <tag k="entrance" v="yes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1029646493" lat="45.4720749" lon="9.1857399" version="6" timestamp="2019-09-13T14:29:14Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -6324,6 +6327,12 @@
     <tag k="shop" v="kiosk"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2303636615" lat="45.4782455" lon="9.1974849" version="4" timestamp="2024-11-12T07:35:04Z" changeset="159038469" uid="1726102" user="AlessioMela">
+    <tag k="comment" v="subway entrance for access only to subway line M3"/>
+    <tag k="name" v="Repubblica"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2310497628" lat="45.4856430" lon="9.2331665" version="3" timestamp="2022-08-13T12:54:51Z" changeset="124852280" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
@@ -6604,15 +6613,15 @@
     <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2380920420" lat="45.4851249" lon="9.1925788" version="17" timestamp="2022-02-17T10:08:26Z" changeset="117512137" uid="12906729" user="Angelo Lisco">
+  <node id="2380920420" lat="45.4851249" lon="9.1925788" version="19" timestamp="2024-11-12T19:59:16Z" changeset="159065467" uid="13986573" user="dombul">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housename" v="Stecca 3.0"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Gaetano De Castillia"/>
     <tag k="email" v="info@piubici.org"/>
-    <tag k="image:0" v="https://i.imgur.com/VOvGfTT.jpg"/>
-    <tag k="name" v="Ciclofficina Stecca"/>
+    <tag k="name" v="Ciclofficina Stecca - Associazione +bc"/>
+    <tag k="panoramax:0" v="7c2744f1-cd8d-453b-8f78-dc50c8b89c5b"/>
     <tag k="repair" v="only"/>
     <tag k="service:bicycle:cleaning" v="no"/>
     <tag k="service:bicycle:diy" v="yes"/>
@@ -7779,11 +7788,11 @@
     <tag k="website" v="https://www.lafeltrinelli.it/punto-vendita/milano/red-milano-porta-nuova/3502"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2465543544" lat="45.4846208" lon="9.2038167" version="7" timestamp="2022-12-22T10:53:59Z" changeset="130369470" uid="12441930" user="Dremmy">
+  <node id="2465543544" lat="45.4846208" lon="9.2038167" version="8" timestamp="2024-11-12T18:16:09Z" changeset="159062096" uid="3818858" user="Pieter Vander Vennet">
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fountain" v="drinking"/>
-    <tag k="image" v="https://i.imgur.com/4zTvN9K.jpg"/>
+    <tag k="panoramax" v="5670678f-0cf9-44e4-8459-ff4776ec3416"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2465543547" lat="45.4851428" lon="9.2027515" version="5" timestamp="2024-04-25T11:02:08Z" changeset="150490202" uid="13365656" user="glemco">
@@ -22964,11 +22973,11 @@
     <tag k="name" v="UniCredit Bank"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6039532682" lat="45.4845229" lon="9.1920416" version="9" timestamp="2022-11-12T21:06:15Z" changeset="128827474" uid="11350549" user="Nitnerock">
+  <node id="6039532682" lat="45.4845229" lon="9.1920416" version="10" timestamp="2024-11-12T18:16:09Z" changeset="159062096" uid="3818858" user="Pieter Vander Vennet">
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fountain" v="drinking"/>
-    <tag k="image" v="https://i.imgur.com/iDJjEMy.jpg"/>
+    <tag k="panoramax" v="ce69f666-61a6-4ced-b646-c29707b4f322"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="6039532683" lat="45.4843287" lon="9.1931529" version="5" timestamp="2022-11-12T21:07:28Z" changeset="128827474" uid="11350549" user="Nitnerock">
@@ -26259,11 +26268,6 @@
     <tag k="shop" v="ticket"/>
     <tag k="short_name" v="MLP"/>
     <tag k="stroller" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9435724680" lat="45.4853109" lon="9.1930932" version="2" timestamp="2024-01-09T10:16:43Z" changeset="146060453" uid="13840929" user="aa30mom">
-    <tag k="access" v="permit"/>
-    <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9445802325" lat="45.4818228" lon="9.2121698" version="4" timestamp="2023-10-16T16:23:52Z" changeset="142674139" uid="69259" user="DnaX">
@@ -32726,6 +32730,14 @@
     <tag k="ref:vatin" v="IT07294530964"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12335443659" lat="45.4853531" lon="9.1929089" version="1" timestamp="2024-11-12T19:59:16Z" changeset="159065467" uid="13986573" user="dombul">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Ratanà"/>
+    <tag k="phone" v="+39 0287128855"/>
+    <tag k="ref:vatin" v="IT06221220962"/>
+    <tag k="website" v="https://www.ratana.it/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -34878,28 +34890,6 @@
     <tag k="website" v="https://www.mercatoisola.it/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="88279369" version="7" timestamp="2024-01-09T10:16:43Z" changeset="146060453" uid="13840929" user="aa30mom">
-    <center lat="45.4852732" lon="9.1929770"/>
-    <nd ref="1025452358"/>
-    <nd ref="1025452349"/>
-    <nd ref="1025452326"/>
-    <nd ref="1025452308"/>
-    <nd ref="1025452315"/>
-    <nd ref="1025452330"/>
-    <nd ref="1025452346"/>
-    <nd ref="9435724680"/>
-    <nd ref="1025452320"/>
-    <nd ref="1025452324"/>
-    <nd ref="1025452358"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="building" v="retail"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="Ristorante Ratanà"/>
-    <tag k="phone" v="+39 0287128855"/>
-    <tag k="ref:vatin" v="IT06221220962"/>
-    <tag k="website" v="https://www.ratana.it/"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
   <way id="93949413" version="12" timestamp="2024-01-09T17:06:02Z" changeset="146074323" uid="13840929" user="aa30mom">
     <center lat="45.4966030" lon="9.2357208"/>
     <nd ref="1092173714"/>
@@ -36728,7 +36718,7 @@
     <tag k="shop" v="kiosk"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="199881162" version="3" timestamp="2022-05-11T21:20:07Z" changeset="120858966" uid="6220204" user="Ysogo">
+  <way id="199881162" version="4" timestamp="2024-11-12T17:47:33Z" changeset="159061090" uid="6220204" user="Ysogo">
     <center lat="45.4412989" lon="9.1190220"/>
     <nd ref="2098675836"/>
     <nd ref="2098675839"/>
@@ -36737,6 +36727,7 @@
     <nd ref="2098675836"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="chapel"/>
+    <tag k="check_date" v="2024-11-05"/>
     <tag k="denomination" v="catholic"/>
     <tag k="name" v="Cappella Santa Gianna Beretta Molla"/>
     <tag k="religion" v="christian"/>
@@ -37909,7 +37900,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="264207426" version="4" timestamp="2021-06-25T09:38:54Z" changeset="106951349" uid="9355632" user="Pitastrudl">
-    <center lat="45.4855930" lon="9.1927095"/>
+    <center lat="45.4855927" lon="9.1927083"/>
     <nd ref="2698624858"/>
     <nd ref="4917195400"/>
     <nd ref="2698624860"/>
