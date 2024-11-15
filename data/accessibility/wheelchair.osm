@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-14T03:27:11Z" areas="2024-11-13T22:47:12Z"/>
+<meta osm_base="2024-11-15T03:41:14Z" areas="2024-11-14T23:07:41Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -23521,7 +23521,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="6475087590" lat="45.5161589" lon="9.1794377" version="5" timestamp="2024-07-24T18:30:27Z" changeset="154363660" uid="19981378" user="u1009">
+  <node id="6475087590" lat="45.5161589" lon="9.1794377" version="6" timestamp="2024-11-14T19:25:45Z" changeset="159143552" uid="1950277" user="Mannivu">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="98"/>
     <tag k="addr:postcode" v="20161"/>
@@ -23532,7 +23532,7 @@
     <tag k="contact:facebook" v="LegendClubMilano"/>
     <tag k="contact:foursquare" v="4d07983654d0236ad009ffd5"/>
     <tag k="contact:instagram" v="legendclubmilano"/>
-    <tag k="contact:mobile" v="+39 380 3645564"/>
+    <tag k="contact:mobile" v="+39 380 364 5564"/>
     <tag k="contact:tripadvisor" v="8595280"/>
     <tag k="contact:website" v="http://www.legendclubmilano.com"/>
     <tag k="fee" v="yes"/>
@@ -38866,33 +38866,6 @@
     <tag k="website" v="https://www.capuanos.it/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="345763719" version="17" timestamp="2024-10-01T17:59:28Z" changeset="157351111" uid="21991459" user="signorz">
-    <center lat="45.5162154" lon="9.2274991"/>
-    <nd ref="3524119726"/>
-    <nd ref="3524116309"/>
-    <nd ref="3524119123"/>
-    <nd ref="3524116308"/>
-    <nd ref="3524119726"/>
-    <tag k="brand" v="Hilton Garden Inn"/>
-    <tag k="brand:wikidata" v="Q1162859"/>
-    <tag k="brand:wikipedia" v="en:Hilton Garden Inn"/>
-    <tag k="building" v="yes"/>
-    <tag k="check_date" v="2024-10-01"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/hgi.milannorth"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/hgimilannorth"/>
-    <tag k="email" v="info.milannorth@hilton.com"/>
-    <tag k="fax" v="+39 02 89836100"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Hilton Garden Inn Milan North"/>
-    <tag k="operator" v="Hilton Worldwide"/>
-    <tag k="phone" v="+39 02 89836000"/>
-    <tag k="rooms" v="193"/>
-    <tag k="smoking" v="no"/>
-    <tag k="stars" v="4"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.hilton.com/en/hotels/milgigi-hilton-garden-inn-milan-north/"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
   <way id="350378071" version="7" timestamp="2023-12-28T10:27:20Z" changeset="145611363" uid="13840929" user="aa30mom">
     <center lat="45.4490986" lon="9.1593146"/>
     <nd ref="3561448635"/>
@@ -42210,6 +42183,37 @@
     <tag k="name" v="Lambrate FS M2"/>
     <tag k="operator" v="ATM"/>
     <tag k="shelter_type" v="public_transport"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1333787249" version="1" timestamp="2024-11-14T18:24:06Z" changeset="159141542" uid="1950277" user="Mannivu">
+    <center lat="45.5162114" lon="9.2274491"/>
+    <nd ref="3524116309"/>
+    <nd ref="3524119123"/>
+    <nd ref="3524116308"/>
+    <nd ref="12339739297"/>
+    <nd ref="12339748727"/>
+    <nd ref="12339748709"/>
+    <nd ref="12339748710"/>
+    <nd ref="12339748726"/>
+    <nd ref="3524119726"/>
+    <nd ref="3524116309"/>
+    <tag k="brand" v="Hilton Garden Inn"/>
+    <tag k="brand:wikidata" v="Q1162859"/>
+    <tag k="brand:wikipedia" v="en:Hilton Garden Inn"/>
+    <tag k="check_date" v="2024-10-01"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/hgi.milannorth"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/hgimilannorth"/>
+    <tag k="email" v="info.milannorth@hilton.com"/>
+    <tag k="fax" v="+39 02 8983 6100"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Hilton Garden Inn Milan North"/>
+    <tag k="operator" v="Hilton Worldwide"/>
+    <tag k="phone" v="+39 02 8983 6000"/>
+    <tag k="rooms" v="193"/>
+    <tag k="smoking" v="no"/>
+    <tag k="stars" v="4"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.hilton.com/en/hotels/milgigi-hilton-garden-inn-milan-north/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
 
