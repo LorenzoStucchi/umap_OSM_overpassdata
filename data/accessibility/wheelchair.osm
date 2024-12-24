@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-23T03:28:41Z" areas="2024-12-23T00:43:00Z"/>
+<meta osm_base="2024-12-24T03:27:30Z" areas="2024-12-23T23:05:45Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3230,9 +3230,9 @@
     <tag k="phone" v="+39 02 5162 1588"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1476116766" lat="45.4369113" lon="9.2418632" version="5" timestamp="2022-06-03T16:58:51Z" changeset="121905638" uid="6220204" user="Ysogo">
+  <node id="1476116766" lat="45.4369113" lon="9.2418632" version="6" timestamp="2024-12-24T00:19:37Z" changeset="160558651" uid="95387" user="rugamarcus">
     <tag k="amenity" v="cafe"/>
-    <tag k="name" v="Caffè Promenade"/>
+    <tag k="name" v="Caffè Mood"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1476127426" lat="45.4361063" lon="9.2405818" version="8" timestamp="2024-07-09T06:34:54Z" changeset="153730317" uid="95387" user="rugamarcus">
@@ -15460,7 +15460,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3991747642" lat="45.4578789" lon="9.1926878" version="7" timestamp="2023-06-30T23:39:13Z" changeset="137976783" uid="1781586" user="fick89">
+  <node id="3991747642" lat="45.4578789" lon="9.1926878" version="8" timestamp="2024-12-23T09:19:22Z" changeset="160529402" uid="1950277" user="Mannivu">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="54"/>
@@ -15468,13 +15468,14 @@
     <tag k="addr:street" v="Corso di Porta Romana"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Vitasanalatuaortopedia/"/>
     <tag k="email" v="orthopedia@libero.it"/>
+    <tag k="medical_supply" v="orthopedic"/>
     <tag k="name" v="VitaSana la tua Ortopedia"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-13:00,14:00-19:00; Sa 09:00-13:00,15:00-19:00"/>
     <tag k="operator" v="L'Orthopedia S.R.L."/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+390258431449"/>
-    <tag k="shop" v="orthopedics"/>
+    <tag k="phone" v="+39 02 58431449"/>
+    <tag k="shop" v="medical_supply"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3991972783" lat="45.5058716" lon="9.1659647" version="6" timestamp="2023-05-24T07:15:45Z" changeset="136484382" uid="11220113" user="ivanbranco">
@@ -28260,18 +28261,21 @@
     <tag k="wikimedia_commons" v="Category:Sant'Agostino station (Milan metro)"/>
     <tag k="wikipedia" v="it:Sant'Agostino (metropolitana di Milano)"/>
   </node>
-  <node id="9887508376" lat="45.4617730" lon="9.1733825" version="3" timestamp="2023-03-01T11:04:27Z" changeset="133166665" uid="3860151" user="Michele Aquilani">
+  <node id="9887508376" lat="45.4616424" lon="9.1732394" version="4" timestamp="2024-12-23T21:40:36Z" changeset="160554775" uid="13986573" user="dombul">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Sant'Ambrogio"/>
     <tag k="name:it" v="Sant'Ambrogio"/>
     <tag k="name:ja" v="サンタンブロージョ"/>
     <tag k="network" v="STIBM"/>
+    <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1983"/>
     <tag k="station" v="subway"/>
     <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087580"/>
     <tag k="wikimedia_commons" v="Category:Sant'Ambrogio station (Milan metro)"/>
@@ -31732,7 +31736,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11638882004" lat="45.4625663" lon="9.1729177" version="2" timestamp="2024-03-05T12:41:49Z" changeset="148248799" uid="13986573" user="dombul">
+  <node id="11638882004" lat="45.4625663" lon="9.1729177" version="3" timestamp="2024-12-23T21:40:36Z" changeset="160554775" uid="13986573" user="dombul">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Sant'Ambrogio"/>
     <tag k="name:it" v="Sant'Ambrogio"/>
@@ -31740,6 +31744,7 @@
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024"/>
