@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-29T03:38:41Z" areas="2024-12-28T22:33:55Z"/>
+<meta osm_base="2024-12-30T03:29:19Z" areas="2024-12-29T23:16:23Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3439,10 +3439,12 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1523170718" lat="45.5151171" lon="9.2130089" version="4" timestamp="2023-11-21T16:18:39Z" changeset="144294466" uid="20591719" user="GioGio11">
+  <node id="1523170718" lat="45.5151171" lon="9.2130089" version="5" timestamp="2024-12-29T13:37:00Z" changeset="160750585" uid="717233" user="jacopofar">
     <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Caffè Cinquecento"/>
     <tag k="opening_hours" v="Mo-Su 07:00-24:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1523171358" lat="45.5155043" lon="9.2115605" version="5" timestamp="2024-07-16T20:57:20Z" changeset="154032888" uid="717233" user="jacopofar">
@@ -4808,15 +4810,26 @@
     <tag k="name" v="Crédit Agricole"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1843088150" lat="45.4655146" lon="9.1954687" version="9" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
+  <node id="1843088150" lat="45.4655146" lon="9.1954687" version="10" timestamp="2024-12-29T21:56:36Z" changeset="160769314" uid="4862063" user="tars4815">
     <tag k="brand" v="Zara"/>
     <tag k="brand:wikidata" v="Q147662"/>
     <tag k="brand:wikipedia" v="en:Zara (retailer)"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="check_date" v="2024-12-29"/>
     <tag k="clothes" v="women"/>
+    <tag k="currency:EUR" v="yes"/>
     <tag k="name" v="Zara"/>
     <tag k="name:it" v="Zara"/>
     <tag k="name:ja" v="ザラ"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="second_hand" v="no"/>
     <tag k="shop" v="clothes"/>
+    <tag k="source" v="survey"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:menstrual_products" v="no"/>
+    <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1843088176" lat="45.4636823" lon="9.1879633" version="5" timestamp="2023-10-16T11:14:28Z" changeset="142659721" uid="11220113" user="ivanbranco">
@@ -31852,6 +31865,20 @@
     <tag k="wikidata" v="Q22806967"/>
     <tag k="wikipedia" v="it:San Cristoforo (metropolitana di Milano)"/>
   </node>
+  <node id="11705098350" lat="45.4591563" lon="9.1650741" version="4" timestamp="2024-12-29T20:46:44Z" changeset="160767353" uid="21664515" user="Rik68mi">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Coni Zugna"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="2024-10-12"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q22806959"/>
+    <tag k="wikipedia" v="it:Coni Zugna (metropolitana di Milano)"/>
+  </node>
   <node id="11708585636" lat="45.4548008" lon="9.1804151" version="6" timestamp="2024-11-24T21:41:57Z" changeset="159550944" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -32946,6 +32973,16 @@
     <tag k="opening_hours" v="Mo-Fr 09:00-19:00"/>
     <tag k="operator" v="Michele Pino"/>
     <tag k="ref:vatin" v="IT07294530964"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12330913506" lat="45.4591119" lon="9.1653496" version="2" timestamp="2024-12-29T20:51:43Z" changeset="160767353" uid="21664515" user="Rik68mi">
+    <tag k="name" v="Coni Zugna"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12330914201" lat="45.4591749" lon="9.1651846" version="2" timestamp="2024-12-29T20:46:44Z" changeset="160767353" uid="21664515" user="Rik68mi">
+    <tag k="name" v="Coni Zugna"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12335443659" lat="45.4853531" lon="9.1929089" version="1" timestamp="2024-11-12T19:59:16Z" changeset="159065467" uid="13986573" user="dombul">
@@ -39931,6 +39968,25 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="468798487" version="5" timestamp="2024-12-29T20:58:39Z" changeset="160767389" uid="21664515" user="Rik68mi">
+    <center lat="45.4569148" lon="9.1672287"/>
+    <nd ref="4632762628"/>
+    <nd ref="12157818233"/>
+    <nd ref="12149900698"/>
+    <nd ref="12157818227"/>
+    <nd ref="4632762627"/>
+    <nd ref="4632762626"/>
+    <nd ref="12149900688"/>
+    <nd ref="4632762625"/>
+    <nd ref="4632762624"/>
+    <nd ref="4632762623"/>
+    <nd ref="4632762622"/>
+    <nd ref="4632762621"/>
+    <nd ref="4632762628"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
   <way id="471311423" version="2" timestamp="2023-09-14T17:24:22Z" changeset="141268507" uid="19198184" user="the_real_shb">
     <center lat="45.4543560" lon="9.1983545"/>
     <nd ref="574675084"/>
@@ -40042,6 +40098,26 @@
     <nd ref="4875418569"/>
     <nd ref="4875418568"/>
     <nd ref="4875418573"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="496176770" version="6" timestamp="2024-12-29T20:47:43Z" changeset="160767389" uid="21664515" user="Rik68mi">
+    <center lat="45.4589792" lon="9.1662982"/>
+    <nd ref="4878954350"/>
+    <nd ref="4878954349"/>
+    <nd ref="4878954348"/>
+    <nd ref="12149856685"/>
+    <nd ref="4878954341"/>
+    <nd ref="4878954347"/>
+    <nd ref="4878954342"/>
+    <nd ref="12149862999"/>
+    <nd ref="12149862995"/>
+    <nd ref="12149862991"/>
+    <nd ref="29270262"/>
+    <nd ref="12157815312"/>
+    <nd ref="12157815313"/>
+    <nd ref="4878954350"/>
     <tag k="barrier" v="fence"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
@@ -42641,6 +42717,23 @@
     <tag k="operator" v="ATM"/>
     <tag k="shelter_type" v="public_transport"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1312616492" version="4" timestamp="2024-12-29T20:47:59Z" changeset="160767389" uid="21664515" user="Rik68mi">
+    <center lat="45.4586587" lon="9.1667512"/>
+    <nd ref="12149862995"/>
+    <nd ref="12149862991"/>
+    <nd ref="12149862994"/>
+    <nd ref="12149862993"/>
+    <nd ref="12149862992"/>
+    <nd ref="12162487783"/>
+    <nd ref="12149862997"/>
+    <nd ref="12149863000"/>
+    <nd ref="12149862996"/>
+    <nd ref="12361293721"/>
+    <nd ref="12149862995"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="1333787249" version="1" timestamp="2024-11-14T18:24:06Z" changeset="159141542" uid="1950277" user="Mannivu">
     <center lat="45.5162114" lon="9.2274491"/>
