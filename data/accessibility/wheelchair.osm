@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-11T03:27:42Z" areas="2025-01-10T23:37:53Z"/>
+<meta osm_base="2025-01-12T03:40:36Z" areas="2025-01-12T01:42:45Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1604,7 +1604,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="408783075" lat="45.4560092" lon="9.1739814" version="8" timestamp="2024-06-02T12:20:25Z" changeset="152156894" uid="1875845" user="Valerio_Bozzolan">
+  <node id="408783075" lat="45.4560092" lon="9.1739814" version="9" timestamp="2025-01-11T11:07:04Z" changeset="161234783" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="29"/>
@@ -1612,6 +1612,7 @@
     <tag k="addr:street" v="Corso Genova"/>
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
+    <tag k="branch" v="MILANO - Agenzia 00393"/>
     <tag k="brand" v="Banco BPM"/>
     <tag k="brand:en" v="BPM Bank"/>
     <tag k="brand:es" v="Banco BPM"/>
@@ -1619,17 +1620,24 @@
     <tag k="brand:wikipedia" v="en:Banco BPM"/>
     <tag k="check_date" v="2023-04-16"/>
     <tag k="drive_through" v="no"/>
+    <tag k="email" v="filiale.00393@bancobpm.it"/>
+    <tag k="fax" v="+390289405951"/>
     <tag k="name" v="Banco BPM"/>
     <tag k="name:en" v="BPM Bank"/>
     <tag k="name:es" v="Banco BPM"/>
+    <tag k="opening_hours" v="Mo-Th 08:20-13:20, 14:30-16:30; Fr 08:20-13:20, 14:30-16:00; Sa-Su off"/>
+    <tag k="operator" v="Banco BPM S.p.A."/>
+    <tag k="phone" v="+390289401010"/>
+    <tag k="website" v="https://www.bancobpm.it/trova-filiali/tutte-le-filiali/lombardia/MI/MILANO-00393/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="408783078" lat="45.4564731" lon="9.1746390" version="8" timestamp="2024-12-30T19:00:15Z" changeset="160804833" uid="69259" user="DnaX">
+  <node id="408783078" lat="45.4564731" lon="9.1746390" version="9" timestamp="2025-01-11T11:07:04Z" changeset="161234783" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Corso Genova"/>
+    <tag k="branch" v="Doppelgänger Milano Navigli (MI)"/>
     <tag k="brand" v="Doppelgänger"/>
     <tag k="brand:wikidata" v="Q117451227"/>
     <tag k="check_date" v="2023-04-16"/>
@@ -32501,13 +32509,15 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11773899781" lat="45.4840707" lon="9.2007106" version="2" timestamp="2024-03-30T17:23:51Z" changeset="149361648" uid="2052228" user="kauevestena">
+  <node id="11773899781" lat="45.4840707" lon="9.2007106" version="3" timestamp="2025-01-11T17:41:48Z" changeset="161248267" uid="18306404" user="over_the_edge">
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Via Giovanni Battista Pirelli"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2024-03-30"/>
     <tag k="cuisine" v="pizza;regional;ice_cream"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Pizza Napoli"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
@@ -32660,7 +32670,11 @@
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11951709829" lat="45.4573935" lon="9.1755546" version="4" timestamp="2024-06-02T12:17:58Z" changeset="152156894" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11951709829" lat="45.4573935" lon="9.1755546" version="5" timestamp="2025-01-11T11:07:04Z" changeset="161234783" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20123"/>
+    <tag k="addr:street" v="Corso Genova"/>
     <tag k="brand" v="Carpisa"/>
     <tag k="brand:wikidata" v="Q28035409"/>
     <tag k="name" v="Carpisa"/>
