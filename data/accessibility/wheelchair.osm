@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-12T03:40:36Z" areas="2025-01-12T01:42:45Z"/>
+<meta osm_base="2025-01-13T03:39:47Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -12622,16 +12622,18 @@
     <tag k="website" v="https://www.motorvillageitalia-milano.it/concessionario"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3578954006" lat="45.4975736" lon="9.2086831" version="8" timestamp="2024-06-26T16:32:46Z" changeset="153211792" uid="9451067" user="b-jazz-bot">
+  <node id="3578954006" lat="45.4975736" lon="9.2086831" version="9" timestamp="2025-01-12T17:20:52Z" changeset="161281207" uid="18379809" user="niels-valec">
     <tag k="addr:housenumber" v="194"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Via Melchiorre Gioia"/>
     <tag k="amenity" v="pub"/>
-    <tag k="check_date" v="2023-05-05"/>
+    <tag k="check_date" v="2025-01-12"/>
+    <tag k="check_date:smoking" v="2025-01-12"/>
     <tag k="indoor_seating" v="no"/>
     <tag k="name" v="La buttiga beer room"/>
     <tag k="opening_hours" v="Mo-Fr 17:00-02:00; Sa-Su 15:00-02:00"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="smoking" v="no"/>
     <tag k="website" v="https://www.labuttiga.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -20272,6 +20274,19 @@
     <tag k="website" v="https://onosushiexperience.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="5154117623" lat="45.4480409" lon="9.2052687" version="3" timestamp="2025-01-12T18:58:52Z" changeset="161284145" uid="22274299" user="DLLMaps">
+    <tag k="amenity" v="pub"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Bere Buona Birra"/>
+    <tag k="opening_hours" v="Mo-Fr 12:00-22:00; Sa,Su 10:00-22:00"/>
+    <tag k="phone" v="+39 02 8739 4371"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets:access" v="permissive"/>
+    <tag k="toilets:wheelchair" v="designated"/>
+    <tag k="website" v="http://www.berebuonabirra.com"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="5173127124" lat="45.4655143" lon="9.1934526" version="5" timestamp="2024-12-22T16:33:58Z" changeset="160508159" uid="3911830" user="AnyFile_OsmAnd">
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20121"/>
@@ -26399,11 +26414,12 @@
     <tag k="website" v="https://alatha.org/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9384004654" lat="45.4778837" lon="9.1843491" version="1" timestamp="2022-01-01T17:35:55Z" changeset="115645213" uid="13840929" user="aa30mom">
+  <node id="9384004654" lat="45.4778837" lon="9.1843491" version="2" timestamp="2025-01-12T16:22:45Z" changeset="161279200" uid="13840929" user="aa30mom">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
-    <tag k="operator" v="Metropolitana Milanese"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9384004655" lat="45.4731704" lon="9.1973962" version="4" timestamp="2024-06-27T15:46:25Z" changeset="153253915" uid="13551254" user="geo_thom">
@@ -30337,7 +30353,7 @@
     <tag k="shop" v="bicycle"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10816692164" lat="45.4559370" lon="9.1753978" version="2" timestamp="2024-03-11T10:43:04Z" changeset="148499503" uid="13840929" user="aa30mom">
+  <node id="10816692164" lat="45.4559370" lon="9.1753978" version="3" timestamp="2025-01-12T23:28:03Z" changeset="161291016" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
@@ -30345,7 +30361,9 @@
     <tag k="addr:street" v="Via Gaudenzio Ferrari"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2023-04-16"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/latterie1952/"/>
     <tag k="name" v="Latterie 1952"/>
+    <tag k="opening_hours" v="Mo off; Tu-Su 08:00-15:00, 18:00-23:30"/>
     <tag k="phone" v="+39 02 84047873"/>
     <tag k="wheelchair" v="limited"/>
   </node>
