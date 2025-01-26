@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-25T03:19:58Z" areas="2025-01-25T00:54:25Z"/>
+<meta osm_base="2025-01-26T03:24:14Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1458,6 +1458,24 @@
     <tag k="name" v="Banca Popolare Commercio &amp; Industria"/>
     <tag k="operator" v="UBI Banca"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="358879494" lat="45.4901385" lon="9.1909103" version="6" timestamp="2025-01-25T10:32:40Z" changeset="161740295" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Piazzale Lagosta"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Banca Popolare di Milano"/>
+    <tag k="brand:en" v="Popular Bank of Milan"/>
+    <tag k="brand:it" v="Banca Popolare di Milano"/>
+    <tag k="brand:wikidata" v="Q806154"/>
+    <tag k="brand:wikipedia" v="en:Banca Popolare di Milano"/>
+    <tag k="name" v="Banca Popolare di Milano"/>
+    <tag k="name:en" v="Popular Bank of Milan"/>
+    <tag k="name:it" v="Banca Popolare di Milano"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="358880159" lat="45.4900947" lon="9.1832224" version="5" timestamp="2022-01-24T11:22:39Z" changeset="116536890" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
@@ -4146,19 +4164,11 @@
     <tag k="railway" v="train_station_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1678582976" lat="45.4659070" lon="9.1971644" version="6" timestamp="2024-07-30T20:18:47Z" changeset="154622408" uid="113669" user="AnyFile">
+  <node id="1678582976" lat="45.4659070" lon="9.1971644" version="7" timestamp="2025-01-25T17:01:54Z" changeset="161753953" uid="4076934" user="Interactiondesigner">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Galleria Passarella"/>
-    <tag k="brand" v="Urban Outfitters"/>
-    <tag k="brand:wikidata" v="Q3552193"/>
-    <tag k="brand:wikipedia" v="en:Urban Outfitters"/>
-    <tag k="name" v="Urban Outfitters"/>
-    <tag k="operator" v="URBN Italy Retail S.R.L."/>
-    <tag k="ref:store_number" v="IT0301"/>
-    <tag k="ref:vatin" v="IT03269110965"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="http://www.hm.com/it"/>
+    <tag k="shop" v="vacant"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1678582982" lat="45.4650697" lon="9.1938407" version="5" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="Davide Baroffio">
@@ -25986,12 +25996,14 @@
     <tag k="website" v="https://laservente.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9050990505" lat="45.5109755" lon="9.1877137" version="2" timestamp="2024-03-20T12:50:36Z" changeset="148911432" uid="67550" user="Aiman">
+  <node id="9050990505" lat="45.5109755" lon="9.1877137" version="3" timestamp="2025-01-25T12:57:03Z" changeset="161744762" uid="67550" user="Aiman">
     <tag k="access" v="permissive"/>
-    <tag k="defibrillator:location" v="All'interno del blocco nord dell'ospedale Niguarda"/>
+    <tag k="defibrillator:location" v="All'interno del blocco nord a fianco del negozio Ethos"/>
+    <tag k="defibrillator:location:en" v="Inside the north block next to the Ethos store."/>
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="yes"/>
     <tag k="level" v="0"/>
+    <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Ospedale Niguarda"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -26207,6 +26219,18 @@
     <tag k="motor_vehicle" v="no"/>
     <tag k="motorcar" v="no"/>
     <tag k="motorcycle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9218777542" lat="45.5106660" lon="9.1884039" version="3" timestamp="2025-01-25T12:35:26Z" changeset="161743952" uid="67550" user="Aiman">
+    <tag k="access" v="customers"/>
+    <tag k="door" v="sliding"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9218914963" lat="45.5109579" lon="9.1871825" version="2" timestamp="2025-01-25T12:35:26Z" changeset="161743952" uid="67550" user="Aiman">
+    <tag k="access" v="customers"/>
+    <tag k="door" v="sliding"/>
+    <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9243979674" lat="45.4424578" lon="9.1551230" version="4" timestamp="2022-05-08T17:04:50Z" changeset="120710763" uid="6220204" user="Ysogo">
@@ -31460,10 +31484,10 @@
     <tag k="takeaway" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11412205565" lat="45.5084057" lon="9.1871325" version="6" timestamp="2024-03-20T13:26:42Z" changeset="148913315" uid="67550" user="Aiman">
+  <node id="11412205565" lat="45.5084057" lon="9.1871325" version="7" timestamp="2025-01-25T12:18:41Z" changeset="161743462" uid="67550" user="Aiman">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:postcode" v="20162"/>
-    <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="amenity" v="cafe"/>
     <tag k="changing_table" v="no"/>
     <tag k="contact:phone" v="+39 02 6611 4426"/>
@@ -31481,7 +31505,11 @@
     <tag k="website" v="https://www.cirfood.com/it/ristorazione-commerciale/trova-locali/rita-niguarda"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11412468251" lat="45.5084847" lon="9.1862486" version="3" timestamp="2024-03-20T11:32:25Z" changeset="148907349" uid="67550" user="Aiman">
+  <node id="11412468251" lat="45.5084847" lon="9.1862486" version="4" timestamp="2025-01-25T12:14:44Z" changeset="161743349" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="contact:phone" v="+39 02 4966 3112"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Gioielli di Valenza"/>
@@ -32090,13 +32118,22 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11745874923" lat="45.5078102" lon="9.1879322" version="3" timestamp="2025-01-25T12:35:51Z" changeset="161743966" uid="67550" user="Aiman">
+    <tag k="access" v="customers"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="11745874924" lat="45.5084967" lon="9.1882686" version="2" timestamp="2024-03-19T17:08:32Z" changeset="148872017" uid="67550" user="Aiman">
     <tag k="access" v="customers"/>
     <tag k="door" v="hinged"/>
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11745902355" lat="45.5084573" lon="9.1868023" version="4" timestamp="2024-09-25T09:07:30Z" changeset="157071616" uid="67550" user="Aiman">
+  <node id="11745902355" lat="45.5084573" lon="9.1868023" version="5" timestamp="2025-01-25T12:14:44Z" changeset="161743349" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="branch" v="Niguarda"/>
     <tag k="brand" v="Giunti al Punto"/>
     <tag k="contact:phone" v="+39 02 6611 0072"/>
@@ -32108,6 +32145,15 @@
     <tag k="shop" v="books"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11745904045" lat="45.5084844" lon="9.1870395" version="2" timestamp="2025-01-25T12:35:26Z" changeset="161743952" uid="67550" user="Aiman">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="door" v="sliding"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="11745904046" lat="45.5084509" lon="9.1869942" version="1" timestamp="2024-03-19T17:16:32Z" changeset="148872387" uid="67550" user="Aiman">
     <tag k="amenity" v="atm"/>
     <tag k="brand" v="Intesa Sanpaolo"/>
@@ -32116,31 +32162,62 @@
     <tag k="operator" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11745927257" lat="45.5105519" lon="9.1883054" version="1" timestamp="2024-03-19T17:27:09Z" changeset="148872860" uid="67550" user="Aiman">
+  <node id="11745927255" lat="45.5105034" lon="9.1881707" version="3" timestamp="2025-01-25T12:35:26Z" changeset="161743952" uid="67550" user="Aiman">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="door" v="sliding"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11745927257" lat="45.5105519" lon="9.1883054" version="2" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="alt_name" v="Conad"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="brand" v="Conad City"/>
+    <tag k="changing_table" v="yes"/>
     <tag k="contact:phone" v="+39 02 6611 1038"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Sapori &amp; Dintorni"/>
+    <tag k="name" v="Sapori &amp; Dintorni Niguarda"/>
     <tag k="opening_hours" v="Mo-Fr 07:30-18:00; Sa 10:00-14:00; Su closed; PH closed"/>
+    <tag k="operator" v="Villa srl"/>
     <tag k="organic" v="yes"/>
+    <tag k="ref:vatin" v="IT03576970986"/>
     <tag k="shop" v="supermarket"/>
-    <tag k="toilets" v="no"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11745927258" lat="45.5105871" lon="9.1881480" version="3" timestamp="2024-03-20T10:44:21Z" changeset="148904745" uid="67550" user="Aiman">
+  <node id="11745927258" lat="45.5105871" lon="9.1881480" version="5" timestamp="2025-01-25T12:21:27Z" changeset="161743558" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="bar" v="yes"/>
+    <tag k="changing_table" v="yes"/>
     <tag k="delivery" v="no"/>
     <tag k="highchair" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="no"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Chiccotosto"/>
     <tag k="opening_hours" v="Mo-Sa 07:30-20:00; Su closed; PH closed"/>
+    <tag k="operator" v="Cirfood SC"/>
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
-    <tag k="toilets" v="no"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11745927259" lat="45.5106614" lon="9.1880256" version="2" timestamp="2024-03-20T10:44:21Z" changeset="148904745" uid="67550" user="Aiman">
@@ -32155,11 +32232,18 @@
     <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11745927260" lat="45.5107781" lon="9.1878325" version="3" timestamp="2024-03-20T13:28:37Z" changeset="148913432" uid="67550" user="Aiman">
+  <node id="11745927260" lat="45.5107781" lon="9.1878325" version="5" timestamp="2025-01-25T12:21:27Z" changeset="161743558" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="brand" v="Lindt"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Lindt Chocolatier"/>
+    <tag k="name" v="Lindt Chocolatier Niguarda"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-17:30; Sa-Su closed; PH closed"/>
+    <tag k="operator" v="Società Cooperativa Sociale Spazio Aperto"/>
+    <tag k="ref:vatin" v="IT07458910150"/>
     <tag k="shop" v="chocolate"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -32174,7 +32258,11 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747705906" lat="45.5107852" lon="9.1874665" version="2" timestamp="2024-03-20T12:57:01Z" changeset="148911762" uid="67550" user="Aiman">
+  <node id="11747705906" lat="45.5107852" lon="9.1874665" version="3" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="contact:phone" v="+39 02 4792 3774"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Humantec Niguarda"/>
@@ -32184,10 +32272,10 @@
     <tag k="website" v="https://gruppohumantech.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747846624" lat="45.5086140" lon="9.1861574" version="1" timestamp="2024-03-20T11:37:22Z" changeset="148907607" uid="67550" user="Aiman">
+  <node id="11747846624" lat="45.5086140" lon="9.1861574" version="2" timestamp="2025-01-25T12:18:41Z" changeset="161743462" uid="67550" user="Aiman">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:postcode" v="20162"/>
-    <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="amenity" v="cafe"/>
     <tag k="changing_table" v="no"/>
     <tag k="delivery" v="no"/>
@@ -32203,7 +32291,11 @@
     <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747846625" lat="45.5084650" lon="9.1863217" version="1" timestamp="2024-03-20T11:37:22Z" changeset="148907607" uid="67550" user="Aiman">
+  <node id="11747846625" lat="45.5084650" lon="9.1863217" version="2" timestamp="2025-01-25T12:14:44Z" changeset="161743349" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="contact:email" v="agenzia@bfbassicurazioni.it"/>
     <tag k="contact:phone" v="+39 031 525891"/>
     <tag k="level" v="0"/>
@@ -32213,8 +32305,12 @@
     <tag k="website" v="https://www.bfbassicurazioni.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747846626" lat="45.5085692" lon="9.1863499" version="1" timestamp="2024-03-20T11:37:22Z" changeset="148907607" uid="67550" user="Aiman">
+  <node id="11747846626" lat="45.5085692" lon="9.1863499" version="2" timestamp="2025-01-25T12:14:44Z" changeset="161743349" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="dispensing" v="no"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="kids_area" v="no"/>
@@ -32224,13 +32320,17 @@
     <tag k="operator" v="Humantec"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747855284" lat="45.5084422" lon="9.1868945" version="2" timestamp="2024-03-20T13:08:14Z" changeset="148912337" uid="67550" user="Aiman">
+  <node id="11747855284" lat="45.5084422" lon="9.1868945" version="3" timestamp="2025-01-25T12:14:44Z" changeset="161743349" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="brand" v="Du Pareil au Même"/>
     <tag k="clothes" v="children"/>
     <tag k="contact:phone" v="+39 02 6611 4361"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Du Pareil au Même"/>
+    <tag k="name" v="Du Pareil au Même Niguarda"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su closed; PH closed"/>
     <tag k="organic" v="yes"/>
     <tag k="second_hand" v="no"/>
@@ -32238,21 +32338,34 @@
     <tag k="website" v="https://www.dpam.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747855285" lat="45.5082363" lon="9.1869736" version="2" timestamp="2024-03-20T13:06:25Z" changeset="148912215" uid="67550" user="Aiman">
+  <node id="11747855285" lat="45.5082363" lon="9.1869736" version="3" timestamp="2025-01-25T12:14:44Z" changeset="161743349" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="baby_feeding" v="yes"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="brand" v="Goldenpoint"/>
+    <tag k="changing_table" v="yes"/>
     <tag k="clothes" v="underwear"/>
     <tag k="contact:phone" v="+39 02 6410 9027"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Goldenpoint"/>
+    <tag k="name" v="Goldenpoint Nigiarda"/>
     <tag k="opening_hours" v="Mo-Fr 10:15-18:00; Sa-Su 10:00-14:00; PH closed"/>
     <tag k="organic" v="yes"/>
     <tag k="second_hand" v="no"/>
     <tag k="shop" v="clothes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="website" v="https://www.goldenpoint.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747855286" lat="45.5084660" lon="9.1867470" version="3" timestamp="2024-03-20T13:21:40Z" changeset="148913017" uid="67550" user="Aiman">
+  <node id="11747855286" lat="45.5084660" lon="9.1867470" version="4" timestamp="2025-01-25T12:14:44Z" changeset="161743349" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="contact:phone" v="+39 02 8219 6372"/>
     <tag k="level" v="0"/>
     <tag k="name" v="A2A"/>
@@ -32262,7 +32375,10 @@
     <tag k="website" v="https://www.a2a.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747855288" lat="45.5084744" lon="9.1867041" version="3" timestamp="2024-03-20T13:26:42Z" changeset="148913315" uid="67550" user="Aiman">
+  <node id="11747855288" lat="45.5084744" lon="9.1867041" version="4" timestamp="2025-01-25T12:18:41Z" changeset="161743462" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="contact:phone" v="+39 02 3824 1007"/>
     <tag k="healthcare" v="counselling"/>
     <tag k="level" v="0"/>
@@ -32271,14 +32387,20 @@
     <tag k="website" v="https://www.familycarebadanti.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747855289" lat="45.5086310" lon="9.1864198" version="2" timestamp="2024-09-25T09:17:57Z" changeset="157072054" uid="67550" user="Aiman">
+  <node id="11747855289" lat="45.5086310" lon="9.1864198" version="3" timestamp="2025-01-25T12:35:26Z" changeset="161743952" uid="67550" user="Aiman">
     <tag k="access" v="customers"/>
-    <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="door" v="hinged"/>
     <tag k="entrance" v="secondary"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747855290" lat="45.5085373" lon="9.1864894" version="4" timestamp="2024-03-20T13:26:42Z" changeset="148913315" uid="67550" user="Aiman">
+  <node id="11747855290" lat="45.5085373" lon="9.1864894" version="5" timestamp="2025-01-25T12:14:44Z" changeset="161743349" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="contact:phone" v="+39 02 6610 9112"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Zanetti"/>
@@ -32287,7 +32409,11 @@
     <tag k="shop" v="confectionery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747989289" lat="45.5110287" lon="9.1876947" version="2" timestamp="2024-03-20T13:21:40Z" changeset="148913017" uid="67550" user="Aiman">
+  <node id="11747989289" lat="45.5110287" lon="9.1876947" version="3" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="contact:phone" v="+39 02 6410 5589"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Ethos profumerie"/>
@@ -32295,7 +32421,11 @@
     <tag k="shop" v="perfumery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747989290" lat="45.5109695" lon="9.1879288" version="2" timestamp="2024-03-20T13:21:40Z" changeset="148913017" uid="67550" user="Aiman">
+  <node id="11747989290" lat="45.5109695" lon="9.1879288" version="3" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="contact:phone" v="+39 02 8736 6253"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Gioiapura"/>
@@ -32304,10 +32434,18 @@
     <tag k="website" v="https://www.gioiapura.it/gioielleria-niguarda-milano.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11748004691" lat="45.5108341" lon="9.1872418" version="2" timestamp="2024-03-20T13:13:29Z" changeset="148912613" uid="67550" user="Aiman">
+  <node id="11748004691" lat="45.5108341" lon="9.1872418" version="4" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="bar" v="yes"/>
+    <tag k="changing_table" v="yes"/>
     <tag k="delivery" v="no"/>
     <tag k="highchair" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="no"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
@@ -32316,47 +32454,79 @@
     <tag k="outdoor_seating" v="no"/>
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11748004692" lat="45.5108082" lon="9.1872328" version="2" timestamp="2024-03-20T13:13:29Z" changeset="148912613" uid="67550" user="Aiman">
+  <node id="11748004692" lat="45.5108082" lon="9.1872328" version="5" timestamp="2025-01-25T12:29:56Z" changeset="161743782" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="branch" v="Niguarda"/>
     <tag k="brand" v="La Piadineria"/>
     <tag k="cuisine" v="piadina"/>
     <tag k="delivery" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="no"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
     <tag k="microbrewery" v="no"/>
-    <tag k="name" v="La Piadineria"/>
+    <tag k="name" v="La Piadineria Niguarda"/>
     <tag k="opening_hours" v="Mo-Su 11:30-20:00; PH closed"/>
+    <tag k="operator" v="Gruppo Negozi srl"/>
     <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT03004850982"/>
     <tag k="reservation" v="no"/>
     <tag k="self_service" v="no"/>
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="website" v="https://www.lapiadineria.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11748004693" lat="45.5108274" lon="9.1872857" version="2" timestamp="2024-03-20T13:13:29Z" changeset="148912613" uid="67550" user="Aiman">
+  <node id="11748004693" lat="45.5108274" lon="9.1872857" version="5" timestamp="2025-01-25T14:09:24Z" changeset="161747732" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="bar" v="yes"/>
+    <tag k="changing_table" v="yes"/>
     <tag k="cuisine" v="ice_cream"/>
     <tag k="delivery" v="no"/>
     <tag k="highchair" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="no"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
     <tag k="microbrewery" v="no"/>
     <tag k="name" v="Cioccolati Italiani"/>
     <tag k="opening_hours" v="Mo-Su 07:30-16:00; PH closed"/>
+    <tag k="operator" v="Arauca srl"/>
     <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT09395650964"/>
     <tag k="reservation" v="no"/>
     <tag k="self_service" v="no"/>
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="website" v="https://www.cioccolatitaliani.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11748004694" lat="45.5108058" lon="9.1873709" version="2" timestamp="2024-03-20T13:13:29Z" changeset="148912613" uid="67550" user="Aiman">
+  <node id="11748004694" lat="45.5108058" lon="9.1873709" version="3" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="contact:phone" v="+39 02 6610 3294"/>
     <tag k="craft" v="optician"/>
     <tag k="level" v="0"/>
@@ -32365,22 +32535,36 @@
     <tag k="website" v="https://www.lamaoptical.it/it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11748004695" lat="45.5107944" lon="9.1872698" version="2" timestamp="2024-03-20T13:17:47Z" changeset="148912833" uid="67550" user="Aiman">
+  <node id="11748004695" lat="45.5107944" lon="9.1872698" version="6" timestamp="2025-01-25T12:29:56Z" changeset="161743782" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="changing_table" v="yes"/>
     <tag k="contact:mobile" v="+39 331 637 8870"/>
+    <tag k="contact:whatsapp" v="+393316378870"/>
+    <tag k="cuisine" v="asian"/>
     <tag k="delivery" v="no"/>
     <tag k="highchair" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="no"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
     <tag k="microbrewery" v="no"/>
     <tag k="name" v="Poke Bowl"/>
-    <tag k="opening_hours" v="Mo-Sa 11:00-20:00; Su closed; PH closed"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-20:30; Su 11:00-18:00; PH closed"/>
+    <tag k="operator" v="Asiatico Food Rong srl"/>
     <tag k="outdoor_seating" v="no"/>
+    <tag k="ref:vatin" v="IT13003810960"/>
     <tag k="reservation" v="no"/>
     <tag k="self_service" v="no"/>
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11748077283" lat="45.5107828" lon="9.1875159" version="1" timestamp="2024-03-20T13:35:27Z" changeset="148913835" uid="67550" user="Aiman">
@@ -32391,13 +32575,13 @@
     <tag k="operator" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11748079511" lat="45.5109487" lon="9.1880542" version="1" timestamp="2024-03-20T13:34:39Z" changeset="148913789" uid="67550" user="Aiman">
+  <node id="11748079511" lat="45.5109487" lon="9.1880542" version="3" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="disused:shop" v="closed"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Enel"/>
-    <tag k="office" v="energy_supplier"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00; Sa, Su closed; PH closed"/>
-    <tag k="operator" v="Enel"/>
-    <tag k="operator:wikidata" v="Q651222"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11748269682" lat="45.4843698" lon="9.2121397" version="4" timestamp="2024-07-24T09:08:11Z" changeset="154339707" uid="67550" user="Aiman">
@@ -32896,12 +33080,14 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12198670183" lat="45.5083976" lon="9.1866878" version="1" timestamp="2024-09-25T09:07:30Z" changeset="157071616" uid="67550" user="Aiman">
+  <node id="12198670183" lat="45.5083976" lon="9.1866878" version="2" timestamp="2025-01-25T12:18:41Z" changeset="161743462" uid="67550" user="Aiman">
     <tag k="access" v="yes"/>
     <tag k="defibrillator:location" v="sul pilone di fronte al negozio &quot;Family Care&quot;"/>
+    <tag k="defibrillator:location:en" v="On the pylon in front of the Family Care store."/>
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="yes"/>
     <tag k="level" v="0"/>
+    <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Ospedale Niguarda"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -33143,6 +33329,12 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12393882655" lat="45.5092463" lon="9.1886192" version="2" timestamp="2025-01-25T12:57:03Z" changeset="161744762" uid="67550" user="Aiman">
+    <tag k="name" v="Punto informazioni"/>
+    <tag k="operator" v="Ospedale Niguarda"/>
+    <tag k="tourism" v="information"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="12393882656" lat="45.5093573" lon="9.1885502" version="1" timestamp="2024-12-03T14:24:02Z" changeset="159883494" uid="67550" user="Aiman">
     <tag k="access" v="customers"/>
     <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
@@ -33219,7 +33411,11 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12524091506" lat="45.5111401" lon="9.1878858" version="2" timestamp="2025-01-23T13:54:57Z" changeset="161675648" uid="67550" user="Aiman">
+  <node id="12524091506" lat="45.5111401" lon="9.1878858" version="3" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="cinema"/>
     <tag k="changing_table" v="yes"/>
@@ -33236,12 +33432,68 @@
     <tag k="website" v="https://www.medicinema-italia.org/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12526394681" lat="45.5111133" lon="9.1873548" version="2" timestamp="2025-01-25T12:35:26Z" changeset="161743952" uid="67550" user="Aiman">
+    <tag k="access" v="permit"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12529692122" lat="45.5108750" lon="9.1883973" version="2" timestamp="2025-01-25T12:35:26Z" changeset="161743952" uid="67550" user="Aiman">
+    <tag k="access" v="permit"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="12529987652" lat="45.4991169" lon="9.1789450" version="3" timestamp="2025-01-24T19:41:11Z" changeset="161725847" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="restaurant"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Faro Bistrot"/>
     <tag k="outdoor_seating" v="no"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="12531432824" lat="45.5115950" lon="9.1873133" version="2" timestamp="2025-01-25T14:19:20Z" changeset="161748052" uid="67550" user="Aiman">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="alt_name" v="Mensa Blocco Nord"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="baby_feeding" v="yes"/>
+    <tag k="bar" v="no"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="delivery" v="no"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="kids_area" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Ristorante self-service"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-15:00,18:30-20:30; PH closed"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="reservation" v="no"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12531461519" lat="45.4900989" lon="9.1908025" version="3" timestamp="2025-01-25T10:32:35Z" changeset="161740295" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Barber Hood"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="12531471115" lat="45.4900533" lon="9.1906369" version="2" timestamp="2025-01-25T10:29:50Z" changeset="161740295" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Domoria"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="12531666886" lat="45.5102933" lon="9.1842986" version="1" timestamp="2025-01-25T12:57:03Z" changeset="161744762" uid="67550" user="Aiman">
+    <tag k="amenity" v="atm"/>
+    <tag k="brand" v="Intesa Sanpaolo"/>
+    <tag k="fixme" v="migliorare la posizione"/>
+    <tag k="level" v="0"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Intesa Sanpaolo"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
