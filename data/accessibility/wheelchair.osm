@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-26T03:24:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-27T03:25:05Z" areas="2025-01-26T23:08:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -33329,7 +33329,8 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12393882655" lat="45.5092463" lon="9.1886192" version="2" timestamp="2025-01-25T12:57:03Z" changeset="161744762" uid="67550" user="Aiman">
+  <node id="12393882655" lat="45.5092463" lon="9.1886192" version="3" timestamp="2025-01-26T18:41:23Z" changeset="161791228" uid="67550" user="Aiman">
+    <tag k="informal" v="visitor_centre"/>
     <tag k="name" v="Punto informazioni"/>
     <tag k="operator" v="Ospedale Niguarda"/>
     <tag k="tourism" v="information"/>
@@ -33493,6 +33494,38 @@
     <tag k="level" v="0"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Intesa Sanpaolo"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12533832473" lat="45.5083142" lon="9.1857207" version="1" timestamp="2025-01-26T12:09:33Z" changeset="161777546" uid="67550" user="Aiman">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="alt_name" v="Mensa Blocco Sud"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="baby_feeding" v="yes"/>
+    <tag k="bar" v="no"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="delivery" v="no"/>
+    <tag k="fixme" v="migliorare posizione"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="kids_area" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Ristorante self-service"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-15:00,18:30-20:30; PH closed"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="reservation" v="no"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12534623393" lat="45.5104199" lon="9.1860096" version="1" timestamp="2025-01-26T18:38:07Z" changeset="161791127" uid="67550" user="Aiman">
+    <tag k="level" v="0"/>
+    <tag k="name" v="Ambulatorio Migranti"/>
+    <tag k="name:en" v="Migrant Outpatient Clinic"/>
+    <tag k="office" v="physician"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -34076,7 +34109,7 @@
     <tag k="wikidata" v="Q1073674"/>
     <tag k="wikipedia" v="it:Università degli Studi di Milano-Bicocca"/>
   </way>
-  <way id="25350197" version="4" timestamp="2023-01-02T16:28:49Z" changeset="130794590" uid="67550" user="Aiman">
+  <way id="25350197" version="5" timestamp="2025-01-26T18:48:03Z" changeset="161791460" uid="67550" user="Aiman">
     <center lat="45.5100365" lon="9.1854313"/>
     <nd ref="276266277"/>
     <nd ref="1490290207"/>
@@ -34111,6 +34144,7 @@
     <nd ref="276266277"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="church"/>
+    <tag k="check_date" v="2025-01-26"/>
     <tag k="denomination" v="catholic"/>
     <tag k="name" v="Chiesa Santa Maria Annunciata"/>
     <tag k="religion" v="christian"/>
