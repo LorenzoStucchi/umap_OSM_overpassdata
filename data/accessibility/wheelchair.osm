@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-28T03:22:21Z" areas="2025-01-28T01:26:02Z"/>
+<meta osm_base="2025-01-29T03:23:15Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -15090,6 +15090,17 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3935591458" lat="45.4996271" lon="9.2003977" version="2" timestamp="2025-01-28T14:46:35Z" changeset="161860574" uid="17843669" user="DomKor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Via Tullo Morgagni"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="private"/>
+    <tag k="locked" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3935596715" lat="45.5012221" lon="9.1986867" version="6" timestamp="2024-06-07T16:32:53Z" changeset="152384523" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
@@ -19119,7 +19130,7 @@
     <tag k="shop" v="furniture"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4824578832" lat="45.4746568" lon="9.1917054" version="6" timestamp="2024-04-14T13:20:39Z" changeset="149992724" uid="2104834" user="Igor Bubelov">
+  <node id="4824578832" lat="45.4746568" lon="9.1917054" version="7" timestamp="2025-01-28T18:32:51Z" changeset="161869169" uid="1496865" user="mauropili">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="20"/>
@@ -19129,7 +19140,7 @@
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+390294392452"/>
-    <tag k="website" v="studioclass.it"/>
+    <tag k="website" v="https://studioclass.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4824593608" lat="45.4729902" lon="9.1926350" version="2" timestamp="2019-09-13T09:21:44Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -32220,7 +32231,13 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11745927259" lat="45.5106614" lon="9.1880256" version="2" timestamp="2024-03-20T10:44:21Z" changeset="148904745" uid="67550" user="Aiman">
+  <node id="11745927259" lat="45.5106614" lon="9.1880256" version="3" timestamp="2025-01-28T21:27:31Z" changeset="161874339" uid="67550" user="Aiman">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="21026"/>
+    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
+    <tag k="baby_feeding" v="yes"/>
+    <tag k="changing_table" v="yes"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Primigi Store - Igi&amp;Co Store"/>
@@ -32230,6 +32247,8 @@
     <tag k="shoes:repair" v="no"/>
     <tag k="shop" v="shoes"/>
     <tag k="toilets" v="no"/>
+    <tag k="toilets:access" v="permissive"/>
+    <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11745927260" lat="45.5107781" lon="9.1878325" version="5" timestamp="2025-01-25T12:21:27Z" changeset="161743558" uid="67550" user="Aiman">
@@ -33527,6 +33546,23 @@
     <tag k="level" v="0"/>
     <tag k="name" v="Ambulatorio Migranti"/>
     <tag k="name:en" v="Migrant Outpatient Clinic"/>
+    <tag k="office" v="physician"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12539129495" lat="45.4994701" lon="9.2004115" version="1" timestamp="2025-01-28T14:46:35Z" changeset="161860574" uid="17843669" user="DomKor">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Via Tullo Morgagni"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="private"/>
+    <tag k="locked" v="yes"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="12539987158" lat="45.5108429" lon="9.1876359" version="1" timestamp="2025-01-28T21:26:26Z" changeset="161874311" uid="67550" user="Aiman">
+    <tag k="level" v="0"/>
+    <tag k="name" v="Ufficio Stranieri"/>
     <tag k="office" v="physician"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -41814,6 +41850,30 @@
     <tag k="ref" v="2;3"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="915197343" version="5" timestamp="2025-01-28T20:05:33Z" changeset="161871949" uid="17843669" user="DomKor">
+    <center lat="45.4772641" lon="9.2313983"/>
+    <nd ref="8501287312"/>
+    <nd ref="8501287313"/>
+    <nd ref="8501287314"/>
+    <nd ref="8501287315"/>
+    <nd ref="8501287316"/>
+    <nd ref="8501328517"/>
+    <nd ref="8501328518"/>
+    <nd ref="8501328519"/>
+    <nd ref="11417367436"/>
+    <nd ref="11417367435"/>
+    <nd ref="8501287312"/>
+    <tag k="building" v="pavilion"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="changing_table" v="limited"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Giuriati Fit Center"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa,Su 09:00-18:00"/>
+    <tag k="sport" v="gymnastics"/>
+    <tag k="toilets:access" v="customers"/>
+    <tag k="toilets:wheelchair" v="designated"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="931936846" version="4" timestamp="2021-10-01T11:40:51Z" changeset="111959834" uid="67550" user="Aiman">
