@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-29T03:23:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-30T03:21:34Z" areas="2025-01-30T01:06:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -21560,7 +21560,7 @@
     <tag k="website" v="https://www.conad.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5600184200" lat="45.4165799" lon="9.2359855" version="3" timestamp="2021-07-18T09:19:08Z" changeset="108184728" uid="89897" user="airon90">
+  <node id="5600184200" lat="45.4166181" lon="9.2360027" version="4" timestamp="2025-01-29T12:52:41Z" changeset="161896323" uid="13986573" user="dombul">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="102"/>
     <tag k="addr:postcode" v="20139"/>
@@ -25131,7 +25131,7 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8540526871" lat="45.4783836" lon="9.2323466" version="2" timestamp="2023-12-14T13:37:53Z" changeset="145112870" uid="17843669" user="DomKor">
+  <node id="8540526871" lat="45.4783834" lon="9.2323482" version="3" timestamp="2025-01-29T13:58:26Z" changeset="161898650" uid="17843669" user="DomKor">
     <tag k="barrier" v="gate"/>
     <tag k="locked" v="no"/>
     <tag k="wheelchair" v="yes"/>
@@ -25508,12 +25508,6 @@
     <tag k="wikidata" v="Q2820829"/>
     <tag k="wikimedia_commons" v="Category:Piazza Abbiategrasso station (Milan metro)"/>
     <tag k="wikipedia" v="it:Abbiategrasso (metropolitana di Milano)"/>
-  </node>
-  <node id="8722161014" lat="45.4784412" lon="9.2323675" version="3" timestamp="2023-12-14T13:37:53Z" changeset="145112870" uid="17843669" user="DomKor">
-    <tag k="access" v="no"/>
-    <tag k="barrier" v="gate"/>
-    <tag k="locked" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8745414347" lat="45.4848557" lon="9.2360023" version="4" timestamp="2024-09-25T14:05:12Z" changeset="157085121" uid="8350372" user="Balaabirami">
     <tag k="name" v="Lambrate FS"/>
@@ -32231,18 +32225,21 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11745927259" lat="45.5106614" lon="9.1880256" version="3" timestamp="2025-01-28T21:27:31Z" changeset="161874339" uid="67550" user="Aiman">
+  <node id="11745927259" lat="45.5106614" lon="9.1880256" version="4" timestamp="2025-01-29T10:47:05Z" changeset="161892003" uid="67550" user="Aiman">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="21026"/>
     <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="baby_feeding" v="yes"/>
     <tag k="changing_table" v="yes"/>
+    <tag k="contact:phone" v="+39 02 6610 3369"/>
     <tag k="kids_area" v="no"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Primigi Store - Igi&amp;Co Store"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-17:30; Sa 10:00-14:00; Su closed; PH closed"/>
+    <tag k="operator" v="Car.ma sas"/>
     <tag k="organic" v="yes"/>
+    <tag k="ref:vatin" v="IT08451030962"/>
     <tag k="second_hand" v="no"/>
     <tag k="shoes:repair" v="no"/>
     <tag k="shop" v="shoes"/>
@@ -33566,6 +33563,20 @@
     <tag k="office" v="physician"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12541920287" lat="45.4784240" lon="9.2323717" version="1" timestamp="2025-01-29T13:58:26Z" changeset="161898650" uid="17843669" user="DomKor">
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="locked" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12542098547" lat="45.5065488" lon="9.1910271" version="1" timestamp="2025-01-29T16:02:34Z" changeset="161903436" uid="717233" user="jacopofar">
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="yes"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -34413,10 +34424,11 @@
     <tag k="wikidata" v="Q2104876"/>
     <tag k="wikipedia" v="it:Porta Venezia (Milano)"/>
   </way>
-  <way id="27638654" version="13" timestamp="2024-02-17T20:51:55Z" changeset="147587417" uid="18230056" user="AwFi">
+  <way id="27638654" version="14" timestamp="2025-01-29T14:02:11Z" changeset="161898791" uid="67550" user="Aiman">
     <center lat="45.4845218" lon="9.1872098"/>
     <nd ref="1697767136"/>
     <nd ref="1954441866"/>
+    <nd ref="12541932931"/>
     <nd ref="2578379463"/>
     <nd ref="2578379468"/>
     <nd ref="2578379471"/>
@@ -40729,7 +40741,7 @@
     <tag k="amenity" v="kindergarten"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="564475658" version="6" timestamp="2024-04-13T18:12:49Z" changeset="149964003" uid="172782" user="AndreaDFC">
+  <way id="564475658" version="7" timestamp="2025-01-29T13:25:57Z" changeset="161897523" uid="13986573" user="dombul">
     <center lat="45.4160226" lon="9.2371215"/>
     <nd ref="5438687040"/>
     <nd ref="5438687045"/>
@@ -40743,6 +40755,7 @@
     <nd ref="5438687039"/>
     <nd ref="5438687036"/>
     <nd ref="5438687034"/>
+    <nd ref="12541842583"/>
     <nd ref="5438687033"/>
     <nd ref="5438687032"/>
     <nd ref="5438687028"/>
@@ -42379,7 +42392,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1039015191" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+  <way id="1039015191" version="2" timestamp="2025-01-29T14:14:03Z" changeset="161899196" uid="17843669" user="DomKor">
     <center lat="45.4784146" lon="9.2271139"/>
     <nd ref="9568173812"/>
     <nd ref="9568173811"/>
@@ -42395,6 +42408,7 @@
     <nd ref="9568173801"/>
     <tag k="barrier" v="bollard"/>
     <tag k="bollard" v="fixed"/>
+    <tag k="fixme" v="not really sure on what this geometry is based, it seems to prevent routing from Piazza leonardo da vinci into Polimi Campus, the bollard line doesnt seem to exist either"/>
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="yes"/>
   </way>
