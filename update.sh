@@ -1,6 +1,8 @@
 #!/bin/bash
 
 cd data
+wget -O confini.osm "https://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A500%5D%3Barea%283600365331%29%2D%3E%2EsearchArea%3Brel%5B%22boundary%22%3D%22administrative%22%5D%5B%22admin_level%22%3D%228%22%5D%28area%2EsearchArea%29%3Bout%20geom%3B"
+sleep 500
 wget -O pietre.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A300%5D%3Barea%283600365331%29%2D%3E%2EsearchArea%3B%28node%5B%22memorial%22%3D%22stolperstein%22%5D%28area%2EsearchArea%29%3Bnode%5B%22memorial%3Atype%22%3D%22stolperstein%22%5D%28area%2EsearchArea%29%3B%29%3Bout%3B%0A"
 wget -O ecomusei_percorsi.osm "http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A300%5D%3Barea%283600365331%29%2D%3E%2EsearchArea%3B%28node%5B%22operator%22%7E%22ecomuseo%22%5D%28area%2EsearchArea%29%3Bway%5B%22operator%22%7E%22ecomuseo%22%5D%28area%2EsearchArea%29%3Brelation%5B%22operator%22%7E%22ecomuseo%22%5D%28area%2EsearchArea%29%3B%29%3Bout%3B%3E%3Bout%20skel%20qt%3B%0A"
 sleep 300
