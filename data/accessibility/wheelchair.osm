@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-27T03:42:06Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-28T03:42:08Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -363,7 +363,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="253963523" lat="45.5152399" lon="9.1930974" version="15" timestamp="2022-03-20T11:05:20Z" changeset="118691898" uid="13840929" user="aa30mom">
+  <node id="253963523" lat="45.5152399" lon="9.1930974" version="16" timestamp="2025-02-27T11:34:29Z" changeset="163008401" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20162"/>
@@ -375,6 +375,7 @@
     <tag k="opening_hours" v="Mo 24:30-19:00; Tu-Fr 09:30-19:00; Sa 10:00-14:00"/>
     <tag k="operator" v="Comune di Milano"/>
     <tag k="operator:type" v="government"/>
+    <tag k="operator:wikidata" v="Q103903096"/>
     <tag k="phone" v="+39 02 88462542"/>
     <tag k="ref:isil" v="IT-MI0496"/>
     <tag k="source" v="www.comune.milano.it"/>
@@ -1893,7 +1894,7 @@
     <tag k="name" v="Teatro della 14a"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="441580397" lat="45.4405617" lon="9.2175278" version="13" timestamp="2022-03-20T11:10:36Z" changeset="118692052" uid="13840929" user="aa30mom">
+  <node id="441580397" lat="45.4405617" lon="9.2175278" version="14" timestamp="2025-02-27T11:34:29Z" changeset="163008401" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:postcode" v="20139"/>
@@ -1905,6 +1906,7 @@
     <tag k="opening_hours" v="Tu, Th 09:30-14:30; We, Fr 14:00-19:00; Sa 10:00-14:00; Su, Mo off"/>
     <tag k="operator" v="Comune di Milano"/>
     <tag k="operator:type" v="government"/>
+    <tag k="operator:wikidata" v="Q103903096"/>
     <tag k="phone" v="+39 02 88462971"/>
     <tag k="ref:isil" v="IT-MI0497"/>
     <tag k="website" v="https://milano.biblioteche.it/library/oglio"/>
@@ -6037,6 +6039,11 @@
     <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2168030902" lat="45.4645224" lon="9.1884811" version="4" timestamp="2025-02-27T08:07:29Z" changeset="163001489" uid="8772934" user="mapperich">
+    <tag k="name" v="Duomo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2168869456" lat="45.4835275" lon="9.2138213" version="8" timestamp="2024-05-08T21:32:43Z" changeset="151076332" uid="69259" user="DnaX">
     <tag k="brand" v="PittaRosso"/>
@@ -11925,12 +11932,13 @@
     <tag k="website" v="http://www.kitchenristorante.com"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3292516222" lat="45.4691407" lon="9.1944802" version="4" timestamp="2019-09-13T09:45:31Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3292516222" lat="45.4691407" lon="9.1944802" version="5" timestamp="2025-02-27T14:51:56Z" changeset="163015966" uid="8772934" user="mapperich">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Gesù"/>
+    <tag k="check_date" v="2025-02-27"/>
     <tag k="chemist" v="purfume"/>
     <tag k="name" v="Acqua di Parma"/>
     <tag k="shop" v="chemist"/>
@@ -26530,6 +26538,16 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="9346381608" lat="45.4635881" lon="9.1880096" version="4" timestamp="2025-02-27T16:40:53Z" changeset="163020404" uid="8772934" user="mapperich">
+    <tag k="name" v="Duomo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9346381614" lat="45.4635736" lon="9.1884137" version="4" timestamp="2025-02-27T16:40:53Z" changeset="163020404" uid="8772934" user="mapperich">
+    <tag k="name" v="Duomo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="9346395717" lat="45.4636714" lon="9.1886805" version="4" timestamp="2023-07-25T10:45:54Z" changeset="138982017" uid="19266080" user="frlrt">
     <tag k="name" v="Duomo"/>
     <tag k="railway" v="subway_entrance"/>
@@ -26896,6 +26914,11 @@
     <tag k="operator" v="Sviluppo Casa Srl"/>
     <tag k="ref" v="micd0"/>
     <tag k="start_date" v="2017"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9473996769" lat="45.4649955" lon="9.1907679" version="3" timestamp="2025-02-27T16:40:53Z" changeset="163020404" uid="8772934" user="mapperich">
+    <tag k="name" v="Duomo"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="9474100756" lat="45.4651553" lon="9.1864973" version="8" timestamp="2025-02-26T10:58:54Z" changeset="162966593" uid="8772934" user="mapperich">
@@ -32072,6 +32095,21 @@
     <tag k="wikimedia_commons" v="Category:Milano Porta Garibaldi train station"/>
     <tag k="wikipedia" v="it:Stazione di Milano Porta Garibaldi"/>
   </node>
+  <node id="11638880251" lat="45.4588105" lon="9.1775900" version="2" timestamp="2025-02-27T14:51:49Z" changeset="163015961" uid="8772934" user="mapperich">
+    <tag k="name" v="De Amicis"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11638880253" lat="45.4587949" lon="9.1775905" version="3" timestamp="2025-02-27T14:51:48Z" changeset="163015961" uid="8772934" user="mapperich">
+    <tag k="name" v="De Amicis"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11638880255" lat="45.4587817" lon="9.1775979" version="2" timestamp="2025-02-27T14:51:48Z" changeset="163015961" uid="8772934" user="mapperich">
+    <tag k="name" v="De Amicis"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="11638880257" lat="45.4593019" lon="9.1770589" version="2" timestamp="2024-10-12T13:39:07Z" changeset="157796318" uid="13986573" user="dombul">
     <tag k="name" v="De Amicis"/>
     <tag k="railway" v="subway_entrance"/>
@@ -33646,6 +33684,21 @@
     <tag k="toilets" v="yes"/>
     <tag k="toilets:access" v="permissive"/>
     <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="12484896746" lat="45.4525969" lon="9.2040470" version="2" timestamp="2025-02-27T08:07:11Z" changeset="163001471" uid="8772934" user="mapperich">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2025-02-26"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/berberepizzeria"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Berberè"/>
+    <tag k="opening_hours" v="12:30-14:30,19:00-23:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://berbere.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="12524091506" lat="45.5111401" lon="9.1878858" version="3" timestamp="2025-01-25T12:10:59Z" changeset="161743193" uid="67550" user="Aiman">
