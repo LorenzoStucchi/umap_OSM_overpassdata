@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-28T03:42:08Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-03-01T03:54:38Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="19" timestamp="2023-08-29T16:25:35Z" changeset="140550564" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -6920,6 +6920,11 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2403722404" lat="45.4686854" lon="9.1826155" version="4" timestamp="2025-02-28T14:30:27Z" changeset="163055196" uid="8772934" user="mapperich">
+    <tag k="name" v="Cairoli"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2406986466" lat="45.4721026" lon="9.1874395" version="5" timestamp="2023-10-22T13:10:15Z" changeset="142967504" uid="1875845" user="Valerio_Bozzolan">
     <tag k="brand" v="Gucci"/>
     <tag k="brand:wikidata" v="Q178516"/>
@@ -10419,6 +10424,11 @@
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="3011321936" lat="45.4564715" lon="9.1949287" version="5" timestamp="2025-02-28T14:30:19Z" changeset="163055196" uid="8772934" user="mapperich">
+    <tag k="name" v="Crocetta"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3011974302" lat="45.4776350" lon="9.2015517" version="5" timestamp="2023-03-25T12:43:48Z" changeset="134102723" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -11021,6 +11031,11 @@
     <tag k="ref:vatin" v="IT01312480187"/>
     <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3111601120" lat="45.4559386" lon="9.1956538" version="4" timestamp="2025-02-28T14:30:18Z" changeset="163055196" uid="8772934" user="mapperich">
+    <tag k="name" v="Crocetta"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3118976183" lat="45.4655825" lon="9.1914089" version="10" timestamp="2024-11-10T00:11:16Z" changeset="158952757" uid="20834736" user="autoflavor">
     <tag k="addr:city" v="Milano"/>
@@ -13350,6 +13365,11 @@
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3706579434" lat="45.4686396" lon="9.1820941" version="5" timestamp="2024-05-10T08:23:06Z" changeset="151132752" uid="5666811" user="DrWaluigi">
+    <tag k="name" v="Cairoli"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3706579441" lat="45.4684098" lon="9.1816418" version="5" timestamp="2025-02-28T14:30:27Z" changeset="163055196" uid="8772934" user="mapperich">
     <tag k="name" v="Cairoli"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -17650,13 +17670,14 @@
     <tag k="name" v="Italian Bakery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4394863013" lat="45.4689324" lon="9.1827097" version="6" timestamp="2017-08-18T09:00:57Z" changeset="51225297" uid="371303" user="Rolliwood">
+  <node id="4394863013" lat="45.4689324" lon="9.1827097" version="7" timestamp="2025-02-28T14:30:26Z" changeset="163055203" uid="8772934" user="mapperich">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="76"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Foro Buonaparte"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2025-02-28"/>
     <tag k="name" v="Caffè Olimpia"/>
     <tag k="phone" v="+39 02 8057251"/>
     <tag k="ref:vatin" v="IT03575280965"/>
@@ -25955,7 +25976,7 @@
     <tag k="man_made" v="water_tap"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8953522653" lat="45.4642715" lon="9.2076552" version="6" timestamp="2024-05-19T10:47:36Z" changeset="151528419" uid="19959320" user="George The Third">
+  <node id="8953522653" lat="45.4642715" lon="9.2076552" version="7" timestamp="2025-02-28T08:05:26Z" changeset="163040780" uid="20120497" user="Le Petit Léo">
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:street" v="Viale Premuda"/>
     <tag k="amenity" v="cafe"/>
@@ -25965,7 +25986,7 @@
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Cafezal"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-18:00; Sa-Su 09:00-20:00"/>
-    <tag k="outdoor_seating" v="yes"/>
+    <tag k="outdoor_seating" v="sidewalk"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
@@ -26212,6 +26233,15 @@
     <tag k="phone" v="+39 379 1043776"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9070773701" lat="45.4631610" lon="9.1892592" version="5" timestamp="2025-02-28T10:28:12Z" changeset="163045765" uid="20120497" user="Le Petit Léo">
+    <tag k="brand" v="Humana"/>
+    <tag k="brand:wikidata" v="Q1636581"/>
+    <tag k="name" v="Humana"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-19:30; Su 11:30-19:30"/>
+    <tag k="second_hand" v="only"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9085880019" lat="45.5279796" lon="9.2149923" version="5" timestamp="2024-10-23T13:11:53Z" changeset="158252761" uid="9641379" user="Pan Perníček">
     <tag k="addr:city" v="Milano"/>
@@ -40339,7 +40369,7 @@
     <tag k="wikimedia_commons" v="Category:Cinema Plinius (Milan)"/>
     <tag k="wikipedia" v="it:Teatro Plinius"/>
   </way>
-  <way id="373574609" version="4" timestamp="2020-07-02T03:30:27Z" changeset="87425605" uid="9716386" user="Jean Tatouage">
+  <way id="373574609" version="5" timestamp="2025-02-28T13:36:11Z" changeset="163053090" uid="18379809" user="niels-valec">
     <center lat="45.4838562" lon="9.1870146"/>
     <nd ref="3770159060"/>
     <nd ref="3770158506"/>
@@ -40347,6 +40377,7 @@
     <nd ref="3770159061"/>
     <nd ref="3770159060"/>
     <tag k="building" v="kiosk"/>
+    <tag k="check_date" v="2025-02-28"/>
     <tag k="name" v="Caffetteria e Tavola fredda"/>
     <tag k="opening_hours:signed" v="no"/>
     <tag k="shop" v="kiosk"/>
