@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-17T03:54:38Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-03-18T03:54:42Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -23911,6 +23911,35 @@
     <tag k="ref:vatin" v="IT02979410152"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="6451575134" lat="45.4497624" lon="9.1413927" version="2" timestamp="2025-03-17T14:10:30Z" changeset="163734163" uid="208863" user="andretna">
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="20146"/>
+    <tag k="addr:street" v="Via Curio Dentato"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="private"/>
+    <tag k="foot" v="private"/>
+    <tag k="horse" v="no"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6451575135" lat="45.4497012" lon="9.1414327" version="2" timestamp="2025-03-17T14:10:30Z" changeset="163734163" uid="208863" user="andretna">
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="20146"/>
+    <tag k="addr:street" v="Via Curio Dentato"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="private"/>
+    <tag k="foot" v="private"/>
+    <tag k="horse" v="no"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="6457602937" lat="45.4677987" lon="9.1825744" version="4" timestamp="2025-02-26T10:59:01Z" changeset="162966593" uid="8772934" user="mapperich">
     <tag k="name" v="Cairoli"/>
     <tag k="railway" v="subway_entrance"/>
@@ -33609,6 +33638,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12330913504" lat="45.4520649" lon="9.1425937" version="2" timestamp="2025-03-17T14:45:01Z" changeset="163735672" uid="208863" user="andretna">
+    <tag k="name" v="Frattini"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="12330913506" lat="45.4591119" lon="9.1653496" version="2" timestamp="2024-12-29T20:51:43Z" changeset="160767353" uid="21664515" user="Rik68mi">
     <tag k="name" v="Coni Zugna"/>
     <tag k="railway" v="subway_entrance"/>
@@ -36681,7 +36715,7 @@
     <tag k="social_facility:for" v="disabled"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="134470223" version="7" timestamp="2022-05-24T16:41:08Z" changeset="121434667" uid="6220204" user="Ysogo">
+  <way id="134470223" version="8" timestamp="2025-03-17T10:44:19Z" changeset="163725847" uid="95387" user="rugamarcus">
     <center lat="45.4388820" lon="9.2413941"/>
     <nd ref="1478328453"/>
     <nd ref="9526858269"/>
@@ -36703,6 +36737,7 @@
     <tag k="amenity" v="parking"/>
     <tag k="fee" v="yes"/>
     <tag k="parking" v="surface"/>
+    <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="134940971" version="8" timestamp="2022-05-21T16:48:02Z" changeset="121290248" uid="6220204" user="Ysogo">
