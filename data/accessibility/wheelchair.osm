@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-29T03:52:49Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-03-30T04:02:13Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -670,12 +670,13 @@
     <tag k="website" v="http://www.voltastreet.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="270180593" lat="45.4874588" lon="9.1869698" version="5" timestamp="2022-01-22T15:19:37Z" changeset="116469826" uid="13840929" user="aa30mom">
+  <node id="270180593" lat="45.4874588" lon="9.1869698" version="6" timestamp="2025-03-29T21:51:34Z" changeset="164266987" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Piazzale Carlo Archinto"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2025-03-29"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Archinto"/>
@@ -8470,7 +8471,7 @@
     <tag k="website" v="https://kikimilano.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2488613454" lat="45.4886115" lon="9.1891427" version="5" timestamp="2020-12-27T11:00:07Z" changeset="96479107" uid="7216618" user="ldrouet">
+  <node id="2488613454" lat="45.4886115" lon="9.1891427" version="6" timestamp="2025-03-29T22:00:08Z" changeset="164266965" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="26"/>
@@ -8478,7 +8479,9 @@
     <tag k="addr:street" v="Via Pietro Borsieri"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="turkish"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Turkish Kebap"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2488613455" lat="45.4888963" lon="9.1886814" version="4" timestamp="2023-07-27T16:44:41Z" changeset="139095911" uid="1875845" user="Valerio_Bozzolan">
@@ -17600,14 +17603,16 @@
     <tag k="was:name" v="Pizzeria Timavo"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4348681394" lat="45.4690445" lon="9.1818105" version="4" timestamp="2022-12-01T12:39:48Z" changeset="129602371" uid="113669" user="AnyFile">
+  <node id="4348681394" lat="45.4690445" lon="9.1818105" version="5" timestamp="2025-03-29T11:15:32Z" changeset="164244732" uid="2414126" user="Weasel-Wiesel">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Piazza Castello"/>
     <tag k="amenity" v="cafe"/>
     <tag k="cuisine" v="italian"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Bar Castello"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 864038"/>
     <tag k="website" v="https://www.gelateriabarcastello.com/"/>
     <tag k="wheelchair" v="yes"/>
@@ -20000,7 +20005,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4953160519" lat="45.4846420" lon="9.1782413" version="5" timestamp="2023-05-28T14:20:28Z" changeset="136658394" uid="19325827" user="malegre">
+  <node id="4953160519" lat="45.4845650" lon="9.1781321" version="6" timestamp="2025-03-29T11:15:45Z" changeset="164244769" uid="2414126" user="Weasel-Wiesel">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
@@ -24283,6 +24288,11 @@
     <tag k="ref:vatin" v="IT12484940965"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="6539942459" lat="45.4889872" lon="9.1876540" version="3" timestamp="2025-03-29T21:50:52Z" changeset="164266969" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Della Scala Immobiliare"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="6541823184" lat="45.4874951" lon="9.1892789" version="3" timestamp="2023-07-27T16:20:21Z" changeset="139095917" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:street" v="Piazza Tito Minniti"/>
     <tag k="amenity" v="restaurant"/>
@@ -26076,7 +26086,7 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8726339192" lat="45.4811485" lon="9.2252561" version="3" timestamp="2025-03-22T10:48:26Z" changeset="163941081" uid="9054148" user="dingerdonger">
+  <node id="8726339192" lat="45.4811485" lon="9.2252561" version="4" timestamp="2025-03-29T12:30:39Z" changeset="164247525" uid="22581696" user="Iñigo Sáez Casares">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Via Antonio Bazzini"/>
     <tag k="amenity" v="restaurant"/>
@@ -26084,7 +26094,7 @@
     <tag k="cuisine" v="italian;turkish"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="Istanbul Piola Turkish Kebap Pizzeria"/>
-    <tag k="opening_hours" v="11:00-24:00"/>
+    <tag k="opening_hours" v="Su-Th 11:00-02:00; Fr-Sa 11:00-03:00"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
@@ -27889,17 +27899,6 @@
     <tag k="ref" v="8"/>
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="9592263282" lat="45.4796169" lon="9.2099918" version="3" timestamp="2023-07-02T15:32:41Z" changeset="138028401" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Corso Buenos Aires"/>
-    <tag k="name" v="Giochi preziosi"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
-    <tag k="ref:vatin" v="IT11771210967"/>
-    <tag k="shop" v="toys"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9592342217" lat="45.4828352" lon="9.2131586" version="3" timestamp="2024-05-19T13:33:17Z" changeset="151534435" uid="21535740" user="agentcloud">
     <tag k="name" v="La esse"/>
@@ -31988,18 +31987,6 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11314050734" lat="45.4795609" lon="9.2099327" version="5" timestamp="2024-05-04T16:57:03Z" changeset="150889699" uid="21081459" user="Nathan Hadley">
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Five Guys"/>
-    <tag k="brand:wikidata" v="Q1131810"/>
-    <tag k="cuisine" v="burger"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Five Guys"/>
-    <tag k="official_name" v="Five Guys Burgers and Fries"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="11314055839" lat="45.4791990" lon="9.2100631" version="2" timestamp="2023-11-04T14:37:33Z" changeset="143614476" uid="1875845" user="Valerio_Bozzolan">
     <tag k="brand" v="Accessorize"/>
     <tag k="brand:wikidata" v="Q65007482"/>
@@ -34643,6 +34630,16 @@
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="yes"/>
     <tag k="operator" v="ASAP"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="12709872001" lat="45.4999954" lon="9.1947682" version="2" timestamp="2025-03-29T14:19:21Z" changeset="164251250" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Play!"/>
+    <tag k="shop" v="musical_instrument"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12710712893" lat="45.4872690" lon="9.1886059" version="2" timestamp="2025-03-29T21:57:20Z" changeset="164266969" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Tomasello"/>
+    <tag k="shop" v="electronics"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
