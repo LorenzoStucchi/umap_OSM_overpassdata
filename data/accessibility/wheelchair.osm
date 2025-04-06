@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T03:54:25Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-06T03:59:15Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4822,7 +4822,7 @@
     <tag k="wikimedia_commons" v="Category:Museo del Teatro alla Scala (Milan)"/>
     <tag k="wikipedia" v="it:Museo teatrale alla Scala"/>
   </node>
-  <node id="1832528975" lat="45.4657908" lon="9.1913244" version="5" timestamp="2022-11-24T14:25:30Z" changeset="129328457" uid="974272" user="baprischka">
+  <node id="1832528975" lat="45.4657908" lon="9.1913244" version="6" timestamp="2025-04-05T10:28:42Z" changeset="164544428" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
@@ -4832,7 +4832,9 @@
     <tag k="amenity" v="ice_cream"/>
     <tag k="check_date" v="2022-11-24"/>
     <tag k="contact:website" v="http://www.cioccolatitaliani.it/"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Cioccolati Italiani"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -7072,6 +7074,24 @@
     <tag k="toilets:access" v="customers"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2407091640" lat="45.4658697" lon="9.1914138" version="12" timestamp="2025-04-05T10:28:06Z" changeset="164544452" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Santa Radegonda"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2025-04-05"/>
+    <tag k="check_date:diet:vegetarian" v="2025-04-05"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="no"/>
+    <tag k="name" v="Ciao Pizza"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="only"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2407127345" lat="45.4770602" lon="9.2291388" version="7" timestamp="2023-03-03T21:48:57Z" changeset="133271339" uid="4841818" user="122131">
     <tag k="barrier" v="gate"/>
