@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-07T04:00:28Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-08T03:56:30Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -34061,8 +34061,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12330913504" lat="45.4520649" lon="9.1425937" version="2" timestamp="2025-03-17T14:45:01Z" changeset="163735672" uid="208863" user="andretna">
-    <tag k="name" v="Frattini"/>
+  <node id="12330913504" lat="45.4520649" lon="9.1425937" version="3" timestamp="2025-04-07T11:13:49Z" changeset="164628909" uid="18069" user="Claudius Henrichs">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -34686,8 +34685,14 @@
     <tag k="operator" v="ASAP"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12709872001" lat="45.4999954" lon="9.1947682" version="2" timestamp="2025-03-29T14:19:21Z" changeset="164251250" uid="1875845" user="Valerio_Bozzolan">
+  <node id="12709872001" lat="45.4999954" lon="9.1947682" version="4" timestamp="2025-04-07T12:23:39Z" changeset="164631875" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Veglia"/>
+    <tag k="email" v="milano@playmusicstore.net"/>
     <tag k="name" v="Play!"/>
+    <tag k="opening_hours" v="Mo 15:00-19:00; Tu-Sa 10:30-13:15,14:30-19:00"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="musical_instrument"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -35078,7 +35083,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="23950211" version="12" timestamp="2024-02-22T15:20:10Z" changeset="147777973" uid="13840929" user="aa30mom">
+  <way id="23950211" version="13" timestamp="2025-04-07T15:38:44Z" changeset="164641028" uid="13840929" user="aa30mom">
     <center lat="45.4766448" lon="9.2275165"/>
     <nd ref="259628115"/>
     <nd ref="11283126951"/>
@@ -35112,7 +35117,7 @@
     <tag k="building" v="university"/>
     <tag k="name" v="Facoltà di Scienze Agrarie e Alimentari"/>
     <tag k="operator" v="Università Statale di Milano"/>
-    <tag k="roof:colour" v="Rosso"/>
+    <tag k="roof:colour" v="red"/>
     <tag k="website" v="https://www.unimi.it/it/corsi/facolta-e-scuole/scienze-agrarie-e-alimentari"/>
     <tag k="wheelchair" v="yes"/>
   </way>
@@ -42460,7 +42465,7 @@
     <tag k="roof:shape" v="gabled"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="732244879" version="6" timestamp="2024-04-06T10:13:17Z" changeset="149648484" uid="19981378" user="u1009">
+  <way id="732244879" version="7" timestamp="2025-04-07T15:12:03Z" changeset="164639898" uid="9319767" user="busnotturno95">
     <center lat="45.4946949" lon="9.1823561"/>
     <nd ref="6856566089"/>
     <nd ref="6856566088"/>
@@ -42469,7 +42474,11 @@
     <nd ref="6856566086"/>
     <nd ref="6856566087"/>
     <nd ref="6856566089"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Valtellina"/>
     <tag k="amenity" v="nightclub"/>
+    <tag k="building" v="yes"/>
     <tag k="contact:instagram" v="alcatrazmilano"/>
     <tag k="email" v="segreteria@alcatrazmilano.it"/>
     <tag k="fax" v="+39 02 69016391"/>
