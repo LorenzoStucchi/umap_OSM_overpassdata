@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-14T04:03:15Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-15T04:02:22Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -859,6 +859,14 @@
     <tag k="opening_hours" v="Mo-Sa 06:00-20:00; Su 07:30-13:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="281828190" lat="45.5144784" lon="9.2077107" version="11" timestamp="2025-04-14T17:25:53Z" changeset="164949483" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2024-03-13"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Zanotta"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="281885884" lat="45.4666453" lon="9.1847704" version="9" timestamp="2023-11-17T22:16:26Z" changeset="144156837" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="addr:city" v="Milano"/>
@@ -15908,6 +15916,49 @@
     <tag k="outdoor_seating" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4041812796" lat="45.4872454" lon="9.2033950" version="8" timestamp="2025-04-14T15:18:26Z" changeset="164944325" uid="22763137" user="Garage Sammartini">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Via Giovanni Battista Sammartini"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="capacity" v="130"/>
+    <tag k="charge" v="a partire da 5 euro l'ora"/>
+    <tag k="check_date" v="2025-04-14"/>
+    <tag k="covered" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Parcheggio a 30 metri dalla stazione centrale di Milano. Aperto tutti i giorni dalle 5 alla 1 di notte. Pagamenti con BTC con prenotazioni online su www.garagesammartini.com"/>
+    <tag k="email" v="garagesammartini@gmail.com"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Garage Sammartini"/>
+    <tag k="note" v="Accettiamo parcheggio auto, moto, furgoni e biciclette"/>
+    <tag k="opening_hours" v="Mo-Su 05:00-01:00"/>
+    <tag k="operator" v="Garage Sammartini"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="parking" v="multi-storey"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="0266980835"/>
+    <tag k="source" v="local knowledge;survey"/>
+    <tag k="supervised" v="yes"/>
+    <tag k="surface" v="concrete"/>
+    <tag k="website" v="www.garagesammartini.com"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4041813168" lat="45.4909768" lon="9.2067776" version="3" timestamp="2025-01-08T17:07:28Z" changeset="161141239" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -24122,21 +24173,20 @@
     <tag k="source" v="https://beershowmilano.wixsite.com/beershow/contatti"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6402320272" lat="45.4909982" lon="9.1479168" version="5" timestamp="2023-07-06T14:44:41Z" changeset="138191682" uid="2823582" user="a9i">
+  <node id="6402320272" lat="45.4909982" lon="9.1479168" version="6" timestamp="2025-04-14T12:26:01Z" changeset="164936765" uid="2823582" user="a9i">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="72"/>
     <tag k="addr:postcode" v="20149"/>
     <tag k="addr:street" v="Via Marco Ulpio Traiano"/>
-    <tag k="check_date:opening_hours" v="2023-07-06"/>
+    <tag k="check_date:opening_hours" v="2025-04-14"/>
     <tag k="email" v="info@softwareworkers.it"/>
     <tag k="name" v="Software Workers"/>
     <tag k="office" v="it"/>
     <tag k="opening_hours" v="Mo-Fr 09:30-12:30,14:30-17:30; PH closed"/>
     <tag k="payment:cash" v="no"/>
-    <tag k="phone" v="+39 02 9716 3963"/>
     <tag k="ref:vatin" v="IT09375080968"/>
     <tag k="start_date" v="2016-01-27"/>
-    <tag k="website" v="https://softwareworkers.it/"/>
+    <tag k="website" v="https://swws.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="6402994590" lat="45.4819573" lon="9.2095838" version="4" timestamp="2023-12-07T10:54:45Z" changeset="144862296" uid="2052228" user="kauevestena">
@@ -34743,6 +34793,13 @@
     <tag k="ref:vatin" v="IT01590200125"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12754793978" lat="45.5187290" lon="9.2045034" version="2" timestamp="2025-04-14T17:17:53Z" changeset="164949483" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Arcaplanet"/>
+    <tag k="brand:wikidata" v="Q105530937"/>
+    <tag k="name" v="Arcaplanet"/>
+    <tag k="shop" v="pet"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -36825,6 +36882,38 @@
     <tag k="stroller" v="yes"/>
     <tag k="toilets" v="no"/>
     <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="58216916" version="11" timestamp="2025-04-14T17:19:29Z" changeset="164949483" uid="1875845" user="Valerio_Bozzolan">
+    <center lat="45.5186158" lon="9.2036410"/>
+    <nd ref="722107705"/>
+    <nd ref="722107712"/>
+    <nd ref="722107768"/>
+    <nd ref="722107773"/>
+    <nd ref="722107777"/>
+    <nd ref="722107781"/>
+    <nd ref="722107785"/>
+    <nd ref="722107788"/>
+    <nd ref="722107742"/>
+    <nd ref="722107745"/>
+    <nd ref="722107750"/>
+    <nd ref="722107753"/>
+    <nd ref="722107756"/>
+    <nd ref="722107761"/>
+    <nd ref="722107765"/>
+    <nd ref="722107716"/>
+    <nd ref="722107705"/>
+    <tag k="brand" v="Esselunga"/>
+    <tag k="brand:wikidata" v="Q1059636"/>
+    <tag k="brand:wikipedia" v="en:Esselunga"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:colour" v="#925155"/>
+    <tag k="name" v="Esselunga"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 09:00-20:00"/>
+    <tag k="operator" v="Esselunga S.p.A."/>
+    <tag k="roof:colour" v="#9d9fa5"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="58634521" version="16" timestamp="2024-09-12T19:45:55Z" changeset="156544195" uid="429539" user="Cristian1989">
