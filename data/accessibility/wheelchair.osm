@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-15T04:02:22Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-16T04:01:51Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -11193,7 +11193,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3118976183" lat="45.4655825" lon="9.1914089" version="10" timestamp="2024-11-10T00:11:16Z" changeset="158952757" uid="20834736" user="autoflavor">
+  <node id="3118976183" lat="45.4655825" lon="9.1914089" version="11" timestamp="2025-04-15T15:22:10Z" changeset="164990659" uid="474873" user="Fliegendekuh">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20121"/>
@@ -11203,9 +11203,11 @@
     <tag k="brand:wikidata" v="Q38076"/>
     <tag k="brand:wikipedia" v="en:McDonald's"/>
     <tag k="cuisine" v="burger"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="McDonald's"/>
     <tag k="opening_hours" v="Su-Th 07:00-01:00; Fr-Sa 07:00-02:00"/>
     <tag k="operator" v="McDonald's Development Italy LLC"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="phone" v="+39 02 23369687"/>
     <tag k="ref:vatin" v="IT09499510155"/>
     <tag k="takeaway" v="yes"/>
@@ -18458,8 +18460,9 @@
     <tag k="website" v="https://efarte.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4540413091" lat="45.4648248" lon="9.1942671" version="3" timestamp="2020-01-20T08:50:37Z" changeset="79786116" uid="1967477" user="bubix">
+  <node id="4540413091" lat="45.4648248" lon="9.1942671" version="4" timestamp="2025-04-15T15:22:25Z" changeset="164990659" uid="474873" user="Fliegendekuh">
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="I Panini della Befi"/>
     <tag k="operator" v="Minerva Sas si Tosutti L &amp; C"/>
     <tag k="outdoor_seating" v="yes"/>
@@ -22065,9 +22068,11 @@
     <tag k="name" v="Orianna"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5628867921" lat="45.4644933" lon="9.1930115" version="4" timestamp="2022-07-14T19:58:33Z" changeset="123623632" uid="10901495" user="Martino Scaglione">
+  <node id="5628867921" lat="45.4644933" lon="9.1930115" version="5" timestamp="2025-04-15T15:22:14Z" changeset="164990659" uid="474873" user="Fliegendekuh">
     <tag k="amenity" v="bar"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Signorvino Via Dante"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -27104,6 +27109,11 @@
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="9346358141" lat="45.4646007" lon="9.1910693" version="4" timestamp="2023-05-30T09:59:08Z" changeset="136736831" uid="3396014" user="Moncecchi Daniele">
+    <tag k="name" v="Duomo"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9346358144" lat="45.4645714" lon="9.1925445" version="4" timestamp="2025-04-15T15:22:03Z" changeset="164990644" uid="474873" user="Fliegendekuh">
     <tag k="name" v="Duomo"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -32475,12 +32485,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11432425552" lat="45.4465815" lon="9.1888026" version="3" timestamp="2025-04-12T15:51:46Z" changeset="164861975" uid="22120697" user="Bricetheapp">
+  <node id="11432425552" lat="45.4465815" lon="9.1888026" version="4" timestamp="2025-04-15T20:16:49Z" changeset="165001989" uid="22120697" user="Bricetheapp">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:postcode" v="20141"/>
     <tag k="addr:street" v="Viale Toscana"/>
-    <tag k="amenity" v="fitness_centre"/>
     <tag k="brand" v="Virgin Active"/>
     <tag k="brand:wikidata" v="Q4013942"/>
     <tag k="leisure" v="fitness_centre"/>
@@ -42598,7 +42607,7 @@
     <tag k="roof:shape" v="gabled"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="732244879" version="7" timestamp="2025-04-07T15:12:03Z" changeset="164639898" uid="9319767" user="busnotturno95">
+  <way id="732244879" version="10" timestamp="2025-04-15T19:08:15Z" changeset="164999807" uid="22120697" user="Bricetheapp">
     <center lat="45.4946949" lon="9.1823561"/>
     <nd ref="6856566089"/>
     <nd ref="6856566088"/>
@@ -42608,10 +42617,10 @@
     <nd ref="6856566087"/>
     <nd ref="6856566089"/>
     <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="25"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Valtellina"/>
     <tag k="amenity" v="nightclub"/>
-    <tag k="building" v="yes"/>
     <tag k="contact:instagram" v="alcatrazmilano"/>
     <tag k="email" v="segreteria@alcatrazmilano.it"/>
     <tag k="fax" v="+39 02 69016391"/>

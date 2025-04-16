@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-15T03:41:56Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-16T03:41:36Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="262111590" lat="45.0043442" lon="11.6452892">
     <tag k="name" v="Ecomuseo Mulino Pizzon"/>
@@ -1224,6 +1224,48 @@
     <tag k="name" v="Ecomuseo"/>
     <tag k="tourism" v="museum"/>
   </way>
+  <way id="488903933">
+    <nd ref="4811865431"/>
+    <nd ref="4811865429"/>
+    <nd ref="4811865449"/>
+    <nd ref="4811865479"/>
+    <nd ref="4811865440"/>
+    <nd ref="12756996400"/>
+    <nd ref="4811865435"/>
+    <nd ref="4811865464"/>
+    <nd ref="4811865469"/>
+    <nd ref="4811865431"/>
+    <tag k="addr:city" v="Civita"/>
+    <tag k="addr:postcode" v="87010"/>
+    <tag k="addr:street" v="Ponte del Diavolo"/>
+    <tag k="addr:unit" v="CS"/>
+    <tag k="building" v="museum"/>
+    <tag k="description" v="La Filanda Filiardi fu un opificio attivo dal 1906 al 1979 di proprietà della famiglia Filardi. Nel 2010 la struttura è stata ristrutturata e trasformata in un ecomuseo di archeologia industriale."/>
+    <tag k="museum" v="industrial_archaeology"/>
+    <tag k="name" v="Ecomuseo dell'antica Filanda Filardia"/>
+    <tag k="note" v="L'edificio è strutturato in tre ambienti: l’ex depuratore cittadino, che funge da zona di accoglienza e biglietteria; gli ambienti dell’opificio che costituiscono il cuore del museo; infine, il mulino ad acqua, adiacente alla filanda."/>
+    <tag k="opening_hours" v="Attualmente chiuso"/>
+    <tag k="operator" v="comune"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="start_date" v="01-01-2010"/>
+    <tag k="tourism" v="museum"/>
+  </way>
+  <way id="488903936">
+    <nd ref="4811865463"/>
+    <nd ref="4811865444"/>
+    <nd ref="4811865426"/>
+    <nd ref="4811865437"/>
+    <nd ref="4811865463"/>
+    <tag k="addr:city" v="Civita"/>
+    <tag k="addr:postcode" v="87010"/>
+    <tag k="addr:street" v="Ponte del Diavolo"/>
+    <tag k="addr:unit" v="CS"/>
+    <tag k="building" v="industrial_archaeology"/>
+    <tag k="description" v="Antico mulino ad acqua oggi facente parte dell'Ecomuseo della filanda Filiardi."/>
+    <tag k="man_made" v="watermill"/>
+    <tag k="name" v="Mulino dell'Ecomuseo Filanda Filiardi"/>
+    <tag k="start_date" v="01-01-1906"/>
+  </way>
   <way id="488903937">
     <nd ref="4811865468"/>
     <nd ref="4811865445"/>
@@ -1685,12 +1727,25 @@
   <node id="4810615247" lat="39.8280561" lon="16.3139981"/>
   <node id="4810615248" lat="39.8279670" lon="16.3139505"/>
   <node id="4810615249" lat="39.8279923" lon="16.3137923"/>
+  <node id="4811865426" lat="39.8288148" lon="16.3182129"/>
+  <node id="4811865429" lat="39.8295044" lon="16.3174433"/>
+  <node id="4811865437" lat="39.8288671" lon="16.3181771"/>
+  <node id="4811865440" lat="39.8294109" lon="16.3177822"/>
+  <node id="4811865444" lat="39.8287899" lon="16.3181512"/>
   <node id="4811865445" lat="39.8293033" lon="16.3166243"/>
   <node id="4811865453" lat="39.8293435" lon="16.3166690"/>
+  <node id="4811865463" lat="39.8288422" lon="16.3181154"/>
   <node id="4811865468" lat="39.8292907" lon="16.3165196"/>
   <node id="4811865470" lat="39.8294354" lon="16.3166502"/>
   <node id="4811865473" lat="39.8294165" lon="16.3164938"/>
   <node id="4811865475" lat="39.8293373" lon="16.3166173"/>
+  <node id="4811865479" lat="39.8293832" lon="16.3176914"/>
+  <node id="4811865431" lat="39.8295567" lon="16.3174159"/>
+  <node id="4811865435" lat="39.8296801" lon="16.3175971"/>
+  <node id="4811865449" lat="39.8295566" lon="16.3175749"/>
+  <node id="4811865464" lat="39.8296515" lon="16.3175250"/>
+  <node id="4811865469" lat="39.8296122" lon="16.3175515"/>
+  <node id="12756996400" lat="39.8296214" lon="16.3176374"/>
   <node id="8591240988" lat="41.0910167" lon="14.2966739"/>
   <node id="8591240989" lat="41.0907582" lon="14.2962916"/>
   <node id="8591240990" lat="41.0901796" lon="14.2962279"/>
