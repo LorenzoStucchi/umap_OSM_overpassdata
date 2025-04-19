@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-18T03:57:27Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-19T03:54:10Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -15919,7 +15919,7 @@
     <tag k="outdoor_seating" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4041812796" lat="45.4872454" lon="9.2033950" version="8" timestamp="2025-04-14T15:18:26Z" changeset="164944325" uid="22763137" user="Garage Sammartini">
+  <node id="4041812796" lat="45.4872454" lon="9.2033950" version="9" timestamp="2025-04-18T16:07:40Z" changeset="165119823" uid="6794624" user="Comino">
     <tag k="access" v="yes"/>
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -15929,10 +15929,11 @@
     <tag k="amenity" v="parking"/>
     <tag k="capacity" v="130"/>
     <tag k="charge" v="a partire da 5 euro l'ora"/>
-    <tag k="check_date" v="2025-04-14"/>
+    <tag k="check_date" v="2025-04-18"/>
+    <tag k="check_date:currency:XBT" v="2025-04-18"/>
     <tag k="covered" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Parcheggio a 30 metri dalla stazione centrale di Milano. Aperto tutti i giorni dalle 5 alla 1 di notte. Pagamenti con BTC con prenotazioni online su www.garagesammartini.com"/>
+    <tag k="description" v="Parcheggio a 30 metri dalla stazione centrale di Milano. Pagamenti con BTC con prenotazioni online su www.garagesammartini.com"/>
     <tag k="email" v="garagesammartini@gmail.com"/>
     <tag k="fee" v="yes"/>
     <tag k="name" v="Garage Sammartini"/>
@@ -15942,24 +15943,23 @@
     <tag k="operator:type" v="private"/>
     <tag k="parking" v="multi-storey"/>
     <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:maestro" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="0266980835"/>
+    <tag k="phone" v="+39 266980835"/>
     <tag k="source" v="local knowledge;survey"/>
     <tag k="supervised" v="yes"/>
     <tag k="surface" v="concrete"/>
-    <tag k="website" v="www.garagesammartini.com"/>
+    <tag k="website" v="https://garagesammartini.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4041813168" lat="45.4909768" lon="9.2067776" version="3" timestamp="2025-01-08T17:07:28Z" changeset="161141239" uid="1875845" user="Valerio_Bozzolan">
@@ -24597,6 +24597,18 @@
     <tag k="brand:wikidata" v="Q105615038"/>
     <tag k="name" v="Pam"/>
     <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6818430391" lat="45.5179793" lon="9.2076330" version="2" timestamp="2025-04-18T10:00:12Z" changeset="165104003" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="216"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Fulvio Testi"/>
+    <tag k="name" v="Mission"/>
+    <tag k="phone" v="+390236591569"/>
+    <tag k="shop" v="sports"/>
+    <tag k="sport" v="wakeboard;kitesurf;snowboard;sup;surf;skateboard"/>
+    <tag k="website" v="https://www.sportmission.com"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="6840132634" lat="45.4620728" lon="9.2142698" version="1" timestamp="2019-10-01T10:05:19Z" changeset="75140365" uid="89897" user="airon90">
