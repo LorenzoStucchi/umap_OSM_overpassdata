@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-27T03:52:07Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-28T03:55:22Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="250228012" lat="45.4957300" lon="9.2157910" version="9" timestamp="2024-05-13T16:48:49Z" changeset="151276078" uid="18379809" user="niels-valec">
     <tag k="crossing" v="marked"/>
@@ -102,6 +102,12 @@
   </node>
   <node id="2476793553" lat="45.4786360" lon="9.1708607" version="6" timestamp="2022-04-22T12:03:43Z" changeset="120047746" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="raised"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2517389185" lat="45.4744843" lon="9.2052085" version="7" timestamp="2025-04-27T19:15:37Z" changeset="165520187" uid="10373566" user="Lenin_ETH">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
     <tag k="kerb" v="raised"/>
     <tag k="tactile_paving" v="no"/>
   </node>
