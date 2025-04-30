@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-29T03:46:38Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-30T03:47:15Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="251291650" lat="45.4694750" lon="9.1976909" version="13" timestamp="2024-06-27T15:24:27Z" changeset="153253001" uid="3847112" user="YieldMapper">
     <tag k="crossing" v="uncontrolled"/>
@@ -174,16 +174,6 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
-  </node>
-  <node id="2093146819" lat="45.4329125" lon="9.1833472" version="10" timestamp="2023-10-31T08:07:43Z" changeset="143406082" uid="19294642" user="Disperato">
-    <tag k="button_operated" v="no"/>
-    <tag k="crossing" v="traffic_signals"/>
-    <tag k="crossing:island" v="yes"/>
-    <tag k="highway" v="crossing"/>
-    <tag k="kerb" v="flush"/>
-    <tag k="tactile_paving" v="no"/>
-    <tag k="traffic_signals:sound" v="no"/>
-    <tag k="traffic_signals:vibration" v="no"/>
   </node>
   <node id="2184024280" lat="45.4829655" lon="9.2016079" version="4" timestamp="2025-03-30T18:46:41Z" changeset="164300132" uid="2414126" user="Weasel-Wiesel">
     <tag k="bicycle" v="yes"/>
@@ -42459,6 +42449,16 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="11158695650" lat="45.4329180" lon="9.1833400" version="5" timestamp="2025-04-29T16:04:27Z" changeset="165599352" uid="2611295" user="cbeddow">
+    <tag k="button_operated" v="no"/>
+    <tag k="crossing" v="marked;traffic_signals"/>
+    <tag k="crossing:island" v="no;yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="traffic_signals:sound" v="no"/>
+    <tag k="traffic_signals:vibration" v="no"/>
   </node>
   <node id="11158745051" lat="45.4270325" lon="9.1775736" version="2" timestamp="2025-02-19T15:03:09Z" changeset="162704985" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
