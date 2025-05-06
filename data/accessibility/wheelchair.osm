@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-05T04:07:29Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-05-06T04:04:41Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -995,8 +995,10 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="282534300" lat="45.4737824" lon="9.2038858" version="6" timestamp="2018-11-15T22:44:41Z" changeset="64546854" uid="76884" user="philippec">
+  <node id="282534300" lat="45.4737824" lon="9.2038858" version="8" timestamp="2025-05-05T06:24:46Z" changeset="165828894" uid="22841600" user="413005">
     <tag k="amenity" v="drinking_water"/>
+    <tag k="check_date" v="2025-05-05"/>
+    <tag k="man_made" v="water_tap"/>
     <tag k="mapillary" v="https://www.mapillary.com/app/?lat=45.47370669802446&amp;lng=9.203985490122296&amp;z=17&amp;pKey=-dAgezT1_KBp_zNQcqfUMg&amp;focus=photo"/>
     <tag k="ref" v="027"/>
     <tag k="wheelchair" v="yes"/>
@@ -5272,6 +5274,11 @@
     <tag k="ref:vatin" v="IT06414420965"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1890381475" lat="45.5218614" lon="9.2097035" version="5" timestamp="2025-05-05T19:15:57Z" changeset="165861363" uid="22865032" user="Cremanza">
+    <tag k="name" v="Ponale"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1890385232" lat="45.5146428" lon="9.2048765" version="6" timestamp="2024-03-12T17:14:15Z" changeset="148559507" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Bicocca"/>
@@ -21224,7 +21231,9 @@
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5297949309" lat="45.5021265" lon="9.1657665" version="3" timestamp="2022-09-12T07:55:16Z" changeset="126076698" uid="1477895" user="Renato Lapio">
+  <node id="5297949309" lat="45.5021265" lon="9.1657665" version="4" timestamp="2025-05-05T22:44:55Z" changeset="165867062" uid="69259" user="DnaX">
+    <tag k="brand" v="Kasanova"/>
+    <tag k="brand:wikidata" v="Q116214505"/>
     <tag k="name" v="Kasanova"/>
     <tag k="opening_hours" v="Mo,Tu,Th-Sa 09:30-19:30; We 09:00-19:30; Su 10:00-19:00"/>
     <tag k="phone" v="+39 02 39314108"/>
@@ -30299,11 +30308,22 @@
     <tag k="wikidata" v="Q3802661"/>
     <tag k="wikipedia" v="it:Isola (metropolitana di Milano)"/>
   </node>
-  <node id="10044422280" lat="45.4702467" lon="9.1865901" version="3" timestamp="2024-06-08T10:08:35Z" changeset="152406675" uid="1875845" user="Valerio_Bozzolan">
+  <node id="10044422280" lat="45.4702467" lon="9.1865901" version="5" timestamp="2025-05-05T09:44:41Z" changeset="165836261" uid="113669" user="AnyFile">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via del Carmine"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Sicilianbrera"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/sicilianbrera"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="full_name" v="Sicilian Brera Vine and Food Art"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Sicilian"/>
+    <tag k="opening_hours" v="Tu-Th 10:30-18:30; Fr-Sa 11:00-21:00; Su 11:00-18:30; Mo off"/>
+    <tag k="operator" v="I segreti di Cerere S.a.s"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 02 7200449"/>
+    <tag k="website" v="https://www.sicilianbrera.com"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="10053327618" lat="45.4444494" lon="9.2637445" version="1" timestamp="2022-09-26T10:05:02Z" changeset="126647943" uid="4555725" user="Gh0stz0x">
@@ -39337,7 +39357,7 @@
     <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-via-mac-mahon-milano.mac.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="199436065" version="10" timestamp="2025-03-22T09:46:48Z" changeset="163938583" uid="11889511" user="Borgo23">
+  <way id="199436065" version="11" timestamp="2025-05-05T14:19:06Z" changeset="165848855" uid="22581696" user="Iñigo Sáez Casares">
     <center lat="45.4790009" lon="9.2264555"/>
     <nd ref="2094413797"/>
     <nd ref="2094413798"/>
@@ -39347,8 +39367,8 @@
     <tag k="bar" v="yes"/>
     <tag k="building" v="kiosk"/>
     <tag k="building:levels" v="1"/>
-    <tag k="check_date" v="2024-02-22"/>
-    <tag k="check_date:opening_hours" v="2023-01-23"/>
+    <tag k="check_date" v="2025-05-05"/>
+    <tag k="check_date:opening_hours" v="2025-05-05"/>
     <tag k="name" v="Civic"/>
     <tag k="opening_hours:signed" v="no"/>
     <tag k="payment:cash" v="yes"/>
