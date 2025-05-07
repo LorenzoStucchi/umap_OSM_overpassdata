@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-06T04:04:41Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-05-07T04:05:31Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2261,7 +2261,7 @@
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="617299313" lat="45.4767975" lon="9.2305504" version="6" timestamp="2023-12-15T13:13:20Z" changeset="145150476" uid="13840929" user="aa30mom">
+  <node id="617299313" lat="45.4767975" lon="9.2305504" version="7" timestamp="2025-05-06T07:49:52Z" changeset="165878433" uid="22581696" user="Iñigo Sáez Casares">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="20133"/>
@@ -2269,6 +2269,8 @@
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="yes"/>
     <tag k="foot" v="yes"/>
+    <tag k="maxwidth:physical" v="1.4"/>
+    <tag k="source:maxwidth:physical" v="ARCore"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="617733194" lat="45.4784447" lon="9.2329030" version="9" timestamp="2023-12-14T13:37:53Z" changeset="145112870" uid="17843669" user="DomKor">
@@ -7210,13 +7212,15 @@
     <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2407127345" lat="45.4770602" lon="9.2291388" version="7" timestamp="2023-03-03T21:48:57Z" changeset="133271339" uid="4841818" user="122131">
+  <node id="2407127345" lat="45.4770602" lon="9.2291388" version="8" timestamp="2025-05-06T16:10:01Z" changeset="165899989" uid="22581696" user="Iñigo Sáez Casares">
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="permissive"/>
     <tag k="foot" v="permissive"/>
     <tag k="material" v="metal"/>
+    <tag k="maxwidth:physical" v="3.2"/>
     <tag k="motor_vehicle" v="no"/>
     <tag k="motorcycle" v="private"/>
+    <tag k="source:maxwidth:physical" v="ARCore"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2407127348" lat="45.4777006" lon="9.2298297" version="6" timestamp="2023-09-18T20:49:59Z" changeset="141441851" uid="4841818" user="122131">
@@ -22470,13 +22474,15 @@
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5683348866" lat="45.4770471" lon="9.2272967" version="3" timestamp="2023-03-03T21:48:57Z" changeset="133271339" uid="4841818" user="122131">
+  <node id="5683348866" lat="45.4770471" lon="9.2272967" version="4" timestamp="2025-05-06T16:11:33Z" changeset="165899989" uid="22581696" user="Iñigo Sáez Casares">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Via Giovanni Celoria"/>
     <tag k="barrier" v="gate"/>
     <tag k="foot" v="permissive"/>
     <tag k="material" v="metal"/>
+    <tag k="maxwidth:physical" v="2.7"/>
+    <tag k="source:maxwidth:physical" v="ARCore"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5686052073" lat="45.4786647" lon="9.2329144" version="2" timestamp="2019-11-25T18:54:09Z" changeset="77539933" uid="10494647" user="pafferonis">
