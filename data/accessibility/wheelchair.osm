@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-09T04:06:05Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-10T04:02:00Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -527,13 +527,14 @@
     <tag k="name" v="Banco di Desio"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="267338265" lat="45.4870470" lon="9.1977011" version="6" timestamp="2022-01-22T15:03:04Z" changeset="116469092" uid="13840929" user="aa30mom">
+  <node id="267338265" lat="45.4870470" lon="9.1977011" version="7" timestamp="2025-05-09T16:58:04Z" changeset="166037703" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Melchiorre Gioia"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2025-05-09"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Humanitas"/>
@@ -613,7 +614,7 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q37158536"/>
   </node>
-  <node id="269924613" lat="45.4784549" lon="9.1850601" version="11" timestamp="2023-11-07T09:58:22Z" changeset="143728758" uid="9451067" user="b-jazz-bot">
+  <node id="269924613" lat="45.4784549" lon="9.1850601" version="12" timestamp="2025-05-09T17:21:31Z" changeset="166038669" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
@@ -621,8 +622,10 @@
     <tag k="addr:street" v="Largo La Foppa"/>
     <tag k="amenity" v="bar"/>
     <tag k="email" v="radetzkycafe@libero.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Radetzky Café"/>
     <tag k="operator" v="La Foppa s.r.l."/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 6572645"/>
     <tag k="ref:vatin" v="IT09240200155"/>
     <tag k="website" v="https://www.radetzky.it/"/>
@@ -1488,15 +1491,18 @@
     <tag k="name" v="Banco di Desio"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="358879007" lat="45.4872513" lon="9.1979770" version="7" timestamp="2019-09-13T10:56:35Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:postcode" v="20125"/>
-    <tag k="addr:street" v="Via Melchiorre Gioia"/>
+  <node id="358879006" lat="45.4875815" lon="9.1983633" version="5" timestamp="2025-05-09T16:55:51Z" changeset="166037612" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="name" v="Banca Popolare Commercio &amp; Industria"/>
-    <tag k="operator" v="UBI Banca"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="brand" v="Banca Popolare di Milano"/>
+    <tag k="brand:en" v="Popular Bank of Milan"/>
+    <tag k="brand:it" v="Banca Popolare di Milano"/>
+    <tag k="brand:wikidata" v="Q806154"/>
+    <tag k="brand:wikipedia" v="en:Banca Popolare di Milano"/>
+    <tag k="name" v="Banca Popolare di Milano"/>
+    <tag k="name:en" v="Popular Bank of Milan"/>
+    <tag k="name:it" v="Banca Popolare di Milano"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="358879494" lat="45.4901385" lon="9.1909103" version="6" timestamp="2025-01-25T10:32:40Z" changeset="161740295" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
@@ -16394,6 +16400,14 @@
     <tag k="name" v="Punto Due"/>
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4142388053" lat="45.4828505" lon="9.1884675" version="2" timestamp="2025-05-09T19:06:37Z" changeset="166042109" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:street" v="Via Vincenzo Capelli"/>
+    <tag k="name" v="Orologeria Luigi Verga"/>
+    <tag k="shop" v="watches"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4142389453" lat="45.4917209" lon="9.1839614" version="2" timestamp="2019-09-13T15:17:37Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="shop" v="newsagent"/>
