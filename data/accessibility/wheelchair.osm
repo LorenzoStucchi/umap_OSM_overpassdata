@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-12T04:09:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-13T04:07:15Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -21798,14 +21798,16 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5450827398" lat="45.4548157" lon="9.1731790" version="5" timestamp="2023-02-19T12:48:24Z" changeset="132745851" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5450827398" lat="45.4548157" lon="9.1731790" version="6" timestamp="2025-05-12T08:59:23Z" changeset="166140828" uid="69259" user="DnaX">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Viale Gorizia"/>
     <tag k="amenity" v="dentist"/>
+    <tag k="brand" v="DentalPro"/>
+    <tag k="brand:wikidata" v="Q134362096"/>
     <tag k="healthcare" v="dentist"/>
-    <tag k="name" v="Dental Pro"/>
+    <tag k="name" v="DentalPro"/>
     <tag k="website" v="https://www.dentalpro.it/centri-dentalpro/milano-gorizia.html"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -44404,6 +44406,23 @@
     <nd ref="8947215714"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
+  </way>
+  <way id="1007373111" version="3" timestamp="2025-05-12T11:55:07Z" changeset="166148733" uid="290680" user="wheelmap_visitor">
+    <center lat="45.4502407" lon="9.2172273"/>
+    <nd ref="7977385782"/>
+    <nd ref="7977385776"/>
+    <nd ref="7977385714"/>
+    <nd ref="7977385767"/>
+    <nd ref="7977385715"/>
+    <nd ref="7977385733"/>
+    <nd ref="7977385711"/>
+    <nd ref="7977385766"/>
+    <nd ref="9308570556"/>
+    <nd ref="7977389804"/>
+    <nd ref="3699094894"/>
+    <nd ref="7977385782"/>
+    <tag k="amenity" v="university"/>
+    <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1007787066" version="2" timestamp="2024-09-09T11:12:27Z" changeset="156389365" uid="21935859" user="IMMdesignlab">
     <center lat="45.4902722" lon="9.1013874"/>
