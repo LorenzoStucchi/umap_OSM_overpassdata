@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-13T04:07:15Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-14T04:06:12Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -21095,6 +21095,11 @@
     <tag k="stroller" v="limited"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="5266749447" lat="45.4779807" lon="9.2281607" version="3" timestamp="2025-05-13T09:44:16Z" changeset="166192633" uid="290680" user="wheelmap_visitor">
+    <tag k="covered" v="no"/>
+    <tag k="leisure" v="picnic_table"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5271532994" lat="45.4705512" lon="9.1846615" version="2" timestamp="2019-09-13T14:21:06Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -28094,10 +28099,20 @@
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9568173841" lat="45.4784366" lon="9.2272463" version="2" timestamp="2025-05-13T09:44:27Z" changeset="166192640" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="waste" v="trash"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="9568173859" lat="45.4778800" lon="9.2272457" version="2" timestamp="2025-03-22T09:42:53Z" changeset="163938442" uid="4862063" user="tars4815">
     <tag k="barrier" v="gate"/>
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9568173882" lat="45.4777725" lon="9.2272500" version="2" timestamp="2025-05-13T09:43:52Z" changeset="166192620" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="waste_basket"/>
+    <tag k="waste" v="trash"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9568174169" lat="45.4781110" lon="9.2285558" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="access" v="permissive"/>
@@ -30983,6 +30998,21 @@
     <tag k="access" v="customers"/>
     <tag k="barrier" v="gate"/>
     <tag k="locked" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058833" lat="45.4771185" lon="9.2281170" version="4" timestamp="2025-05-13T09:43:34Z" changeset="166192606" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="recycling"/>
+    <tag k="location" v="indoor"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:green_waste" v="yes"/>
+    <tag k="recycling:newspaper" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:plastic_bottles" v="yes"/>
+    <tag k="recycling:plastic_packaging" v="yes"/>
+    <tag k="recycling_type" v="container"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="10633058867" lat="45.4770532" lon="9.2281567" version="2" timestamp="2023-03-03T21:48:57Z" changeset="133271339" uid="4841818" user="122131">
@@ -34147,6 +34177,27 @@
   <node id="12149734932" lat="45.4789510" lon="9.2275760" version="1" timestamp="2024-09-01T13:18:28Z" changeset="156054117" uid="13857163" user="Nokse22">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12153216872" lat="45.4770761" lon="9.2279324" version="2" timestamp="2025-05-13T09:43:27Z" changeset="166192599" uid="290680" user="wheelmap_visitor">
+    <tag k="amenity" v="recycling"/>
+    <tag k="location" v="indoor"/>
+    <tag k="recycling:cans" v="yes"/>
+    <tag k="recycling:glass" v="yes"/>
+    <tag k="recycling:glass_bottles" v="yes"/>
+    <tag k="recycling:green_waste" v="yes"/>
+    <tag k="recycling:newspaper" v="yes"/>
+    <tag k="recycling:paper" v="yes"/>
+    <tag k="recycling:plastic" v="yes"/>
+    <tag k="recycling:plastic_bottles" v="yes"/>
+    <tag k="recycling:plastic_packaging" v="yes"/>
+    <tag k="recycling_type" v="container"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12153216873" lat="45.4771299" lon="9.2280429" version="2" timestamp="2025-05-13T09:43:11Z" changeset="166192584" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Taichi Furuhashi Lab. @ PoliMI"/>
+    <tag k="office" v="research"/>
+    <tag k="website" v="https://medium.com/furuhashilab"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12162487781" lat="45.4578692" lon="9.1651186" version="2" timestamp="2024-09-09T23:35:45Z" changeset="156417275" uid="13857163" user="Nokse22">
