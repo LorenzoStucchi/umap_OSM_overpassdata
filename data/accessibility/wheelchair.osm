@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-21T04:07:26Z" areas="2025-05-20T21:57:00Z"/>
+<meta osm_base="2025-05-22T04:06:54Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1940,14 +1940,14 @@
     <tag k="website" v="https://milano.biblioteche.it/library/oglio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="442022319" lat="45.4666904" lon="9.1980152" version="9" timestamp="2023-06-11T10:37:31Z" changeset="137199246" uid="2884921" user="Ryccardo">
+  <node id="442022319" lat="45.4666904" lon="9.1980152" version="10" timestamp="2025-05-21T19:39:05Z" changeset="166584125" uid="8305310" user="Martin Ligabue">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Corso Monforte"/>
     <tag k="brand" v="Lego"/>
-    <tag k="brand:wikidata" v="Q1063455"/>
+    <tag k="brand:wikidata" v="Q25385996"/>
     <tag k="brand:wikipedia" v="en:The Lego Group"/>
     <tag k="check_date" v="2023-06-10"/>
     <tag k="fax" v="+39 02 76001670"/>
@@ -4096,13 +4096,12 @@
     <tag k="website:menu" v="https://assodifiori.com/menu/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1650244143" lat="45.4628035" lon="9.2275554" version="9" timestamp="2023-08-17T11:24:39Z" changeset="140008011" uid="3199858" user="Mateusz Konieczny - bot account">
+  <node id="1650244143" lat="45.4628035" lon="9.2275554" version="10" timestamp="2025-05-21T18:02:42Z" changeset="166580932" uid="8305310" user="Martin Ligabue">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Via Luisa Battistotti Sassi"/>
     <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="restaurant"/>
     <tag k="branch" v="Via Battistotti Sassi"/>
     <tag k="brand" v="Mamma Oliva"/>
     <tag k="contact:email" v="info@mammaoliva.it"/>
@@ -4115,6 +4114,7 @@
     <tag k="contact:website" v="https://www.mammaoliva.it"/>
     <tag k="cuisine" v="italian;italian_pizza"/>
     <tag k="delivery" v="yes"/>
+    <tag k="disused:amenity" v="restaurant"/>
     <tag k="name" v="Mamma Oliva"/>
     <tag k="opening_hours" v="Mo-Su 12:30-15:00,19:00-23:30"/>
     <tag k="operator" v="Sassi 11 SRL"/>
@@ -8135,6 +8135,13 @@
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2459462106" lat="45.4779879" lon="9.1842592" version="2" timestamp="2023-04-28T16:12:39Z" changeset="135476146" uid="3396014" user="Moncecchi Daniele">
+    <tag k="comment" v="open only daytime (close at 21:00)"/>
+    <tag k="name" v="Moscova"/>
+    <tag k="opening_hours" v="06:00-21:00"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2459462112" lat="45.4781159" lon="9.1847460" version="4" timestamp="2025-05-21T21:49:27Z" changeset="166587850" uid="17843669" user="DomKor">
     <tag k="comment" v="open only daytime (close at 21:00)"/>
     <tag k="name" v="Moscova"/>
     <tag k="opening_hours" v="06:00-21:00"/>
@@ -19235,6 +19242,11 @@
     <tag k="shop" v="department_store"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="4690874779" lat="45.4819123" lon="9.1624425" version="4" timestamp="2025-05-21T21:49:27Z" changeset="166587850" uid="17843669" user="DomKor">
+    <tag k="name" v="Domodossola"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4690877064" lat="45.4811554" lon="9.1620396" version="6" timestamp="2022-04-28T11:08:59Z" changeset="120300419" uid="13878104" user="Nádudvari Tamás">
     <tag k="access" v="yes"/>
     <tag k="door" v="sliding"/>
@@ -25587,13 +25599,12 @@
     <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7737386850" lat="45.4629510" lon="9.2353369" version="4" timestamp="2023-08-17T11:25:22Z" changeset="140008011" uid="3199858" user="Mateusz Konieczny - bot account">
+  <node id="7737386850" lat="45.4629510" lon="9.2353369" version="5" timestamp="2025-05-21T18:04:43Z" changeset="166581009" uid="8305310" user="Martin Ligabue">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Via Cardinale Mezzofanti"/>
     <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="restaurant"/>
     <tag k="brewery" v="yes"/>
     <tag k="contact:email" v="motofoodsrl@gmail.com;drinkebike@gmail.com"/>
     <tag k="contact:facebook" v="https://www.facebook.com/officineanalfabeta"/>
@@ -25602,6 +25613,7 @@
     <tag k="contact:phone" v="+39 02 70123204"/>
     <tag k="contact:website" v="http://www.officineanalfabeta.it"/>
     <tag k="cuisine" v="italian;burger;panini;salad"/>
+    <tag k="disused:amenity" v="restaurant"/>
     <tag k="name" v="Officine Analfabeta"/>
     <tag k="opening_hours" v="Mo-Fr 12:00-15:00,19:00-02:00; Sa 19:00-02:00; Su off"/>
     <tag k="outdoor_seating" v="no"/>
@@ -31546,6 +31558,11 @@
     <tag k="shop" v="laundry"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="10839919709" lat="45.4819311" lon="9.1624196" version="3" timestamp="2025-05-21T21:49:27Z" changeset="166587850" uid="17843669" user="DomKor">
+    <tag k="name" v="Domodossola"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="10839919808" lat="45.4837047" lon="9.1867794" version="2" timestamp="2024-09-25T14:50:55Z" changeset="157087330" uid="8350372" user="Balaabirami">
     <tag k="name" v="Garibaldi FS"/>
     <tag k="railway" v="subway_entrance"/>
@@ -35326,6 +35343,69 @@
     <tag k="amenity" v="toilets"/>
     <tag k="level" v="1"/>
     <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12853890620" lat="45.4752950" lon="9.1456836" version="1" timestamp="2025-05-21T17:32:58Z" changeset="166579760" uid="17843669" user="DomKor">
+    <tag k="access" v="customers"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="no"/>
+    <tag k="horse" v="no"/>
+    <tag k="locked" v="no"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12853890626" lat="45.4753393" lon="9.1456261" version="1" timestamp="2025-05-21T17:32:58Z" changeset="166579760" uid="17843669" user="DomKor">
+    <tag k="access" v="permit"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="foot" v="no"/>
+    <tag k="horse" v="no"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12853890629" lat="45.4750186" lon="9.1460516" version="1" timestamp="2025-05-21T17:32:58Z" changeset="166579760" uid="17843669" user="DomKor">
+    <tag k="access" v="no"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="20149"/>
+    <tag k="addr:street" v="Via Mosè Bianchi"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12853890638" lat="45.4751886" lon="9.1459398" version="1" timestamp="2025-05-21T17:32:58Z" changeset="166579760" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="emergency"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12853890639" lat="45.4750155" lon="9.1461817" version="1" timestamp="2025-05-21T17:32:58Z" changeset="166579760" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="emergency"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12853890643" lat="45.4752608" lon="9.1462329" version="1" timestamp="2025-05-21T17:32:58Z" changeset="166579760" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="main"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12853890644" lat="45.4752595" lon="9.1461093" version="1" timestamp="2025-05-21T17:32:58Z" changeset="166579760" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="12853890654" lat="45.4751733" lon="9.1462350" version="1" timestamp="2025-05-21T17:32:58Z" changeset="166579760" uid="17843669" user="DomKor">
+    <tag k="healthcare" v="rehabilitation"/>
+    <tag k="name" v="Auxologico Mosè Bianchi"/>
+    <tag k="website" v="https://www.auxologico.it/sedi/auxologico-mose-bianchi"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
