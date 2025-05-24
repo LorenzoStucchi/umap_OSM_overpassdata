@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-23T04:07:55Z" areas="2025-05-23T02:41:39Z"/>
+<meta osm_base="2025-05-24T04:02:56Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -10633,16 +10633,13 @@
     <tag k="was:shop" v="bag"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3007409045" lat="45.4646967" lon="9.1932005" version="4" timestamp="2024-06-28T23:00:58Z" changeset="153313040" uid="69259" user="DnaX">
+  <node id="3007409045" lat="45.4646967" lon="9.1932005" version="5" timestamp="2025-05-23T14:57:05Z" changeset="166660872" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Galleria Pattari"/>
-    <tag k="brand" v="Falconeri"/>
-    <tag k="brand:wikidata" v="Q28056375"/>
-    <tag k="name" v="Falconeri"/>
-    <tag k="ref:vatin" v="IT02016450229"/>
-    <tag k="shop" v="clothes"/>
+    <tag k="check_date" v="2025-05-15"/>
+    <tag k="shop" v="vacant"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3007409046" lat="45.4655000" lon="9.1960684" version="5" timestamp="2022-11-03T14:24:52Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
@@ -16895,6 +16892,11 @@
     <tag k="tourism" v="gallery"/>
     <tag k="website" v="http://www.mudec.it/ita/"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4198482904" lat="45.4846148" lon="9.1665425" version="4" timestamp="2025-05-23T21:45:52Z" changeset="166675272" uid="6220204" user="Ysogo">
+    <tag k="name" v="Gerusalemme"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4207082862" lat="45.4871628" lon="9.1719943" version="3" timestamp="2023-01-28T09:09:41Z" changeset="131800024" uid="1477895" user="Renato Lapio">
     <tag k="addr:city" v="Milano"/>
@@ -28331,14 +28333,14 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9592342217" lat="45.4828352" lon="9.2131586" version="8" timestamp="2025-05-22T17:24:51Z" changeset="166623183" uid="216179" user="olgia">
+  <node id="9592342217" lat="45.4828352" lon="9.2131586" version="9" timestamp="2025-05-23T15:17:45Z" changeset="166661830" uid="216179" user="olgia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
-    <tag k="branch" v="LlaESSE CORSO BUENOS AIRES"/>
+    <tag k="branch" v="laESSE CORSO BUENOS AIRES"/>
     <tag k="brand" v="Esselunga"/>
     <tag k="brand:wikidata" v="Q1059636"/>
-    <tag k="name" v="La Esse"/>
+    <tag k="name" v="Esselunga"/>
     <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 08:00-20:00"/>
     <tag k="phone" v="+39 02 2951 8292"/>
     <tag k="shop" v="supermarket"/>
@@ -37504,7 +37506,7 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="58216916" version="12" timestamp="2025-05-22T10:24:38Z" changeset="166605739" uid="216179" user="olgia">
+  <way id="58216916" version="13" timestamp="2025-05-23T16:34:54Z" changeset="166664907" uid="216179" user="olgia">
     <center lat="45.5186158" lon="9.2036410"/>
     <nd ref="722107705"/>
     <nd ref="722107712"/>
@@ -37523,6 +37525,9 @@
     <nd ref="722107765"/>
     <nd ref="722107716"/>
     <nd ref="722107705"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="221"/>
+    <tag k="addr:street" v="Viale Giovanni Suzzani"/>
     <tag k="branch" v="SUZZANI"/>
     <tag k="brand" v="Esselunga"/>
     <tag k="brand:wikidata" v="Q1059636"/>
