@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-28T04:09:29Z" areas="2025-05-20T05:45:31Z"/>
+<meta osm_base="2025-05-29T04:10:00Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1694,7 +1694,7 @@
     <tag k="website" v="https://www.bancobpm.it/trova-filiali/tutte-le-filiali/lombardia/MI/MILANO-00393/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="408783078" lat="45.4564731" lon="9.1746390" version="9" timestamp="2025-01-11T11:07:04Z" changeset="161234783" uid="1781586" user="fick89">
+  <node id="408783078" lat="45.4564731" lon="9.1746390" version="10" timestamp="2025-05-28T16:14:43Z" changeset="166883410" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="25"/>
@@ -1706,7 +1706,7 @@
     <tag k="check_date" v="2023-04-16"/>
     <tag k="clothes" v="men"/>
     <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:XBT" v="no"/>
     <tag k="name" v="Doppelgänger"/>
     <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="phone" v="+39028321980"/>
@@ -9814,6 +9814,17 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.starbucks.com/store-locator/store/1023281/starbucks-vercelli-piazzale-francesco-baracca-10-milan-mi-20121-it"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2770307234" lat="45.4667593" lon="9.1515039" version="2" timestamp="2025-05-28T14:07:26Z" changeset="166877990" uid="17843669" user="DomKor">
+    <tag k="brand" v="Euronics"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="level" v="0,1"/>
+    <tag k="name" v="Euronics"/>
+    <tag k="opening_hours" v="09:30-20:30 mo-sa; 10:00-20:00 Su"/>
+    <tag k="shop" v="electronics"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="designated"/>
   </node>
   <node id="2775875539" lat="45.4760202" lon="9.2240466" version="4" timestamp="2024-04-16T12:54:40Z" changeset="150084006" uid="1914637" user="a1ca424">
     <tag k="amenity" v="fast_food"/>
@@ -19656,6 +19667,13 @@
     <tag k="name" v="De Wan"/>
     <tag k="ref:vatin" v="IT08576820156"/>
     <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4806628228" lat="45.4665851" lon="9.1512143" version="3" timestamp="2025-05-28T14:07:26Z" changeset="166877990" uid="17843669" user="DomKor">
+    <tag k="level" v="0"/>
+    <tag k="name" v="Cibarium Il gusto come una volta"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-14:00,16:00-19:45; 09:00-17:00; PH closed"/>
+    <tag k="shop" v="deli"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4808277459" lat="45.4777194" lon="9.2272889" version="8" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
@@ -35462,6 +35480,28 @@
     <tag k="shop" v="tea"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="12871033652" lat="45.4665671" lon="9.1511478" version="1" timestamp="2025-05-28T14:07:26Z" changeset="166877990" uid="17843669" user="DomKor">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Holy marghera"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="12871033653" lat="45.4665427" lon="9.1510560" version="1" timestamp="2025-05-28T14:07:26Z" changeset="166877990" uid="17843669" user="DomKor">
+    <tag k="beauty" v="nails"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Infiny nails"/>
+    <tag k="opening_hours" v="Sa-Su 09:00-21:00"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="12871067016" lat="45.4662587" lon="9.1488931" version="1" timestamp="2025-05-28T13:41:19Z" changeset="166876844" uid="17843669" user="DomKor">
+    <tag k="amenity" v="language_school"/>
+    <tag k="email" v="milano4@myes.it"/>
+    <tag k="name" v="Myes"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="phone" v="+39024690423"/>
+    <tag k="website" v="https://www.myes.it"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -41322,6 +41362,20 @@
     <tag k="wikidata" v="Q16539831"/>
     <tag k="wikimedia_commons" v="Category:Sacro Volto (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa del Sacro Volto (Milano)"/>
+  </way>
+  <way id="290706832" version="2" timestamp="2025-05-28T18:28:40Z" changeset="166888790" uid="413098" user="jeyh">
+    <center lat="45.4580139" lon="9.1831558"/>
+    <nd ref="2942145451"/>
+    <nd ref="2942143858"/>
+    <nd ref="2664087361"/>
+    <nd ref="1773934899"/>
+    <nd ref="2664087360"/>
+    <nd ref="1773934897"/>
+    <nd ref="2664087358"/>
+    <nd ref="2942145451"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
   </way>
   <way id="291249874" version="4" timestamp="2019-12-13T23:12:00Z" changeset="78395543" uid="10494647" user="pafferonis">
     <center lat="45.4696423" lon="9.2372213"/>
