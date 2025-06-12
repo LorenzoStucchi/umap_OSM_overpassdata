@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-11T04:14:01Z" areas="2025-06-10T22:03:58Z"/>
+<meta osm_base="2025-06-12T04:12:54Z" areas="2025-06-12T00:13:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3894,7 +3894,7 @@
     <tag k="website" v="https://it.usembassy.gov/embassy-consulates/milan/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1600010810" lat="45.4722181" lon="9.1840218" version="5" timestamp="2022-01-26T13:05:03Z" changeset="116621977" uid="13840929" user="aa30mom">
+  <node id="1600010810" lat="45.4722181" lon="9.1840218" version="6" timestamp="2025-06-11T06:15:48Z" changeset="167473575" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:postcode" v="20121"/>
@@ -3903,6 +3903,7 @@
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Coop.Farm.Pontaccio"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:30; Sa 09:00-19:00"/>
     <tag k="operator" v="Coop.Farm.Pontaccio"/>
     <tag k="ref:msal" v="2615"/>
     <tag k="ref:vatin" v="IT00774640155"/>
@@ -7352,7 +7353,8 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2411123337" lat="45.4794612" lon="9.2098675" version="8" timestamp="2022-11-23T20:11:03Z" changeset="129296249" uid="974272" user="baprischka">
+  <node id="2411123337" lat="45.4794612" lon="9.2098675" version="9" timestamp="2025-06-11T15:13:01Z" changeset="167496692" uid="13840929" user="aa30mom">
+    <tag k="addr:housenumber" v="33"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="brand" v="La Feltrinelli"/>
     <tag k="brand:wikidata" v="Q96311190"/>
@@ -9599,18 +9601,20 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2724178334" lat="45.4821388" lon="9.1875233" version="13" timestamp="2025-03-13T22:34:00Z" changeset="163591084" uid="113669" user="AnyFile">
+  <node id="2724178334" lat="45.4821388" lon="9.1875233" version="14" timestamp="2025-06-11T05:57:50Z" changeset="167473575" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Corso Como"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2025-01-15"/>
+    <tag k="check_date" v="2025-06-11"/>
+    <tag k="check_date:opening_hours" v="2025-06-11"/>
     <tag k="contact:instagram" v="https://www.instagram.com/kagurazaka_saryo_milano"/>
     <tag k="cuisine" v="japanese"/>
     <tag k="email" v="info@ayacompanyeu.com"/>
     <tag k="name" v="Kagurazaka Saryō Milano"/>
+    <tag k="opening_hours" v="Mo-Sa 12:00-21:30"/>
     <tag k="operator" v="Aya Company EU SRL"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
@@ -12128,7 +12132,7 @@
     <tag k="name" v="Metropolis"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3217983484" lat="45.4830875" lon="9.1895504" version="10" timestamp="2025-05-18T17:37:07Z" changeset="166442021" uid="11220113" user="ivanbranco">
+  <node id="3217983484" lat="45.4830875" lon="9.1895504" version="11" timestamp="2025-06-11T05:55:15Z" changeset="167473575" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20154"/>
@@ -12136,13 +12140,13 @@
     <tag k="brand" v="Under Armour"/>
     <tag k="brand:wikidata" v="Q2031485"/>
     <tag k="brand:wikipedia" v="en:Under Armour"/>
-    <tag k="check_date" v="2025-05-18"/>
-    <tag k="check_date:opening_hours" v="2023-06-17"/>
+    <tag k="check_date" v="2025-06-11"/>
+    <tag k="check_date:opening_hours" v="2025-06-11"/>
     <tag k="clothes" v="men;women"/>
     <tag k="level" v="1"/>
     <tag k="level:ref" v="0"/>
     <tag k="name" v="Under Armour"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="opening_hours" v="Mo-Su,PH off"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -23207,11 +23211,11 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5787745159" lat="45.4763213" lon="9.2066227" version="4" timestamp="2021-11-08T08:05:21Z" changeset="113509855" uid="89897" user="airon90">
+  <node id="5787745159" lat="45.4763213" lon="9.2066227" version="5" timestamp="2025-06-11T15:13:01Z" changeset="167496692" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:full" v="Via Lazzaro Palazzi 2 angolo Corso Buenos Aires"/>
+    <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="addr:street" v="Via Lazzaro Palazzi"/>
     <tag k="brand" v="GameStop"/>
     <tag k="brand:wikidata" v="Q202210"/>
     <tag k="brand:wikipedia" v="en:GameStop"/>
@@ -24134,7 +24138,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6082676078" lat="45.4802096" lon="9.1868160" version="5" timestamp="2022-06-02T15:11:12Z" changeset="121856258" uid="13933690" user="Andrea Carulli">
+  <node id="6082676078" lat="45.4802096" lon="9.1868160" version="6" timestamp="2025-06-11T06:00:57Z" changeset="167473575" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="118"/>
@@ -24144,6 +24148,7 @@
     <tag k="brand" v="Starbucks"/>
     <tag k="brand:wikidata" v="Q37158"/>
     <tag k="brand:wikipedia" v="en:Starbucks"/>
+    <tag k="check_date:opening_hours" v="2025-06-11"/>
     <tag k="cuisine" v="coffee_shop"/>
     <tag k="name" v="Starbucks"/>
     <tag k="official_name" v="Starbucks Coffee"/>
@@ -27539,14 +27544,16 @@
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9346217264" lat="45.4824867" lon="9.2127510" version="6" timestamp="2024-09-09T07:31:35Z" changeset="156380898" uid="21876070" user="Ebadm">
+  <node id="9346217264" lat="45.4824867" lon="9.2127510" version="7" timestamp="2025-06-11T15:13:01Z" changeset="167496692" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="brand" v="Nike"/>
     <tag k="brand:wikidata" v="Q483915"/>
     <tag k="check_date" v="2024-06-19"/>
     <tag k="clothes" v="sports"/>
-    <tag k="name" v="Nike"/>
+    <tag k="name" v="Nike Store Milano Loreto"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -27776,7 +27783,9 @@
     <tag k="stroller" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9445802325" lat="45.4818228" lon="9.2121698" version="4" timestamp="2023-10-16T16:23:52Z" changeset="142674139" uid="69259" user="DnaX">
+  <node id="9445802325" lat="45.4818512" lon="9.2122082" version="5" timestamp="2025-06-11T15:13:01Z" changeset="167496692" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="53"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="branch" v="Milano Buenos Aires"/>
@@ -27786,9 +27795,8 @@
     <tag k="contact:email" v="milanobaires@lush.it"/>
     <tag k="contact:phone" v="+39 02 29419420"/>
     <tag k="contact:website" v="https://www.lush.com/it/it/shops/lush-b.aires?id=LUSH025"/>
-    <tag k="fixme" v="Opening time da controllare"/>
     <tag k="name" v="Lush"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:30"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="operator" v="Lush Italia s.r.l."/>
     <tag k="ref:vatin" v="IT12575920157"/>
     <tag k="shop" v="cosmetics"/>
@@ -33212,9 +33220,7 @@
     <tag k="payment:wire_transfer" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11635678177" lat="45.4845605" lon="9.1873439" version="3" timestamp="2024-12-24T17:05:27Z" changeset="160582948" uid="11242131" user="ja+">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:street" v="Piazza Sigmund Freud"/>
+  <node id="11635678177" lat="45.4845605" lon="9.1873439" version="4" timestamp="2025-06-11T15:54:17Z" changeset="167498309" uid="13840929" user="aa30mom">
     <tag k="alt_name" v="Milano Porta Garibaldi"/>
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Porta Garibaldi (superficie)"/>
@@ -33794,11 +33800,8 @@
     <tag k="website" v="https://www.familycarebadanti.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11747855289" lat="45.5086310" lon="9.1864198" version="3" timestamp="2025-01-25T12:35:26Z" changeset="161743952" uid="67550" user="Aiman">
+  <node id="11747855289" lat="45.5086310" lon="9.1864198" version="4" timestamp="2025-06-11T15:39:41Z" changeset="167497740" uid="13840929" user="aa30mom">
     <tag k="access" v="customers"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:postcode" v="21026"/>
-    <tag k="addr:street" v="Piazza Ospedale Maggiore"/>
     <tag k="door" v="hinged"/>
     <tag k="entrance" v="secondary"/>
     <tag k="wheelchair" v="yes"/>
@@ -34775,16 +34778,14 @@
     <tag k="website" v="https://www.enostra.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12393882649" lat="45.5091931" lon="9.1884710" version="1" timestamp="2024-12-03T14:24:02Z" changeset="159883494" uid="67550" user="Aiman">
+  <node id="12393882649" lat="45.5091931" lon="9.1884710" version="2" timestamp="2025-06-11T15:39:41Z" changeset="167497740" uid="13840929" user="aa30mom">
     <tag k="access" v="customers"/>
-    <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
     <tag k="door" v="sliding"/>
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12393882653" lat="45.5093197" lon="9.1887405" version="1" timestamp="2024-12-03T14:24:02Z" changeset="159883494" uid="67550" user="Aiman">
+  <node id="12393882653" lat="45.5093197" lon="9.1887405" version="2" timestamp="2025-06-11T15:39:41Z" changeset="167497740" uid="13840929" user="aa30mom">
     <tag k="access" v="customers"/>
-    <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
     <tag k="door" v="sliding"/>
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
@@ -34796,9 +34797,8 @@
     <tag k="tourism" v="information"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12393882656" lat="45.5093573" lon="9.1885502" version="1" timestamp="2024-12-03T14:24:02Z" changeset="159883494" uid="67550" user="Aiman">
+  <node id="12393882656" lat="45.5093573" lon="9.1885502" version="2" timestamp="2025-06-11T15:39:41Z" changeset="167497740" uid="13840929" user="aa30mom">
     <tag k="access" v="customers"/>
-    <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
     <tag k="door" v="sliding"/>
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
@@ -34812,9 +34812,8 @@
     <tag k="name" v="Banca Intesa San Paolo"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12393882660" lat="45.5091555" lon="9.1886615" version="1" timestamp="2024-12-03T14:24:02Z" changeset="159883494" uid="67550" user="Aiman">
+  <node id="12393882660" lat="45.5091555" lon="9.1886615" version="2" timestamp="2025-06-11T15:39:41Z" changeset="167497740" uid="13840929" user="aa30mom">
     <tag k="access" v="customers"/>
-    <tag k="addr:street" v="Piazza dell'Ospedale Maggiore"/>
     <tag k="door" v="sliding"/>
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
@@ -36577,7 +36576,7 @@
     <tag k="wikidata" v="Q2104876"/>
     <tag k="wikipedia" v="it:Porta Venezia (Milano)"/>
   </way>
-  <way id="27638654" version="14" timestamp="2025-01-29T14:02:11Z" changeset="161898791" uid="67550" user="Aiman">
+  <way id="27638654" version="15" timestamp="2025-06-11T15:54:17Z" changeset="167498309" uid="13840929" user="aa30mom">
     <center lat="45.4845218" lon="9.1872098"/>
     <nd ref="1697767136"/>
     <nd ref="1954441866"/>
@@ -36607,7 +36606,6 @@
     <nd ref="4891607721"/>
     <nd ref="1697767136"/>
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:street" v="Piazza Sigmund Freud"/>
     <tag k="building" v="train_station"/>
     <tag k="wheelchair" v="limited"/>
   </way>
