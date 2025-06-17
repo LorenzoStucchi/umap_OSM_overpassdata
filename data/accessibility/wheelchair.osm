@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-16T04:16:40Z" areas="2025-06-16T02:12:59Z"/>
+<meta osm_base="2025-06-17T04:13:44Z" areas="2025-06-15T01:53:29Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4579,14 +4579,13 @@
     <tag k="name" v="Ponte di Brera"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1726715675" lat="45.4696405" lon="9.1881410" version="5" timestamp="2025-01-17T10:44:52Z" changeset="161450203" uid="113669" user="AnyFile">
+  <node id="1726715675" lat="45.4696781" lon="9.1881004" version="6" timestamp="2025-06-16T08:27:57Z" changeset="167681567" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Brera"/>
     <tag k="comment:it" v="Il negozio era in precedenza in via Tommaso Marino"/>
-    <tag k="fixme" v="Position estimated"/>
     <tag k="name" v="Pettinaroli"/>
     <tag k="shop" v="stationery"/>
     <tag k="wheelchair" v="no"/>
@@ -42152,7 +42151,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="339751565" version="5" timestamp="2024-09-01T16:22:18Z" changeset="156062170" uid="13857163" user="Nokse22">
-    <center lat="45.4552797" lon="9.1583784"/>
+    <center lat="45.4552685" lon="9.1583972"/>
     <nd ref="3469674650"/>
     <nd ref="3356929739"/>
     <nd ref="3469674620"/>
@@ -46081,7 +46080,7 @@
     <tag k="surface" v="concrete"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1395534549" version="2" timestamp="2025-06-15T15:42:17Z" changeset="167657027" uid="22919632" user="matteobott">
+  <way id="1395534549" version="3" timestamp="2025-06-16T16:09:02Z" changeset="167701900" uid="22919632" user="matteobott">
     <center lat="45.4209762" lon="9.1754516"/>
     <nd ref="12917630672"/>
     <nd ref="12917630673"/>
@@ -46104,10 +46103,25 @@
     <nd ref="12917630665"/>
     <nd ref="12917630666"/>
     <nd ref="12917630672"/>
+    <tag k="access" v="yes"/>
     <tag k="blind" v="limited"/>
+    <tag k="fitness_station" v="yes"/>
     <tag k="leisure" v="fitness_station"/>
+    <tag k="opening_hours" v="24/7"/>
     <tag k="sport" v="fitness"/>
     <tag k="start_date" v="2018"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1395741167" version="1" timestamp="2025-06-16T14:10:22Z" changeset="167696677" uid="22919632" user="matteobott">
+    <center lat="45.4167443" lon="9.1806283"/>
+    <nd ref="12919417476"/>
+    <nd ref="12919417477"/>
+    <nd ref="12919417478"/>
+    <nd ref="12919417479"/>
+    <nd ref="12919417476"/>
+    <tag k="building" v="church"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Oratorio - Chiesa di Santa Maria Madre Teresa alle Terrazze"/>
     <tag k="wheelchair" v="yes"/>
   </way>
 
