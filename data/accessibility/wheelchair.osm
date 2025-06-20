@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-19T04:13:59Z" areas="2025-06-15T01:53:29Z"/>
+<meta osm_base="2025-06-20T04:12:48Z" areas="2025-06-15T01:53:29Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -25070,10 +25070,10 @@
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6919811666" lat="45.4766903" lon="9.2274977" version="3" timestamp="2025-03-22T09:55:20Z" changeset="163938878" uid="20913730" user="robertobochet">
+  <node id="6919811666" lat="45.4766903" lon="9.2274977" version="4" timestamp="2025-06-19T11:31:00Z" changeset="167821829" uid="17843669" user="DomKor">
     <tag k="access" v="yes"/>
     <tag k="entrance" v="main"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="6938836679" lat="45.4753541" lon="9.2078948" version="3" timestamp="2024-05-23T19:41:36Z" changeset="151740675" uid="20905165" user="nu99et">
     <tag k="clothes" v="women"/>
@@ -25966,7 +25966,7 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8348867281" lat="45.5142549" lon="9.2054678" version="4" timestamp="2024-03-13T17:37:55Z" changeset="148605528" uid="1875845" user="Valerio_Bozzolan">
+  <node id="8348867281" lat="45.5142743" lon="9.2055333" version="5" timestamp="2025-06-19T22:35:47Z" changeset="167847140" uid="9319767" user="busnotturno95">
     <tag k="name" v="Bicocca"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -35751,6 +35751,24 @@
     <tag k="website" v="https://www.df-sportspecialist.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12925662751" lat="45.4766902" lon="9.2274740" version="1" timestamp="2025-06-19T11:31:00Z" changeset="167821829" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12925662755" lat="45.4765795" lon="9.2267673" version="1" timestamp="2025-06-19T11:31:00Z" changeset="167821829" uid="17843669" user="DomKor">
+    <tag k="access" v="permissive"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="building" v="yes"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="female" v="yes"/>
+    <tag k="male" v="yes"/>
+    <tag k="supervised" v="no"/>
+    <tag k="toilets:disposal" v="flush"/>
+    <tag k="toilets:position" v="seated"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -36132,12 +36150,13 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="23950211" version="13" timestamp="2025-04-07T15:38:44Z" changeset="164641028" uid="13840929" user="aa30mom">
+  <way id="23950211" version="14" timestamp="2025-06-19T11:31:00Z" changeset="167821829" uid="17843669" user="DomKor">
     <center lat="45.4766448" lon="9.2275165"/>
     <nd ref="259628115"/>
     <nd ref="11283126951"/>
     <nd ref="259628117"/>
     <nd ref="259628118"/>
+    <nd ref="12925662751"/>
     <nd ref="6919811666"/>
     <nd ref="259628124"/>
     <nd ref="259628126"/>
@@ -36164,7 +36183,7 @@
     <nd ref="259628146"/>
     <nd ref="259628115"/>
     <tag k="building" v="university"/>
-    <tag k="name" v="Facoltà di Scienze Agrarie e Alimentari"/>
+    <tag k="name" v="Edificio 21021"/>
     <tag k="operator" v="Università Statale di Milano"/>
     <tag k="roof:colour" v="red"/>
     <tag k="website" v="https://www.unimi.it/it/corsi/facolta-e-scuole/scienze-agrarie-e-alimentari"/>
@@ -43886,7 +43905,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="731955525" version="4" timestamp="2025-06-08T13:19:33Z" changeset="167351514" uid="13840929" user="aa30mom">
+  <way id="731955525" version="5" timestamp="2025-06-19T15:47:31Z" changeset="167833242" uid="13840929" user="aa30mom">
     <center lat="45.4914797" lon="9.1019240"/>
     <nd ref="6854095813"/>
     <nd ref="1917469764"/>
@@ -43898,7 +43917,7 @@
     <nd ref="6854095813"/>
     <tag k="architect" v="Farnia Ferrari"/>
     <tag k="building" v="residential"/>
-    <tag k="building:colour" v="Bianco"/>
+    <tag k="building:colour" v="#ffffff"/>
     <tag k="building:levels" v="2"/>
     <tag k="building:levels:underground" v="0"/>
     <tag k="building:material" v="plaster"/>
@@ -43958,27 +43977,6 @@
     <nd ref="6910530496"/>
     <nd ref="6910530499"/>
     <tag k="leisure" v="dog_park"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="739042504" version="2" timestamp="2023-10-25T11:18:19Z" changeset="143109754" uid="17843669" user="DomKor">
-    <center lat="45.4765879" lon="9.2267615"/>
-    <nd ref="1492414286"/>
-    <nd ref="6919811659"/>
-    <nd ref="6919811660"/>
-    <nd ref="6919811662"/>
-    <nd ref="1492416547"/>
-    <nd ref="286306939"/>
-    <nd ref="1492414286"/>
-    <tag k="access" v="permissive"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="building" v="yes"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="female" v="yes"/>
-    <tag k="male" v="yes"/>
-    <tag k="supervised" v="no"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:position" v="seated"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="740215877" version="4" timestamp="2025-02-06T12:07:23Z" changeset="162205892" uid="290680" user="wheelmap_visitor">
@@ -46113,6 +46111,22 @@
     <tag k="building" v="church"/>
     <tag k="building:levels" v="2"/>
     <tag k="name" v="Oratorio - Chiesa di Santa Maria Madre Teresa alle Terrazze"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1396702223" version="1" timestamp="2025-06-19T22:35:47Z" changeset="167847140" uid="9319767" user="busnotturno95">
+    <center lat="45.5140248" lon="9.2211933"/>
+    <nd ref="12926715075"/>
+    <nd ref="12926715076"/>
+    <tag k="departures_board" v="timetable"/>
+    <tag k="name" v="Largo Mattei"/>
+    <tag k="network" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="15294"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
 
