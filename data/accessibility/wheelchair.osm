@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-25T21:31:54Z" areas="2025-06-25T21:31:54Z"/>
+<meta osm_base="2025-06-27T04:14:57Z" areas="2025-06-27T01:06:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -15760,21 +15760,6 @@
     <tag k="website" v="https://baby-isola.webnode.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3976146277" lat="45.4913093" lon="9.1841357" version="4" timestamp="2024-09-25T17:40:52Z" changeset="157094642" uid="6520581" user="pfez">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="48"/>
-    <tag k="addr:postcode" v="20159"/>
-    <tag k="addr:street" v="Via Carlo Farini"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="check_date" v="2024-09-25"/>
-    <tag k="name" v="Bar Castello"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 06:30-20:00"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="3976146278" lat="45.4915766" lon="9.1838797" version="2" timestamp="2019-09-13T15:17:48Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -19258,6 +19243,19 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="4612299027" lat="45.4775054" lon="9.2294277" version="4" timestamp="2025-06-26T14:14:56Z" changeset="168142226" uid="12266546" user="tiziodcaio">
+    <tag k="access" v="yes"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="cold_water" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="disused:amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+    <tag k="fountain" v="bottle_refill"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="lit" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4612318490" lat="45.4800199" lon="9.2290472" version="1" timestamp="2017-01-16T17:43:43Z" changeset="45221429" uid="3851725" user="Alice Bonfiglio">
     <tag k="amenity" v="toilets"/>
     <tag k="female" v="yes"/>
@@ -22627,10 +22625,10 @@
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5683348856" lat="45.4775818" lon="9.2290785" version="2" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+  <node id="5683348856" lat="45.4775818" lon="9.2290785" version="3" timestamp="2025-06-26T14:23:42Z" changeset="168142684" uid="12266546" user="tiziodcaio">
     <tag k="access" v="permissive"/>
-    <tag k="door" v="no"/>
-    <tag k="entrance" v="yes"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5683348866" lat="45.4770471" lon="9.2272967" version="4" timestamp="2025-05-06T16:11:33Z" changeset="165899989" uid="22581696" user="Iñigo Sáez Casares">
@@ -22643,6 +22641,13 @@
     <tag k="maxwidth:physical" v="2.7"/>
     <tag k="source:maxwidth:physical" v="ARCore"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5683443074" lat="45.4776002" lon="9.2294250" version="4" timestamp="2025-06-26T14:23:42Z" changeset="168142684" uid="12266546" user="tiziodcaio">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5686052073" lat="45.4786647" lon="9.2329144" version="2" timestamp="2019-11-25T18:54:09Z" changeset="77539933" uid="10494647" user="pafferonis">
     <tag k="amenity" v="toilets"/>
@@ -32303,10 +32308,14 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11275693996" lat="45.4771652" lon="9.2297918" version="6" timestamp="2025-03-22T10:14:55Z" changeset="163939692" uid="20913730" user="robertobochet">
+  <node id="11275693996" lat="45.4771652" lon="9.2297918" version="8" timestamp="2025-06-26T19:37:25Z" changeset="168155173" uid="12266546" user="tiziodcaio">
     <tag k="check_date" v="2025-03-22"/>
+    <tag k="club" v="linux"/>
     <tag k="drink:club-mate" v="no"/>
     <tag k="email" v="info@poul.org"/>
+    <tag k="fee" v="no"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="customers"/>
     <tag k="leisure" v="hackerspace"/>
     <tag k="name" v="POuL"/>
     <tag k="opening_hours" v="https://bits.poul.org"/>
@@ -35819,6 +35828,23 @@
     <tag k="check_date" v="2025-06-25"/>
     <tag k="name" v="Allianz"/>
     <tag k="office" v="insurance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="12953933701" lat="45.4897633" lon="9.1464350" version="1" timestamp="2025-06-26T12:09:07Z" changeset="168137140" uid="10153698" user="Francesco Cioria">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="toilets:disposal" v="flush"/>
+    <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12954188903" lat="45.4774366" lon="9.2292100" version="1" timestamp="2025-06-26T14:23:42Z" changeset="168142684" uid="12266546" user="tiziodcaio">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="level" v="0"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -42025,7 +42051,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="330639921" version="7" timestamp="2022-06-03T19:22:47Z" changeset="121912208" uid="6220204" user="Ysogo">
+  <way id="330639921" version="8" timestamp="2025-06-26T22:37:26Z" changeset="168159914" uid="6220204" user="Ysogo">
     <center lat="45.4376095" lon="9.2448286"/>
     <nd ref="3376329065"/>
     <nd ref="9612715548"/>
@@ -42042,6 +42068,7 @@
     <tag k="name" v="Scuola dell'infanzia Savinio"/>
     <tag k="operator" v="Comune di Milano"/>
     <tag k="operator:type" v="government"/>
+    <tag k="operator:wikidata" v="Q106225029"/>
     <tag k="phone" v="+39 02 5060138"/>
     <tag k="preschool" v="yes"/>
     <tag k="ref" v="MI1AT7500U"/>
