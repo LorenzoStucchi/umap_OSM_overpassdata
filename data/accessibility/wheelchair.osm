@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-29T04:21:30Z" areas="2025-06-29T00:52:37Z"/>
+<meta osm_base="2025-06-30T04:19:10Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5497,14 +5497,15 @@
     <tag k="operator" v="Banca Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1969467067" lat="45.4719305" lon="9.2145410" version="4" timestamp="2016-01-30T19:24:15Z" changeset="36903974" uid="1476146" user="Alecs01">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20129"/>
-    <tag k="addr:street" v="Via privata Giuseppe Abamonti"/>
+  <node id="1969467067" lat="45.4719252" lon="9.2145132" version="6" timestamp="2025-06-29T13:42:47Z" changeset="168265935" uid="17843669" user="DomKor">
     <tag k="amenity" v="pub"/>
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:country" v="IT"/>
+    <tag k="contact:housenumber" v="1"/>
+    <tag k="contact:postcode" v="20129"/>
+    <tag k="contact:street" v="Via privata Giuseppe Abamonti"/>
     <tag k="name" v="La Belle Aurore"/>
+    <tag k="opening_hours" v="Mo-Tu,Th 10:00-22:30; Fr-Sa 10:00-23:30; Su 10:00-22:00"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="1977225059" lat="45.4753723" lon="9.2039666" version="4" timestamp="2022-03-02T17:58:41Z" changeset="118028689" uid="13840929" user="aa30mom">
@@ -15604,10 +15605,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3935597018" lat="45.5013503" lon="9.1971527" version="3" timestamp="2023-03-18T18:47:13Z" changeset="133834463" uid="1875845" user="Valerio_Bozzolan">
+  <node id="3935597018" lat="45.5013503" lon="9.1971527" version="4" timestamp="2025-06-29T17:54:36Z" changeset="168276492" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Piazzale Istria"/>
+    <tag k="check_date" v="2025-06-25"/>
     <tag k="name" v="MF Minimarket"/>
     <tag k="ref:vatin" v="IT10992420967"/>
     <tag k="shop" v="greengrocer"/>
@@ -35893,6 +35895,20 @@
     <tag k="phone" v="+39 370 1104502"/>
     <tag k="ref:vatin" v="IT09264440968"/>
     <tag k="website" v="https://www.psicologapavani.it/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="12961169497" lat="45.4718366" lon="9.2145155" version="3" timestamp="2025-06-29T13:48:49Z" changeset="168266176" uid="17843669" user="DomKor">
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:housenumber" v="23"/>
+    <tag k="contact:postcode" v="20129"/>
+    <tag k="contact:street" v="Via Castel Morrone"/>
+    <tag k="email" v="lorinipasticceria@gmail.com"/>
+    <tag k="name" v="Pasticceria Lorini"/>
+    <tag k="opening_hours" v="Tu-Sa 09:00-13:00,15:30-19:30; Su 08:00-13:00; PH closed"/>
+    <tag k="operator" v="Pasticceria Lorini Srl"/>
+    <tag k="phone" v="+39 02 2951 6086"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="website" v="https://www.pasticceria-lorini-milano.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
