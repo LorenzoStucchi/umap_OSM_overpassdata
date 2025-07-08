@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-07T04:19:59Z" areas="2025-07-06T23:07:43Z"/>
+<meta osm_base="2025-07-08T04:16:11Z" areas="2025-07-07T22:41:07Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="20" timestamp="2025-03-05T22:42:35Z" changeset="163264205" uid="1781586" user="fick89">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -10847,20 +10847,10 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3012733095" lat="45.4681956" lon="9.1985323" version="5" timestamp="2023-12-04T13:13:08Z" changeset="144754745" uid="2052228" user="kauevestena">
+  <node id="3012733096" lat="45.4682622" lon="9.1985935" version="4" timestamp="2025-07-07T15:56:34Z" changeset="168612550" uid="13840929" user="aa30mom">
     <tag k="brand" v="Dolce &amp; Gabbana"/>
     <tag k="brand:wikidata" v="Q214480"/>
     <tag k="brand:wikipedia" v="en:Dolce &amp; Gabbana"/>
-    <tag k="fixme" v="Position estimated"/>
-    <tag k="name" v="Dolce &amp; Gabbana"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="3012733096" lat="45.4682696" lon="9.1985985" version="3" timestamp="2023-12-04T13:12:32Z" changeset="144754745" uid="2052228" user="kauevestena">
-    <tag k="brand" v="Dolce &amp; Gabbana"/>
-    <tag k="brand:wikidata" v="Q214480"/>
-    <tag k="brand:wikipedia" v="en:Dolce &amp; Gabbana"/>
-    <tag k="fixme" v="Position estimated"/>
     <tag k="name" v="Dolce &amp; Gabbana"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
@@ -26008,6 +25998,12 @@
     <tag k="website" v="https://burgez.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="8383921070" lat="45.4337404" lon="9.2394331" version="3" timestamp="2025-07-07T09:27:21Z" changeset="168594997" uid="67550" user="Aiman">
+    <tag k="amenity" v="ticket_validator"/>
+    <tag k="level" v="-1"/>
+    <tag k="operator" v="Trenord"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8385219829" lat="45.4840155" lon="9.1791970" version="1" timestamp="2021-02-01T21:10:48Z" changeset="98534207" uid="454306" user="dega180">
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="dismount"/>
@@ -27412,10 +27408,11 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9267541823" lat="45.4337306" lon="9.2394625" version="2" timestamp="2025-05-31T20:14:38Z" changeset="167027425" uid="4425563" user="Danysan95">
+  <node id="9267541823" lat="45.4337306" lon="9.2394625" version="3" timestamp="2025-07-07T09:22:11Z" changeset="168594799" uid="67550" user="Aiman">
     <tag k="access" v="yes"/>
-    <tag k="check_date" v="2025-05-31"/>
+    <tag k="check_date" v="2025-07-07"/>
     <tag k="defibrillator:location" v="Al binario 8 vicino alle scale"/>
+    <tag k="defibrillator:location:en" v="At platform 8 near the stairs"/>
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="no"/>
     <tag k="level" v="0"/>
@@ -27905,6 +27902,28 @@
     <tag k="ref" v="micd0"/>
     <tag k="start_date" v="2017"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9473605199" lat="45.4335753" lon="9.2400310" version="10" timestamp="2025-07-07T09:12:49Z" changeset="168594429" uid="67550" user="Aiman">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="bar" v="yes"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="cuisine" v="coffee_shop;pizza"/>
+    <tag k="highchair" v="3"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="kids_area" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="microbrewery" v="no"/>
+    <tag k="name" v="Pizzikotto"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00; PH closed"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="customers"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9473996769" lat="45.4649955" lon="9.1907679" version="3" timestamp="2025-02-27T16:40:53Z" changeset="163020404" uid="8772934" user="mapperich">
     <tag k="name" v="Duomo"/>
@@ -36824,9 +36843,10 @@
     <tag k="wikidata" v="Q901469"/>
     <tag k="wikipedia" v="it:Chiesa di San Pietro in Gessate"/>
   </way>
-  <way id="27596332" version="7" timestamp="2023-12-04T13:54:59Z" changeset="144756387" uid="2052228" user="kauevestena">
+  <way id="27596332" version="8" timestamp="2025-07-07T15:56:34Z" changeset="168612550" uid="13840929" user="aa30mom">
     <center lat="45.4742821" lon="9.2052265"/>
     <nd ref="303034831"/>
+    <nd ref="12985804797"/>
     <nd ref="303034832"/>
     <nd ref="303034830"/>
     <nd ref="303034828"/>
