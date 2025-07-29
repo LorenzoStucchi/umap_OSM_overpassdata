@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-28T04:34:15Z" areas="2025-07-27T23:21:42Z"/>
+<meta osm_base="2025-07-29T04:36:16Z" areas="2025-07-29T02:43:59Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -922,7 +922,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="281579462" lat="45.4584046" lon="9.1672768" version="7" timestamp="2024-09-07T21:06:03Z" changeset="156329183" uid="13857163" user="Nokse22">
+  <node id="281579462" lat="45.4584046" lon="9.1672768" version="7" timestamp="2024-09-07T21:06:03Z" changeset="156329183" uid="13857163" user="ulore22">
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="no"/>
     <tag k="fountain" v="drinking"/>
@@ -1914,7 +1914,7 @@
     <tag k="ref" v="38129"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="389528607" lat="45.4578178" lon="9.1651745" version="8" timestamp="2024-09-09T23:35:39Z" changeset="156417275" uid="13857163" user="Nokse22">
+  <node id="389528607" lat="45.4578178" lon="9.1651745" version="8" timestamp="2024-09-09T23:35:39Z" changeset="156417275" uid="13857163" user="ulore22">
     <tag k="amenity" v="drinking_water"/>
     <tag k="man_made" v="water_tap"/>
     <tag k="wheelchair" v="yes"/>
@@ -2837,7 +2837,7 @@
     <tag k="website" v="https://www.grom.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="687897963" lat="45.4718956" lon="9.1676381" version="10" timestamp="2024-01-13T12:49:30Z" changeset="146213237" uid="113669" user="AnyFile">
+  <node id="687897963" lat="45.4718956" lon="9.1676381" version="11" timestamp="2025-07-28T06:16:43Z" changeset="169593007" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="55"/>
@@ -2852,7 +2852,7 @@
     <tag k="operator" v="GS spa"/>
     <tag k="phone" v="+39 02 4694107"/>
     <tag k="ref:vatin" v="IT12683790153"/>
-    <tag k="shop" v="supermarket"/>
+    <tag k="shop" v="convenience"/>
     <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-market-milano-via-monti-n-55-0022.html"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -32470,11 +32470,13 @@
     <tag k="foot" v="permissive"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8550853456" lat="45.4784545" lon="9.1541903" version="3" timestamp="2021-10-16T17:14:07Z" changeset="112586945" uid="13920670" user="skizz98">
+  <node id="8550853456" lat="45.4784545" lon="9.1541903" version="4" timestamp="2025-07-28T06:16:43Z" changeset="169593007" uid="13697350" user="c674a">
     <tag k="amenity" v="toilets"/>
     <tag k="comment:it" v="aperte solo durante orario apertura del centro commerciale"/>
     <tag k="fee" v="no"/>
+    <tag k="female" v="yes"/>
     <tag k="level" v="0"/>
+    <tag k="male" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8550853458" lat="45.4782100" lon="9.1551612" version="3" timestamp="2021-10-16T17:01:45Z" changeset="112586945" uid="13920670" user="skizz98">
@@ -37351,16 +37353,19 @@
     <tag k="wikidata" v="Q3403179"/>
     <tag k="wikipedia" v="it:Primaticcio (metropolitana di Milano)"/>
   </node>
-  <node id="9914785148" lat="45.4615240" lon="9.1364657" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785148" lat="45.4615240" lon="9.1364657" version="3" timestamp="2025-07-28T18:47:26Z" changeset="169630945" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Bande Nere"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1975"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q2882165"/>
     <tag k="wikipedia" v="it:Bande Nere (metropolitana di Milano)"/>
@@ -43109,12 +43114,12 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12149734931" lat="45.4785599" lon="9.2275629" version="1" timestamp="2024-09-01T13:18:28Z" changeset="156054117" uid="13857163" user="Nokse22">
+  <node id="12149734931" lat="45.4785599" lon="9.2275629" version="1" timestamp="2024-09-01T13:18:28Z" changeset="156054117" uid="13857163" user="ulore22">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12149734932" lat="45.4789510" lon="9.2275760" version="1" timestamp="2024-09-01T13:18:28Z" changeset="156054117" uid="13857163" user="Nokse22">
+  <node id="12149734932" lat="45.4789510" lon="9.2275760" version="1" timestamp="2024-09-01T13:18:28Z" changeset="156054117" uid="13857163" user="ulore22">
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
@@ -43140,7 +43145,7 @@
     <tag k="website" v="https://medium.com/furuhashilab"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12162487781" lat="45.4578692" lon="9.1651186" version="2" timestamp="2024-09-09T23:35:45Z" changeset="156417275" uid="13857163" user="Nokse22">
+  <node id="12162487781" lat="45.4578692" lon="9.1651186" version="2" timestamp="2024-09-09T23:35:45Z" changeset="156417275" uid="13857163" user="ulore22">
     <tag k="access" v="permissive"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="no"/>
@@ -51627,7 +51632,7 @@
     <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-via-adriano-milano.adr.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="339751565" version="5" timestamp="2024-09-01T16:22:18Z" changeset="156062170" uid="13857163" user="Nokse22">
+  <way id="339751565" version="5" timestamp="2024-09-01T16:22:18Z" changeset="156062170" uid="13857163" user="ulore22">
     <center lat="45.4552685" lon="9.1583972"/>
     <nd ref="3469674650"/>
     <nd ref="3356929739"/>
