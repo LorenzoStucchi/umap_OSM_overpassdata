@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-29T04:36:16Z" areas="2025-07-29T02:43:59Z"/>
+<meta osm_base="2025-07-30T04:31:12Z" areas="2025-07-30T00:54:59Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2126,19 +2126,6 @@
     <tag k="smoking" v="no"/>
     <tag k="source" v="survey"/>
     <tag k="toilets" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="429422744" lat="45.4778276" lon="9.1848283" version="7" timestamp="2019-09-13T13:53:01Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Via della Moscova"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:phone" v="+39 02 6599013"/>
-    <tag k="name" v="Princi"/>
-    <tag k="operator" v="Bakery Princi srl"/>
-    <tag k="ref:vatin" v="IT12125380159"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="429429729" lat="45.4864898" lon="9.2036876" version="6" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
@@ -17725,14 +17712,19 @@
     <tag k="check_date" v="2024-05-10"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3799690257" lat="45.4779015" lon="9.1848831" version="2" timestamp="2019-09-13T13:52:16Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3799690257" lat="45.4779015" lon="9.1848831" version="5" timestamp="2025-07-29T05:19:22Z" changeset="169649353" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Largo La Foppa"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="name" v="Bar Capriccio"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Alice"/>
+    <tag k="brand:wikidata" v="Q113973272"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Alice"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3799690259" lat="45.4863963" lon="9.1900955" version="5" timestamp="2023-11-08T01:51:38Z" changeset="143759874" uid="9451067" user="b-jazz-bot">
@@ -17828,6 +17820,24 @@
     <tag k="name" v="Italgraniti"/>
     <tag k="shop" v="interior_decoration"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3799690703" lat="45.4777552" lon="9.1848880" version="7" timestamp="2025-07-29T05:19:21Z" changeset="169649349" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via della Moscova"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Panarello"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-19:30"/>
+    <tag k="operator" v="Ambrodolci srl"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="phone" v="+39 02 87141481"/>
+    <tag k="ref:vatin" v="IT11034880150"/>
+    <tag k="shop" v="pastry"/>
+    <tag k="website" v="https://www.panarello.com/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3799690704" lat="45.4801588" lon="9.1868035" version="3" timestamp="2022-06-02T15:18:36Z" changeset="121856569" uid="13933690" user="Andrea Carulli">
     <tag k="addr:city" v="Milano"/>
@@ -45050,6 +45060,19 @@
     <tag k="website" v="https://www.progettopersonaonlus.it/servizi/servizi-residenziali/comunita-socio-sanitaria/c-s-s-andromeda/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="13033514702" lat="45.4388420" lon="9.1820258" version="1" timestamp="2025-07-29T09:03:57Z" changeset="169659122" uid="23139225" user="ciago">
+    <tag k="addr:city" v="milano"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:postcode" v="20141"/>
+    <tag k="addr:street" v="via francesco brioschi"/>
+    <tag k="amenity" v="food_court"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Nour pizza"/>
+    <tag k="opening_hours" v="12"/>
+    <tag k="phone" v="0289531400"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -47021,7 +47044,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="45735798" version="11" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
-    <center lat="45.4574910" lon="9.1886012"/>
+    <center lat="45.4574910" lon="9.1885997"/>
     <nd ref="3371102993"/>
     <nd ref="582543467"/>
     <nd ref="582543465"/>
@@ -52875,7 +52898,7 @@
     <tag k="wikipedia" v="it:Ospedale San Giuseppe (Milano)"/>
   </way>
   <way id="519114023" version="1" timestamp="2017-08-27T16:28:53Z" changeset="51485583" uid="1476146" user="Alecs01">
-    <center lat="45.4531795" lon="9.1846158"/>
+    <center lat="45.4531774" lon="9.1846158"/>
     <nd ref="5062445636"/>
     <nd ref="5062445656"/>
     <nd ref="5062445637"/>
