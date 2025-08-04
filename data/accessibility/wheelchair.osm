@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-03T04:36:40Z" areas="2025-08-02T23:58:58Z"/>
+<meta osm_base="2025-08-04T04:42:54Z" areas="2025-08-04T00:46:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2221,9 +2221,12 @@
     <tag k="name" v="Pomodorino"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="441097735" lat="45.4497603" lon="9.2067731" version="4" timestamp="2025-07-15T09:46:36Z" changeset="168955370" uid="290680" user="wheelmap_visitor">
+  <node id="441097735" lat="45.4497603" lon="9.2067731" version="5" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="no"/>
+    <tag k="brand" v="Fineco"/>
+    <tag k="brand:wikidata" v="Q3745690"/>
+    <tag k="name" v="Fineco"/>
     <tag k="operator" v="Fineco"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -3392,7 +3395,7 @@
     <tag k="name" v="Bar Dei Bossi"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1272557596" lat="45.4477507" lon="9.2098950" version="7" timestamp="2025-07-15T10:07:55Z" changeset="168956853" uid="290680" user="wheelmap_visitor">
+  <node id="1272557596" lat="45.4477507" lon="9.2098950" version="8" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
     <tag k="amenity" v="bicycle_rental"/>
     <tag k="bicycle_rental" v="docking_station"/>
     <tag k="brand" v="BikeMi"/>
@@ -3403,6 +3406,7 @@
     <tag k="name" v="Piazzale Lodi"/>
     <tag k="network" v="BikeMi"/>
     <tag k="operator" v="Clear Channel"/>
+    <tag k="operator:type" v="private"/>
     <tag k="payment:credit_cards" v="no"/>
     <tag k="ref" v="105"/>
     <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
@@ -24072,10 +24076,13 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4598826217" lat="45.4432295" lon="9.1980740" version="2" timestamp="2023-07-20T17:56:28Z" changeset="138777369" uid="19198184" user="the_real_shb">
+  <node id="4598826217" lat="45.4432295" lon="9.1980740" version="3" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
     <tag k="access" v="permissive"/>
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
+    <tag k="female" v="yes"/>
+    <tag k="male" v="yes"/>
+    <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4600529503" lat="45.4650981" lon="9.1912839" version="3" timestamp="2025-07-15T09:34:45Z" changeset="168954535" uid="290680" user="wheelmap_visitor">
@@ -29800,16 +29807,16 @@
     <tag k="toilets" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6020257098" lat="45.4523998" lon="9.2023385" version="4" timestamp="2025-07-15T09:35:58Z" changeset="168954620" uid="290680" user="wheelmap_visitor">
+  <node id="6020257098" lat="45.4523998" lon="9.2023385" version="5" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="brand" v="Banca Popolare di Milano"/>
+    <tag k="brand" v="Banco BPM"/>
     <tag k="brand:en" v="Popular Bank of Milan"/>
     <tag k="brand:it" v="Banca Popolare di Milano"/>
-    <tag k="brand:wikidata" v="Q806154"/>
+    <tag k="brand:wikidata" v="Q27331643"/>
     <tag k="brand:wikipedia" v="en:Banca Popolare di Milano"/>
     <tag k="check_date" v="2024-05-18"/>
-    <tag k="name" v="Banca Popolare di Milano"/>
+    <tag k="name" v="Banco BPM"/>
     <tag k="name:en" v="Popular Bank of Milan"/>
     <tag k="name:it" v="Banca Popolare di Milano"/>
     <tag k="wheelchair" v="yes"/>
@@ -41487,8 +41494,11 @@
     <tag k="website" v="https://chiaviserrature.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="11510566323" lat="45.4504673" lon="9.2055195" version="2" timestamp="2025-07-15T09:35:17Z" changeset="168954574" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Sapori e dintorni di Conad"/>
+  <node id="11510566323" lat="45.4504673" lon="9.2055195" version="3" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
+    <tag k="brand" v="Conad"/>
+    <tag k="brand:wikidata" v="Q639075"/>
+    <tag k="name" v="Conad"/>
+    <tag k="operator" v="Conad"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -46142,23 +46152,6 @@
     <tag k="amenity" v="parking"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="28472460" version="5" timestamp="2019-08-07T18:45:03Z" changeset="73107113" uid="290680" user="wheelmap_visitor">
-    <center lat="45.5053356" lon="9.1224835"/>
-    <nd ref="312794296"/>
-    <nd ref="312794297"/>
-    <nd ref="2879250787"/>
-    <nd ref="312794298"/>
-    <nd ref="693933506"/>
-    <nd ref="312794299"/>
-    <nd ref="312794300"/>
-    <nd ref="312794301"/>
-    <nd ref="312794302"/>
-    <nd ref="312794303"/>
-    <nd ref="312794304"/>
-    <nd ref="312794296"/>
-    <tag k="amenity" v="parking"/>
-    <tag k="wheelchair" v="limited"/>
-  </way>
   <way id="30703942" version="8" timestamp="2024-06-27T16:56:45Z" changeset="153256925" uid="3847112" user="YieldMapper">
     <center lat="45.4740692" lon="9.2015228"/>
     <nd ref="339559642"/>
@@ -47120,7 +47113,7 @@
     <tag k="wikimedia_commons" v="Category:San Maurizio al Monastero Maggiore (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Maurizio al Monastero Maggiore"/>
   </way>
-  <way id="46657900" version="9" timestamp="2025-07-15T10:30:44Z" changeset="168957889" uid="290680" user="wheelmap_visitor">
+  <way id="46657900" version="10" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
     <center lat="45.4517369" lon="9.2016505"/>
     <nd ref="596332673"/>
     <nd ref="596332676"/>
@@ -47130,11 +47123,16 @@
     <nd ref="596332707"/>
     <nd ref="596332673"/>
     <tag k="amenity" v="spa"/>
+    <tag k="beauty" v="spa"/>
     <tag k="brand" v="QC Terme"/>
     <tag k="brand:wikidata" v="Q115543071"/>
     <tag k="building" v="commercial"/>
     <tag k="building:levels" v="2"/>
     <tag k="name" v="Terme Milano QC"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="beauty"/>
     <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
     <tag k="website" v="http://www.termemilano.com/"/>
     <tag k="wheelchair" v="no"/>
@@ -47328,7 +47326,7 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="59590846" version="10" timestamp="2024-01-24T09:21:50Z" changeset="146620748" uid="89897" user="airon90">
+  <way id="59590846" version="11" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
     <center lat="45.4456546" lon="9.1883337"/>
     <nd ref="739257324"/>
     <nd ref="10029725923"/>
@@ -47345,7 +47343,7 @@
     <nd ref="739257325"/>
     <nd ref="10029725921"/>
     <nd ref="739257324"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="commercial"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="77218448" version="5" timestamp="2020-08-05T17:06:28Z" changeset="88993515" uid="717233" user="jacopofar">
