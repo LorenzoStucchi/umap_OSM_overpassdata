@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-07T04:32:17Z" areas="2025-08-07T00:46:11Z"/>
+<meta osm_base="2025-08-08T04:32:00Z" areas="2025-08-08T02:00:01Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -29538,6 +29538,20 @@
     <tag k="ref:vatin" v="IT09483070968"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="5915416468" lat="45.4852757" lon="9.2358578" version="3" timestamp="2025-08-07T13:37:24Z" changeset="170107413" uid="89897" user="airon90">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Piazza Enrico Bottini"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Golden Bar"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT08704180960"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="5934562066" lat="45.4578274" lon="9.1514345" version="2" timestamp="2024-04-05T08:24:53Z" changeset="149602650" uid="186480" user="bioia81">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
@@ -36615,16 +36629,19 @@
     <tag k="wikidata" v="Q1088746"/>
     <tag k="wikipedia" v="it:Corvetto (metropolitana di Milano)"/>
   </node>
-  <node id="9850493678" lat="45.4468046" lon="9.2107332" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9850493678" lat="45.4468046" lon="9.2107332" version="3" timestamp="2025-08-07T05:18:09Z" changeset="170087213" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Lodi T.I.B.B."/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1991"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088753"/>
     <tag k="wikipedia" v="it:Lodi TIBB"/>
@@ -37073,7 +37090,7 @@
     <tag k="subway" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9887508378" lat="45.4682326" lon="9.1764630" version="4" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9887508378" lat="45.4682326" lon="9.1764630" version="5" timestamp="2025-08-07T22:04:51Z" changeset="170129098" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Cadorna FN"/>
     <tag k="name:it" v="Cadorna FN"/>
@@ -37081,10 +37098,13 @@
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2258101"/>
     <tag k="wikimedia_commons" v="Category:Cadorna station (Milan metro)"/>
@@ -45131,6 +45151,15 @@
     <tag k="phone" v="0289531400"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13057042026" lat="45.4607360" lon="9.1491189" version="1" timestamp="2025-08-07T22:07:09Z" changeset="170129151" uid="13697350" user="c674a">
+    <tag k="amenity" v="parcel_locker"/>
+    <tag k="brand" v="Amazon Hub"/>
+    <tag k="brand:wikidata" v="Q100274430"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="parcel_mail_in" v="yes"/>
+    <tag k="parcel_pickup" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
