@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-08T04:32:00Z" areas="2025-08-08T02:00:01Z"/>
+<meta osm_base="2025-08-09T04:16:20Z" areas="2025-08-09T00:59:50Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1629,8 +1629,9 @@
     <tag k="name" v="Murphy's Pub"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="339564181" lat="45.4646163" lon="9.1924400" version="7" timestamp="2019-09-13T10:34:19Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="339564181" lat="45.4646163" lon="9.1924400" version="8" timestamp="2025-08-08T14:39:46Z" changeset="170159457" uid="113669" user="AnyFile">
     <tag k="amenity" v="drinking_water"/>
+    <tag k="fountain" v="drinking"/>
     <tag k="mapillary" v="https://www.mapillary.com/app/?lat=45.464717535198375&amp;lng=9.192443507731435&amp;z=17&amp;mapStyle=osm&amp;pKey=DsLSXXY1TiQQcPKfqi8E_g&amp;focus=photo&amp;x=0.4919302817806802&amp;y=0.45776433824054974&amp;zoom=0"/>
     <tag k="ref" v="476"/>
     <tag k="wheelchair" v="yes"/>
@@ -2797,20 +2798,16 @@
     <tag k="website:menu" v="https://www.labellealliance.it/doc/labellealliance-menu.pdf"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="673971061" lat="45.4677475" lon="9.1817257" version="7" timestamp="2024-08-08T13:24:55Z" changeset="154979525" uid="3818858" user="Pieter Vander Vennet">
+  <node id="673971061" lat="45.4677475" lon="9.1817257" version="8" timestamp="2025-08-08T14:39:46Z" changeset="170159457" uid="113669" user="AnyFile">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
+    <tag k="fountain" v="drinking"/>
     <tag k="man_made" v="water_tap"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Fountain of Foro Buonaparte Milan.jpg"/>
-  </node>
-  <node id="673971153" lat="45.4696659" lon="9.1816382" version="10" timestamp="2023-05-27T15:18:30Z" changeset="136628625" uid="17532303" user="morganOSM">
-    <tag k="amenity" v="drinking_water"/>
-    <tag k="fee" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="680094627" lat="45.4663415" lon="9.1889544" version="14" timestamp="2023-10-22T11:13:42Z" changeset="142962177" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="16"/>
@@ -8735,7 +8732,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2401890312" lat="45.4646589" lon="9.1930428" version="7" timestamp="2023-12-18T18:27:08Z" changeset="145261857" uid="2052228" user="kauevestena">
+  <node id="2401890312" lat="45.4646769" lon="9.1931380" version="8" timestamp="2025-08-08T14:39:46Z" changeset="170159457" uid="113669" user="AnyFile">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Galleria privata Pattari"/>
     <tag k="alt_name" v="Intimissimi uomo"/>
@@ -11470,7 +11467,7 @@
     <tag k="website" v="https://www.deodato.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2661159784" lat="45.4660779" lon="9.1507356" version="6" timestamp="2025-07-15T10:04:19Z" changeset="168956622" uid="290680" user="wheelmap_visitor">
+  <node id="2661159784" lat="45.4660779" lon="9.1507356" version="7" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20146"/>
@@ -11478,7 +11475,7 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Benu"/>
+    <tag k="name" v="Benu Farmacia"/>
     <tag k="operator" v="Municipale n.68"/>
     <tag k="ref:msal" v="2794"/>
     <tag k="ref:vatin" v="IT01199250158"/>
@@ -37426,16 +37423,19 @@
     <tag k="wikidata" v="Q2882165"/>
     <tag k="wikipedia" v="it:Bande Nere (metropolitana di Milano)"/>
   </node>
-  <node id="9914785149" lat="45.4649139" lon="9.1430147" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785149" lat="45.4649139" lon="9.1430147" version="3" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Gambara"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1966"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q3094926"/>
     <tag k="wikipedia" v="it:Gambara (metropolitana di Milano)"/>
@@ -37585,16 +37585,18 @@
     <tag k="wikidata" v="Q1087612"/>
     <tag k="wikipedia" v="it:Buonarroti (metropolitana di Milano)"/>
   </node>
-  <node id="9914785175" lat="45.4664527" lon="9.1495656" version="3" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785175" lat="45.4664527" lon="9.1495656" version="4" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="De Angeli"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1966"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q2815996"/>
@@ -43155,14 +43157,15 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12115242018" lat="45.4657821" lon="9.1511979" version="2" timestamp="2025-07-16T06:48:43Z" changeset="168996901" uid="290680" user="wheelmap_visitor">
+  <node id="12115242018" lat="45.4657821" lon="9.1511979" version="3" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger"/>
-    <tag k="name" v="Hamerica"/>
+    <tag k="name" v="Hamerica's"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="12115247873" lat="45.4658163" lon="9.1511586" version="2" timestamp="2025-07-16T06:48:56Z" changeset="168996911" uid="290680" user="wheelmap_visitor">
+  <node id="12115247873" lat="45.4658163" lon="9.1511586" version="3" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
     <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="meat"/>
     <tag k="name" v="Mannarino"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -45159,6 +45162,17 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="parcel_mail_in" v="yes"/>
     <tag k="parcel_pickup" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13058811403" lat="45.4617886" lon="9.1361898" version="1" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="bottle" v="yes"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
