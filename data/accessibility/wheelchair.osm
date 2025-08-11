@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-10T04:29:50Z" areas="2025-08-09T23:57:30Z"/>
+<meta osm_base="2025-08-11T04:31:12Z" areas="2025-08-11T02:55:42Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1637,10 +1637,12 @@
     <tag k="ref" v="476"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="339564277" lat="45.4634738" lon="9.1937656" version="10" timestamp="2024-05-01T06:55:10Z" changeset="150735784" uid="15298985" user="wwjd2022">
+  <node id="339564277" lat="45.4634738" lon="9.1937656" version="11" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
     <tag k="amenity" v="drinking_water"/>
     <tag k="fountain" v="drinking"/>
     <tag k="mapillary" v="https://www.mapillary.com/app/?lat=45.4635477456&amp;lng=9.193791444&amp;z=17&amp;pKey=ibO3XmWFOGRrPKfuuFPDwA&amp;focus=photo&amp;mapStyle=osm"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="ref" v="036"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -4770,14 +4772,14 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1611070691" lat="45.4402649" lon="9.2219958" version="6" timestamp="2022-03-24T12:26:22Z" changeset="118862848" uid="13840929" user="aa30mom">
+  <node id="1611070691" lat="45.4402649" lon="9.2219958" version="7" timestamp="2025-08-10T19:27:27Z" changeset="170261617" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20139"/>
     <tag k="addr:street" v="Via Gamboloita"/>
     <tag k="amenity" v="post_office"/>
     <tag k="fax" v="+39 02 56804024"/>
-    <tag k="name" v="Milano 3"/>
+    <tag k="name" v="Poste Italiane Milano 3"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-19:05, Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
@@ -5864,21 +5866,36 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1832528981" lat="45.4686668" lon="9.1823737" version="10" timestamp="2021-10-09T12:45:26Z" changeset="112299817" uid="3860151" user="Michele Aquilani">
+  <node id="1832528981" lat="45.4686668" lon="9.1823737" version="11" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="74/76"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Foro Buonaparte"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="brand" v="Decathlon"/>
     <tag k="brand:wikidata" v="Q509349"/>
     <tag k="brand:wikipedia" v="en:Decathlon (retailer)"/>
     <tag k="contact:phone" v="+39 02 80509755"/>
     <tag k="name" v="Decathlon"/>
     <tag k="operator" v="Decathlon"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
     <tag k="phone" v="+39 02 80509755"/>
     <tag k="ref:vatin" v="IT11005760159"/>
+    <tag k="service:bicycle:cleaning" v="yes"/>
+    <tag k="service:bicycle:ebike" v="yes"/>
+    <tag k="service:bicycle:parts" v="yes"/>
+    <tag k="service:bicycle:pump" v="yes"/>
+    <tag k="service:bicycle:rental" v="yes"/>
+    <tag k="service:bicycle:repair" v="yes"/>
+    <tag k="service:bicycle:second_hand" v="yes"/>
+    <tag k="service:bicycle:service" v="yes"/>
     <tag k="shop" v="sports"/>
+    <tag k="sport" v="fitness;climbing;basketball;swimming;soccer;yoga;tennis;gymnastics;volleyball;cycling;running;beachvolleyball"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -25327,11 +25344,12 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4916298936" lat="45.4983515" lon="9.1964987" version="4" timestamp="2023-11-03T20:12:22Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4916298936" lat="45.4983515" lon="9.1964987" version="5" timestamp="2025-08-10T15:12:32Z" changeset="170250554" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="114"/>
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2025-08-10"/>
     <tag k="cuisine" v="kebab;pizza;turkish"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Kebap e Pizza Zara"/>
@@ -25339,11 +25357,12 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4916312261" lat="45.4985992" lon="9.1966605" version="7" timestamp="2023-11-03T22:26:39Z" changeset="143593504" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4916312261" lat="45.4985992" lon="9.1966605" version="8" timestamp="2025-08-10T15:12:32Z" changeset="170250554" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="116"/>
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2025-08-10"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Ciccio pizza"/>
@@ -25852,13 +25871,14 @@
     <tag k="website" v="https://www.garbagnati.info/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4985228946" lat="45.4984325" lon="9.1935316" version="2" timestamp="2022-02-13T13:57:44Z" changeset="117354998" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4985228946" lat="45.4984325" lon="9.1935316" version="3" timestamp="2025-08-10T15:12:32Z" changeset="170250554" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Largo Vulci"/>
     <tag k="amenity" v="pub"/>
+    <tag k="check_date" v="2025-08-10"/>
     <tag k="name" v="Birreria Okey"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -29255,6 +29275,15 @@
     <tag k="ref:vatin" v="IT03664601204"/>
     <tag k="website" v="https://oggigelato.it/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5808501339" lat="45.4685939" lon="9.1605521" version="3" timestamp="2025-08-10T11:18:07Z" changeset="170239166" uid="13697350" user="c674a">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="toilets:disposal" v="chemical"/>
+    <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5808501398" lat="45.4690869" lon="9.1611010" version="3" timestamp="2025-07-15T09:15:41Z" changeset="168953279" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -35673,13 +35702,16 @@
     <tag k="name" v="Square Bar"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9590060053" lat="45.4656157" lon="9.1529395" version="2" timestamp="2025-07-16T06:47:10Z" changeset="168996848" uid="290680" user="wheelmap_visitor">
+  <node id="9590060053" lat="45.4656157" lon="9.1529395" version="3" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="11/bis"/>
     <tag k="addr:postcode" v="20149"/>
     <tag k="addr:street" v="Via Seprio"/>
-    <tag k="amenity" v="kindergarten"/>
+    <tag k="amenity" v="school"/>
     <tag k="name" v="Scuola dell'infanzia comunale Seprio"/>
+    <tag k="operator" v="Ministero dell'Istruzione"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="operator:wikidata" v="Q3858490"/>
     <tag k="preschool" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -36606,30 +36638,36 @@
     <tag k="wikidata" v="Q927253"/>
     <tag k="wikipedia" v="it:Porto di Mare (metropolitana di Milano)"/>
   </node>
-  <node id="9850493675" lat="45.4427688" lon="9.2185197" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9850493675" lat="45.4427688" lon="9.2185197" version="3" timestamp="2025-08-10T19:27:27Z" changeset="170261617" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Brenta"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1991"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088750"/>
     <tag k="wikipedia" v="it:Brenta (metropolitana di Milano)"/>
   </node>
-  <node id="9850493676" lat="45.4403776" lon="9.2234375" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9850493676" lat="45.4403776" lon="9.2234375" version="3" timestamp="2025-08-10T19:27:27Z" changeset="170261617" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Corvetto"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1991"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088746"/>
     <tag k="wikipedia" v="it:Corvetto (metropolitana di Milano)"/>
@@ -37357,21 +37395,24 @@
     <tag k="wikidata" v="Q2258138"/>
     <tag k="wikipedia" v="it:Lima (metropolitana di Milano)"/>
   </node>
-  <node id="9897478713" lat="45.4684915" lon="9.1819853" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9897478713" lat="45.4684915" lon="9.1819853" version="3" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Cairoli"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087670"/>
     <tag k="wikipedia" v="it:Cairoli (metropolitana di Milano)"/>
   </node>
-  <node id="9897478714" lat="45.4655495" lon="9.1862299" version="3" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9897478714" lat="45.4655495" lon="9.1862299" version="4" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Cordusio"/>
     <tag k="network" v="STIBM"/>
@@ -37382,6 +37423,8 @@
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087020"/>
     <tag k="wikipedia" v="it:Cordusio (metropolitana di Milano)"/>
@@ -37610,16 +37653,19 @@
     <tag k="wikidata" v="Q2815996"/>
     <tag k="wikipedia" v="it:De Angeli (metropolitana di Milano)"/>
   </node>
-  <node id="9914785176" lat="45.4678782" lon="9.1555175" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785176" lat="45.4678782" lon="9.1555175" version="3" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Wagner"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1966"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q3565090"/>
     <tag k="wikipedia" v="it:Wagner (metropolitana di Milano)"/>
@@ -44644,7 +44690,7 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12850841091" lat="45.4284814" lon="9.2229873" version="1" timestamp="2025-05-20T12:14:04Z" changeset="166521698" uid="17843669" user="DomKor">
+  <node id="12850841091" lat="45.4284847" lon="9.2229854" version="2" timestamp="2025-08-10T12:05:23Z" changeset="170242352" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
     <tag k="wheelchair" v="designated"/>
   </node>
@@ -45308,7 +45354,7 @@
     <tag k="park_ride" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="4915384" version="22" timestamp="2024-06-26T16:35:27Z" changeset="153211898" uid="9451067" user="b-jazz-bot">
+  <way id="4915384" version="23" timestamp="2025-08-10T14:00:37Z" changeset="170246984" uid="3416294" user="Simulatte">
     <center lat="45.4875007" lon="9.1778949"/>
     <nd ref="32179303"/>
     <nd ref="32179304"/>
@@ -45373,7 +45419,6 @@
     <tag k="name" v="Cimitero Monumentale"/>
     <tag k="start_date" v="1866"/>
     <tag k="tourism" v="attraction"/>
-    <tag k="website" v="https://www.monumentale.net/"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q608405"/>
     <tag k="wikipedia" v="it:Cimitero monumentale di Milano"/>
