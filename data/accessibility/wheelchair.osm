@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-11T04:31:12Z" areas="2025-08-11T02:55:42Z"/>
+<meta osm_base="2025-08-12T04:14:45Z" areas="2025-08-12T01:53:53Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2827,7 +2827,7 @@
     <tag k="website" v="https://www.grom.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="687897963" lat="45.4718956" lon="9.1676381" version="11" timestamp="2025-07-28T06:16:43Z" changeset="169593007" uid="13697350" user="c674a">
+  <node id="687897963" lat="45.4718956" lon="9.1676381" version="12" timestamp="2025-08-11T21:04:50Z" changeset="170313366" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="55"/>
@@ -2840,6 +2840,11 @@
     <tag k="name" v="Carrefour Market"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-22:00; Su 09:00-22:00"/>
     <tag k="operator" v="GS spa"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:food_voucher" v="yes"/>
     <tag k="phone" v="+39 02 4694107"/>
     <tag k="ref:vatin" v="IT12683790153"/>
     <tag k="shop" v="convenience"/>
@@ -45181,6 +45186,16 @@
   </node>
   <node id="12998990769" lat="45.4688788" lon="9.1814283" version="2" timestamp="2025-07-15T09:43:09Z" changeset="168955145" uid="290680" user="wheelmap_visitor">
     <tag k="railway" v="tram_crossing"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13012150370" lat="45.4688992" lon="9.1675122" version="2" timestamp="2025-08-11T21:04:50Z" changeset="170313366" uid="13697350" user="c674a">
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="20123"/>
+    <tag k="addr:street" v="Via Pietro Tamburini"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="13012224914" lat="45.4171468" lon="9.1805441" version="2" timestamp="2025-07-20T12:23:09Z" changeset="169193556" uid="22919632" user="matteobott">
