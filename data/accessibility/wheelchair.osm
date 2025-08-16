@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-15T04:16:54Z" areas="2025-08-14T22:03:28Z"/>
+<meta osm_base="2025-08-16T04:12:14Z" areas="2025-08-15T22:28:59Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -33727,14 +33727,15 @@
     <tag k="covered" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9023597718" lat="45.4677696" lon="9.1798170" version="2" timestamp="2025-07-15T09:48:51Z" changeset="168955515" uid="290680" user="wheelmap_visitor">
+  <node id="9023597718" lat="45.4677696" lon="9.1798170" version="3" timestamp="2025-08-15T17:27:00Z" changeset="170491500" uid="13697350" user="c674a">
     <tag k="company" v="transport"/>
     <tag k="contact:city" v="Milano"/>
     <tag k="contact:housenumber" v="61"/>
     <tag k="contact:postcode" v="20121"/>
     <tag k="contact:street" v="Foro Buonaparte"/>
     <tag k="name" v="ATM S.p.A."/>
-    <tag k="office" v="yes"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="www.atm.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9023597734" lat="45.4605456" lon="9.1824435" version="4" timestamp="2024-11-04T08:32:31Z" changeset="158730053" uid="224342" user="mircozorzo">
@@ -37382,7 +37383,7 @@
     <tag k="wikidata" v="Q1087102"/>
     <tag k="wikipedia" v="it:Pasteur (metropolitana di Milano)"/>
   </node>
-  <node id="9897478706" lat="45.4666474" lon="9.1975680" version="3" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9897478706" lat="45.4666474" lon="9.1975680" version="4" timestamp="2025-08-15T17:27:00Z" changeset="170491500" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="San Babila"/>
     <tag k="network" v="STIBM"/>
@@ -37393,20 +37394,25 @@
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087622"/>
     <tag k="wikipedia" v="it:San Babila (metropolitana di Milano)"/>
   </node>
-  <node id="9897478707" lat="45.4716297" lon="9.2021428" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9897478707" lat="45.4716297" lon="9.2021428" version="3" timestamp="2025-08-15T17:27:00Z" changeset="170491500" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Palestro"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q549621"/>
     <tag k="wikipedia" v="it:Palestro (metropolitana di Milano)"/>
@@ -37701,16 +37707,19 @@
     <tag k="wikidata" v="Q3565090"/>
     <tag k="wikipedia" v="it:Wagner (metropolitana di Milano)"/>
   </node>
-  <node id="9914785180" lat="45.4683019" lon="9.1611020" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785180" lat="45.4683019" lon="9.1611020" version="3" timestamp="2025-08-15T10:58:44Z" changeset="170475248" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Pagano"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087677"/>
     <tag k="wikipedia" v="it:Pagano (metropolitana di Milano)"/>
@@ -45325,6 +45334,16 @@
     <tag k="website:menu" v="https://cdn.website.dish.co/media/56/08/4458436/Menu-La-sirenella.pdf"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="13072266090" lat="45.4548381" lon="9.1352039" version="1" timestamp="2025-08-15T10:40:00Z" changeset="170474542" uid="13697350" user="c674a">
+    <tag k="amenity" v="parcel_locker"/>
+    <tag k="brand" v="InPost"/>
+    <tag k="brand:wikidata" v="Q3182097"/>
+    <tag k="operator" v="InPost"/>
+    <tag k="parcel_mail_in" v="yes"/>
+    <tag k="parcel_pickup" v="yes"/>
+    <tag k="payment:none" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -48695,6 +48714,40 @@
     <tag k="operator" v="Lidl"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="136488308" version="10" timestamp="2025-08-15T15:07:03Z" changeset="170485498" uid="16598557" user="Gregory Peony">
+    <center lat="45.4438875" lon="9.2133513"/>
+    <nd ref="1497181425"/>
+    <nd ref="10969218615"/>
+    <nd ref="10969218614"/>
+    <nd ref="1497181427"/>
+    <nd ref="1497181428"/>
+    <nd ref="1497181433"/>
+    <nd ref="1497181436"/>
+    <nd ref="1497181437"/>
+    <nd ref="1497181440"/>
+    <nd ref="1497181441"/>
+    <nd ref="1497181444"/>
+    <nd ref="1497181446"/>
+    <nd ref="1497188857"/>
+    <nd ref="1497181454"/>
+    <nd ref="1497181449"/>
+    <nd ref="1497181466"/>
+    <nd ref="7091103408"/>
+    <nd ref="7091103406"/>
+    <nd ref="7091103405"/>
+    <nd ref="7091103407"/>
+    <nd ref="1497181439"/>
+    <nd ref="1497181430"/>
+    <nd ref="1497181425"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Chiesa di San Luigi"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q19721615"/>
+    <tag k="wikipedia" v="it:Chiesa di San Luigi Gonzaga (Milano)"/>
   </way>
   <way id="136498427" version="7" timestamp="2024-12-18T15:30:36Z" changeset="160356063" uid="22162662" user="Lukewarm pizza">
     <center lat="45.4403305" lon="9.1500803"/>
