@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-21T04:05:00Z" areas="2025-08-20T21:37:44Z"/>
+<meta osm_base="2025-08-22T04:05:57Z" areas="2025-08-22T01:28:28Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2992,10 +2992,10 @@
     <tag k="name" v="Guo"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="723173227" lat="45.4676783" lon="9.1740935" version="11" timestamp="2024-05-18T10:41:55Z" changeset="151487454" uid="1875845" user="Valerio_Bozzolan">
+  <node id="723173227" lat="45.4676673" lon="9.1740861" version="12" timestamp="2025-08-21T15:04:53Z" changeset="170785085" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:housenumber" v="9n03"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Giovanni Boccaccio"/>
     <tag k="amenity" v="cafe"/>
@@ -45448,7 +45448,7 @@
     <tag k="wikimedia_commons" v="Category:San Pietro in Sala (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Pietro in Sala"/>
   </way>
-  <way id="4718366" version="13" timestamp="2025-06-12T14:53:09Z" changeset="167537647" uid="13840929" user="aa30mom">
+  <way id="4718366" version="14" timestamp="2025-08-21T16:42:08Z" changeset="170790238" uid="13697350" user="c674a">
     <center lat="45.4540560" lon="9.1135048"/>
     <nd ref="30047066"/>
     <nd ref="1611245568"/>
@@ -45460,12 +45460,21 @@
     <nd ref="30047065"/>
     <nd ref="30047066"/>
     <tag k="access" v="yes"/>
+    <tag k="amenity" v="parking"/>
     <tag k="building" v="yes"/>
     <tag k="capacity" v="1400"/>
+    <tag k="covered" v="yes"/>
     <tag k="fee" v="yes"/>
     <tag k="layer" v="-1"/>
     <tag k="name" v="Parcheggio di corrispondenza Bisceglie M1"/>
+    <tag k="operator" v="ATM"/>
+    <tag k="operator:type" v="private"/>
     <tag k="park_ride" v="yes"/>
+    <tag k="parking" v="multi-storey"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="limited"/>
   </way>
   <way id="4915384" version="23" timestamp="2025-08-10T14:00:37Z" changeset="170246984" uid="3416294" user="Simulatte">
