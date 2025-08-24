@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-23T03:59:52Z" areas="2025-08-23T00:20:24Z"/>
+<meta osm_base="2025-08-24T04:13:51Z" areas="2025-08-23T22:08:58Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -248,12 +248,13 @@
     <tag k="website" v="https://www.unimi.it/it/corsi/facolta-e-scuole/scienze-agrarie-e-alimentari"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="249562196" lat="45.5003010" lon="9.1976452" version="10" timestamp="2023-04-09T17:14:27Z" changeset="134697195" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="amenity" v="bank"/>
+  <node id="249562196" lat="45.5003010" lon="9.1976452" version="11" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="atm" v="yes"/>
     <tag k="brand" v="Intesa Sanpaolo"/>
     <tag k="brand:wikidata" v="Q1343118"/>
     <tag k="brand:wikipedia" v="it:Intesa Sanpaolo"/>
+    <tag k="check_date" v="2025-08-23"/>
+    <tag k="disused:amenity" v="bank"/>
     <tag k="drive_through" v="no"/>
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="opening_hours" v="Mo-Fr 08:05-13:00,14:15-18:30; Sa 09:00-13:00"/>
@@ -439,12 +440,13 @@
     <tag k="website" v="https://milano.biblioteche.it/library/niguarda/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="253971926" lat="45.4972154" lon="9.1960641" version="15" timestamp="2022-12-05T09:53:57Z" changeset="129734068" uid="11220113" user="ivanbranco">
+  <node id="253971926" lat="45.4972154" lon="9.1960641" version="16" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="100"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="amenity" v="library"/>
+    <tag k="check_date" v="2025-08-23"/>
     <tag k="email" v="C.BiblioZara@comune.milano.it"/>
     <tag k="fax" v="+39 02 88462822"/>
     <tag k="name" v="Biblioteca Comunale Zara"/>
@@ -11384,6 +11386,13 @@
     <tag k="name" v="P.ta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2610177888" lat="45.4842227" lon="9.2208462" version="4" timestamp="2025-08-23T10:16:39Z" changeset="170872204" uid="3392826" user="Hugoren Martinako">
+    <tag k="amenity" v="toilets"/>
+    <tag k="check_date" v="2025-08-23"/>
+    <tag k="check_date:wheelchair" v="2025-08-23"/>
+    <tag k="fee" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2610178738" lat="45.4844497" lon="9.2208922" version="4" timestamp="2024-06-18T22:40:31Z" changeset="152868528" uid="10373566" user="Lenin_ETH">
     <tag k="amenity" v="vending_machine"/>
@@ -26859,11 +26868,12 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5305316985" lat="45.5005387" lon="9.1978097" version="5" timestamp="2023-11-03T19:41:40Z" changeset="143588964" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5305316985" lat="45.5005387" lon="9.1978097" version="6" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2025-08-23"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Bar Oasi"/>
     <tag k="outdoor_seating" v="yes"/>
@@ -28225,12 +28235,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5678674256" lat="45.4989402" lon="9.1968526" version="3" timestamp="2023-11-03T19:45:09Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5678674256" lat="45.4989402" lon="9.1968526" version="4" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2025-08-23"/>
     <tag k="cuisine" v="pizza;italian"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Maruzzella"/>
@@ -28240,11 +28251,12 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5678686820" lat="45.4987232" lon="9.1967340" version="4" timestamp="2024-11-08T18:27:34Z" changeset="158907032" uid="224342" user="mircozorzo">
+  <node id="5678686820" lat="45.4987232" lon="9.1967340" version="5" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:postcode" v="20161"/>
     <tag k="addr:street" v="Viale Zara"/>
+    <tag k="check_date" v="2025-08-23"/>
     <tag k="contact:phone" v="+39 02 6880972"/>
     <tag k="delivery:fee" v="Spesa minima 10 €"/>
     <tag k="description" v="Panificio, Dolci, Focacceria"/>
@@ -28511,37 +28523,38 @@
     <tag k="source" v="ds959"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5716092153" lat="45.5005862" lon="9.1978146" version="5" timestamp="2024-06-26T16:33:19Z" changeset="153211792" uid="9451067" user="b-jazz-bot">
+  <node id="5716092153" lat="45.5005862" lon="9.1978146" version="6" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Viale Zara"/>
+    <tag k="check_date" v="2025-08-23"/>
     <tag k="healthcare" v="podiatrist"/>
     <tag k="name" v="Studio per la cura del piede"/>
     <tag k="operator" v="Mirco Burigotto"/>
     <tag k="website" v="https://www.burigottopodologia.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5716100619" lat="45.5006275" lon="9.1978069" version="5" timestamp="2023-11-03T19:41:23Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5716100619" lat="45.5006275" lon="9.1978069" version="6" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Viale Zara"/>
-    <tag k="name" v="Bluvacanze"/>
-    <tag k="operator" v="Bluvacanze S.p.A."/>
-    <tag k="phone" v="+39 02 6682 3789"/>
-    <tag k="shop" v="travel_agency"/>
-    <tag k="website" v="https://bluvacanze.it/"/>
+    <tag k="check_date" v="2025-08-23"/>
+    <tag k="name" v="Luca Tende"/>
+    <tag k="shop" v="curtain"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5716100620" lat="45.5007586" lon="9.1978826" version="3" timestamp="2023-11-03T19:41:05Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5716100620" lat="45.5007586" lon="9.1978826" version="4" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
+    <tag k="check_date" v="2025-08-23"/>
     <tag k="name" v="Bagnoli"/>
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5716100921" lat="45.5007903" lon="9.1979043" version="3" timestamp="2023-11-03T19:41:10Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="name" v="Arquati"/>
-    <tag k="shop" v="fabric"/>
+  <node id="5716100921" lat="45.5007903" lon="9.1979043" version="4" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
+    <tag k="check_date" v="2025-08-23"/>
+    <tag k="name" v="ITO Invest"/>
+    <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5716126874" lat="45.5011325" lon="9.1985261" version="3" timestamp="2024-06-07T16:32:42Z" changeset="152384523" uid="1875845" user="Valerio_Bozzolan">
@@ -29373,14 +29386,15 @@
     <tag k="ref:mise" v="37433"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5857039836" lat="45.5002557" lon="9.1975966" version="3" timestamp="2023-11-03T19:42:19Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5857039836" lat="45.5002557" lon="9.1975966" version="4" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="126"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="alcohol" v="yes"/>
     <tag k="amenity" v="internet_cafe;money_transfer"/>
-    <tag k="name" v="Mini Market"/>
+    <tag k="check_date" v="2025-08-23"/>
+    <tag k="name" v="Mini Market, Internet Point, Money Transfer"/>
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -33091,7 +33105,7 @@
     <tag k="name:it" v="Banca Popolare di Sondrio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8809593063" lat="45.4613217" lon="9.1864044" version="8" timestamp="2025-07-15T10:04:51Z" changeset="168956662" uid="290680" user="wheelmap_visitor">
+  <node id="8809593063" lat="45.4613415" lon="9.1863974" version="9" timestamp="2025-08-23T14:45:24Z" changeset="170884628" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20123"/>
@@ -41028,16 +41042,19 @@
     <tag k="locked" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11310490040" lat="45.4988838" lon="9.1968362" version="2" timestamp="2023-11-03T19:45:25Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11310490040" lat="45.4988838" lon="9.1968362" version="3" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
     <tag k="brand" v="Amplifon"/>
     <tag k="brand:wikidata" v="Q477222"/>
+    <tag k="check_date" v="2025-08-23"/>
     <tag k="name" v="Amplifon"/>
     <tag k="shop" v="hearing_aids"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11310539986" lat="45.4988250" lon="9.1968020" version="3" timestamp="2023-11-03T19:45:57Z" changeset="143588717" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11310539986" lat="45.4988250" lon="9.1968020" version="4" timestamp="2025-08-23T15:04:00Z" changeset="170885505" uid="22858586" user="paf_veglia">
+    <tag k="check_date" v="2025-08-23"/>
     <tag k="male" v="yes"/>
     <tag k="name" v="Barberia Bandini"/>
+    <tag k="opening_hours" v="Tu-Fr 09:30-13:00,14:30-19:00; Sa 09:30-13:00,14:30-18:00"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -52989,6 +53006,19 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="442193226" version="2" timestamp="2025-08-23T10:12:02Z" changeset="170871999" uid="3392826" user="Hugoren Martinako">
+    <center lat="45.4839323" lon="9.2209438"/>
+    <nd ref="4398854825"/>
+    <nd ref="4398854826"/>
+    <nd ref="4398854830"/>
+    <nd ref="4398854832"/>
+    <nd ref="4398854831"/>
+    <nd ref="4398854828"/>
+    <nd ref="4398854825"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="445010986" version="3" timestamp="2022-02-23T09:36:55Z" changeset="117760887" uid="1875845" user="Valerio_Bozzolan">
