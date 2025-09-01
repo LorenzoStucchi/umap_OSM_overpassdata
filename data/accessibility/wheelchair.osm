@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-31T04:01:56Z" areas="2025-08-30T22:04:29Z"/>
+<meta osm_base="2025-09-01T04:16:29Z" areas="2025-08-31T22:04:21Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -15233,12 +15233,11 @@
     <tag k="start_date" v="2021-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3263986618" lat="45.4863644" lon="9.2038261" version="4" timestamp="2024-04-14T13:08:40Z" changeset="149992287" uid="20065898" user="cinquevegan">
+  <node id="3263986618" lat="45.4863644" lon="9.2038261" version="5" timestamp="2025-08-31T12:05:36Z" changeset="171266058" uid="8896284" user="Xigan">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="yes"/>
-    <tag k="charge" v="1 €"/>
-    <tag k="check_date" v="2024-04-14"/>
+    <tag k="charge" v="1.2 €"/>
     <tag k="comment" v="No change. There is a cash change machine nearby."/>
     <tag k="comment:it" v="Non accetta resto. Nelle vicinanze c'è un macchinetta che cambia monete e banconote."/>
     <tag k="covered" v="yes"/>
@@ -15248,6 +15247,7 @@
     <tag k="level" v="1"/>
     <tag k="opening_hours" v="Mo-Su 06:00-21:00"/>
     <tag k="payment:coins" v="yes"/>
+    <tag k="survey:date" v="2025-08-31"/>
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -45326,14 +45326,14 @@
     <tag k="railway" v="tram_crossing"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13012150370" lat="45.4688825" lon="9.1674865" version="3" timestamp="2025-08-19T15:32:42Z" changeset="170677425" uid="13840929" user="aa30mom">
+  <node id="13012150370" lat="45.4688825" lon="9.1674865" version="4" timestamp="2025-08-31T19:49:46Z" changeset="171285411" uid="13697350" user="c674a">
     <tag k="access" v="private"/>
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Pietro Tamburini"/>
     <tag k="door" v="hinged"/>
-    <tag k="entrance" v="yes"/>
+    <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="13012224914" lat="45.4171468" lon="9.1805441" version="2" timestamp="2025-07-20T12:23:09Z" changeset="169193556" uid="22919632" user="matteobott">
@@ -46081,15 +46081,20 @@
     <tag k="wikidata" v="Q1255640"/>
     <tag k="wikipedia" v="it:Chiesa di San Cristoforo sul Naviglio"/>
   </way>
-  <way id="24709555" version="18" timestamp="2025-07-25T08:46:43Z" changeset="169440367" uid="11220113" user="ivanbranco">
-    <center lat="45.4579404" lon="9.1965832"/>
+  <way id="24709555" version="19" timestamp="2025-08-31T15:37:31Z" changeset="171275275" uid="13840929" user="aa30mom">
+    <center lat="45.4579404" lon="9.1965847"/>
     <nd ref="268566301"/>
     <nd ref="570087135"/>
+    <nd ref="13110609535"/>
     <nd ref="570087145"/>
+    <nd ref="2334855771"/>
     <nd ref="12246677803"/>
     <nd ref="12189945286"/>
     <nd ref="12189945287"/>
+    <nd ref="13110609536"/>
     <nd ref="268566302"/>
+    <nd ref="13110609537"/>
+    <nd ref="13110609538"/>
     <nd ref="5515794057"/>
     <nd ref="268566303"/>
     <nd ref="268566304"/>
@@ -47463,7 +47468,7 @@
     <tag k="wikimedia_commons" v="Category:Sant'Eufemia (Milan)"/>
     <tag k="wikipedia" v="it:Basilica di Sant'Eufemia (Milano)"/>
   </way>
-  <way id="46103655" version="38" timestamp="2024-04-09T12:04:15Z" changeset="149774429" uid="1778799" user="SomeoneElse_Revert">
+  <way id="46103655" version="39" timestamp="2025-08-31T10:18:19Z" changeset="171261656" uid="23220621" user="Am_Stram_Gram__">
     <center lat="45.4654383" lon="9.1789501"/>
     <nd ref="587698891"/>
     <nd ref="4209403190"/>
@@ -47479,14 +47484,14 @@
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="church"/>
     <tag k="building:levels" v="1"/>
-    <tag k="contact:website" v="https://touringclub.it/sanmaurizio"/>
+    <tag k="contact:website" v="https://www.museoarcheologicomilano.it/oltre-il-museo/la-chiesa-s.-maurizio-al-monastero-maggiore"/>
     <tag k="denomination" v="catholic"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="San Maurizio al Monastero Maggiore"/>
     <tag k="name:es" v="San Mauricio Monasterio Maggiore"/>
     <tag k="name:it" v="San Maurizio al Monastero Maggiore"/>
     <tag k="name:ru" v="Церковь Св.Маврикия"/>
-    <tag k="opening_hours" v="Tu-Sa 10:00-17:30"/>
+    <tag k="opening_hours" v="Tu-Su 10:00-17:30"/>
     <tag k="operator" v="Touring Club Italiano"/>
     <tag k="operator:wikidata" v="Q1069349"/>
     <tag k="religion" v="christian"/>
@@ -53116,7 +53121,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="468280176" version="3" timestamp="2024-11-29T15:48:30Z" changeset="159747432" uid="369248" user="LePirlouit">
+  <way id="468280176" version="4" timestamp="2025-08-31T19:49:46Z" changeset="171285411" uid="13697350" user="c674a">
     <center lat="45.4711828" lon="9.1622325"/>
     <nd ref="4628156103"/>
     <nd ref="4628156104"/>
@@ -53131,6 +53136,7 @@
     <nd ref="4628156114"/>
     <nd ref="5808501327"/>
     <nd ref="4628156103"/>
+    <tag k="barrier" v="fence"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
