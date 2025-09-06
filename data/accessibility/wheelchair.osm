@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-05T03:55:33Z" areas="2025-09-04T23:07:38Z"/>
+<meta osm_base="2025-09-06T03:51:04Z" areas="2025-09-06T01:53:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -990,12 +990,17 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="281727032" lat="45.4951172" lon="9.1850671" version="7" timestamp="2021-11-06T17:11:03Z" changeset="113455191" uid="11645399" user="davidoskky">
+  <node id="281727032" lat="45.4951172" lon="9.1850671" version="9" timestamp="2025-09-05T18:22:52Z" changeset="171512330" uid="22858586" user="paf_veglia">
     <tag k="brand" v="BricoCenter"/>
     <tag k="brand:wikidata" v="Q3644563"/>
     <tag k="brand:wikipedia" v="it:Bricocenter"/>
+    <tag k="check_date" v="2025-09-05"/>
+    <tag k="level" v="-1"/>
     <tag k="name" v="BricoCenter"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-20:00; Su 10:00-19:00"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00; Su 10:00-19:00"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="doityourself"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -2666,7 +2671,7 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q111413047"/>
   </node>
-  <node id="611067534" lat="45.4538646" lon="9.1872123" version="6" timestamp="2023-11-09T15:42:52Z" changeset="143828147" uid="19294642" user="Disperato">
+  <node id="611067534" lat="45.4539148" lon="9.1871277" version="7" timestamp="2025-09-05T15:44:48Z" changeset="171505937" uid="13840929" user="aa30mom">
     <tag k="check_date" v="2023-11-09"/>
     <tag k="check_date:opening_hours" v="2023-10-30"/>
     <tag k="internet_access" v="no"/>
@@ -7206,19 +7211,22 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2104097109" lat="45.4935045" lon="9.1847219" version="4" timestamp="2022-01-26T16:04:40Z" changeset="116628405" uid="13840929" user="aa30mom">
+  <node id="2104097109" lat="45.4935045" lon="9.1847219" version="5" timestamp="2025-09-05T06:31:51Z" changeset="171481061" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Carlo Farini"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2025-09-04"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Maccioni"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:30; Sa 09:00-13:00,15:00-19:00"/>
     <tag k="operator" v="Patrizia Maccioni E Catia Maccioni"/>
     <tag k="ref:msal" v="2994"/>
     <tag k="ref:vatin" v="IT13148090155"/>
     <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://www.farmaciamaccioni.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2104097113" lat="45.4933127" lon="9.1846331" version="3" timestamp="2023-09-12T11:09:34Z" changeset="141158096" uid="1862505" user="svencb">
@@ -25456,13 +25464,15 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4916257354" lat="45.4987600" lon="9.1937014" version="5" timestamp="2025-08-24T13:27:24Z" changeset="170924928" uid="22858586" user="paf_veglia">
+  <node id="4916257354" lat="45.4987600" lon="9.1937014" version="6" timestamp="2025-09-05T18:22:52Z" changeset="171512330" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Largo Vulci"/>
     <tag k="amenity" v="ice_cream"/>
-    <tag k="check_date" v="2025-08-24"/>
+    <tag k="check_date" v="2025-09-05"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/GelateriaVulci/"/>
+    <tag k="email" v="vulci.gelateria@gmail.com"/>
     <tag k="name" v="Gelateria Artigianale Vulci"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
@@ -25996,14 +26006,17 @@
     <tag k="website" v="https://www.garbagnati.info/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4985228946" lat="45.4984325" lon="9.1935316" version="3" timestamp="2025-08-10T15:12:32Z" changeset="170250554" uid="22858586" user="paf_veglia">
+  <node id="4985228946" lat="45.4984325" lon="9.1935316" version="4" timestamp="2025-09-05T18:22:52Z" changeset="171512330" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Largo Vulci"/>
     <tag k="amenity" v="pub"/>
-    <tag k="check_date" v="2025-08-10"/>
+    <tag k="check_date" v="2025-09-05"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/birreriaokey/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/birreriaokey_romeochiarello"/>
+    <tag k="email" v="birreriaokey@libero.it"/>
     <tag k="name" v="Birreria Okey"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -26197,15 +26210,15 @@
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5074925236" lat="45.4904173" lon="9.1911739" version="6" timestamp="2025-08-26T06:01:38Z" changeset="171008331" uid="22858586" user="paf_veglia">
+  <node id="5074925236" lat="45.4904173" lon="9.1911739" version="7" timestamp="2025-09-05T18:22:52Z" changeset="171512330" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Viale Zara"/>
-    <tag k="check_date" v="2025-08-26"/>
+    <tag k="check_date" v="2025-09-05"/>
     <tag k="name" v="Zara3design"/>
-    <tag k="shop" v="houseware"/>
+    <tag k="shop" v="interior_decoration"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="5088849761" lat="45.5068005" lon="9.2591491" version="1" timestamp="2017-09-08T14:21:16Z" changeset="51847222" uid="506470" user="LuSirto">
@@ -29228,15 +29241,17 @@
     <tag k="opening_hours" v="Mo-Th, Su 11:00-01:00; Fr, Sa 11:00-00:00"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5795026976" lat="45.4812749" lon="9.2249714" version="3" timestamp="2025-03-22T10:53:05Z" changeset="163941259" uid="4862063" user="tars4815">
+  <node id="5795026976" lat="45.4812237" lon="9.2249161" version="4" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20131"/>
     <tag k="addr:street" v="Via Antonio Bazzini"/>
     <tag k="amenity" v="ice_cream"/>
     <tag k="check_date" v="2025-03-22"/>
     <tag k="drive_through" v="no"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Gelateria Artigianale Bigoni Elio"/>
+    <tag k="opening_hours" v="Mo-Su 10:30-23:30"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
@@ -29281,9 +29296,10 @@
     <tag k="name" v="Ottavo Senso"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5798204867" lat="45.4808989" lon="9.2255074" version="1" timestamp="2018-07-31T08:45:52Z" changeset="61220492" uid="496201" user="Nakaner">
+  <node id="5798204867" lat="45.4808989" lon="9.2255074" version="2" timestamp="2025-09-05T14:57:20Z" changeset="171503651" uid="18490865" user="lello_ba">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
+    <tag k="check_date" v="2025-09-05"/>
     <tag k="fee" v="0.20 EUR"/>
     <tag k="level" v="-1"/>
     <tag k="unisex" v="yes"/>
@@ -29696,7 +29712,7 @@
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5913247063" lat="45.4808384" lon="9.2263821" version="3" timestamp="2024-03-07T19:43:22Z" changeset="148357525" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5913247063" lat="45.4808384" lon="9.2263821" version="4" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="20131"/>
@@ -29709,6 +29725,7 @@
     <tag k="contact:website" v="http://www.laforgiadeglieroi.it"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="La Forgia degli Eroi"/>
+    <tag k="opening_hours" v="We-Th 07:00-01:00; Fr-Sa 07:00-02:00; Su-Mo 07:00-01:00"/>
     <tag k="operator" v="La Forgia degli Eroi Srl"/>
     <tag k="outdoor_seating" v="no"/>
     <tag k="ref:vatin" v="IT09483070968"/>
@@ -33114,11 +33131,16 @@
     <tag k="wikimedia_commons" v="Category:Piazza Abbiategrasso station (Milan metro)"/>
     <tag k="wikipedia" v="it:Abbiategrasso (metropolitana di Milano)"/>
   </node>
-  <node id="8726339191" lat="45.4811211" lon="9.2251834" version="2" timestamp="2025-03-22T10:51:12Z" changeset="163941182" uid="9054148" user="sanddune94">
-    <tag k="addr:postcode" v="20133"/>
+  <node id="8726339191" lat="45.4811211" lon="9.2251834" version="4" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Antonio Bazzini"/>
     <tag k="check_date" v="2025-03-22"/>
     <tag k="internet_access" v="no"/>
     <tag k="level" v="0"/>
+    <tag k="name" v="Lorusso fiori e piante"/>
+    <tag k="opening_hours" v="Tu-Sa 09:00-19:30; Su 09:00-12:30"/>
     <tag k="shop" v="florist"/>
     <tag k="toilets" v="no"/>
     <tag k="toilets:wheelchair" v="no"/>
@@ -44274,7 +44296,7 @@
     <tag k="website" v="https://res-group.eu/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12574203705" lat="45.4812949" lon="9.2249718" version="2" timestamp="2025-03-22T10:54:36Z" changeset="163941307" uid="4862063" user="tars4815">
+  <node id="12574203705" lat="45.4812532" lon="9.2249187" version="3" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20131"/>
@@ -44430,27 +44452,38 @@
     <tag k="website" v="https://www.cfcimmobiliare.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12690542459" lat="45.4812434" lon="9.2258970" version="1" timestamp="2025-03-22T10:29:16Z" changeset="163940246" uid="4862063" user="tars4815">
+  <node id="12690542459" lat="45.4812434" lon="9.2258970" version="2" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Giovanni Pacini"/>
     <tag k="check_date" v="2025-03-22"/>
     <tag k="clothes" v="children;babies"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="malù"/>
+    <tag k="opening_hours" v="Tu-Sa 10:30-13:00, 16:00-19:30; Mo 16:00-19:30"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+39 0226681135"/>
     <tag k="second_hand" v="no"/>
     <tag k="shop" v="clothes"/>
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12690556553" lat="45.4811688" lon="9.2256385" version="1" timestamp="2025-03-22T10:33:40Z" changeset="163940424" uid="22660542" user="Themobiina">
+  <node id="12690556553" lat="45.4811688" lon="9.2256385" version="2" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Giovanni Pacini"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="check_date" v="2025-03-22"/>
     <tag k="clothes" v="women"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Luana"/>
+    <tag k="opening_hours" v="Tu-Sa 10:00-13:00, 15:30-19:30; Mo 15:30-19:30"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
@@ -44515,13 +44548,17 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12690575479" lat="45.4807474" lon="9.2253399" version="2" timestamp="2025-03-22T10:33:51Z" changeset="163940434" uid="22660530" user="teebee03">
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Via Francesco D'Ovidio"/>
+  <node id="12690575479" lat="45.4807474" lon="9.2253399" version="3" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Giovanni Pacini"/>
     <tag k="check_date" v="2025-03-22"/>
     <tag k="craft" v="electronics_repair"/>
     <tag k="level" v="0"/>
     <tag k="name" v="PhoneLink"/>
+    <tag k="opening_hours" v="Mo-Fr 09:45-19:30; Sa 09:45-17:00"/>
+    <tag k="phone" v="+39 3778282908"/>
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -44551,36 +44588,25 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12690627525" lat="45.4808707" lon="9.2247835" version="1" timestamp="2025-03-22T11:04:28Z" changeset="163941702" uid="4862063" user="tars4815">
+  <node id="12690627525" lat="45.4808707" lon="9.2247835" version="2" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Giovanni Pacini"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="check_date" v="2025-03-22"/>
     <tag k="clothes" v="women"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Twiggy"/>
+    <tag k="opening_hours" v="Mo 16:00-19:30; Tu-Sa 10:00-13:00, 16:00-19:30"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+39 0270600849"/>
     <tag k="second_hand" v="no"/>
     <tag k="shop" v="clothes"/>
     <tag k="source" v="survey"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="12690629574" lat="45.4813962" lon="9.2249684" version="1" timestamp="2025-03-22T10:56:59Z" changeset="163941413" uid="4862063" user="tars4815">
-    <tag k="air_conditioning" v="no"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="check_date" v="2025-03-22"/>
-    <tag k="clothes" v="underwear"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="Les Folies"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="second_hand" v="no"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="source" v="survey"/>
-    <tag k="stroller" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="12690670381" lat="45.4803442" lon="9.2245598" version="1" timestamp="2025-03-22T11:16:51Z" changeset="163942341" uid="11889511" user="Borgo23">
@@ -45331,12 +45357,19 @@
     <tag k="website" v="https://www.relaxandsmile.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12952156113" lat="45.4808324" lon="9.2255957" version="1" timestamp="2025-06-25T15:46:09Z" changeset="168101959" uid="4862063" user="tars4815">
+  <node id="12952156113" lat="45.4808324" lon="9.2255957" version="2" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Giovanni Pacini"/>
     <tag k="brand" v="Allianz"/>
     <tag k="brand:wikidata" v="Q487292"/>
     <tag k="check_date" v="2025-06-25"/>
     <tag k="name" v="Allianz"/>
     <tag k="office" v="insurance"/>
+    <tag k="opening_hours" v="Mo-Th 09:15-17:00; Fr 09:15-14:00"/>
+    <tag k="phone" v="+39 0270631810"/>
+    <tag k="website" v="allianz.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="12953933701" lat="45.4897633" lon="9.1464350" version="1" timestamp="2025-06-26T12:09:07Z" changeset="168137140" uid="10153698" user="Francesco Cioria">
@@ -53933,22 +53966,34 @@
     <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-viale-famagosta-milano.fam.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="661097834" version="3" timestamp="2019-01-20T15:49:39Z" changeset="66478740" uid="1476146" user="Alecs01">
-    <center lat="45.4588687" lon="9.1450890"/>
+  <way id="661097834" version="4" timestamp="2025-09-05T17:56:08Z" changeset="171511387" uid="13697350" user="c674a">
+    <center lat="45.4588523" lon="9.1448470"/>
     <nd ref="6189385972"/>
+    <nd ref="13121583899"/>
+    <nd ref="13121583898"/>
     <nd ref="6189385977"/>
-    <nd ref="6189385973"/>
-    <nd ref="6189385974"/>
+    <nd ref="13013417428"/>
+    <nd ref="13121583895"/>
+    <nd ref="1253821595"/>
+    <nd ref="1253821584"/>
     <nd ref="3763174925"/>
     <nd ref="1487629641"/>
     <nd ref="257680385"/>
     <nd ref="6205667042"/>
+    <nd ref="13121583894"/>
     <nd ref="6205667039"/>
     <nd ref="6189385975"/>
     <nd ref="1487613945"/>
     <nd ref="1487613947"/>
     <nd ref="6223119721"/>
     <nd ref="6189385976"/>
+    <nd ref="13121583892"/>
+    <nd ref="1487629700"/>
+    <nd ref="1487629710"/>
+    <nd ref="1487629709"/>
+    <nd ref="1487629757"/>
+    <nd ref="1487629758"/>
+    <nd ref="1487629737"/>
     <nd ref="6189385972"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="name" v="Piccolo Cottolengo Don Orione"/>
