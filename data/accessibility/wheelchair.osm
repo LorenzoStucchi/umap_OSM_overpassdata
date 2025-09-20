@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-19T03:57:47Z" areas="2025-09-18T22:33:45Z"/>
+<meta osm_base="2025-09-20T03:50:59Z" areas="2025-09-19T21:58:03Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -145,7 +145,7 @@
     <tag k="self_service" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="227600658" lat="45.4778902" lon="9.1958993" version="10" timestamp="2025-09-11T14:37:56Z" changeset="171788292" uid="13840929" user="aa30mom">
+  <node id="227600658" lat="45.4778902" lon="9.1958993" version="11" timestamp="2025-09-19T14:54:25Z" changeset="172167543" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
@@ -156,9 +156,11 @@
     <tag k="brand:wikidata" v="Q646807"/>
     <tag k="brand:wikipedia" v="en:Anonima Petroli Italiana"/>
     <tag k="check_date" v="2025-03-01"/>
+    <tag k="fuel:octane_95" v="yes"/>
     <tag k="name" v="IP"/>
     <tag k="operator" v="Calor Systems S.R.L."/>
     <tag k="ref:mise" v="15890"/>
+    <tag k="source" v="MISE - Ministero Sviluppo Economico"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="227644396" lat="45.5030589" lon="9.1643759" version="12" timestamp="2021-02-16T18:37:18Z" changeset="99400154" uid="89897" user="airon90">
@@ -2454,7 +2456,7 @@
     <tag k="sport" v="swimming"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="506109997" lat="45.4368951" lon="9.1825633" version="7" timestamp="2025-07-27T17:10:21Z" changeset="169570799" uid="22919632" user="matteobott">
+  <node id="506109997" lat="45.4368951" lon="9.1825633" version="8" timestamp="2025-09-19T05:13:21Z" changeset="172141914" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:postcode" v="20141"/>
@@ -2463,6 +2465,7 @@
     <tag k="brand:wikidata" v="Q151954"/>
     <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
     <tag k="name" v="Lidl"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:00; Su 08:30-20:30"/>
     <tag k="operator" v="LIDL"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
@@ -13396,24 +13399,25 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3001346155" lat="45.4660445" lon="9.1969341" version="8" timestamp="2025-05-29T07:02:07Z" changeset="166904920" uid="17843669" user="DomKor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="37b"/>
-    <tag k="addr:postcode" v="20122"/>
-    <tag k="addr:street" v="Corso Vittorio Emanuele Secondo"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Five Guys"/>
-    <tag k="brand:wikidata" v="Q1131810"/>
-    <tag k="brand:wikipedia" v="en:Five Guys"/>
-    <tag k="check_date:opening_hours" v="2024-05-19"/>
-    <tag k="cuisine" v="burger"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="name" v="Five Guys"/>
-    <tag k="official_name" v="Five Guys Burgers and Fries"/>
-    <tag k="opening_hours" v="Mo-Su 11:30-22:00"/>
-    <tag k="operator" v="FG Milano S.r.L."/>
-    <tag k="ref:vatin" v="IT10132350967"/>
-    <tag k="takeaway" v="yes"/>
+  <node id="3001346155" lat="45.4660445" lon="9.1969341" version="9" timestamp="2025-09-19T08:11:04Z" changeset="172147796" uid="113669" user="AnyFile">
+    <tag k="check_date:dismantled" v="2025-09-11"/>
+    <tag k="shop" v="vacant"/>
+    <tag k="was:addr:city" v="Milano"/>
+    <tag k="was:addr:housenumber" v="37b"/>
+    <tag k="was:addr:postcode" v="20122"/>
+    <tag k="was:addr:street" v="Corso Vittorio Emanuele Secondo"/>
+    <tag k="was:amenity" v="fast_food"/>
+    <tag k="was:brand" v="Five Guys"/>
+    <tag k="was:brand:wikidata" v="Q1131810"/>
+    <tag k="was:brand:wikipedia" v="en:Five Guys"/>
+    <tag k="was:cuisine" v="burger"/>
+    <tag k="was:drive_through" v="no"/>
+    <tag k="was:name" v="Five Guys"/>
+    <tag k="was:official_name" v="Five Guys Burgers and Fries"/>
+    <tag k="was:opening_hours" v="Mo-Su 11:30-22:00"/>
+    <tag k="was:operator" v="FG Milano S.r.L."/>
+    <tag k="was:ref:vatin" v="IT10132350967"/>
+    <tag k="was:takeaway" v="yes"/>
     <tag k="website" v="https://restaurants.fiveguys.it/corso-vittorio-emanuele-ii-37"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -16535,13 +16539,14 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3605721834" lat="45.4818191" lon="9.1801089" version="4" timestamp="2023-10-04T17:04:11Z" changeset="142155672" uid="1875845" user="Valerio_Bozzolan">
+  <node id="3605721834" lat="45.4818191" lon="9.1801089" version="5" timestamp="2025-09-19T18:30:30Z" changeset="172177418" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Via Paolo Sarpi"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2025-09-19"/>
     <tag k="name" v="Haro bbq"/>
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="limited"/>
@@ -17096,12 +17101,12 @@
     <tag k="name" v="Il Carpaccio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3686977194" lat="45.4814723" lon="9.1779270" version="8" timestamp="2025-05-18T17:36:42Z" changeset="166441981" uid="11220113" user="ivanbranco">
+  <node id="3686977194" lat="45.4814723" lon="9.1779270" version="9" timestamp="2025-09-19T18:30:30Z" changeset="172177418" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Via Paolo Sarpi"/>
-    <tag k="check_date" v="2025-05-18"/>
+    <tag k="check_date" v="2025-09-19"/>
     <tag k="level" v="-1-0"/>
     <tag k="name" v="Chineat"/>
     <tag k="opening_hours" v="09:00-20:30"/>
@@ -28824,13 +28829,18 @@
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5729804038" lat="45.4595819" lon="9.1792633" version="7" timestamp="2025-09-03T16:21:21Z" changeset="171415762" uid="21853634" user="ilias_">
+  <node id="5729804038" lat="45.4595819" lon="9.1792633" version="8" timestamp="2025-09-19T22:04:09Z" changeset="172183707" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Cesare Correnti"/>
     <tag k="brand" v="TIM"/>
     <tag k="brand:wikidata" v="Q1120617"/>
     <tag k="brand:wikipedia" v="en:TIM (brand)"/>
     <tag k="name" v="TIM"/>
-    <tag k="shop" v="telecommunication"/>
+    <tag k="phone" v="+390272001794"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="website" v="https://www.tim.it/trova-negozio/dettaglio-negozio#40165"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5732656136" lat="45.4766006" lon="9.2305507" version="4" timestamp="2025-03-22T10:10:47Z" changeset="163939403" uid="21201574" user="comodino">
@@ -36902,25 +36912,6 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q430991"/>
     <tag k="wikipedia" v="it:Comasina (metropolitana di Milano)"/>
-  </node>
-  <node id="9841026789" lat="45.4656230" lon="9.1946126" version="8" timestamp="2025-07-15T09:58:49Z" changeset="168956224" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20122"/>
-    <tag k="addr:street" v="Galleria De Cristoforis"/>
-    <tag k="branch" v="Milan Liberty Tower"/>
-    <tag k="coffee" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="level" v="0;1;2"/>
-    <tag k="long_name" v="Eat, Live &amp; Nourish"/>
-    <tag k="name" v="E L &amp; N London"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
-    <tag k="operator" v="4 food srl"/>
-    <tag k="restaurant" v="yes"/>
-    <tag k="shop" v="pastry"/>
-    <tag k="short_name" v="EL&amp;N"/>
-    <tag k="start_date" v="2022-06"/>
-    <tag k="website" v="https://it.elnlondon.com/pages/milan-liberty-tower"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9844914105" lat="45.4755984" lon="9.2076299" version="4" timestamp="2024-05-23T19:41:35Z" changeset="151740672" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
@@ -46192,7 +46183,7 @@
     <tag k="website" v="https://ih-hotels.com/it/i-nostri-aberghi/ih-hotels-milano-watt-13.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="23911120" version="6" timestamp="2023-12-22T15:31:02Z" changeset="145410968" uid="13840929" user="aa30mom">
+  <way id="23911120" version="7" timestamp="2025-09-19T05:13:22Z" changeset="172141914" uid="22858586" user="paf_veglia">
     <center lat="45.4449819" lon="9.1556281"/>
     <nd ref="259173137"/>
     <nd ref="380377157"/>
@@ -46207,7 +46198,7 @@
     <tag k="brand:wikipedia" v="en:Lidl"/>
     <tag k="building" v="supermarket"/>
     <tag k="name" v="Lidl"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-21:30, Su 08:00-21:00"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:30; Su 08:30-20:30"/>
     <tag k="operator" v="Lidl"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
