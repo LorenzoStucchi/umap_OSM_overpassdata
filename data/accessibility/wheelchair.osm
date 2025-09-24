@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-23T03:54:48Z" areas="2025-09-22T23:57:18Z"/>
+<meta osm_base="2025-09-24T03:56:05Z" areas="2025-09-23T22:10:36Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -45700,6 +45700,12 @@
     <tag k="website" v="https://www.polimi.it/campus-e-servizi/spazi-e-aule-studio/spazi/poliprint"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="13165478531" lat="45.4760781" lon="9.2296553" version="1" timestamp="2025-09-23T15:34:15Z" changeset="172350777" uid="17843669" user="DomKor">
+    <tag k="access" v="yes"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -52038,9 +52044,11 @@
     <tag k="shop" v="newsagent"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="306829080" version="10" timestamp="2025-05-22T13:20:33Z" changeset="166613342" uid="216179" user="olgia">
+  <way id="306829080" version="12" timestamp="2025-09-23T19:33:19Z" changeset="172361207" uid="22919632" user="matteobott">
     <center lat="45.4206648" lon="9.1775904"/>
     <nd ref="3118354126"/>
+    <nd ref="9966330375"/>
+    <nd ref="13165895587"/>
     <nd ref="3118354119"/>
     <nd ref="3118354120"/>
     <nd ref="3118354121"/>
@@ -52062,12 +52070,14 @@
     <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-via-dei-missaglia-milano.mis.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="306830284" version="2" timestamp="2015-06-10T19:44:38Z" changeset="31864044" uid="290680" user="wheelmap_visitor">
+  <way id="306830284" version="3" timestamp="2025-09-23T19:33:19Z" changeset="172361207" uid="22919632" user="matteobott">
     <center lat="45.4210952" lon="9.1772868"/>
     <nd ref="3118363533"/>
     <nd ref="3118363534"/>
+    <nd ref="13165895598"/>
     <nd ref="3118363531"/>
     <nd ref="3118363539"/>
+    <nd ref="13165895597"/>
     <nd ref="3118363228"/>
     <nd ref="3118363533"/>
     <tag k="amenity" v="parking"/>
@@ -52177,6 +52187,39 @@
     <tag k="operator" v="Coopselios"/>
     <tag k="social_facility" v="nursing_home"/>
     <tag k="social_facility:for" v="senior"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="329385884" version="5" timestamp="2025-09-23T16:56:47Z" changeset="172354443" uid="22919632" user="matteobott">
+    <center lat="45.4021859" lon="9.1818829"/>
+    <nd ref="3362623395"/>
+    <nd ref="3362623396"/>
+    <nd ref="3362623397"/>
+    <nd ref="13165624124"/>
+    <nd ref="3362623398"/>
+    <nd ref="3362623399"/>
+    <nd ref="3362623400"/>
+    <nd ref="13165313567"/>
+    <nd ref="13165313564"/>
+    <nd ref="13165313563"/>
+    <nd ref="13165313570"/>
+    <nd ref="3362623402"/>
+    <nd ref="13165624126"/>
+    <nd ref="13165313562"/>
+    <nd ref="3362623403"/>
+    <nd ref="13165313560"/>
+    <nd ref="13165313561"/>
+    <nd ref="3362623404"/>
+    <nd ref="3362623405"/>
+    <nd ref="13165313559"/>
+    <nd ref="3362623406"/>
+    <nd ref="3362623407"/>
+    <nd ref="13165624125"/>
+    <nd ref="3362623395"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Chiesa dei Santi Pietro e Paolo ai Tre Ronchetti"/>
+    <tag k="religion" v="christian"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="329573459" version="5" timestamp="2024-08-25T21:43:57Z" changeset="155756859" uid="10521220" user="sNappy_ml">
@@ -52339,8 +52382,8 @@
     <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="339110313" version="15" timestamp="2025-05-22T16:41:35Z" changeset="166621569" uid="216179" user="olgia">
-    <center lat="45.5137208" lon="9.2445015"/>
+  <way id="339110313" version="16" timestamp="2025-09-23T21:01:45Z" changeset="172364343" uid="13920670" user="skizz98">
+    <center lat="45.5137328" lon="9.2444753"/>
     <nd ref="3462988688"/>
     <nd ref="3707884852"/>
     <nd ref="3707884847"/>
@@ -52376,7 +52419,6 @@
     <tag k="payment:apple_pay" v="yes"/>
     <tag k="payment:bancomat" v="yes"/>
     <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
