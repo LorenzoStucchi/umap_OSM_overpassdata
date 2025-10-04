@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-03T03:52:57Z" areas="2025-10-03T02:15:48Z"/>
+<meta osm_base="2025-10-04T03:42:41Z" areas="2025-10-03T19:40:32Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2512,7 +2512,7 @@
     <tag k="wikimedia_commons" v="Category:Birrificio Lambrate"/>
     <tag k="wikipedia" v="en:Birrificio Lambrate"/>
   </node>
-  <node id="537953310" lat="45.4658305" lon="9.2026877" version="6" timestamp="2025-09-27T15:10:42Z" changeset="172530513" uid="13840929" user="aa30mom">
+  <node id="537953310" lat="45.4658102" lon="9.2026947" version="7" timestamp="2025-10-03T15:22:36Z" changeset="172797690" uid="13840929" user="aa30mom">
     <tag k="access" v="yes"/>
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -19825,7 +19825,7 @@
     <tag k="website" v="https://www.tomoyoshi-endo.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3957004123" lat="45.4760295" lon="9.2026759" version="9" timestamp="2024-03-01T01:59:40Z" changeset="148077921" uid="15815055" user="ablevi202">
+  <node id="3957004123" lat="45.4760295" lon="9.2026759" version="12" timestamp="2025-10-03T20:31:16Z" changeset="172808032" uid="3798707" user="GiulyR98">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20124"/>
@@ -19834,6 +19834,7 @@
     <tag k="branch" v="Milano Vittorio"/>
     <tag k="brand" v="Flower Burger"/>
     <tag k="brand:wikidata" v="Q67168925"/>
+    <tag k="changing_table" v="no"/>
     <tag k="contact:email" v="smile@flowerburger.it"/>
     <tag k="contact:facebook" v="flowerburger2015"/>
     <tag k="contact:instagram" v="flower_burger"/>
@@ -19848,15 +19849,17 @@
     <tag k="delivery:foodora:ref" v="https://www.foodora.it/restaurant/s2zd/flower-burger"/>
     <tag k="diet:vegan" v="only"/>
     <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="lgbtq" v="welcome"/>
     <tag k="name" v="Flower Burger"/>
-    <tag k="opening_hours" v="Mo-Su 12:30-15:30, 19:00-23:00"/>
+    <tag k="opening_hours" v="Su-Th 12:00-15:00,19:00-22:30; Fr,Sa 12:00-15:00,19:00-23:00"/>
     <tag k="operator" v="To be me s.r.l"/>
-    <tag k="outdoor_seating" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT09142410969"/>
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3976146190" lat="45.4912338" lon="9.1855689" version="6" timestamp="2025-09-17T17:13:57Z" changeset="172077300" uid="22858586" user="paf_veglia">
@@ -47715,7 +47718,7 @@
     <tag k="wikidata" v="Q205844"/>
     <tag k="wikipedia" v="it:Porta Garibaldi (Milano)"/>
   </way>
-  <way id="43016115" version="10" timestamp="2024-03-25T15:31:50Z" changeset="149137024" uid="13840929" user="aa30mom">
+  <way id="43016115" version="11" timestamp="2025-10-03T08:40:16Z" changeset="172778870" uid="23228658" user="Pernycek">
     <center lat="45.4748328" lon="9.1699379"/>
     <nd ref="538846982"/>
     <nd ref="5515794793"/>
@@ -47772,6 +47775,7 @@
     <nd ref="5515794794"/>
     <nd ref="538846982"/>
     <tag k="amenity" v="place_of_worship"/>
+    <tag k="basilica" v="minor"/>
     <tag k="building" v="church"/>
     <tag k="denomination" v="catholic"/>
     <tag k="name" v="Chiesa del Corpus Domini"/>
@@ -51399,13 +51403,14 @@
     <tag k="website" v="https://biblioteche.comune.milano.it/library/calvairate"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="251074943" version="3" timestamp="2017-03-18T08:41:41Z" changeset="46950277" uid="1476146" user="Alecs01">
+  <way id="251074943" version="4" timestamp="2025-10-03T15:36:11Z" changeset="172798258" uid="13840929" user="aa30mom">
     <center lat="45.4656500" lon="9.2036142"/>
     <nd ref="1521649834"/>
     <nd ref="1521649835"/>
     <nd ref="2573646566"/>
     <nd ref="2573646567"/>
     <nd ref="1521649811"/>
+    <nd ref="4741096513"/>
     <nd ref="2573646556"/>
     <nd ref="2573646560"/>
     <nd ref="2573646559"/>
