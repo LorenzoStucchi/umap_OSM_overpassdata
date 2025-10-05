@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-04T03:42:41Z" areas="2025-10-03T19:40:32Z"/>
+<meta osm_base="2025-10-05T04:02:12Z" areas="2025-10-04T21:33:33Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -12548,7 +12548,7 @@
     <tag k="phone" v="+39 02 39565381"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2909096958" lat="45.4839671" lon="9.2076329" version="8" timestamp="2023-01-17T10:15:10Z" changeset="131371593" uid="10772613" user="Iván Caparrós">
+  <node id="2909096958" lat="45.4839671" lon="9.2076329" version="9" timestamp="2025-10-04T11:56:29Z" changeset="172827572" uid="717233" user="jacopofar">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="24"/>
@@ -12556,6 +12556,7 @@
     <tag k="addr:street" v="Via Domenico Scarlatti"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="bar" v="yes"/>
+    <tag k="check_date" v="2025-10-04"/>
     <tag k="description" v="The Andreola Central Hotel is a 4-star hotel located in the centre of Milan featuring architecture of columns in rose-coloured Portuguese and red French marble, plus classic rooms, business center, roopftop restaurant, Wi-Fi and breakfast buffet."/>
     <tag k="email" v="info@andreolahotel.it"/>
     <tag k="fax" v="+39 02 66713198"/>
@@ -22953,25 +22954,6 @@
   <node id="4381967533" lat="45.4650546" lon="9.1898430" version="3" timestamp="2025-07-15T10:07:47Z" changeset="168956834" uid="13840929" user="aa30mom">
     <tag k="name" v="Naracamicie"/>
     <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="4381970242" lat="45.4655528" lon="9.1889231" version="4" timestamp="2023-10-22T11:04:34Z" changeset="142962177" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Via Tommaso Grossi"/>
-    <tag k="brand" v="Park Hyatt"/>
-    <tag k="brand:wikidata" v="Q1425063"/>
-    <tag k="brand:wikipedia" v="en:Hyatt"/>
-    <tag k="email" v="milan.park@hyatt.com"/>
-    <tag k="fax" v="+39 02 88211235"/>
-    <tag k="name" v="Park Hyatt Milano"/>
-    <tag k="phone" v="+39 02 88211234"/>
-    <tag k="rooms" v="106"/>
-    <tag k="stars" v="5"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.hyatt.com/en-US/hotel/italy/park-hyatt-milan/milph"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4381970246" lat="45.4659782" lon="9.1898209" version="3" timestamp="2025-07-15T09:51:45Z" changeset="168955717" uid="290680" user="wheelmap_visitor">
@@ -45896,6 +45878,14 @@
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="13192299178" lat="45.4576265" lon="9.1610367" version="1" timestamp="2025-10-04T11:24:17Z" changeset="172826420" uid="113669" user="AnyFile">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13192299180" lat="45.4576296" lon="9.1610488" version="1" timestamp="2025-10-04T11:24:17Z" changeset="172826420" uid="113669" user="AnyFile">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -46845,11 +46835,16 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="27596084" version="12" timestamp="2025-07-03T14:46:17Z" changeset="168447974" uid="13840929" user="aa30mom">
-    <center lat="45.4631090" lon="9.2015061"/>
-    <nd ref="303029433"/>
+  <way id="27596084" version="13" timestamp="2025-10-04T15:34:49Z" changeset="172836014" uid="13840929" user="aa30mom">
+    <center lat="45.4631012" lon="9.2014986"/>
+    <nd ref="13193092079"/>
+    <nd ref="13193092078"/>
     <nd ref="1757299032"/>
-    <nd ref="303029436"/>
+    <nd ref="13193092080"/>
+    <nd ref="13193092081"/>
+    <nd ref="13193092082"/>
+    <nd ref="13193092083"/>
+    <nd ref="13193092084"/>
     <nd ref="303029437"/>
     <nd ref="303029438"/>
     <nd ref="303029440"/>
@@ -46862,7 +46857,8 @@
     <nd ref="2000039979"/>
     <nd ref="303029447"/>
     <nd ref="4741161885"/>
-    <nd ref="303029433"/>
+    <nd ref="13193092077"/>
+    <nd ref="13193092079"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="church"/>
     <tag k="denomination" v="catholic"/>
@@ -57076,6 +57072,45 @@
     <tag k="wikidata" v="Q45250306"/>
     <tag k="wikimedia_commons" v="Category:Ponte delle Sirenette"/>
     <tag k="wikipedia" v="it:Ponte delle Sirenette"/>
+  </way>
+  <way id="1435260583" version="1" timestamp="2025-10-04T08:21:21Z" changeset="172820425" uid="22077315" user="Emilio L">
+    <center lat="45.4652618" lon="9.1889170"/>
+    <nd ref="6572096893"/>
+    <nd ref="13192127348"/>
+    <nd ref="13192127349"/>
+    <nd ref="6553098236"/>
+    <nd ref="6572096893"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Tommaso Grossi"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="bar" v="yes"/>
+    <tag k="brand" v="Hyatt"/>
+    <tag k="building" v="yes"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/ParkHyattMilano/"/>
+    <tag k="description" v="5-star hotel in Milano."/>
+    <tag k="email" v="milan.park@hyatt.com"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Park Hyatt Milan"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Hyatt Hotels Corporation"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+390288211234"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="rooms" v="108"/>
+    <tag k="stars" v="5"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.hyatt.com/en-US/hotel/italy/park-hyatt-milan/milph"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q136434534"/>
   </way>
 
 </osm>
