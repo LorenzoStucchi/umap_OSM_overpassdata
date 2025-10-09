@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-08T03:54:44Z" areas="2025-10-08T01:08:00Z"/>
+<meta osm_base="2025-10-09T03:57:58Z" areas="2025-10-08T23:51:17Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4445,7 +4445,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1566286236" lat="45.4552466" lon="9.1720287" version="8" timestamp="2023-02-19T12:53:45Z" changeset="132745851" uid="1875845" user="Valerio_Bozzolan">
+  <node id="1566286236" lat="45.4552466" lon="9.1720287" version="9" timestamp="2025-10-08T22:11:05Z" changeset="173025181" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:postcode" v="20144"/>
@@ -4455,7 +4455,11 @@
     <tag k="brand" v="Intesa Sanpaolo"/>
     <tag k="brand:wikidata" v="Q1343118"/>
     <tag k="brand:wikipedia" v="it:Intesa Sanpaolo"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fax" v="+390110935887"/>
     <tag k="name" v="Intesa Sanpaolo"/>
+    <tag k="opening_hours" v="Mo-Th 08:30-13:30, 14:45-16:55; Fr 08:30-13:30, 14:45-16:25; Sa-Su off"/>
+    <tag k="phone" v="+39028311161"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1575654783" lat="45.5113662" lon="9.2041866" version="7" timestamp="2024-07-20T15:33:08Z" changeset="154184594" uid="717233" user="jacopofar">
@@ -5672,10 +5676,11 @@
     <tag k="wikimedia_commons" v="Category:Last Supper by Leonardo da Vinci"/>
     <tag k="wikipedia" v="en:The Last Supper (Leonardo)"/>
   </node>
-  <node id="1769318208" lat="45.4852449" lon="9.1889315" version="4" timestamp="2023-11-17T22:16:26Z" changeset="144156837" uid="14257573" user="toponomastica_comune_arenzano">
+  <node id="1769318208" lat="45.4852449" lon="9.1889315" version="5" timestamp="2025-10-08T06:04:39Z" changeset="172986800" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6a"/>
     <tag k="addr:street" v="Via Gaetano De Castillia"/>
+    <tag k="check_date" v="2025-10-08"/>
     <tag k="name" v="Maire Tecnimont"/>
     <tag k="office" v="company"/>
     <tag k="wheelchair" v="limited"/>
@@ -9377,15 +9382,16 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2415206412" lat="45.4794392" lon="9.1858895" version="4" timestamp="2025-09-10T06:24:52Z" changeset="171717739" uid="22858586" user="paf_veglia">
+  <node id="2415206412" lat="45.4794392" lon="9.1858895" version="5" timestamp="2025-10-08T06:15:57Z" changeset="172987135" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="117"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
-    <tag k="check_date" v="2025-09-10"/>
-    <tag k="disused:amenity" v="ice_cream"/>
-    <tag k="name" v="Lato G"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2025-10-08"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="name" v="Street Smashburgers"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2415206418" lat="45.4793120" lon="9.1860523" version="6" timestamp="2025-09-15T06:19:31Z" changeset="171947183" uid="22858586" user="paf_veglia">
@@ -10385,16 +10391,6 @@
     <tag k="shop" v="laundry"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2479398412" lat="45.4867002" lon="9.1887446" version="3" timestamp="2019-09-13T13:24:28Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="20159"/>
-    <tag k="addr:street" v="Via Pietro Borsieri"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="name" v="Bar Guadagni"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="2479398419" lat="45.4869392" lon="9.1885853" version="4" timestamp="2025-09-15T06:02:24Z" changeset="171946631" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="11"/>
@@ -10669,14 +10665,14 @@
     <tag k="website" v="http://www.legaseriea.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2488613454" lat="45.4886115" lon="9.1891427" version="7" timestamp="2025-08-12T06:30:35Z" changeset="170323748" uid="22858586" user="paf_veglia">
+  <node id="2488613454" lat="45.4887237" lon="9.1891400" version="8" timestamp="2025-10-08T06:04:39Z" changeset="172986800" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Pietro Borsieri"/>
     <tag k="amenity" v="fast_food"/>
-    <tag k="check_date" v="2025-08-12"/>
+    <tag k="check_date" v="2025-10-08"/>
     <tag k="cuisine" v="turkish"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Turkish Kebap"/>
@@ -13342,16 +13338,6 @@
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2993628010" lat="45.4698218" lon="9.1923911" version="3" timestamp="2019-09-13T09:52:53Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Via Alessandro Manzoni"/>
-    <tag k="name" v="Kenzo"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="2993628012" lat="45.4687676" lon="9.1914965" version="5" timestamp="2025-07-15T10:02:16Z" changeset="168956468" uid="290680" user="wheelmap_visitor">
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="12"/>
@@ -15845,11 +15831,6 @@
     <tag k="name" v="Bar Tabacchi Maciachini"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3368777732" lat="45.4895622" lon="9.1892631" version="6" timestamp="2023-07-27T16:38:03Z" changeset="139095891" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="name" v="Pelo e contropelo"/>
-    <tag k="shop" v="pet"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="3369940426" lat="45.4886765" lon="9.1903446" version="3" timestamp="2019-09-13T13:17:31Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
@@ -17884,7 +17865,8 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3799689449" lat="45.4790110" lon="9.1855270" version="3" timestamp="2025-10-01T14:15:03Z" changeset="172708953" uid="13840929" user="aa30mom">
+  <node id="3799689449" lat="45.4790110" lon="9.1855270" version="4" timestamp="2025-10-08T06:15:57Z" changeset="172987135" uid="22858586" user="paf_veglia">
+    <tag k="check_date" v="2025-10-08"/>
     <tag k="name" v="Le Lunetier"/>
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="yes"/>
@@ -20337,16 +20319,15 @@
     <tag k="vending" v="parking_tickets"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4028037575" lat="45.4870646" lon="9.1888333" version="3" timestamp="2019-09-13T13:23:18Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="4028037575" lat="45.4870646" lon="9.1888333" version="4" timestamp="2025-10-08T06:04:39Z" changeset="172986800" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Pietro Borsieri"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2025-10-08"/>
     <tag k="cuisine" v="burger"/>
-    <tag k="name" v="Fatto Bene Burger"/>
-    <tag k="phone" v="+39 02 45374498"/>
-    <tag k="website" v="http://www.fattobeneburger.com"/>
+    <tag k="name" v="New Wood"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4028219023" lat="45.4823995" lon="9.1933805" version="3" timestamp="2019-09-13T12:57:56Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -22560,20 +22541,6 @@
     <tag k="ref:vatin" v="IT04628790968"/>
     <tag k="shop" v="books"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="4327069594" lat="45.4817337" lon="9.1874108" version="4" timestamp="2025-01-15T12:59:51Z" changeset="161380133" uid="18828247" user="Dasc3er">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="20154"/>
-    <tag k="addr:street" v="Corso Como"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="check_date" v="2025-01-15"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="name" v="Gusto e Tradizione"/>
-    <tag k="operator" v="Altopascio 1 srl"/>
-    <tag k="ref:vatin" v="IT11858030155"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4327069703" lat="45.4810082" lon="9.1874377" version="5" timestamp="2024-10-14T13:45:06Z" changeset="157878822" uid="18828247" user="Dasc3er">
     <tag k="addr:city" v="Milano"/>
@@ -28893,11 +28860,12 @@
     <tag k="website" v="http://www.riparazionielettrodomesticimilano.net"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5718382732" lat="45.4861102" lon="9.1887063" version="3" timestamp="2019-09-13T13:13:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="5718382732" lat="45.4861102" lon="9.1887063" version="4" timestamp="2025-10-08T06:04:39Z" changeset="172986800" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4/e"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Pietro Borsieri"/>
+    <tag k="check_date" v="2025-10-08"/>
     <tag k="description" v="CICLOBBY è una associazione cicloambientalista aderente alla Federazione Italiana Amici della Bicicletta (FIAB onlus) che riunisce più di 100 altre associazioni simili sparse in tutta Italia."/>
     <tag k="email" v="segreteria@ciclobby.it"/>
     <tag k="name" v="Fiab Milano Ciclobby"/>
@@ -43550,8 +43518,8 @@
     <tag k="name" v="San Lorenzo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11941724938" lat="45.4819021" lon="9.1874507" version="3" timestamp="2025-07-15T09:48:17Z" changeset="168955480" uid="290680" user="wheelmap_visitor">
-    <tag k="check_date" v="2025-01-15"/>
+  <node id="11941724938" lat="45.4819021" lon="9.1874507" version="4" timestamp="2025-10-08T06:15:57Z" changeset="172987135" uid="22858586" user="paf_veglia">
+    <tag k="check_date" v="2025-10-08"/>
     <tag k="name" v="10 Corso Como"/>
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://10corsocomo.com/it/pages/3rooms"/>
@@ -44441,9 +44409,10 @@
     <tag k="website" v="https://berbere.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12500819673" lat="45.4812412" lon="9.1872576" version="3" timestamp="2025-07-15T09:53:33Z" changeset="168955842" uid="290680" user="wheelmap_visitor">
-    <tag k="check_date" v="2025-01-14"/>
+  <node id="12500819673" lat="45.4812412" lon="9.1872576" version="4" timestamp="2025-10-08T06:15:57Z" changeset="172987135" uid="22858586" user="paf_veglia">
+    <tag k="check_date" v="2025-10-08"/>
     <tag k="name" v="Mimanera"/>
+    <tag k="opening_hours" v="10:00-20:00"/>
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
