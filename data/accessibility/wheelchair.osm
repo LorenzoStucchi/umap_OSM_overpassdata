@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-10T03:57:16Z" areas="2025-10-10T01:56:58Z"/>
+<meta osm_base="2025-10-11T03:50:55Z" areas="2025-10-10T21:31:06Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1502,14 +1502,14 @@
     <tag k="website" v="https://www.hotelmennini.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="313368270" lat="45.4503447" lon="9.1412970" version="9" timestamp="2025-07-26T22:11:26Z" changeset="169530254" uid="13697350" user="c674a">
+  <node id="313368270" lat="45.4503447" lon="9.1412970" version="10" timestamp="2025-10-10T19:02:54Z" changeset="173109433" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20146"/>
     <tag k="addr:street" v="Largo Giovan Battista Scalabrini"/>
     <tag k="amenity" v="post_office"/>
     <tag k="fax" v="+39 02 4230568"/>
-    <tag k="name" v="Milano 95"/>
+    <tag k="name" v="Poste Italiane - Milano 95"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-13:35, Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
@@ -4849,6 +4849,14 @@
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
     <tag k="phone" v="+39 02 57430811"/>
     <tag k="ref" v="38116"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1611269161" lat="45.4618816" lon="9.1025579" version="3" timestamp="2025-10-10T22:47:07Z" changeset="173115572" uid="13697350" user="c674a">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="fee" v="yes"/>
+    <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1627126721" lat="45.4633048" lon="9.1990533" version="3" timestamp="2023-04-16T12:50:49Z" changeset="134973726" uid="15541433" user="paulbrunner">
@@ -14218,10 +14226,13 @@
     <tag k="name" v="UBI Banca Popolare di Bergamo"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3043825353" lat="45.4649799" lon="9.0952483" version="4" timestamp="2024-03-24T13:47:28Z" changeset="149089739" uid="1914637" user="a1ca424">
+  <node id="3043825353" lat="45.4649799" lon="9.0952483" version="5" timestamp="2025-10-10T22:47:07Z" changeset="173115572" uid="13697350" user="c674a">
+    <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
     <tag k="check_date" v="2024-03-24"/>
     <tag k="fee" v="yes"/>
+    <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3046761913" lat="45.4575648" lon="9.1758214" version="8" timestamp="2025-10-07T14:39:27Z" changeset="172962755" uid="13840929" user="aa30mom">
@@ -17398,6 +17409,14 @@
   <node id="3726139992" lat="45.4966021" lon="9.1947464" version="4" timestamp="2023-11-03T19:55:07Z" changeset="143588758" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Marche"/>
     <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3730553197" lat="45.4753581" lon="9.1325576" version="3" timestamp="2025-10-10T22:47:07Z" changeset="173115572" uid="13697350" user="c674a">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="fee" v="yes"/>
+    <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3730700220" lat="45.4667713" lon="9.1616590" version="5" timestamp="2025-07-15T09:38:20Z" changeset="168954770" uid="290680" user="wheelmap_visitor">
@@ -22733,6 +22752,14 @@
     <tag k="ref:vatin" v="IT09287400155"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4355476789" lat="45.4755339" lon="9.1239391" version="2" timestamp="2025-10-10T22:47:07Z" changeset="173115572" uid="13697350" user="c674a">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="fee" v="yes"/>
+    <tag k="unisex" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4355938255" lat="45.4478686" lon="9.2122503" version="5" timestamp="2025-05-26T16:02:04Z" changeset="166786986" uid="69259" user="DnaX">
     <tag k="addr:postcode" v="20135"/>
@@ -43936,9 +43963,12 @@
     <tag k="website" v="https://www.secnewgate.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12244115140" lat="45.4557114" lon="9.1437534" version="1" timestamp="2024-10-11T13:01:52Z" changeset="157756394" uid="22055976" user="fabiosal">
+  <node id="12244115140" lat="45.4557114" lon="9.1437534" version="2" timestamp="2025-10-10T19:02:54Z" changeset="173109433" uid="13697350" user="c674a">
+    <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="no"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12253262397" lat="45.4833934" lon="9.2078838" version="1" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
