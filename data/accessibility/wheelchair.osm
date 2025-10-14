@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-13T04:08:21Z" areas="2025-10-12T22:26:01Z"/>
+<meta osm_base="2025-10-14T03:58:51Z" areas="2025-10-13T21:51:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2131,7 +2131,7 @@
     <tag k="shop" v="telecommunication"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="429422743" lat="45.4783800" lon="9.1843080" version="12" timestamp="2024-05-20T12:46:00Z" changeset="151578449" uid="20905165" user="nu99et">
+  <node id="429422743" lat="45.4783259" lon="9.1842808" version="13" timestamp="2025-10-13T13:51:13Z" changeset="173229117" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -2619,12 +2619,16 @@
     <tag k="shop" v="laundry"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="567147786" lat="45.4778083" lon="9.2272468" version="12" timestamp="2025-03-22T09:43:45Z" changeset="163938478" uid="22660530" user="teebee03">
+  <node id="567147786" lat="45.4778083" lon="9.2272468" version="13" timestamp="2025-10-13T08:49:16Z" changeset="173215124" uid="8716397" user="f_gonella">
+    <tag k="access" v="private"/>
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:street" v="Piazza Leonardo da Vinci"/>
     <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="permissive"/>
+    <tag k="foot" v="permissive"/>
     <tag k="material" v="metal"/>
+    <tag k="vehicle" v="private"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="593500379" lat="45.4518951" lon="9.1870304" version="9" timestamp="2021-11-04T00:19:10Z" changeset="113353449" uid="11645399" user="davidoskky">
@@ -3200,6 +3204,15 @@
     <tag k="ref:vatin" v="IT05909671215"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q106633216"/>
+  </node>
+  <node id="1011790336" lat="45.4678435" lon="9.0862707" version="5" timestamp="2025-10-13T06:31:10Z" changeset="173209808" uid="13697350" user="c674a">
+    <tag k="barrier" v="swing_gate"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="permit"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1029646493" lat="45.4720662" lon="9.1857020" version="8" timestamp="2025-10-11T15:11:53Z" changeset="173142278" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
@@ -4293,7 +4306,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1514331907" lat="45.4952639" lon="9.1851342" version="8" timestamp="2023-05-25T12:05:08Z" changeset="136541014" uid="19325827" user="malegre">
+  <node id="1514331907" lat="45.4952639" lon="9.1851342" version="9" timestamp="2025-10-13T11:01:14Z" changeset="173221332" uid="22525435" user="btcitnet">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="79/81"/>
+    <tag k="addr:postcode" v="20159"/>
+    <tag k="addr:street" v="Via Carlo Farini"/>
     <tag k="brand" v="Upim"/>
     <tag k="brand:wikidata" v="Q1414836"/>
     <tag k="brand:wikipedia" v="it:UPIM"/>
@@ -7134,7 +7151,11 @@
     <tag k="website" v="https://www.3motorspoint.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2090339750" lat="45.4685867" lon="9.1811492" version="3" timestamp="2022-03-30T10:18:52Z" changeset="119109101" uid="4974073" user="thom_bike_bln">
+  <node id="2090339750" lat="45.4685867" lon="9.1811492" version="4" timestamp="2025-10-13T08:53:50Z" changeset="173215334" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Piazza Castello"/>
     <tag k="name" v="Autostradale"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
     <tag k="shop" v="ticket"/>
@@ -7733,7 +7754,10 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2168869456" lat="45.4835275" lon="9.2138213" version="8" timestamp="2024-05-08T21:32:43Z" changeset="151076332" uid="69259" user="DnaX">
+  <node id="2168869456" lat="45.4835275" lon="9.2138213" version="9" timestamp="2025-10-13T11:16:07Z" changeset="173222059" uid="22525435" user="btcitnet">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="63"/>
+    <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="brand" v="PittaRosso"/>
     <tag k="brand:wikidata" v="Q105643314"/>
     <tag k="name" v="PittaRosso"/>
@@ -11179,8 +11203,10 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2542757791" lat="45.4838843" lon="9.2141941" version="6" timestamp="2023-11-04T13:45:04Z" changeset="143614476" uid="1875845" user="Valerio_Bozzolan">
+  <node id="2542757791" lat="45.4838843" lon="9.2141941" version="7" timestamp="2025-10-13T11:14:00Z" changeset="173221977" uid="22525435" user="btcitnet">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="brand" v="Calzedonia"/>
     <tag k="brand:wikidata" v="Q1027874"/>
@@ -11193,8 +11219,10 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2542757796" lat="45.4837808" lon="9.2141108" version="5" timestamp="2025-07-21T08:47:32Z" changeset="169230649" uid="290680" user="wheelmap_visitor">
+  <node id="2542757796" lat="45.4837808" lon="9.2141108" version="6" timestamp="2025-10-13T11:15:06Z" changeset="173222016" uid="22525435" user="btcitnet">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="brand" v="Intimissimi"/>
     <tag k="brand:wikidata" v="Q305404"/>
@@ -12656,7 +12684,7 @@
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2942352033" lat="45.4553201" lon="9.1724633" version="7" timestamp="2025-07-20T21:19:42Z" changeset="169215278" uid="1781586" user="fick89">
+  <node id="2942352033" lat="45.4553201" lon="9.1724633" version="8" timestamp="2025-10-13T21:25:29Z" changeset="173248606" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20144"/>
@@ -12666,10 +12694,11 @@
     <tag k="brand:wikipedia" v="it:Coin"/>
     <tag k="contact:phone" v="+39 02 58104385"/>
     <tag k="name" v="Coin"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-19:30; Sa 10:00-20:00; Su 10:00-19:30"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-19:30"/>
     <tag k="operator" v="Gruppo Coin spa"/>
     <tag k="ref:vatin" v="IT04850790967"/>
     <tag k="shop" v="department_store"/>
+    <tag k="website" v="https://www.coin.it/it-it/stores/italia/lombardia/milano/milano-piazza-cantore-12?l=it_IT"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2945568411" lat="45.4716411" lon="9.2021218" version="4" timestamp="2025-07-15T09:43:08Z" changeset="168955142" uid="290680" user="wheelmap_visitor">
@@ -13178,7 +13207,7 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2991405599" lat="45.4643488" lon="9.1871330" version="10" timestamp="2025-10-07T15:49:30Z" changeset="172966028" uid="13840929" user="aa30mom">
+  <node id="2991405599" lat="45.4643488" lon="9.1871330" version="11" timestamp="2025-10-13T19:01:05Z" changeset="173243577" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1n01"/>
     <tag k="addr:postcode" v="20123"/>
@@ -13189,7 +13218,7 @@
     <tag k="clothes" v="men"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Doppelgänger"/>
-    <tag k="phone" v="0243413725"/>
+    <tag k="phone" v="+39 024341372"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -13958,7 +13987,11 @@
     <tag k="shop" v="perfumery"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3025781178" lat="45.4694589" lon="9.1919895" version="4" timestamp="2023-07-24T15:13:14Z" changeset="138945697" uid="19266080" user="frlrt">
+  <node id="3025781178" lat="45.4694589" lon="9.1919895" version="5" timestamp="2025-10-13T13:11:17Z" changeset="173227225" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Alessandro Manzoni"/>
     <tag k="contact:website" v="http://www.loriblu.com/it/store-locator?id=51"/>
     <tag k="facebook" v="officinabernardi"/>
     <tag k="name" v="Officina Bernardi"/>
@@ -14598,7 +14631,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3147151907" lat="45.4685572" lon="9.1810535" version="3" timestamp="2025-07-15T09:42:53Z" changeset="168955127" uid="290680" user="wheelmap_visitor">
+  <node id="3147151907" lat="45.4685681" lon="9.1810570" version="4" timestamp="2025-10-13T08:53:50Z" changeset="173215334" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -16776,14 +16809,15 @@
     <tag k="shop" v="laundry"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3655623482" lat="45.4787405" lon="9.1841567" version="3" timestamp="2019-09-13T14:30:24Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3655623482" lat="45.4787411" lon="9.1841326" version="4" timestamp="2025-10-13T13:51:13Z" changeset="173229117" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Alessandro Volta"/>
-    <tag k="name" v="Gioielleria D'Agostinis"/>
+    <tag k="name" v="colomba Pozzi"/>
     <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://www.colombapozzi.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3655623504" lat="45.4791472" lon="9.1845374" version="2" timestamp="2019-09-13T13:57:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -16848,13 +16882,13 @@
     <tag k="phone" v="+39 02 91471595"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3655623509" lat="45.4798042" lon="9.1836190" version="3" timestamp="2021-05-16T21:17:20Z" changeset="104785679" uid="67550" user="Aiman">
+  <node id="3655623509" lat="45.4798042" lon="9.1836190" version="4" timestamp="2025-10-13T13:51:13Z" changeset="173229117" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Alessandro Volta"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="disused:amenity" v="restaurant"/>
     <tag k="name" v="Gialle"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -16888,7 +16922,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3655625015" lat="45.4800886" lon="9.1834115" version="3" timestamp="2019-09-13T14:25:22Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3655625015" lat="45.4800787" lon="9.1833915" version="4" timestamp="2025-10-13T13:51:13Z" changeset="173229117" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="14"/>
@@ -16912,20 +16946,6 @@
     <tag k="name" v="Macelleria da Roberto"/>
     <tag k="shop" v="butcher"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="3655625017" lat="45.4800948" lon="9.1831570" version="2" timestamp="2019-09-13T14:25:01Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Via Alessandro Volta"/>
-    <tag k="email" v="info@milanobeauty.it"/>
-    <tag k="name" v="Milano Beauty"/>
-    <tag k="opening_hours" v="Mo 13:00-19:00; Tu-Sa 10:00-19:00; Th 13:00-22:00"/>
-    <tag k="phone" v="+39 02 89692193"/>
-    <tag k="shop" v="beauty"/>
-    <tag k="website" v="http://www.milanobeauty.it/sito/"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3655625127" lat="45.4821932" lon="9.1824422" version="4" timestamp="2023-06-24T21:01:45Z" changeset="137735121" uid="11220113" user="ivanbranco">
     <tag k="check_date" v="2023-06-24"/>
@@ -16961,7 +16981,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3655625136" lat="45.4800146" lon="9.1834730" version="2" timestamp="2019-09-13T14:25:34Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3655625136" lat="45.4800031" lon="9.1834485" version="3" timestamp="2025-10-13T13:51:13Z" changeset="173229117" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="14"/>
@@ -16971,7 +16991,7 @@
     <tag k="name" v="Melabevo"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3655625186" lat="45.4801994" lon="9.1831006" version="9" timestamp="2019-11-28T15:38:46Z" changeset="77690684" uid="113669" user="AnyFile">
+  <node id="3655625186" lat="45.4802040" lon="9.1830627" version="10" timestamp="2025-10-13T13:51:13Z" changeset="173229117" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="15"/>
@@ -18963,7 +18983,7 @@
     <tag k="shop" v="books"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3877878609" lat="45.4698643" lon="9.1927663" version="3" timestamp="2025-07-15T09:55:30Z" changeset="168955997" uid="290680" user="wheelmap_visitor">
+  <node id="3877878609" lat="45.4699066" lon="9.1924791" version="4" timestamp="2025-10-13T13:11:17Z" changeset="173227225" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="29"/>
@@ -19192,7 +19212,11 @@
     <tag k="website" v="https://www.etro.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3877990559" lat="45.4700246" lon="9.1929659" version="6" timestamp="2025-08-26T06:40:56Z" changeset="171009875" uid="22858586" user="paf_veglia">
+  <node id="3877990559" lat="45.4700246" lon="9.1929659" version="7" timestamp="2025-10-13T13:11:17Z" changeset="173227225" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Alessandro Manzoni"/>
     <tag k="brand" v="Falconeri"/>
     <tag k="brand:wikidata" v="Q28056375"/>
     <tag k="check_date" v="2025-08-26"/>
@@ -19342,7 +19366,7 @@
     <tag k="wikimedia_commons" v="Category:COVA Caffe Milano"/>
     <tag k="wikipedia" v="it:Pasticceria Cova"/>
   </node>
-  <node id="3877992129" lat="45.4699098" lon="9.1928676" version="6" timestamp="2025-08-26T06:40:56Z" changeset="171009875" uid="22858586" user="paf_veglia">
+  <node id="3877992129" lat="45.4699229" lon="9.1928535" version="7" timestamp="2025-10-13T13:11:17Z" changeset="173227225" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="29"/>
@@ -21586,7 +21610,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4225490294" lat="45.4659437" lon="9.1918166" version="4" timestamp="2024-10-20T08:16:09Z" changeset="158117512" uid="89897" user="airon90">
+  <node id="4225490294" lat="45.4659898" lon="9.1917635" version="5" timestamp="2025-10-13T12:28:53Z" changeset="173225332" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="20121"/>
@@ -22718,7 +22742,7 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4348681394" lat="45.4690445" lon="9.1818105" version="5" timestamp="2025-03-29T11:15:32Z" changeset="164244732" uid="2414126" user="Weasel-Wiesel">
+  <node id="4348681394" lat="45.4690339" lon="9.1817914" version="6" timestamp="2025-10-13T08:53:50Z" changeset="173215334" uid="13840929" user="aa30mom">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Piazza Castello"/>
@@ -22917,7 +22941,7 @@
     <tag k="website" v="https://www.ristorantecracco.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4381970248" lat="45.4651256" lon="9.1893318" version="6" timestamp="2023-10-22T10:52:40Z" changeset="142962177" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4381970248" lat="45.4651195" lon="9.1893543" version="7" timestamp="2025-10-13T16:15:20Z" changeset="173236192" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
@@ -23314,7 +23338,11 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4434836291" lat="45.4692264" lon="9.1917176" version="3" timestamp="2025-07-15T09:59:02Z" changeset="168956242" uid="290680" user="wheelmap_visitor">
+  <node id="4434836291" lat="45.4692013" lon="9.1916788" version="4" timestamp="2025-10-13T13:11:17Z" changeset="173227225" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Andegari"/>
     <tag k="amenity" v="bar"/>
     <tag k="name" v="Biffino"/>
     <tag k="wheelchair" v="no"/>
@@ -25169,21 +25197,6 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4847724829" lat="45.4696232" lon="9.1924792" version="5" timestamp="2024-03-13T13:10:00Z" changeset="148593157" uid="13840929" user="aa30mom">
-    <tag k="addr:postcode" v="20121"/>
-    <tag k="addr:street" v="Via Alessandro Manzoni"/>
-    <tag k="brand" v="Wolford"/>
-    <tag k="brand:wikidata" v="Q431607"/>
-    <tag k="brand:wikipedia" v="en:Wolford"/>
-    <tag k="clothes" v="underwear"/>
-    <tag k="contact:phone" v="+39 02 76316204"/>
-    <tag k="name" v="Wolford"/>
-    <tag k="operator" v="Wolford Italia S.r.l."/>
-    <tag k="ref:vatin" v="IT10609270151"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.wolford.com/"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="4847914144" lat="45.4859708" lon="9.2042731" version="3" timestamp="2021-01-02T16:59:42Z" changeset="96816283" uid="9082724" user="pNyC6U3gmE4w">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20124"/>
@@ -26667,7 +26680,8 @@
     <tag k="website" v="https://www.cdi.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5243433908" lat="45.4858328" lon="9.2045462" version="4" timestamp="2025-03-01T19:22:19Z" changeset="163099882" uid="8772934" user="mapperich">
+  <node id="5243433908" lat="45.4858328" lon="9.2045462" version="5" timestamp="2025-10-13T11:12:12Z" changeset="173221903" uid="22525435" user="btcitnet">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Piazza Duca d'Aosta"/>
@@ -35673,7 +35687,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9560235279" lat="45.4702500" lon="9.1824540" version="4" timestamp="2025-07-15T09:52:24Z" changeset="168955769" uid="290680" user="wheelmap_visitor">
+  <node id="9560235279" lat="45.4702658" lon="9.1824555" version="5" timestamp="2025-10-13T08:53:50Z" changeset="173215334" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
@@ -40635,7 +40649,10 @@
     <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11034451160" lat="45.4960437" lon="9.2033822" version="2" timestamp="2023-07-08T17:01:08Z" changeset="138270909" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11034451160" lat="45.4960437" lon="9.2033822" version="3" timestamp="2025-10-13T11:00:25Z" changeset="173221296" uid="22525435" user="btcitnet">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Via Giovanni Cagliero"/>
     <tag k="brand" v="Kasanova"/>
     <tag k="brand:wikidata" v="Q116214505"/>
     <tag k="name" v="Kasanova"/>
@@ -41019,7 +41036,8 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Via Iginio Ugo Tarchetti in Milan.jpg"/>
   </node>
-  <node id="11238739639" lat="45.4810591" lon="9.1858503" version="2" timestamp="2025-07-15T09:59:38Z" changeset="168956279" uid="290680" user="wheelmap_visitor">
+  <node id="11238739639" lat="45.4810591" lon="9.1858503" version="3" timestamp="2025-10-13T15:32:48Z" changeset="173234069" uid="717233" user="jacopofar">
+    <tag k="name" v="Shoes...NO-BOX"/>
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -42160,14 +42178,14 @@
     <tag k="website" v="https://www.micasatoasteria.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11586725555" lat="45.4977267" lon="9.2252203" version="4" timestamp="2025-07-15T10:00:14Z" changeset="168956319" uid="290680" user="wheelmap_visitor">
+  <node id="11586725555" lat="45.4977267" lon="9.2252203" version="5" timestamp="2025-10-13T11:23:57Z" changeset="173222371" uid="730682" user="Max1234-ITA">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20127"/>
     <tag k="addr:street" v="Piazzale Governo Provvisorio"/>
     <tag k="amenity" v="driving_school"/>
-    <tag k="name" v="Giulia Rally Di Sergio Gaetano"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-12:00,15:30-19:30"/>
+    <tag k="name" v="Autoscuola NoLo"/>
+    <tag k="opening_hours" v="Mo-Fr 09:30-12:30, 14:30-19:30"/>
     <tag k="phone" v="+39 02 2847071"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -46109,7 +46127,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="23227442" version="34" timestamp="2023-08-21T19:40:23Z" changeset="140198197" uid="19233464" user="secondaryhighway">
-    <center lat="45.4667551" lon="9.1915765"/>
+    <center lat="45.4667518" lon="9.1915661"/>
     <nd ref="251290291"/>
     <nd ref="4664166756"/>
     <nd ref="4664166755"/>
