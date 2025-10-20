@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-19T04:11:58Z" areas="2025-10-18T23:12:36Z"/>
+<meta osm_base="2025-10-20T04:14:13Z" areas="2025-10-19T22:54:46Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1451,12 +1451,17 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="311821023" lat="45.4527433" lon="9.1421771" version="10" timestamp="2021-02-26T10:06:47Z" changeset="100040023" uid="89897" user="airon90">
+  <node id="311821023" lat="45.4527433" lon="9.1421771" version="11" timestamp="2025-10-19T11:35:15Z" changeset="173486920" uid="13697350" user="c674a">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20146"/>
+    <tag k="addr:street" v="Via Bartolomeo d'Alviano"/>
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
     <tag k="brand" v="UniCredit Bank"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="en:UniCredit"/>
+    <tag k="drive_through" v="no"/>
     <tag k="name" v="UniCredit Bank"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -14017,7 +14022,11 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3030459975" lat="45.4656789" lon="9.1908648" version="2" timestamp="2022-11-03T15:04:21Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
+  <node id="3030459975" lat="45.4657023" lon="9.1908600" version="3" timestamp="2025-10-19T09:39:10Z" changeset="173482142" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Ugo Foscolo"/>
     <tag k="name" v="K-Way"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
@@ -15421,7 +15430,11 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3264009450" lat="45.4655132" lon="9.1906440" version="5" timestamp="2023-11-07T09:56:51Z" changeset="143728658" uid="9451067" user="b-jazz-bot">
+  <node id="3264009450" lat="45.4654422" lon="9.1906464" version="6" timestamp="2025-10-19T09:39:10Z" changeset="173482142" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="5n02"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Ugo Foscolo"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian"/>
     <tag k="email" v="info@lalocandadelgattorosso.it"/>
@@ -45933,6 +45946,14 @@
     <tag k="parcel_pickup" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="13243334747" lat="45.4607132" lon="9.1366983" version="1" timestamp="2025-10-19T14:19:15Z" changeset="173494223" uid="13697350" user="c674a">
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="colour" v="Red"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -49539,7 +49560,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="137439383" version="6" timestamp="2025-10-14T19:59:46Z" changeset="173292198" uid="13697350" user="c674a">
+  <way id="137439383" version="7" timestamp="2025-10-19T14:19:15Z" changeset="173494223" uid="13697350" user="c674a">
     <center lat="45.4637347" lon="9.1324032"/>
     <nd ref="1507644561"/>
     <nd ref="1507644559"/>
@@ -49557,7 +49578,9 @@
     <tag k="brand" v="Pam"/>
     <tag k="brand:wikidata" v="Q105615038"/>
     <tag k="building" v="commercial"/>
+    <tag k="building:levels" v="1"/>
     <tag k="name" v="Pam"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:00; Su 09:00-20:30"/>
     <tag k="organic" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
@@ -49566,6 +49589,7 @@
     <tag k="payment:satispay" v="yes"/>
     <tag k="phone" v="+390240090184"/>
     <tag k="shop" v="supermarket"/>
+    <tag k="stroller" v="yes"/>
     <tag k="toilets" v="no"/>
     <tag k="website" v="https://www.pampanorama.it/punti-vendita/milano-forze-armate"/>
     <tag k="wheelchair" v="limited"/>
@@ -57271,6 +57295,27 @@
     <nd ref="13158798371"/>
     <nd ref="13158798372"/>
     <nd ref="13158798368"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1443230267" version="2" timestamp="2025-10-19T16:45:02Z" changeset="173501059" uid="13697350" user="c674a">
+    <center lat="45.4609984" lon="9.1366059"/>
+    <nd ref="13243334751"/>
+    <nd ref="13243334766"/>
+    <nd ref="13243334752"/>
+    <nd ref="13243334753"/>
+    <nd ref="13243334754"/>
+    <nd ref="13243334755"/>
+    <nd ref="13243334763"/>
+    <nd ref="13243334756"/>
+    <nd ref="13243334764"/>
+    <nd ref="13243334757"/>
+    <nd ref="13243334770"/>
+    <nd ref="13243334758"/>
+    <nd ref="13243334759"/>
+    <nd ref="13243334760"/>
+    <nd ref="13243334751"/>
     <tag k="barrier" v="fence"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
