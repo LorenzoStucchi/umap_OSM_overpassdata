@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-02T04:11:54Z" areas="2025-11-01T21:12:57Z"/>
+<meta osm_base="2025-11-03T04:15:55Z" areas="2025-11-02T21:27:27Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -8153,21 +8153,14 @@
     <tag k="operator" v="Esselunga"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2270327291" lat="45.4784856" lon="9.1459853" version="3" timestamp="2021-11-06T23:36:37Z" changeset="113464337" uid="11645399" user="davidoskky">
+  <node id="2270327291" lat="45.4784856" lon="9.1459853" version="4" timestamp="2025-11-02T11:35:04Z" changeset="174098197" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:street" v="Via Monte Bianco"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="branch" v="Milano Silva"/>
-    <tag k="brand" v="Autogrill"/>
-    <tag k="brand:wikidata" v="Q786790"/>
-    <tag k="brand:wikipedia" v="en:Autogrill"/>
-    <tag k="cuisine" v="italian;regional"/>
-    <tag k="fixme" v="Position estimated"/>
-    <tag k="name" v="Autogrill"/>
-    <tag k="note" v="telefono numero verde 800069069"/>
-    <tag k="ref:vatin" v="IT01630730032"/>
+    <tag k="amenity" v="food_court"/>
+    <tag k="name" v="Monte Bianco 54"/>
+    <tag k="operator" v="Pellegrini"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2270327292" lat="45.4782652" lon="9.1471752" version="4" timestamp="2022-01-26T17:32:12Z" changeset="116631544" uid="13840929" user="aa30mom">
@@ -8424,10 +8417,9 @@
     <tag k="website" v="https://www.farmaciamissori.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2334186681" lat="45.4436732" lon="9.2140686" version="3" timestamp="2024-03-31T12:28:04Z" changeset="149388166" uid="8162492" user="dlo1879">
+  <node id="2334186681" lat="45.4435764" lon="9.2141526" version="4" timestamp="2025-11-02T11:35:04Z" changeset="174098197" uid="13840929" user="aa30mom">
     <tag k="addr:street" v="Piazza San Luigi"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="fixme" v="Position estimated"/>
     <tag k="name" v="Sottobosco: Ristoro di Quartiere"/>
     <tag k="phone" v="+390239289510"/>
     <tag k="website" v="https://www.sottoboscomilano.com"/>
@@ -43244,10 +43236,12 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11753167456" lat="45.4826859" lon="9.1074205" version="1" timestamp="2024-03-22T15:24:34Z" changeset="149018715" uid="21070564" user="Tommaso-S">
+  <node id="11753167456" lat="45.4826859" lon="9.1074205" version="2" timestamp="2025-11-02T10:58:35Z" changeset="174096847" uid="13697350" user="c674a">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="no"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11755728088" lat="45.4607504" lon="9.1824598" version="5" timestamp="2024-06-02T11:20:19Z" changeset="152154562" uid="1875845" user="Valerio_Bozzolan">
@@ -46285,6 +46279,17 @@
     <tag k="access" v="yes"/>
     <tag k="door" v="hinged"/>
     <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13275344017" lat="45.4884204" lon="9.1013253" version="1" timestamp="2025-11-02T10:58:35Z" changeset="174096847" uid="13697350" user="c674a">
+    <tag k="barrier" v="swing_gate"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="colour" v="Green"/>
+    <tag k="foot" v="yes"/>
+    <tag k="horse" v="yes"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="permit"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
