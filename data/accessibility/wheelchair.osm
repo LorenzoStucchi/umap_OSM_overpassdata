@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-03T04:15:55Z" areas="2025-11-02T21:27:27Z"/>
+<meta osm_base="2025-11-04T04:08:02Z" areas="2025-11-04T00:13:02Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -8752,7 +8752,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2399642753" lat="45.4633376" lon="9.1884190" version="6" timestamp="2025-07-15T09:37:36Z" changeset="168954726" uid="290680" user="wheelmap_visitor">
+  <node id="2399642753" lat="45.4633181" lon="9.1883932" version="7" timestamp="2025-11-03T15:06:43Z" changeset="174152458" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
@@ -11344,6 +11344,13 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="2566267865" lat="45.4601309" lon="9.1421072" version="3" timestamp="2025-11-03T20:10:30Z" changeset="174164923" uid="13697350" user="c674a">
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="swing_gate"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2566534578" lat="45.4532543" lon="9.1585893" version="5" timestamp="2018-07-24T20:48:01Z" changeset="61034979" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
@@ -12314,6 +12321,23 @@
     <tag k="name" v="Majestic"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="2838272119" lat="45.4666469" lon="9.1813829" version="7" timestamp="2025-11-03T07:31:39Z" changeset="174133883" uid="18210119" user="Nerwen">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via San Giovanni sul Muro"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Farmacia Cairoli"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00; Sa 09:00-19:00"/>
+    <tag k="operator" v="Farmacia F.lli Stilo Cairoli S.A.S. del Dott. Stilo Domenico &amp; C."/>
+    <tag k="ref:msal" v="2624"/>
+    <tag k="ref:vatin" v="IT09145070968"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="2838294277" lat="45.4677555" lon="9.1800827" version="3" timestamp="2025-10-25T13:40:15Z" changeset="173756532" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -12604,9 +12628,8 @@
     <tag k="ref" v="12251"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2915633266" lat="45.4831603" lon="9.1910577" version="5" timestamp="2025-07-15T09:33:37Z" changeset="168954440" uid="290680" user="wheelmap_visitor">
+  <node id="2915633266" lat="45.4831603" lon="9.1910577" version="6" timestamp="2025-11-03T13:36:36Z" changeset="174148302" uid="989858" user="lohgun">
     <tag k="amenity" v="bicycle_parking"/>
-    <tag k="bicycle_parking" v="Verona_rack"/>
     <tag k="capacity" v="10"/>
     <tag k="covered" v="no"/>
     <tag k="wheelchair" v="yes"/>
@@ -14745,7 +14768,7 @@
     <tag k="website" v="https://www.pesq.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3147154514" lat="45.4874506" lon="9.1910656" version="9" timestamp="2025-09-03T05:52:56Z" changeset="171389540" uid="22858586" user="paf_veglia">
+  <node id="3147154514" lat="45.4874506" lon="9.1910656" version="10" timestamp="2025-11-03T12:50:09Z" changeset="174146205" uid="989858" user="lohgun">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="20124"/>
@@ -14759,6 +14782,8 @@
     <tag k="name" v="Berberè"/>
     <tag k="opening_hours" v="Mo-Fr 12:30-14:30,19:00-23:30; Sa,Su 12:30-15:00,19:00-23:30"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+39 02 36707820"/>
     <tag k="ref:vatin" v="IT03066661202"/>
     <tag k="takeaway" v="yes"/>
@@ -20892,13 +20917,6 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4162178514" lat="45.4899078" lon="9.1466392" version="4" timestamp="2023-07-08T08:24:06Z" changeset="138254371" uid="2823582" user="a9i">
-    <tag k="amenity" v="toilets"/>
-    <tag k="check_date" v="2023-07-06"/>
-    <tag k="fee" v="no"/>
-    <tag k="fixme" v="Position estimated"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="4162747838" lat="45.4526048" lon="9.2013058" version="6" timestamp="2025-07-15T09:59:22Z" changeset="168956256" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="132"/>
     <tag k="addr:postcode" v="20122"/>
@@ -23226,13 +23244,6 @@
     <tag k="phone" v="+39 02 23998053"/>
     <tag k="short_name" v="BBL"/>
     <tag k="website" v="https://www.biblio.polimi.it/sedi-e-orari/bbl-biblioteca"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="4425364600" lat="45.4649225" lon="9.1921465" version="4" timestamp="2022-11-03T14:52:01Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="japanese"/>
-    <tag k="fixme" v="posizione"/>
-    <tag k="name" v="My Sushi - Rinascente"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4425378039" lat="45.4709459" lon="9.1938029" version="9" timestamp="2023-12-03T20:29:08Z" changeset="144731707" uid="2052228" user="kauevestena">
@@ -29050,12 +29061,6 @@
     <tag k="website" v="http://www.sanriccardo.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5786901953" lat="45.4604858" lon="9.1938297" version="2" timestamp="2023-04-15T13:05:52Z" changeset="134939525" uid="15541433" user="paulbrunner">
-    <tag k="check_date" v="2023-04-15"/>
-    <tag k="name" v="Aspesi"/>
-    <tag k="shop" v="optician"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="5787332282" lat="45.4839747" lon="9.2046296" version="7" timestamp="2023-10-23T18:25:41Z" changeset="143030340" uid="413098" user="jeyh">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="12"/>
@@ -31526,7 +31531,7 @@
     <tag k="maxwidth:physical" v="5"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7040174201" lat="45.4619849" lon="9.2192264" version="3" timestamp="2021-01-16T15:27:10Z" changeset="97608919" uid="12169583" user="davidfaure_bot">
+  <node id="7040174201" lat="45.4620362" lon="9.2192067" version="4" timestamp="2025-11-03T15:08:57Z" changeset="174152553" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:postcode" v="20130"/>
@@ -31541,7 +31546,6 @@
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/Restaurant_Review-g187849-d3825622"/>
     <tag k="contact:website" v="http://www.ristoranteci.it"/>
     <tag k="cuisine" v="chinese;japanese;sushi"/>
-    <tag k="fixme" v="Location approximated"/>
     <tag k="name" v="Ci"/>
     <tag k="opening_hours" v="Mo-Sa 11:00-15:00,18:00-24:00; Su 18:00-24:00"/>
     <tag k="outdoor_seating" v="no"/>
@@ -34933,13 +34937,14 @@
     <tag k="tourism" v="artwork"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9376573933" lat="45.4529804" lon="9.1723141" version="5" timestamp="2024-09-26T22:04:25Z" changeset="157147538" uid="1781586" user="fick89">
+  <node id="9376573933" lat="45.4529804" lon="9.1723141" version="6" timestamp="2025-11-03T16:36:40Z" changeset="174156319" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Via Vigevano"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="pizza"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizzium"/>
     <tag k="opening_hours" v="Mo-Th 12:30-14:30, 19:30-23:30; Fr-Su 12:30-15:00, 19:30-24:00"/>
     <tag k="operator" v="Pizzum S.P.A."/>
@@ -35236,7 +35241,11 @@
     <tag k="name" v="Romeo la Pinseria der Colosseo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9465886246" lat="45.4502173" lon="9.1778578" version="3" timestamp="2024-05-10T11:35:35Z" changeset="151141364" uid="5666811" user="DrWaluigi">
+  <node id="9465886246" lat="45.4502173" lon="9.1778578" version="4" timestamp="2025-11-03T16:55:22Z" changeset="174157192" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="20136"/>
+    <tag k="addr:street" v="Via Ascanio Sforza"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2023-04-16"/>
     <tag k="cuisine" v="regional;pizza"/>
@@ -45730,7 +45739,7 @@
     <tag k="website" v="allianz.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12953933701" lat="45.4897633" lon="9.1464350" version="1" timestamp="2025-06-26T12:09:07Z" changeset="168137140" uid="10153698" user="Francesco Cioria">
+  <node id="12953933701" lat="45.4897912" lon="9.1465117" version="2" timestamp="2025-11-03T15:35:50Z" changeset="174153671" uid="13840929" user="aa30mom">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="yes"/>
