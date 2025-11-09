@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-08T04:00:55Z" areas="2025-11-08T01:39:30Z"/>
+<meta osm_base="2025-11-09T04:09:38Z" areas="2025-11-09T02:19:19Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1224,15 +1224,6 @@
     <tag k="man_made" v="water_tap"/>
     <tag k="mapillary" v="https://www.mapillary.com/app/?lat=45.47370669802446&amp;lng=9.203985490122296&amp;z=17&amp;pKey=-dAgezT1_KBp_zNQcqfUMg&amp;focus=photo"/>
     <tag k="ref" v="027"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="282535140" lat="45.4554718" lon="9.1542749" version="5" timestamp="2021-02-26T10:06:47Z" changeset="100040023" uid="89897" user="airon90">
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="brand" v="Cariparma"/>
-    <tag k="brand:wikidata" v="Q2938832"/>
-    <tag k="brand:wikipedia" v="en:Crédit Agricole Italia"/>
-    <tag k="name" v="Cariparma"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="282549040" lat="45.4944891" lon="9.1959957" version="6" timestamp="2025-09-30T06:01:18Z" changeset="172643456" uid="22858586" user="paf_veglia">
@@ -6467,7 +6458,7 @@
     <tag k="ref:vatin" v="IT07293340969"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1901845028" lat="45.4833922" lon="9.2040017" version="7" timestamp="2022-01-18T07:14:17Z" changeset="116283645" uid="3860151" user="Michele Aquilani">
+  <node id="1901845028" lat="45.4833922" lon="9.2040017" version="8" timestamp="2025-11-08T22:21:20Z" changeset="174396673" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -6476,6 +6467,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="email" v="info@pianetaluna.it"/>
     <tag k="name" v="Pianeta Luna"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-22:30"/>
     <tag k="phone" v="+39 02 66710367"/>
     <tag k="ref:vatin" v="IT13072530150"/>
     <tag k="toilets:wheelchair" v="yes"/>
@@ -6677,18 +6669,19 @@
     <tag k="opening_hours" v="Mo-Tu,Th 10:00-22:30; Fr-Sa 10:00-23:30; Su 10:00-22:00"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1973121630" lat="45.4775461" lon="9.1845366" version="7" timestamp="2025-10-09T06:10:57Z" changeset="173032761" uid="22858586" user="paf_veglia">
+  <node id="1973121630" lat="45.4775461" lon="9.1845366" version="8" timestamp="2025-11-08T19:59:56Z" changeset="174392503" uid="13697350" user="c674a">
     <tag k="amenity" v="bicycle_rental"/>
     <tag k="bicycle_rental" v="docking_station"/>
     <tag k="brand" v="BikeMi"/>
     <tag k="brand:wikidata" v="Q2902552"/>
     <tag k="brand:wikipedia" v="en:BikeMi"/>
-    <tag k="capacity" v="22"/>
+    <tag k="capacity" v="24"/>
     <tag k="check_date" v="2025-10-09"/>
     <tag k="fee" v="yes"/>
     <tag k="name" v="Moscova"/>
     <tag k="network" v="BikeMi"/>
     <tag k="operator" v="Clear Channel"/>
+    <tag k="operator:type" v="private"/>
     <tag k="payment:credit_cards" v="no"/>
     <tag k="ref" v="16"/>
     <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
@@ -11447,7 +11440,7 @@
     <tag k="name" v="A'Vucciaria"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2575832355" lat="45.4491418" lon="9.1633209" version="5" timestamp="2023-06-19T19:39:24Z" changeset="137532688" uid="9450499" user="mrjackv">
+  <node id="2575832355" lat="45.4491335" lon="9.1633217" version="6" timestamp="2025-11-08T15:15:35Z" changeset="174381302" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:postcode" v="20143"/>
@@ -18424,7 +18417,7 @@
     <tag k="website" v="https://www.smarthotelmilano.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3848620465" lat="45.4831429" lon="9.2050468" version="4" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
+  <node id="3848620465" lat="45.4831429" lon="9.2050468" version="5" timestamp="2025-11-08T23:13:20Z" changeset="174397774" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="43"/>
@@ -18433,11 +18426,12 @@
     <tag k="brand" v="Giunti al Punto"/>
     <tag k="brand:wikidata" v="Q76505309"/>
     <tag k="check_date" v="2024-10-15"/>
-    <tag k="email" v="librerialirus@lirus.it"/>
+    <tag k="email" v="milano@giunti.it"/>
     <tag k="name" v="Giunti al Punto"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-19:30; Su 10:00-13:00,14:00-19:00"/>
     <tag k="phone" v="+39 02 66987169"/>
     <tag k="shop" v="books"/>
+    <tag k="website" v="https://giuntialpunto.it/pages/libreria/milano-mi-70330"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3848621226" lat="45.4836296" lon="9.2047004" version="6" timestamp="2024-03-18T17:43:39Z" changeset="148828070" uid="1914637" user="a1ca424">
@@ -18572,15 +18566,21 @@
     <tag k="name" v="Inside"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3848621435" lat="45.4831928" lon="9.2049540" version="4" timestamp="2025-07-15T09:55:17Z" changeset="168955984" uid="290680" user="wheelmap_visitor">
+  <node id="3848621435" lat="45.4831928" lon="9.2049540" version="5" timestamp="2025-11-08T23:13:20Z" changeset="174397774" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Vitruvio"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/officialskylinetravelsrl"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/skylinetravelsrl/"/>
+    <tag k="contact:tiktiok" v="https://www.tiktok.com/@skylinetravelling"/>
+    <tag k="contact:twitter" v="https://x.com/SkylineTravelMi"/>
+    <tag k="contact:whatsapp" v="https://wa.me/393295616493"/>
     <tag k="email" v="info@skylinetravel.it"/>
     <tag k="fax" v="+39 02 66719791"/>
     <tag k="name" v="Skyline Travel Milanese"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su off"/>
     <tag k="phone" v="+39 02 45475479"/>
     <tag k="ref:vatin" v="IT04935870966"/>
     <tag k="shop" v="travel_agency"/>
@@ -18632,7 +18632,7 @@
     <tag k="website" v="https://www.duravit.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3848621551" lat="45.4832524" lon="9.2048429" version="4" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
+  <node id="3848621551" lat="45.4832524" lon="9.2048429" version="5" timestamp="2025-11-08T23:13:20Z" changeset="174397774" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="43"/>
@@ -18640,6 +18640,7 @@
     <tag k="addr:street" v="Via Vitruvio"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="name" v="Camicissima"/>
+    <tag k="opening_hours" v="Mo-Su 09:30-20:30"/>
     <tag k="phone" v="+39 02 67100216"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
@@ -18837,7 +18838,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3861242788" lat="45.4829452" lon="9.2059253" version="3" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
+  <node id="3861242788" lat="45.4829452" lon="9.2059253" version="4" timestamp="2025-11-08T23:53:16Z" changeset="174398564" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="40"/>
@@ -18845,6 +18846,7 @@
     <tag k="addr:street" v="Via Vitruvio"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="name" v="to.market"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -18899,7 +18901,7 @@
     <tag k="website" v="https://www.sanident.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3861246657" lat="45.4828648" lon="9.2055596" version="3" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
+  <node id="3861246657" lat="45.4828648" lon="9.2055596" version="4" timestamp="2025-11-08T23:13:20Z" changeset="174397774" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="43"/>
@@ -18911,7 +18913,6 @@
     <tag k="name" v="Dirienzo"/>
     <tag k="phone" v="+39 02 6694557"/>
     <tag k="shop" v="shoes"/>
-    <tag k="website" v="https://www.dirienzocalzature.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3861246895" lat="45.4817258" lon="9.2038991" version="3" timestamp="2019-09-13T09:36:57Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -21796,18 +21797,6 @@
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Bar Salvini"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="4250033632" lat="45.4717371" lon="9.2020663" version="2" timestamp="2025-07-21T09:18:08Z" changeset="169232185" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:street" v="Corso Venezia"/>
-    <tag k="clothes" v="underwear"/>
-    <tag k="email" v="milano@bisbigli.com"/>
-    <tag k="name" v="Bisbigli"/>
-    <tag k="phone" v="+39 02 76280519"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4250033634" lat="45.4716980" lon="9.2035812" version="4" timestamp="2025-07-21T08:59:47Z" changeset="169231245" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="cafe"/>
@@ -32992,7 +32981,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8576953565" lat="45.4512489" lon="9.1731209" version="4" timestamp="2024-08-26T19:53:33Z" changeset="155800373" uid="10521220" user="sNappy_ml">
+  <node id="8576953565" lat="45.4512309" lon="9.1730544" version="5" timestamp="2025-11-08T17:02:11Z" changeset="174385869" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:postcode" v="20143"/>
@@ -35803,12 +35792,15 @@
     <tag k="wikimedia_commons" v="Category:Palazzo dell'Arte"/>
     <tag k="wikipedia" v="it:Palazzo dell'Arte"/>
   </node>
-  <node id="9561991475" lat="45.4829119" lon="9.2059459" version="3" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
+  <node id="9561991475" lat="45.4829119" lon="9.2059459" version="4" timestamp="2025-11-08T23:53:16Z" changeset="174398564" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="40"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Vitruvio"/>
     <tag k="check_date" v="2024-10-15"/>
+    <tag k="email" v="technoplus.biz@gmail.com"/>
     <tag k="name" v="TechnoPlus"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="phone" v="+39 327 8190000"/>
     <tag k="shop" v="mobile_phone"/>
     <tag k="wheelchair" v="no"/>
@@ -35848,12 +35840,13 @@
     <tag k="website" v="https://terragelato.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9561991482" lat="45.4829414" lon="9.2054179" version="2" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
+  <node id="9561991482" lat="45.4829414" lon="9.2054179" version="3" timestamp="2025-11-08T23:13:20Z" changeset="174397774" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Vitruvio"/>
     <tag k="amenity" v="cafe"/>
     <tag k="check_date" v="2024-10-15"/>
+    <tag k="fixme" v="Verificare se ancora in attività qui"/>
     <tag k="name" v="Fantastic"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 349 7937503"/>
@@ -35869,8 +35862,9 @@
     <tag k="name" v="Hela Chicken"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9561991485" lat="45.4830512" lon="9.2052147" version="2" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
+  <node id="9561991485" lat="45.4830512" lon="9.2052147" version="3" timestamp="2025-11-08T23:13:20Z" changeset="174397774" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="43"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Vitruvio"/>
     <tag k="check_date" v="2024-10-15"/>
@@ -53079,7 +53073,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="329573459" version="5" timestamp="2024-08-25T21:43:57Z" changeset="155756859" uid="10521220" user="sNappy_ml">
-    <center lat="45.4457766" lon="9.1625399"/>
+    <center lat="45.4457655" lon="9.1625410"/>
     <nd ref="3364608993"/>
     <nd ref="3364608994"/>
     <nd ref="3364608995"/>

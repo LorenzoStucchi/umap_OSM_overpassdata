@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-08T03:45:26Z" areas="2025-11-08T01:39:30Z"/>
+<meta osm_base="2025-11-09T03:55:15Z" areas="2025-11-09T00:26:30Z"/>
 
   <node id="251291650" lat="45.4694750" lon="9.1976909" version="13" timestamp="2024-06-27T15:24:27Z" changeset="153253001" uid="3847112" user="YieldMapper">
     <tag k="crossing" v="uncontrolled"/>
@@ -34,6 +34,23 @@
   </node>
   <node id="1009311936" lat="45.4716328" lon="9.1373964" version="6" timestamp="2022-02-14T13:29:50Z" changeset="117393709" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="1432445882" lat="45.4921343" lon="9.1998221" version="9" timestamp="2025-11-08T16:07:13Z" changeset="174383396" uid="13920670" user="skizz98">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="mapillary" v="475288450253635"/>
+    <tag k="survey:date" v="2019-07-07"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1432445885" lat="45.4922977" lon="9.1999433" version="6" timestamp="2025-11-08T16:07:13Z" changeset="174383396" uid="13920670" user="skizz98">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
@@ -209,6 +226,39 @@
   </node>
   <node id="2329385040" lat="45.4275448" lon="9.2523690" version="2" timestamp="2023-01-23T16:04:47Z" changeset="131614240" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2375233350" lat="45.4927006" lon="9.1983257" version="5" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2375233351" lat="45.4927419" lon="9.1984946" version="8" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="mapillary" v="2730278297214292"/>
+    <tag k="survey:date" v="2020-01-05"/>
+    <tag k="tactile_paving" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2375233354" lat="45.4928161" lon="9.1982689" version="6" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="2375233355" lat="45.4928644" lon="9.1984479" version="5" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
@@ -20694,16 +20744,6 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="9552081849" lat="45.4830750" lon="9.1400748" version="1" timestamp="2022-03-03T15:01:00Z" changeset="118059254" uid="8350372" user="Balaabirami">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="flush"/>
-    <tag k="tactile_paving" v="no"/>
-  </node>
-  <node id="9552081850" lat="45.4831375" lon="9.1400809" version="1" timestamp="2022-03-03T15:01:00Z" changeset="118059254" uid="8350372" user="Balaabirami">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="flush"/>
-    <tag k="tactile_paving" v="no"/>
-  </node>
   <node id="9552081854" lat="45.4832448" lon="9.1384027" version="1" timestamp="2022-03-03T15:01:00Z" changeset="118059254" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
@@ -28226,6 +28266,46 @@
     <tag k="tactile_paving" v="no"/>
   </node>
   <node id="9628648772" lat="45.4922094" lon="9.1940273" version="1" timestamp="2022-04-01T10:24:39Z" changeset="119195821" uid="8350372" user="Balaabirami">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9628652648" lat="45.4926905" lon="9.1983511" version="2" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9628652649" lat="45.4927108" lon="9.1982989" version="2" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9628652650" lat="45.4927697" lon="9.1985180" version="2" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9628652651" lat="45.4927154" lon="9.1984723" version="2" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9628652652" lat="45.4928539" lon="9.1984751" version="2" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9628652653" lat="45.4928733" lon="9.1984229" version="2" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9628652654" lat="45.4928448" lon="9.1982884" version="2" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9628652655" lat="45.4927872" lon="9.1982495" version="2" timestamp="2025-11-08T16:10:27Z" changeset="174383555" uid="13920670" user="skizz98">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
@@ -43480,6 +43560,18 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13289285882" lat="45.4922586" lon="9.1997644" version="1" timestamp="2025-11-08T16:07:13Z" changeset="174383396" uid="13920670" user="skizz98">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="13289285883" lat="45.4921644" lon="9.1999837" version="1" timestamp="2025-11-08T16:07:13Z" changeset="174383396" uid="13920670" user="skizz98">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
   </node>
 
 </osm>
