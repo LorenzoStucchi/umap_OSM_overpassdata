@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-14T04:11:54Z" areas="2025-11-13T18:28:16Z"/>
+<meta osm_base="2025-11-15T04:05:08Z" areas="2025-11-14T23:12:24Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5771,11 +5771,13 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Fountain of Piazzale Cimitero Monumentale Milan - 02.jpg"/>
   </node>
-  <node id="1790677540" lat="45.4452536" lon="9.1672980" version="7" timestamp="2025-11-10T17:03:32Z" changeset="174473693" uid="13840929" user="aa30mom">
+  <node id="1790677540" lat="45.4452536" lon="9.1672980" version="8" timestamp="2025-11-14T15:53:49Z" changeset="174654747" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="20143"/>
     <tag k="addr:street" v="Viale Romolo"/>
+    <tag k="brand" v="Libraccio"/>
+    <tag k="brand:wikidata" v="Q116785672"/>
     <tag k="name" v="Libraccio"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-19:30; Su,PH 10:00-13:00,15:00-19:00"/>
     <tag k="second_hand" v="yes"/>
@@ -11920,16 +11922,16 @@
     <tag k="website" v="https://www.saryomilano.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2724178337" lat="45.4820699" lon="9.1875099" version="4" timestamp="2025-01-15T13:00:15Z" changeset="161380143" uid="18828247" user="Dasc3er">
+  <node id="2724178337" lat="45.4820699" lon="9.1875099" version="5" timestamp="2025-11-14T10:15:56Z" changeset="174641345" uid="18828247" user="Dasc3er">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Corso Como"/>
-    <tag k="check_date" v="2025-01-15"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="disused:amenity" v="restaurant"/>
-    <tag k="name" v="Ristorante Pizzeria All'Isola"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2025-11-14"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="Cesarino"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2724213363" lat="45.4818203" lon="9.1871093" version="7" timestamp="2025-10-09T06:10:57Z" changeset="173032761" uid="22858586" user="paf_veglia">
@@ -14961,6 +14963,17 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="3178411564" lat="45.4628946" lon="9.1706462" version="8" timestamp="2025-11-14T06:53:17Z" changeset="174634793" uid="13697350" user="c674a">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="20123"/>
+    <tag k="addr:street" v="Via San Vittore"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3181896934" lat="45.5137917" lon="9.2149071" version="4" timestamp="2019-03-24T13:08:02Z" changeset="68470434" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="8"/>
@@ -17062,7 +17075,7 @@
     <tag k="name" v="Caffé Piazza"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3675019457" lat="45.4781147" lon="9.1880460" version="9" timestamp="2025-11-06T09:35:43Z" changeset="174278041" uid="13840929" user="aa30mom">
+  <node id="3675019457" lat="45.4781147" lon="9.1880460" version="10" timestamp="2025-11-14T15:40:58Z" changeset="174654161" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="25"/>
@@ -17075,7 +17088,7 @@
     <tag k="healthcare" v="pharmacy"/>
     <tag k="mapillary" v="YUv0PwdT2_oz7RjZ51ZHpQ"/>
     <tag k="name" v="Farmacia Milano Solferino"/>
-    <tag k="opening_hours" v="Mo-Sa 08:30–19:30; Su Off"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-19:30; Su off"/>
     <tag k="operator" v="Dott.ssa Miranda Floriana &amp; C."/>
     <tag k="phone" v="+39 02 6555567"/>
     <tag k="ref:msal" v="2928"/>
@@ -21951,10 +21964,11 @@
     <tag k="name" v="Autoscuola Brera"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4294302830" lat="45.4517005" lon="9.1736054" version="6" timestamp="2025-11-06T13:51:40Z" changeset="174289478" uid="13840929" user="aa30mom">
+  <node id="4294302830" lat="45.4517005" lon="9.1736054" version="7" timestamp="2025-11-14T15:54:55Z" changeset="174654799" uid="13840929" user="aa30mom">
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Via Corsico"/>
     <tag k="brand" v="Libraccio"/>
+    <tag k="brand:wikidata" v="Q116785672"/>
     <tag k="entrance" v="yes"/>
     <tag k="name" v="Il Libraccio"/>
     <tag k="opening_hours" v="Mo-Sa 10:00-24:00; PH,Su 10:00-13:00,15:00-19:00"/>
@@ -39412,10 +39426,6 @@
     <tag k="vending" v="public_transport_tickets"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10316507406" lat="45.4283169" lon="9.2223104" version="2" timestamp="2025-05-20T12:14:04Z" changeset="166521698" uid="17843669" user="DomKor">
-    <tag k="barrier" v="kerb"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="10536755533" lat="45.4762039" lon="9.2049555" version="4" timestamp="2024-05-23T19:40:24Z" changeset="151740672" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
@@ -46376,18 +46386,17 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13284827173" lat="45.4880950" lon="9.1964669" version="1" timestamp="2025-11-06T09:51:51Z" changeset="174278724" uid="13840929" user="aa30mom">
+  <node id="13284827173" lat="45.4880950" lon="9.1964669" version="2" timestamp="2025-11-14T14:14:50Z" changeset="174650331" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Luigi Galvani"/>
     <tag k="amenity" v="fuel"/>
-    <tag k="brand" v="Agip Eni"/>
+    <tag k="brand" v="Eni"/>
     <tag k="brand:wikidata" v="Q565594"/>
     <tag k="fuel:diesel" v="yes"/>
     <tag k="fuel:octane_95" v="yes"/>
-    <tag k="name" v="52106 MILANO"/>
     <tag k="operator" v="Enimoov S.p.a."/>
     <tag k="ref:mise" v="61580"/>
     <tag k="wheelchair" v="yes"/>
