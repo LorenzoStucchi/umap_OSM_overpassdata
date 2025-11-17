@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-16T04:13:59Z" areas="2025-11-15T23:50:21Z"/>
+<meta osm_base="2025-11-17T04:14:29Z" areas="2025-11-16T22:20:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1585,7 +1585,7 @@
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="316535190" lat="45.4750748" lon="9.1867322" version="11" timestamp="2021-11-04T01:20:44Z" changeset="113354059" uid="11645399" user="davidoskky">
+  <node id="316535190" lat="45.4751773" lon="9.1866733" version="12" timestamp="2025-11-16T16:36:43Z" changeset="174735701" uid="13697350" user="c674a">
     <tag k="amenity" v="bicycle_rental"/>
     <tag k="brand" v="BikeMi"/>
     <tag k="brand:wikidata" v="Q2902552"/>
@@ -1595,6 +1595,7 @@
     <tag k="name" v="Treves"/>
     <tag k="network" v="BikeMi"/>
     <tag k="operator" v="Clear Channel"/>
+    <tag k="operator:type" v="private"/>
     <tag k="payment:credit_cards" v="no"/>
     <tag k="ref" v="62"/>
     <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
@@ -2428,7 +2429,7 @@
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="464814775" lat="45.4395888" lon="9.1541822" version="3" timestamp="2023-04-08T21:25:59Z" changeset="134668670" uid="8634948" user="cuginogionata">
+  <node id="464814775" lat="45.4396034" lon="9.1541862" version="4" timestamp="2025-11-16T16:13:18Z" changeset="174734718" uid="13840929" user="aa30mom">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian"/>
     <tag k="name" v="Il Diamante 2 - Ristorante Grill Pizzeria"/>
@@ -14278,11 +14279,6 @@
     <tag k="shop" v="fabric"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3042197612" lat="45.4627435" lon="9.2063863" version="3" timestamp="2025-08-06T15:59:48Z" changeset="170066476" uid="13840929" user="aa30mom">
-    <tag k="amenity" v="bank"/>
-    <tag k="name" v="UBI Banca Popolare di Bergamo"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="3043825353" lat="45.4649799" lon="9.0952483" version="6" timestamp="2025-10-11T09:17:51Z" changeset="173127723" uid="13697350" user="c674a">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
@@ -15720,23 +15716,23 @@
     <tag k="tourism" v="artwork"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3308385078" lat="45.4758837" lon="9.1949048" version="6" timestamp="2025-03-01T17:39:37Z" changeset="163096954" uid="8772934" user="mapperich">
+  <node id="3308385078" lat="45.4758837" lon="9.1949048" version="7" timestamp="2025-11-16T16:13:04Z" changeset="174734709" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Filippo Turati"/>
     <tag k="amenity" v="bank"/>
-    <tag k="brand" v="Banca Popolare di Milano"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Banco BPM"/>
     <tag k="brand:en" v="Popular Bank of Milan"/>
     <tag k="brand:it" v="Banca Popolare di Milano"/>
-    <tag k="brand:wikidata" v="Q806154"/>
+    <tag k="brand:wikidata" v="Q27331643"/>
     <tag k="brand:wikipedia" v="en:Banca Popolare di Milano"/>
     <tag k="check_date" v="2025-03-01"/>
+    <tag k="drive_through" v="no"/>
     <tag k="fax" v="+39 02 29005526"/>
-    <tag k="name" v="Banca Popolare di Milano"/>
-    <tag k="name:en" v="Popular Bank of Milan"/>
-    <tag k="name:it" v="Banca Popolare di Milano"/>
+    <tag k="name" v="Banco BPM"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-13:30,14:45-15:45"/>
     <tag k="phone" v="+39 02 29005362"/>
     <tag k="wheelchair" v="no"/>
@@ -20479,15 +20475,6 @@
     <tag k="opening_hours" v="Mo-Sa 09:30-13:00,15:00-19:30 &quot;summer&quot;; PH closed"/>
     <tag k="shop" v="electronics"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="4077891098" lat="45.4756694" lon="9.1963682" version="3" timestamp="2025-07-15T10:04:00Z" changeset="168956599" uid="290680" user="wheelmap_visitor">
-    <tag k="amenity" v="police"/>
-    <tag k="name" v="Comando Nucleo Carabinieri NAS e Sanità"/>
-    <tag k="operator" v="Arma dei Carabinieri"/>
-    <tag k="operator:short" v="Carabinieri"/>
-    <tag k="operator:wikidata" v="Q54852"/>
-    <tag k="operator:wikipedia" v="it:Arma dei Carabinieri"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4086820412" lat="45.4756052" lon="9.1972584" version="3" timestamp="2025-07-15T09:56:48Z" changeset="168956097" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="bar"/>
@@ -37640,7 +37627,7 @@
     <tag k="wikimedia_commons" v="Category:Cadorna station (Milan metro)"/>
     <tag k="wikipedia" v="it:Cadorna FN (metropolitana di Milano)"/>
   </node>
-  <node id="9887508379" lat="45.4681452" lon="9.1771272" version="3" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9887508379" lat="45.4681452" lon="9.1771272" version="4" timestamp="2025-11-16T08:36:04Z" changeset="174716502" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Cadorna FN"/>
     <tag k="name:it" v="Cadorna FN"/>
@@ -37648,10 +37635,13 @@
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1978"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2258101"/>
     <tag k="wikipedia" v="it:Cadorna FN (metropolitana di Milano)"/>
@@ -43376,6 +43366,17 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11766700897" lat="45.4764053" lon="9.1919617" version="2" timestamp="2025-11-16T16:10:59Z" changeset="174734639" uid="13697350" user="c674a">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="22"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via della Moscova"/>
+    <tag k="healthcare" v="sample_collection"/>
+    <tag k="healthcare:speciality" v="blood_check"/>
+    <tag k="name" v="Cerba Health Care"/>
+    <tag k="website" v="https://www.cerbahealthcare.it/sedi/milano-via-della-moscova-22/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="11773899781" lat="45.4840707" lon="9.2007106" version="3" timestamp="2025-01-11T17:41:48Z" changeset="161248267" uid="18306404" user="over_the_edge">
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Via Giovanni Battista Pirelli"/>
@@ -43436,9 +43437,11 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="11793300840" lat="45.4486334" lon="9.1892999" version="1" timestamp="2024-04-05T15:05:08Z" changeset="149619646" uid="21269690" user="giulio_the_mapper">
+  <node id="11793300840" lat="45.4486334" lon="9.1892999" version="2" timestamp="2025-11-16T14:11:13Z" changeset="174729145" uid="13697350" user="c674a">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11830065473" lat="45.4593029" lon="9.2065545" version="2" timestamp="2025-07-04T14:32:21Z" changeset="168488533" uid="13840929" user="aa30mom">
@@ -46425,6 +46428,31 @@
     <tag k="barrier" v="swing_gate"/>
     <tag k="locked" v="yes"/>
     <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13288277084" lat="45.5146827" lon="9.2143467" version="3" timestamp="2025-11-16T09:57:11Z" changeset="174718882" uid="22242779" user="notmyproblem1">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="9/B"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Piazzale Egeo"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="alcohol" v="yes"/>
+    <tag k="building:levels" v="0"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="email" v="minimartplus.italia@gmail.com"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="MINIMART+"/>
+    <tag k="operator" v="PLUS LAB SRLS"/>
+    <tag k="organic" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="ref:vatin" v="IT13977490963"/>
+    <tag k="second_hand" v="no"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="start_date" v="2024-05"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="13290392039" lat="45.4576494" lon="9.2552069" version="1" timestamp="2025-11-09T09:40:12Z" changeset="174408406" uid="13697350" user="c674a">
@@ -49596,7 +49624,7 @@
     <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-viale-jenner-milano.jen.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="135701873" version="7" timestamp="2025-08-22T23:54:38Z" changeset="170855538" uid="13697350" user="c674a">
+  <way id="135701873" version="8" timestamp="2025-11-16T14:11:13Z" changeset="174729145" uid="13697350" user="c674a">
     <center lat="45.4496913" lon="9.1886094"/>
     <nd ref="1489971850"/>
     <nd ref="4048812291"/>
@@ -49615,10 +49643,14 @@
     <nd ref="1489971862"/>
     <nd ref="1489971853"/>
     <nd ref="1489971850"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="20136"/>
+    <tag k="addr:street" v="Piazza Angelo Sraffa"/>
     <tag k="building" v="university"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Sportello Unico"/>
+    <tag k="name" v="B in Touch Point"/>
     <tag k="office" v="university"/>
     <tag k="wheelchair" v="yes"/>
   </way>
