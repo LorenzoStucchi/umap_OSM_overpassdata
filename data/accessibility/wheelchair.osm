@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-22T04:02:18Z" areas="2025-11-21T22:46:56Z"/>
+<meta osm_base="2025-11-23T04:23:22Z" areas="2025-11-22T21:30:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2255,16 +2255,19 @@
     <tag k="operator" v="Fineco"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="441109563" lat="45.5055437" lon="9.1795675" version="15" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="441109563" lat="45.5055437" lon="9.1795675" version="16" timestamp="2025-11-22T19:37:18Z" changeset="175002846" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Dergano"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2011-03-26"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088220"/>
     <tag k="wikipedia" v="it:Dergano (metropolitana di Milano)"/>
@@ -4653,7 +4656,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1600010817" lat="45.4730888" lon="9.1951890" version="8" timestamp="2024-06-26T16:36:25Z" changeset="153211933" uid="9451067" user="b-jazz-bot">
+  <node id="1600010817" lat="45.4730888" lon="9.1951890" version="9" timestamp="2025-11-22T19:37:18Z" changeset="175002846" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
@@ -4663,7 +4666,7 @@
     <tag k="dispensing" v="yes"/>
     <tag k="email" v="farmaciacomotti@libero.it"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Comotti"/>
+    <tag k="name" v="Farmacia Comotti"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-13:30,15:30-19:30"/>
     <tag k="operator" v="Comotti"/>
     <tag k="phone" v="+39 02 6552601"/>
@@ -6226,14 +6229,14 @@
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1855655331" lat="45.4738409" lon="9.1947193" version="7" timestamp="2025-10-27T07:37:45Z" changeset="173824265" uid="22858586" user="paf_veglia">
+  <node id="1855655331" lat="45.4738409" lon="9.1947193" version="8" timestamp="2025-11-22T19:37:18Z" changeset="175002846" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Filippo Turati"/>
     <tag k="brand" v="Kartell"/>
-    <tag k="brand:wikidata" v="Q97177591"/>
+    <tag k="brand:wikidata" v="Q2262005"/>
     <tag k="brand:wikipedia" v="de:Kartell (Design)"/>
     <tag k="check_date" v="2025-10-27"/>
     <tag k="name" v="Kartell"/>
@@ -6824,7 +6827,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1992077978" lat="45.4890834" lon="9.1908414" version="6" timestamp="2025-09-02T05:55:54Z" changeset="171343571" uid="22858586" user="paf_veglia">
+  <node id="1992077978" lat="45.4890834" lon="9.1908414" version="7" timestamp="2025-11-22T14:19:58Z" changeset="174990279" uid="13697350" user="c674a">
     <tag k="amenity" v="bicycle_rental"/>
     <tag k="brand" v="BikeMi"/>
     <tag k="brand:wikidata" v="Q2902552"/>
@@ -6835,6 +6838,7 @@
     <tag k="name" v="Lagosta"/>
     <tag k="network" v="BikeMi"/>
     <tag k="operator" v="Clear Channel"/>
+    <tag k="operator:type" v="private"/>
     <tag k="payment:credit_cards" v="no"/>
     <tag k="ref" v="196"/>
     <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
@@ -7501,11 +7505,12 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2131451010" lat="45.4708007" lon="9.2009800" version="4" timestamp="2025-07-15T09:50:19Z" changeset="168955628" uid="290680" user="wheelmap_visitor">
+  <node id="2131451010" lat="45.4708007" lon="9.2009800" version="5" timestamp="2025-11-22T19:37:18Z" changeset="175002846" uid="13697350" user="c674a">
     <tag k="government" v="transportation"/>
     <tag k="name" v="Automobile Club d'Italia"/>
     <tag k="office" v="government"/>
     <tag k="operator" v="Automobile Club d'Italia"/>
+    <tag k="operator:short" v="ACI"/>
     <tag k="operator:wikidata" v="Q3630538"/>
     <tag k="short_name" v="ACI"/>
     <tag k="wheelchair" v="yes"/>
@@ -7697,19 +7702,21 @@
     <tag k="website" v="https://www.miriade.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2159413081" lat="45.4608716" lon="9.1810916" version="8" timestamp="2025-06-09T04:42:55Z" changeset="167377834" uid="12986689" user="Rivacruza9000">
+  <node id="2159413081" lat="45.4606852" lon="9.1811069" version="9" timestamp="2025-11-22T17:18:55Z" changeset="174998139" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Medici"/>
-    <tag k="contact:phone" v="+39 02 36582720"/>
+    <tag k="brand" v="Ostello Bello"/>
+    <tag k="brand:wikidata" v="Q130537992"/>
     <tag k="email" v="booking@ostellobello.com"/>
+    <tag k="guest_house" v="hostel"/>
     <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Ostello Bello"/>
-    <tag k="phone" v="+390236582720"/>
+    <tag k="phone" v="+39 02 365 827 20"/>
     <tag k="tourism" v="hostel"/>
-    <tag k="url" v="http://www.ostellobello.com"/>
     <tag k="website" v="https://ostellobello.com/en/hostel/milan-duomo/"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q111123698"/>
@@ -20855,14 +20862,16 @@
     <tag k="name" v="Waiting Bar"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4142387095" lat="45.4927358" lon="9.1847012" version="2" timestamp="2019-09-13T15:05:24Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="4142387095" lat="45.4927358" lon="9.1847012" version="3" timestamp="2025-11-22T19:37:18Z" changeset="175002846" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Carlo Farini"/>
+    <tag k="brand" v="Swarovski"/>
+    <tag k="brand:wikidata" v="Q611115"/>
     <tag k="name" v="Swarovski"/>
-    <tag k="shop" v="gift"/>
+    <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4142387314" lat="45.4916857" lon="9.1842499" version="2" timestamp="2019-09-13T15:02:51Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -25836,12 +25845,13 @@
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4953161480" lat="45.4153590" lon="9.1801948" version="4" timestamp="2025-07-19T17:50:57Z" changeset="169164139" uid="22919632" user="matteobott">
+  <node id="4953161480" lat="45.4153590" lon="9.1801948" version="5" timestamp="2025-11-22T17:38:17Z" changeset="174998858" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="no"/>
-    <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator" v="MM S.p.A."/>
     <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
     <tag k="wheelchair" v="yes"/>
@@ -34349,10 +34359,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9084053194" lat="45.4731924" lon="9.2012712" version="3" timestamp="2025-06-04T06:41:55Z" changeset="167162578" uid="20200901" user="fledermausis">
+  <node id="9084053194" lat="45.4731924" lon="9.2012712" version="4" timestamp="2025-11-22T19:37:18Z" changeset="175002846" uid="13697350" user="c674a">
+    <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
     <tag k="fee" v="no"/>
-    <tag k="name" v="WC chimico"/>
+    <tag k="toilets:disposal" v="chemical"/>
+    <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9085880019" lat="45.5279796" lon="9.2149923" version="6" timestamp="2025-09-30T18:39:35Z" changeset="172674430" uid="22858586" user="paf_veglia">
@@ -36961,7 +36974,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9836271854" lat="45.4746191" lon="9.1947419" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9836271854" lat="45.4746191" lon="9.1947419" version="3" timestamp="2025-11-22T19:37:18Z" changeset="175002846" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Turati"/>
     <tag k="name:it" v="Turati"/>
@@ -36969,15 +36982,18 @@
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1990"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2259340"/>
     <tag k="wikipedia" v="it:Turati (metropolitana di Milano)"/>
   </node>
-  <node id="9836271855" lat="45.4700892" lon="9.1927671" version="4" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9836271855" lat="45.4700892" lon="9.1927671" version="5" timestamp="2025-11-22T17:51:24Z" changeset="174999376" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Montenapoleone"/>
     <tag k="name:it" v="Montenapoleone"/>
@@ -36985,16 +37001,18 @@
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1990"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2258690"/>
     <tag k="wikipedia" v="it:Montenapoleone (metropolitana di Milano)"/>
   </node>
-  <node id="9836271858" lat="45.4794372" lon="9.1979411" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9836271858" lat="45.4794372" lon="9.1979411" version="3" timestamp="2025-11-22T17:51:24Z" changeset="174999376" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Repubblica"/>
     <tag k="name:it" v="Repubblica"/>
@@ -37002,25 +37020,31 @@
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="platforms" v="2"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1990"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2258319"/>
     <tag k="wikipedia" v="it:Repubblica (metropolitana di Milano)"/>
   </node>
-  <node id="9836271862" lat="45.4976899" lon="9.1850263" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9836271862" lat="45.4976899" lon="9.1850263" version="3" timestamp="2025-11-22T14:19:58Z" changeset="174990279" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Maciachini"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2003"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088228"/>
     <tag k="wikipedia" v="it:Maciachini (metropolitana di Milano)"/>
@@ -37039,16 +37063,19 @@
     <tag k="wikidata" v="Q1088305"/>
     <tag k="wikipedia" v="it:Zara (metropolitana di Milano)"/>
   </node>
-  <node id="9836271867" lat="45.4925839" lon="9.1928456" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9836271867" lat="45.4925839" lon="9.1928456" version="3" timestamp="2025-11-22T14:19:58Z" changeset="174990279" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Zara"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1995"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088305"/>
     <tag k="wikipedia" v="it:Zara (metropolitana di Milano)"/>
@@ -37741,7 +37768,7 @@
     <tag k="wikimedia_commons" v="Category:Lanza station (Milan metro)"/>
     <tag k="wikipedia" v="it:Lanza (metropolitana di Milano)"/>
   </node>
-  <node id="9887508384" lat="45.4770858" lon="9.1843685" version="4" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9887508384" lat="45.4770858" lon="9.1843685" version="5" timestamp="2025-11-22T15:31:28Z" changeset="174993384" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Moscova"/>
     <tag k="name:it" v="Moscova"/>
@@ -37754,6 +37781,8 @@
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1978"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1087114"/>
     <tag k="wikimedia_commons" v="Category:Moscova station (Milan metro)"/>
@@ -45615,6 +45644,10 @@
     <tag k="website:menu" v="https://drive.google.com/drive/folders/11Of-qhBF8LpAX_3TUe1OUo-W3G299DqM"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12878763901" lat="45.4715952" lon="9.1894984" version="2" timestamp="2025-11-22T15:33:56Z" changeset="174993485" uid="13697350" user="c674a">
+    <tag k="amenity" v="toilets"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="12886223398" lat="45.4728327" lon="9.1948937" version="3" timestamp="2025-07-15T09:44:33Z" changeset="168955238" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
@@ -46190,7 +46223,7 @@
     <tag k="website" v="https://www.acasadirucci.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13013648152" lat="45.4176012" lon="9.1791273" version="1" timestamp="2025-07-20T14:15:09Z" changeset="169198675" uid="22919632" user="matteobott">
+  <node id="13013648152" lat="45.4176012" lon="9.1791273" version="2" timestamp="2025-11-22T17:38:56Z" changeset="174998880" uid="22919632" user="matteobott">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="20142"/>
@@ -46199,6 +46232,7 @@
     <tag k="email" v="css.andromeda@progettopersonaonlus.it"/>
     <tag k="name" v="Comunità Socio Sanitaria &quot;Andromeda&quot;"/>
     <tag k="operator" v="Progetto Persona"/>
+    <tag k="social_facility" v="group_home"/>
     <tag k="start_date" v="2023"/>
     <tag k="website" v="https://www.progettopersonaonlus.it/servizi/servizi-residenziali/comunita-socio-sanitaria/c-s-s-andromeda/"/>
     <tag k="wheelchair" v="yes"/>
@@ -50063,19 +50097,22 @@
     <tag k="wikidata" v="Q19721615"/>
     <tag k="wikipedia" v="it:Chiesa di San Luigi Gonzaga (Milano)"/>
   </way>
-  <way id="136498427" version="7" timestamp="2024-12-18T15:30:36Z" changeset="160356063" uid="22162662" user="Lukewarm pizza">
-    <center lat="45.4403305" lon="9.1500803"/>
+  <way id="136498427" version="8" timestamp="2025-11-22T17:04:49Z" changeset="174997554" uid="13840929" user="aa30mom">
+    <center lat="45.4403273" lon="9.1500812"/>
     <nd ref="1497258415"/>
     <nd ref="9489978609"/>
     <nd ref="1497258413"/>
     <nd ref="1497258414"/>
     <nd ref="1497258411"/>
+    <nd ref="13324577381"/>
     <nd ref="1497258409"/>
     <nd ref="1497258408"/>
     <nd ref="1497258407"/>
     <nd ref="1497258403"/>
     <nd ref="1497258404"/>
+    <nd ref="13324577380"/>
     <nd ref="1497258401"/>
+    <nd ref="13324577379"/>
     <nd ref="1497258399"/>
     <nd ref="1497258394"/>
     <nd ref="1497258391"/>
@@ -50104,9 +50141,11 @@
     <nd ref="1497258366"/>
     <nd ref="1497258384"/>
     <nd ref="1497258385"/>
+    <nd ref="13324577377"/>
     <nd ref="1497258387"/>
     <nd ref="1497258386"/>
     <nd ref="1497258388"/>
+    <nd ref="13324577376"/>
     <nd ref="1497258389"/>
     <nd ref="1497258390"/>
     <nd ref="1497258392"/>
