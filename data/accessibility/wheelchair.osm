@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-07T04:23:06Z" areas="2025-12-07T01:29:39Z"/>
+<meta osm_base="2025-12-08T04:20:29Z" areas="2025-12-07T21:04:43Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -167,6 +167,21 @@
     <tag k="ref:mise" v="15890"/>
     <tag k="source" v="MISE - Ministero Sviluppo Economico"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="227640026" lat="45.4089691" lon="9.1749225" version="8" timestamp="2025-12-07T14:08:58Z" changeset="175625274" uid="22919632" user="matteobott">
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Vega Carburanti"/>
+    <tag k="brand:wikidata" v="Q66087902"/>
+    <tag k="fuel:cng" v="yes"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="Vega"/>
+    <tag k="operator" v="Vega Carburanti S.p.A."/>
+    <tag k="ref:mise" v="37696"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="source" v="survey"/>
+    <tag k="toilets" v="no"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="227644396" lat="45.5030589" lon="9.1643759" version="12" timestamp="2021-02-16T18:37:18Z" changeset="99400154" uid="89897" user="airon90">
     <tag k="amenity" v="fuel"/>
@@ -1754,7 +1769,7 @@
     <tag k="official_name:it" v="Banca Nazionale del Lavoro"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="358878169" lat="45.4852296" lon="9.2104334" version="6" timestamp="2023-02-06T17:23:10Z" changeset="132167385" uid="1875845" user="Valerio_Bozzolan">
+  <node id="358878169" lat="45.4852296" lon="9.2104334" version="7" timestamp="2025-12-07T12:54:56Z" changeset="175622012" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="20"/>
@@ -1762,7 +1777,9 @@
     <tag k="addr:street" v="Via Giovanni Battista Pergolesi"/>
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="name" v="Banco di Desio"/>
+    <tag k="brand" v="Banco Desio"/>
+    <tag k="brand:wikidata" v="Q3633825"/>
+    <tag k="name" v="Banco Desio"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="358879006" lat="45.4875815" lon="9.1983633" version="5" timestamp="2025-05-09T16:55:51Z" changeset="166037612" uid="1875845" user="Valerio_Bozzolan">
@@ -3087,7 +3104,7 @@
     <tag k="website" v="https://www.larocchettacaffe.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="761254859" lat="45.4832473" lon="9.2142925" version="6" timestamp="2023-02-06T17:21:36Z" changeset="132167385" uid="1875845" user="Valerio_Bozzolan">
+  <node id="761254859" lat="45.4832473" lon="9.2142925" version="7" timestamp="2025-12-07T12:54:56Z" changeset="175622012" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20131"/>
@@ -3095,7 +3112,7 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Mazzoleni snc"/>
+    <tag k="name" v="Farmacia Mazzoleni"/>
     <tag k="operator" v="Mazzoleni snc"/>
     <tag k="ref:msal" v="2643"/>
     <tag k="ref:vatin" v="IT01032660159"/>
@@ -4561,7 +4578,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1583651468" lat="45.4816088" lon="9.1970265" version="6" timestamp="2022-01-25T13:53:29Z" changeset="116586701" uid="13840929" user="aa30mom">
+  <node id="1583651468" lat="45.4816088" lon="9.1970265" version="7" timestamp="2025-12-07T12:54:56Z" changeset="175622012" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
@@ -4570,7 +4587,7 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Galileo snc"/>
+    <tag k="name" v="Farmacia Galileo"/>
     <tag k="operator" v="Galileo snc"/>
     <tag k="ref:msal" v="2930"/>
     <tag k="ref:vatin" v="IT11632930159"/>
@@ -5105,7 +5122,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1675597925" lat="45.4623980" lon="9.2078194" version="6" timestamp="2022-06-19T09:46:14Z" changeset="122572707" uid="1875845" user="Valerio_Bozzolan">
+  <node id="1675597925" lat="45.4623980" lon="9.2078194" version="7" timestamp="2025-12-07T15:31:03Z" changeset="175628666" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="20129"/>
@@ -5113,7 +5130,7 @@
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Cinque Giornate snc"/>
+    <tag k="name" v="Farmacia Cinque Giornate"/>
     <tag k="operator" v="Cinque Giornate snc"/>
     <tag k="ref:msal" v="2606"/>
     <tag k="ref:vatin" v="IT07111920968"/>
@@ -5710,15 +5727,6 @@
     <tag k="wikimedia_commons" v="Category:Last Supper by Leonardo da Vinci"/>
     <tag k="wikipedia" v="en:The Last Supper (Leonardo)"/>
   </node>
-  <node id="1769318208" lat="45.4852449" lon="9.1889315" version="5" timestamp="2025-10-08T06:04:39Z" changeset="172986800" uid="22858586" user="paf_veglia">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="6a"/>
-    <tag k="addr:street" v="Via Gaetano De Castillia"/>
-    <tag k="check_date" v="2025-10-08"/>
-    <tag k="name" v="Maire Tecnimont"/>
-    <tag k="office" v="company"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="1771383950" lat="45.5043176" lon="9.1720578" version="4" timestamp="2024-09-09T11:12:31Z" changeset="156389368" uid="21935859" user="IMMdesignlab">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -5933,7 +5941,7 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1832528981" lat="45.4686668" lon="9.1823737" version="13" timestamp="2025-12-06T12:31:57Z" changeset="175583867" uid="393359" user="Robot8A">
+  <node id="1832528981" lat="45.4686668" lon="9.1823737" version="14" timestamp="2025-12-07T18:59:55Z" changeset="175636205" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="74/76"/>
@@ -5962,7 +5970,7 @@
     <tag k="service:bicycle:second_hand" v="yes"/>
     <tag k="service:bicycle:service" v="yes"/>
     <tag k="shop" v="sports"/>
-    <tag k="sport" v="fitness;climbing;basketball;swimming;soccer;yoga;tennis;gymnastics;volleyball;cycling;running;beachvolleyball"/>
+    <tag k="sport" v="fitness;climbing;basketball;swimming;soccer;yoga;tennis;gymnastics;volleyball;cycling;running;beachvolleyball;table_tennis;skiing;padel"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -7290,7 +7298,7 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2104097109" lat="45.4935045" lon="9.1847219" version="5" timestamp="2025-09-05T06:31:51Z" changeset="171481061" uid="22858586" user="paf_veglia">
+  <node id="2104097109" lat="45.4935045" lon="9.1847219" version="6" timestamp="2025-12-07T10:07:34Z" changeset="175615988" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="69"/>
     <tag k="addr:postcode" v="20159"/>
@@ -7299,7 +7307,7 @@
     <tag k="check_date" v="2025-09-04"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Maccioni"/>
+    <tag k="name" v="Farmacia Maccioni"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-19:30; Sa 09:00-13:00,15:00-19:00"/>
     <tag k="operator" v="Patrizia Maccioni E Catia Maccioni"/>
     <tag k="ref:msal" v="2994"/>
@@ -12941,7 +12949,7 @@
     <tag k="website" v="https://www.grandvision.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2981774550" lat="45.4667628" lon="9.1839498" version="7" timestamp="2025-07-08T12:47:27Z" changeset="168648572" uid="13840929" user="aa30mom">
+  <node id="2981774550" lat="45.4667628" lon="9.1839498" version="8" timestamp="2025-12-07T18:59:55Z" changeset="175636205" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="11n01"/>
@@ -12952,6 +12960,7 @@
     <tag k="email" v="milanosede@bancadiimola.it"/>
     <tag k="fax" v="+39 02 72095493"/>
     <tag k="name" v="La Cassa di Ravenna"/>
+    <tag k="operator" v="Cassa di Risparmio di Ravenna"/>
     <tag k="phone" v="+39 02 8858531"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -14325,7 +14334,7 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3046761913" lat="45.4575648" lon="9.1758214" version="8" timestamp="2025-10-07T14:39:27Z" changeset="172962755" uid="13840929" user="aa30mom">
+  <node id="3046761913" lat="45.4575648" lon="9.1758214" version="9" timestamp="2025-12-07T22:05:09Z" changeset="175641812" uid="393359" user="Robot8A">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="14n04"/>
@@ -14335,11 +14344,10 @@
     <tag k="brand:wikidata" v="Q1027874"/>
     <tag k="brand:wikipedia" v="en:Calzedonia"/>
     <tag k="clothes" v="underwear"/>
-    <tag k="contact:phone" v="+39 02 89406332"/>
     <tag k="name" v="Calzedonia"/>
     <tag k="opening_hours" v="Mo 11:00-19:00; Tu-Sa 10:00-19:30; Su 11:00-13:00, 15:00-19:00"/>
     <tag k="operator" v="Radu srl"/>
-    <tag k="phone" v="+390289406332"/>
+    <tag k="phone" v="+39 02 8940 6332"/>
     <tag k="ref:vatin" v="IT07306910964"/>
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://www.calzedonia.com/it/negozi/lombardia/milano/milano_corso_genova_14/CG90.html"/>
@@ -16100,7 +16108,7 @@
     <tag k="website" v="http://www.laquiladoro.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3404415852" lat="45.4582576" lon="9.1772601" version="7" timestamp="2025-10-24T15:13:57Z" changeset="173723157" uid="13840929" user="aa30mom">
+  <node id="3404415852" lat="45.4582576" lon="9.1772601" version="8" timestamp="2025-12-07T22:05:09Z" changeset="175641812" uid="393359" user="Robot8A">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20123"/>
@@ -16108,11 +16116,10 @@
     <tag k="brand" v="KIKO Milano"/>
     <tag k="brand:wikidata" v="Q3812045"/>
     <tag k="chemist" v="cosmetics"/>
-    <tag k="contact:phone" v="+39 02 8361175"/>
     <tag k="name" v="KIKO Milano"/>
     <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="operator" v="Kiko spa"/>
-    <tag k="phone" v="+39028361175"/>
+    <tag k="phone" v="+39 02 836 1175"/>
     <tag k="ref:vatin" v="IT02817030162"/>
     <tag k="shop" v="cosmetics"/>
     <tag k="website" v="https://kiko-stores.kikocosmetics.com/it-it/italia/lombardia/milano/milano-corso-genova-3"/>
@@ -19869,7 +19876,7 @@
     <tag k="website" v="https://www.motoesport.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3935647345" lat="45.4835188" lon="9.1877146" version="7" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="3935647345" lat="45.4835188" lon="9.1877146" version="8" timestamp="2025-12-07T10:07:34Z" changeset="175615988" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Garibaldi FS"/>
     <tag k="name:it" v="Garibaldi FS"/>
@@ -19883,6 +19890,8 @@
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1971"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087026"/>
     <tag k="wikipedia" v="it:Garibaldi FS (metropolitana di Milano)"/>
@@ -20394,17 +20403,6 @@
     <tag k="cuisine" v="burger"/>
     <tag k="name" v="New Wood"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="4028219023" lat="45.4823995" lon="9.1933805" version="3" timestamp="2019-09-13T12:57:56Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Piazza Alvar Aalto"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="mexican"/>
-    <tag k="level" v="1"/>
-    <tag k="name" v="Bésame Mucho"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4028219146" lat="45.4820111" lon="9.1928663" version="4" timestamp="2019-09-13T12:58:02Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -24208,7 +24206,7 @@
     <tag k="shop" v="pet"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4572043280" lat="45.4910130" lon="9.1856719" version="5" timestamp="2024-08-13T12:07:47Z" changeset="155192495" uid="6520581" user="pfez">
+  <node id="4572043280" lat="45.4910130" lon="9.1856719" version="6" timestamp="2025-12-07T10:07:34Z" changeset="175615988" uid="13697350" user="c674a">
     <tag k="amenity" v="bicycle_rental"/>
     <tag k="bicycle_rental" v="docking_station"/>
     <tag k="brand" v="BikeMi"/>
@@ -24219,6 +24217,7 @@
     <tag k="name" v="Alserio - Cola"/>
     <tag k="network" v="BikeMi"/>
     <tag k="operator" v="Clear Channel"/>
+    <tag k="operator:type" v="private"/>
     <tag k="payment:credit_cards" v="no"/>
     <tag k="ref" v="317"/>
     <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
@@ -32308,14 +32307,6 @@
     <tag k="website" v="https://pizzalandia-milano.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="7319322676" lat="45.4819305" lon="9.1959771" version="2" timestamp="2023-03-12T08:55:19Z" changeset="133577944" uid="11220113" user="ivanbranco">
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="drinking_water"/>
-    <tag k="bottle" v="yes"/>
-    <tag k="fee" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikimedia_commons" v="File:Fountain of Via Vincenzo Viviani Milan.jpg"/>
-  </node>
   <node id="7346592475" lat="45.4775715" lon="9.2118451" version="4" timestamp="2025-07-15T09:28:32Z" changeset="168954085" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="drinking_water"/>
     <tag k="check_date" v="2023-11-24"/>
@@ -33031,8 +33022,10 @@
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8440349199" lat="45.4675849" lon="9.1775644" version="2" timestamp="2025-07-15T09:51:54Z" changeset="168955730" uid="290680" user="wheelmap_visitor">
+  <node id="8440349199" lat="45.4675849" lon="9.1775644" version="3" timestamp="2025-12-07T18:59:55Z" changeset="175636205" uid="13697350" user="c674a">
     <tag k="amenity" v="charging_station"/>
+    <tag k="operator" v="a2a"/>
+    <tag k="operator:wikidata" v="Q279978"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8450317025" lat="45.5221438" lon="9.2159994" version="2" timestamp="2022-07-12T09:21:59Z" changeset="123510403" uid="89897" user="airon90">
@@ -35717,7 +35710,7 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wheelchair:description" v="Very nice hotel with a large swimming pool and good food. Large, accessible rooms with even showers and toilets for handicapped people. Quiet environment."/>
   </node>
-  <node id="9516560849" lat="45.4349161" lon="9.2279117" version="3" timestamp="2023-08-17T11:25:59Z" changeset="140008011" uid="3199858" user="Mateusz Konieczny - bot account">
+  <node id="9516560849" lat="45.4349161" lon="9.2279117" version="4" timestamp="2025-12-07T14:45:24Z" changeset="175626892" uid="23562518" user="Bearclaw1995">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="20139"/>
@@ -35725,7 +35718,7 @@
     <tag k="alt_name" v="C.I.Q."/>
     <tag k="amenity" v="community_centre"/>
     <tag k="description" v="Il Centro Internazionale di Quartiere (C.I.Q.) è un progetto dell’associazione socio-culturale Sunugal, che si occupa di co-sviluppo tra Italia e Senegal, promozione sociale e intercultura, e della Cooperativa Sociale Fate Artigiane. Le due associazioni h"/>
-    <tag k="name" v="Centro internazionale di quartiere"/>
+    <tag k="name" v="C.I.Q. – Centro Internazionale di Quartiere"/>
     <tag k="name:en" v="International community centre"/>
     <tag k="name:fr" v="Centre international de quartier"/>
     <tag k="opening_hours" v="Mo-Su 10:00-00:00"/>
@@ -37489,7 +37482,7 @@
     <tag k="wikimedia_commons" v="Category:Gioia station (Milan metro)"/>
     <tag k="wikipedia" v="it:Gioia (metropolitana di Milano)"/>
   </node>
-  <node id="9853414544" lat="45.4835639" lon="9.1867087" version="5" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9853414544" lat="45.4835639" lon="9.1867087" version="6" timestamp="2025-12-07T10:07:34Z" changeset="175615988" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Garibaldi FS"/>
     <tag k="name:it" v="Garibaldi FS"/>
@@ -37503,6 +37496,8 @@
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2014"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087026"/>
     <tag k="wikimedia_commons" v="Category:Garibaldi FS station (Milan metro)"/>
@@ -38457,16 +38452,19 @@
     <tag k="wikidata" v="Q1087677"/>
     <tag k="wikipedia" v="it:Pagano (metropolitana di Milano)"/>
   </node>
-  <node id="9914785181" lat="45.4675220" lon="9.1666054" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785181" lat="45.4675220" lon="9.1666054" version="3" timestamp="2025-12-07T15:31:03Z" changeset="175628666" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Conciliazione"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q2258112"/>
     <tag k="wikipedia" v="it:Conciliazione (metropolitana di Milano)"/>
@@ -38519,7 +38517,7 @@
     <tag k="website" v="https://www.gspartners.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9960430414" lat="45.4677549" lon="9.1757332" version="4" timestamp="2025-07-18T14:33:58Z" changeset="169112945" uid="13840929" user="aa30mom">
+  <node id="9960430414" lat="45.4677444" lon="9.1757341" version="5" timestamp="2025-12-07T18:59:55Z" changeset="175636205" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="15n01"/>
     <tag k="addr:postcode" v="20123"/>
@@ -42693,7 +42691,7 @@
     <tag k="payment:wire_transfer" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11635678177" lat="45.4845605" lon="9.1873439" version="6" timestamp="2025-08-26T14:51:31Z" changeset="171034793" uid="23227442" user="sebphil">
+  <node id="11635678177" lat="45.4845605" lon="9.1873439" version="7" timestamp="2025-12-07T10:07:34Z" changeset="175615988" uid="13697350" user="c674a">
     <tag k="alt_name" v="Milano Porta Garibaldi"/>
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Porta Garibaldi (superficie)"/>
@@ -42703,6 +42701,7 @@
     <tag k="name:fr" v="Milan-Porta Garibaldi"/>
     <tag k="name:it" v="Milano Porta Garibaldi (superficie)"/>
     <tag k="network" v="STIBM"/>
+    <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="RFI"/>
     <tag k="platforms" v="20"/>
     <tag k="public_transport" v="station"/>
@@ -50005,7 +50004,7 @@
     <tag k="wikidata" v="Q104864941"/>
     <tag k="wikipedia" v="en:Palazzina Appiani"/>
   </way>
-  <way id="124361540" version="18" timestamp="2025-04-22T20:42:13Z" changeset="165303773" uid="10142223" user="Emabarto">
+  <way id="124361540" version="19" timestamp="2025-12-07T23:43:12Z" changeset="175643684" uid="717233" user="jacopofar">
     <center lat="45.5123144" lon="9.1734114"/>
     <nd ref="1384412712"/>
     <nd ref="8491638027"/>
@@ -50025,6 +50024,7 @@
     <tag k="brand:wikidata" v="Q1059636"/>
     <tag k="brand:wikipedia" v="en:Esselunga"/>
     <tag k="building" v="supermarket"/>
+    <tag k="building:colour" v="#600215"/>
     <tag k="building:levels" v="1"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="layer" v="1"/>
