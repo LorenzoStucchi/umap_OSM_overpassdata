@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-11T04:22:10Z" areas="2025-12-10T23:58:02Z"/>
+<meta osm_base="2025-12-12T04:21:45Z" areas="2025-12-11T20:51:58Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -25967,13 +25967,14 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Fountain_of_Via_Principe_Eugenio_Milan_-_01.jpg"/>
   </node>
-  <node id="4953162376" lat="45.4992175" lon="9.1509951" version="4" timestamp="2022-09-24T11:07:21Z" changeset="126577303" uid="11220113" user="ivanbranco">
+  <node id="4953162376" lat="45.4992175" lon="9.1509951" version="5" timestamp="2025-12-11T19:08:37Z" changeset="175816689" uid="13697350" user="c674a">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
-    <tag k="operator" v="Metropolitana Milanese - MM SpA"/>
+    <tag k="operator" v="MM S.p.A."/>
     <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="source" v="Metropolitana Milanese - MM"/>
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
     <tag k="wheelchair" v="limited"/>
@@ -31395,9 +31396,18 @@
     <tag k="website" v="https://osteriaovino.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6810781088" lat="45.4810253" lon="9.1703678" version="2" timestamp="2023-03-12T13:01:52Z" changeset="133585308" uid="1875845" user="Valerio_Bozzolan">
+  <node id="6810781088" lat="45.4810253" lon="9.1703678" version="3" timestamp="2025-12-11T14:49:43Z" changeset="175806924" uid="3911830" user="AnyFile_OsmAnd">
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="20154"/>
+    <tag k="addr:street" v="Via Paolo Sarpi"/>
+    <tag k="coffee" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Martesana"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
+    <tag k="operator" v="Martesana s r.l."/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="shop" v="pastry"/>
+    <tag k="website" v="https://www.martesanamilano.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="6812403778" lat="45.4621268" lon="9.2061147" version="3" timestamp="2023-11-01T11:15:16Z" changeset="143469125" uid="1875845" user="Valerio_Bozzolan">
@@ -36001,7 +36011,7 @@
     <tag k="website" v="http://www.delsolehotel.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9549474945" lat="45.4759974" lon="9.1836751" version="7" timestamp="2025-11-10T07:36:54Z" changeset="174448637" uid="22858586" user="paf_veglia">
+  <node id="9549474945" lat="45.4758990" lon="9.1836446" version="8" timestamp="2025-12-11T13:43:08Z" changeset="175803920" uid="13840929" user="aa30mom">
     <tag k="amenity" v="restaurant"/>
     <tag k="branch" v="Bomaki Garibaldi"/>
     <tag k="check_date" v="2025-11-10"/>
@@ -38951,16 +38961,19 @@
     <tag k="wikidata" v="Q3713387"/>
     <tag k="wikipedia" v="it:Domodossola FN"/>
   </node>
-  <node id="10036502939" lat="45.4844616" lon="9.1666565" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="10036502939" lat="45.4844616" lon="9.1666565" version="3" timestamp="2025-12-11T19:08:37Z" changeset="175816689" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Gerusalemme"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3761342"/>
     <tag k="wikipedia" v="it:Gerusalemme (metropolitana di Milano)"/>
@@ -47273,10 +47286,11 @@
     <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="4915384" version="23" timestamp="2025-08-10T14:00:37Z" changeset="170246984" uid="3416294" user="Simulatte">
-    <center lat="45.4875007" lon="9.1778949"/>
+  <way id="4915384" version="24" timestamp="2025-12-12T00:13:17Z" changeset="175824648" uid="10893865" user="Emanuele Lorenzo Corti">
+    <center lat="45.4875007" lon="9.1778979"/>
     <nd ref="32179303"/>
     <nd ref="32179304"/>
+    <nd ref="13370716588"/>
     <nd ref="3446474992"/>
     <nd ref="3446474993"/>
     <nd ref="9665780147"/>
@@ -47326,13 +47340,22 @@
     <nd ref="4895439164"/>
     <nd ref="3446474920"/>
     <nd ref="3446474921"/>
+    <nd ref="13370766322"/>
+    <nd ref="13370766364"/>
     <nd ref="2377015286"/>
     <nd ref="2377015279"/>
-    <nd ref="4895439158"/>
-    <nd ref="2377015284"/>
     <nd ref="2377015283"/>
     <nd ref="3446474914"/>
+    <nd ref="13370766311"/>
+    <nd ref="13370766310"/>
     <nd ref="3446498485"/>
+    <nd ref="13370716589"/>
+    <nd ref="13370716590"/>
+    <nd ref="13370716594"/>
+    <nd ref="13370716593"/>
+    <nd ref="13370716595"/>
+    <nd ref="13370716591"/>
+    <nd ref="13370716592"/>
     <nd ref="32179303"/>
     <tag k="landuse" v="cemetery"/>
     <tag k="name" v="Cimitero Monumentale"/>
