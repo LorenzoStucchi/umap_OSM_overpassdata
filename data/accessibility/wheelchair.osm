@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-14T04:25:35Z" areas="2025-12-14T01:09:15Z"/>
+<meta osm_base="2025-12-15T04:30:43Z" areas="2025-12-15T02:26:19Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2887,12 +2887,13 @@
     <tag k="website" v="https://www.grom.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="687897963" lat="45.4718956" lon="9.1676381" version="12" timestamp="2025-08-11T21:04:50Z" changeset="170313366" uid="13697350" user="c674a">
+  <node id="687897963" lat="45.4718956" lon="9.1676381" version="13" timestamp="2025-12-14T22:13:19Z" changeset="175936996" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Vincenzo Monti"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="brand" v="Carrefour Market"/>
     <tag k="brand:wikidata" v="Q2689639"/>
     <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
@@ -4103,7 +4104,7 @@
     <tag k="shop" v="chemist"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1483473722" lat="45.4528163" lon="9.1448034" version="9" timestamp="2025-03-03T21:33:53Z" changeset="163178718" uid="20120497" user="Le Petit Léo">
+  <node id="1483473722" lat="45.4528163" lon="9.1448034" version="10" timestamp="2025-12-14T22:13:19Z" changeset="175936996" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20146"/>
@@ -4112,6 +4113,7 @@
     <tag k="brand:wikidata" v="Q2042514"/>
     <tag k="brand:wikipedia" v="en:OVS (company)"/>
     <tag k="check_date" v="2023-06-21"/>
+    <tag k="clothes" v="women;men;underwear;children;suits;hats;denim;socks"/>
     <tag k="name" v="OVS"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-19:30; Su 10:00-19:30; Aug 15 off"/>
     <tag k="operator" v="OVS"/>
@@ -4772,6 +4774,11 @@
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1611026515" lat="45.4717617" lon="9.2021805" version="5" timestamp="2024-06-21T22:11:00Z" changeset="153010380" uid="10373566" user="Lenin_ETH">
+    <tag k="name" v="Palestro"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026520" lat="45.4719524" lon="9.2021017" version="4" timestamp="2025-12-14T10:06:17Z" changeset="175912491" uid="13697350" user="c674a">
     <tag k="name" v="Palestro"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -9243,7 +9250,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2411123346" lat="45.4636079" lon="9.1887320" version="9" timestamp="2025-09-04T14:42:12Z" changeset="171456641" uid="22858586" user="paf_veglia">
+  <node id="2411123346" lat="45.4636079" lon="9.1887320" version="10" timestamp="2025-12-14T11:08:59Z" changeset="175914498" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20122"/>
@@ -9257,7 +9264,7 @@
     <tag k="contact:phone" v="+39 02 454411"/>
     <tag k="contact:website" v="https://www.mondadoristore.it/negozi/punti-vendita/Mondadori-Duomo/38302/"/>
     <tag k="level" v="-1-1"/>
-    <tag k="name" v="Mondadori Duomo"/>
+    <tag k="name" v="Mondadori"/>
     <tag k="operator" v="Mondadori Rretail SPA"/>
     <tag k="ref:vatin" v="IT11022370156"/>
     <tag k="shop" v="books"/>
@@ -26749,9 +26756,10 @@
     <tag k="wikidata" v="Q2519375"/>
     <tag k="wikipedia" v="it:Duomo (metropolitana di Milano)"/>
   </node>
-  <node id="5239949512" lat="45.4701978" lon="9.1787439" version="6" timestamp="2024-05-09T14:41:39Z" changeset="151104003" uid="5666811" user="DrWaluigi">
+  <node id="5239949512" lat="45.4701978" lon="9.1787439" version="7" timestamp="2025-12-14T10:31:10Z" changeset="175913271" uid="20630622" user="scati">
     <tag k="amenity" v="toilets"/>
-    <tag k="check_date" v="2024-05-09"/>
+    <tag k="check_date" v="2025-12-14"/>
+    <tag k="check_date:opening_hours" v="2025-12-14"/>
     <tag k="fee" v="no"/>
     <tag k="opening_hours" v="09:00-17:15"/>
     <tag k="wheelchair" v="yes"/>
@@ -28137,16 +28145,21 @@
     <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5551231403" lat="45.4648310" lon="9.1912733" version="3" timestamp="2022-11-03T15:11:43Z" changeset="128438380" uid="290680" user="wheelmap_visitor">
+  <node id="5551231403" lat="45.4648310" lon="9.1912733" version="4" timestamp="2025-12-14T11:08:59Z" changeset="175914498" uid="13697350" user="c674a">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Piazza del Duomo"/>
     <tag k="brand" v="H&amp;M"/>
     <tag k="brand:wikidata" v="Q188326"/>
     <tag k="brand:wikipedia" v="en:H&amp;M"/>
+    <tag k="clothes" v="women;men;underwear;children;suits;hats;denim;socks"/>
     <tag k="contact:phone" v="+39 06 32832444"/>
     <tag k="name" v="H&amp;M"/>
     <tag k="operator" v="H&amp;M Hennes &amp; Mauritz S.R.L."/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="ref" v="IT04444"/>
     <tag k="ref:vatin" v="IT03269110965"/>
     <tag k="shop" v="clothes"/>
@@ -29816,9 +29829,12 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5872952287" lat="45.4679639" lon="9.1609588" version="2" timestamp="2025-07-15T09:20:21Z" changeset="168953554" uid="290680" user="wheelmap_visitor">
+  <node id="5872952287" lat="45.4679639" lon="9.1609588" version="3" timestamp="2025-12-14T22:13:19Z" changeset="175936996" uid="13697350" user="c674a">
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="bar" v="yes"/>
     <tag k="name" v="Metropolis"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5872952318" lat="45.4678764" lon="9.1643102" version="3" timestamp="2025-10-17T05:53:49Z" changeset="173393124" uid="13697350" user="c674a">
@@ -32079,18 +32095,6 @@
     <tag k="name" v="Buonarroti"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="7145028948" lat="45.4635836" lon="9.1894852" version="3" timestamp="2022-07-14T19:58:33Z" changeset="123623632" uid="10901495" user="Martino Scaglione">
-    <tag k="brand" v="GameStop"/>
-    <tag k="brand:wikidata" v="Q202210"/>
-    <tag k="brand:wikipedia" v="en:GameStop"/>
-    <tag k="level" v="2"/>
-    <tag k="name" v="GameStop"/>
-    <tag k="operator" v="Gamestop Italy Srl"/>
-    <tag k="phone" v="+390289015323"/>
-    <tag k="ref:vatin" v="IT03217130966"/>
-    <tag k="shop" v="video_games"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="7155082869" lat="45.4595517" lon="9.1881839" version="11" timestamp="2025-11-13T11:19:27Z" changeset="174599999" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
@@ -33941,6 +33945,19 @@
     <tag k="wikimedia_commons" v="Category:Rogoredo FS station (Milan metro)"/>
     <tag k="wikipedia" v="it:Rogoredo FS (metropolitana di Milano)"/>
   </node>
+  <node id="8930335773" lat="45.4688602" lon="9.1676940" version="5" timestamp="2025-12-14T22:13:19Z" changeset="175936996" uid="13697350" user="c674a">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="20123"/>
+    <tag k="addr:street" v="Via Pietro Tamburini"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="name" v="Ceresio Investors"/>
+    <tag k="office" v="financial"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
+    <tag k="phone" v="+390230377351"/>
+    <tag k="website" v="https://www.ceresioinvestors.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8930870306" lat="45.4707873" lon="9.2223253" version="3" timestamp="2023-10-15T13:02:43Z" changeset="142616945" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="restaurant"/>
     <tag k="indoor_seating" v="yes"/>
@@ -34553,11 +34570,12 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9070773701" lat="45.4631610" lon="9.1892592" version="5" timestamp="2025-02-28T10:28:12Z" changeset="163045765" uid="20120497" user="Le Petit Léo">
+  <node id="9070773701" lat="45.4631610" lon="9.1892592" version="6" timestamp="2025-12-14T11:08:59Z" changeset="175914498" uid="13697350" user="c674a">
     <tag k="brand" v="Humana"/>
     <tag k="brand:wikidata" v="Q1636581"/>
     <tag k="name" v="Humana"/>
     <tag k="opening_hours" v="Mo-Sa 10:00-19:30; Su 11:30-19:30"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="second_hand" v="only"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
@@ -37484,30 +37502,36 @@
     <tag k="wikidata" v="Q1088096"/>
     <tag k="wikipedia" v="it:Porta Romana (metropolitana di Milano)"/>
   </node>
-  <node id="9850493691" lat="45.4562736" lon="9.1955754" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9850493691" lat="45.4562736" lon="9.1955754" version="3" timestamp="2025-12-14T11:08:59Z" changeset="175914498" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Crocetta"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1990"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088810"/>
     <tag k="wikipedia" v="it:Crocetta (metropolitana di Milano)"/>
   </node>
-  <node id="9850493693" lat="45.4599554" lon="9.1893681" version="3" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9850493693" lat="45.4599554" lon="9.1893681" version="4" timestamp="2025-12-14T11:08:59Z" changeset="175914498" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Missori"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1990"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088817"/>
     <tag k="wikipedia" v="it:Missori (metropolitana di Milano)"/>
@@ -46552,7 +46576,7 @@
     <tag k="source" v="Comune di Milano ds364"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="13001399315" lat="45.4660194" lon="9.1898908" version="2" timestamp="2025-10-20T16:26:31Z" changeset="173546177" uid="13840929" user="aa30mom">
+  <node id="13001399315" lat="45.4660194" lon="9.1898908" version="3" timestamp="2025-12-14T11:08:59Z" changeset="175914498" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3n15"/>
@@ -46562,16 +46586,17 @@
     <tag k="check_date" v="2022-11-24"/>
     <tag k="name" v="Ristorante Galleria"/>
     <tag k="source" v="Comune di Milano ds364"/>
+    <tag k="website" v="https://ristorantegalleria.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13001399321" lat="45.4663201" lon="9.1898962" version="2" timestamp="2025-10-20T16:26:31Z" changeset="173546177" uid="13840929" user="aa30mom">
+  <node id="13001399321" lat="45.4663201" lon="9.1898962" version="3" timestamp="2025-12-14T11:08:59Z" changeset="175914498" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3n21"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Galleria Vittorio Emanuele Secondo"/>
     <tag k="check_date" v="2025-08-08"/>
-    <tag k="name" v="Libreria Rizzoli"/>
+    <tag k="name" v="Rizzoli Milano"/>
     <tag k="shop" v="books"/>
     <tag k="source" v="Comune di Milano ds364"/>
     <tag k="wheelchair" v="yes"/>
@@ -47234,6 +47259,11 @@
     <tag k="panoramax" v="1c2d3f83-9fab-415a-b493-90a967af23d0"/>
     <tag k="survey:date" v="2025-12-12"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="13376181626" lat="45.5051634" lon="9.2004134" version="2" timestamp="2025-12-14T16:42:47Z" changeset="175926506" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Il vizietto"/>
+    <tag k="shop" v="erotic"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
