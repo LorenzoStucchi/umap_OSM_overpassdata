@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-15T04:30:43Z" areas="2025-12-15T02:26:19Z"/>
+<meta osm_base="2025-12-16T04:22:34Z" areas="2025-12-16T00:33:14Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -26059,6 +26059,16 @@
     <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Fountain_of_Via_Bramantino_Milan.jpg"/>
+  </node>
+  <node id="4953163721" lat="45.4166156" lon="9.1723373" version="4" timestamp="2025-12-15T13:53:18Z" changeset="175961556" uid="22919632" user="matteobott">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="no"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
+    <tag k="operator:wikidata" v="Q3855742"/>
+    <tag k="source" v="Metropolitana Milanese - MM"/>
+    <tag k="source:url" v="https://geoportale.comune.milano.it/ATOM/SIT/Fontanelle/Fontanelle_Dataset_1.xml"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4958599054" lat="45.5183943" lon="9.2580342" version="4" timestamp="2025-09-15T15:59:31Z" changeset="171973870" uid="15264988" user="nicola_yubo">
     <tag k="barrier" v="gate"/>
@@ -53885,9 +53895,10 @@
     <tag k="shop" v="newsagent"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="306829080" version="12" timestamp="2025-09-23T19:33:19Z" changeset="172361207" uid="22919632" user="matteobott">
+  <way id="306829080" version="13" timestamp="2025-12-15T14:58:08Z" changeset="175964961" uid="22919632" user="matteobott">
     <center lat="45.4206648" lon="9.1775904"/>
     <nd ref="3118354126"/>
+    <nd ref="13378355698"/>
     <nd ref="9966330375"/>
     <nd ref="13165895587"/>
     <nd ref="3118354119"/>
@@ -55743,6 +55754,72 @@
     <tag k="denomination" v="catholic"/>
     <tag k="name" v="Cappella di Gan Giorgio"/>
     <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="521554586" version="7" timestamp="2025-12-15T15:47:47Z" changeset="175967609" uid="11242131" user="ja+">
+    <center lat="45.4458887" lon="9.2148880"/>
+    <nd ref="5081648604"/>
+    <nd ref="13378477230"/>
+    <nd ref="5411147035"/>
+    <nd ref="5411147034"/>
+    <nd ref="5411147033"/>
+    <nd ref="13378477231"/>
+    <nd ref="5081648605"/>
+    <nd ref="13378456075"/>
+    <nd ref="13378477221"/>
+    <nd ref="13378477216"/>
+    <nd ref="5411172016"/>
+    <nd ref="13378456079"/>
+    <nd ref="13378477225"/>
+    <nd ref="13378477228"/>
+    <nd ref="13378477226"/>
+    <nd ref="5081648606"/>
+    <nd ref="5081648603"/>
+    <nd ref="13378456078"/>
+    <nd ref="5081648604"/>
+    <tag k="area" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="operator" v="RFI"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="1"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="521554587" version="7" timestamp="2025-12-15T15:47:47Z" changeset="175967609" uid="11242131" user="ja+">
+    <center lat="45.4460153" lon="9.2148761"/>
+    <nd ref="5081648607"/>
+    <nd ref="13378456082"/>
+    <nd ref="5411147037"/>
+    <nd ref="5411147038"/>
+    <nd ref="5411147039"/>
+    <nd ref="13378456081"/>
+    <nd ref="13378456080"/>
+    <nd ref="5081291321"/>
+    <nd ref="13378456084"/>
+    <nd ref="13378456067"/>
+    <nd ref="13378456085"/>
+    <nd ref="5081311823"/>
+    <nd ref="5081291018"/>
+    <nd ref="13378456065"/>
+    <nd ref="13378456087"/>
+    <nd ref="5081291016"/>
+    <nd ref="5081648608"/>
+    <nd ref="13378456064"/>
+    <nd ref="5081648607"/>
+    <tag k="area" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="operator" v="RFI"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="2"/>
+    <tag k="surface" v="paving_stones"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="533970942" version="7" timestamp="2022-04-15T18:10:01Z" changeset="119761027" uid="4841818" user="122131">
@@ -57868,11 +57945,10 @@
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1027289177" version="2" timestamp="2024-04-18T21:44:30Z" changeset="150195642" uid="1914637" user="a1ca424">
-    <center lat="45.4741909" lon="9.2300824"/>
+  <way id="1027289177" version="3" timestamp="2025-12-15T18:24:39Z" changeset="175974273" uid="10893865" user="Emanuele Lorenzo Corti">
+    <center lat="45.4741908" lon="9.2300808"/>
     <nd ref="9470740356"/>
     <nd ref="9470740357"/>
-    <nd ref="9470740358"/>
     <nd ref="9470740359"/>
     <nd ref="9470740360"/>
     <nd ref="9470740356"/>
