@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-16T04:22:34Z" areas="2025-12-16T00:33:14Z"/>
+<meta osm_base="2025-12-17T04:19:45Z" areas="2025-12-16T21:34:12Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4104,19 +4104,24 @@
     <tag k="shop" v="chemist"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1483473722" lat="45.4528163" lon="9.1448034" version="10" timestamp="2025-12-14T22:13:19Z" changeset="175936996" uid="13697350" user="c674a">
+  <node id="1483473722" lat="45.4528163" lon="9.1448034" version="11" timestamp="2025-12-16T19:22:44Z" changeset="176020622" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20146"/>
     <tag k="addr:street" v="Via Pietro Redaelli"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="brand" v="OVS"/>
     <tag k="brand:wikidata" v="Q2042514"/>
     <tag k="brand:wikipedia" v="en:OVS (company)"/>
+    <tag k="building:levels" v="2"/>
     <tag k="check_date" v="2023-06-21"/>
     <tag k="clothes" v="women;men;underwear;children;suits;hats;denim;socks"/>
+    <tag k="level" v="0,1"/>
     <tag k="name" v="OVS"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-19:30; Su 10:00-19:30; Aug 15 off"/>
     <tag k="operator" v="OVS"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+39 02 4895 8218"/>
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://www.ovsfashion.com"/>
@@ -35303,7 +35308,7 @@
     <tag k="tourism" v="artwork"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9376573933" lat="45.4529688" lon="9.1723149" version="7" timestamp="2025-11-27T16:52:47Z" changeset="175206688" uid="13840929" user="aa30mom">
+  <node id="9376573933" lat="45.4529697" lon="9.1722492" version="8" timestamp="2025-12-16T17:35:32Z" changeset="176016838" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:postcode" v="20144"/>
@@ -35314,6 +35319,7 @@
     <tag k="name" v="Pizzium"/>
     <tag k="opening_hours" v="Mo-Th 12:30-14:30, 19:30-23:30; Fr-Su 12:30-15:00, 19:30-24:00"/>
     <tag k="operator" v="Pizzum S.P.A."/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 49695366"/>
     <tag k="ref:vatin" v="IT09695390964"/>
     <tag k="takeaway" v="yes"/>
@@ -36227,10 +36233,15 @@
     <tag k="website" v="http://www.pizzeriasantalucia.eu"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9561991504" lat="45.5045610" lon="9.2220531" version="2" timestamp="2025-07-15T10:32:55Z" changeset="168958012" uid="290680" user="wheelmap_visitor">
+  <node id="9561991504" lat="45.5045610" lon="9.2220531" version="3" timestamp="2025-12-16T10:45:17Z" changeset="175998818" uid="23598269" user="Marco Sol">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="185"/>
+    <tag k="addr:postcode" v="20126"/>
+    <tag k="addr:street" v="Viale Monza"/>
     <tag k="beauty" v="nails"/>
     <tag k="contact:facebook" v="https://www.facebook.com/lechicmilano/"/>
-    <tag k="name" v="Le chic"/>
+    <tag k="email" v="amministrazione@lechicmilano.com"/>
+    <tag k="name" v="Le Chic di Morra Daniela"/>
     <tag k="phone" v="+39 02 36566588"/>
     <tag k="shop" v="beauty"/>
     <tag k="website" v="http://www.lechicmilano.com/"/>
@@ -36983,12 +36994,8 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9773451165" lat="45.4159794" lon="9.1717197" version="2" timestamp="2022-06-09T05:54:25Z" changeset="122145329" uid="4126696" user="bbgg">
-    <tag k="barrier" v="gate"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="9773451166" lat="45.4146703" lon="9.1715340" version="2" timestamp="2022-06-09T05:54:25Z" changeset="122145329" uid="4126696" user="bbgg">
-    <tag k="barrier" v="gate"/>
+  <node id="9773451165" lat="45.4159464" lon="9.1717150" version="3" timestamp="2025-12-16T10:53:14Z" changeset="175999222" uid="22919632" user="matteobott">
+    <tag k="barrier" v="lift_gate"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="9775457524" lat="45.4828994" lon="9.1999789" version="1" timestamp="2022-05-27T16:42:12Z" changeset="121585360" uid="89897" user="airon90">
@@ -39489,14 +39496,6 @@
     <tag k="level" v="0"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Poste Italiane"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="10165840845" lat="45.4122658" lon="9.1715170" version="1" timestamp="2022-11-07T09:37:05Z" changeset="128588404" uid="67550" user="Aiman">
-    <tag k="amenity" v="doctors"/>
-    <tag k="healthcare" v="doctor"/>
-    <tag k="healthcare:speciality" v="dermatology"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="Centro Medico Barone"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="10174364051" lat="45.4796482" lon="9.1998594" version="3" timestamp="2025-07-15T09:38:13Z" changeset="168954763" uid="290680" user="wheelmap_visitor">
@@ -47275,6 +47274,42 @@
     <tag k="shop" v="erotic"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="13380881101" lat="45.4934209" lon="9.2191424" version="1" timestamp="2025-12-16T11:24:05Z" changeset="176000525" uid="9566857" user="d-m-f">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="20127"/>
+    <tag k="addr:street" v="Viale Monza"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="La Cantinetta"/>
+    <tag k="note" v="i am not sure about the opening hours, especially the ones in the morning, they were written on google maps. The ones in the afternoon I am pretty sure about, since then I also pass it by regularily. "/>
+    <tag k="opening_hours" v="Tuesday-Friday: 8-13:00 + 16-00:00, Saturday 8-00:00, Monday 8-13:00"/>
+    <tag k="phone" v="3471183117"/>
+    <tag k="takeaway" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13381986905" lat="45.4162457" lon="9.1695680" version="1" timestamp="2025-12-16T19:21:08Z" changeset="176020569" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="entrance" v="shop"/>
+    <tag k="level" v="0.5"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13382235238" lat="45.4121986" lon="9.1714819" version="1" timestamp="2025-12-16T21:56:07Z" changeset="176025030" uid="22919632" user="matteobott">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="20142"/>
+    <tag k="addr:street" v="Via Costantino Baroni"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="cardiology;diabetology;gynaecology;ophthalmology;orthodontics;pulmonology;physiotherapy"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Poliambulatorio Baroni"/>
+    <tag k="opening_hours" v="Mo-Th 07:30-13:00,13:30-16:30; Fr 08:00-13:00"/>
+    <tag k="operator" v="ASST Santi Paolo e Carlo"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="phone" v="+39 116117"/>
+    <tag k="website" v="https://www.asst-santipaolocarlo.it/strutture/poliambulatorio-baroni"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -54015,7 +54050,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="315608102" version="3" timestamp="2025-07-21T08:46:00Z" changeset="169230596" uid="22919632" user="matteobott">
+  <way id="315608102" version="4" timestamp="2025-12-16T22:54:09Z" changeset="176026193" uid="22919632" user="matteobott">
     <center lat="45.4068296" lon="9.1709543"/>
     <nd ref="3217339357"/>
     <nd ref="3217339911"/>
@@ -54035,8 +54070,10 @@
     <nd ref="3217339283"/>
     <nd ref="3217339357"/>
     <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
     <tag k="name" v="R.S.A. Baroni"/>
     <tag k="operator" v="Coopselios"/>
+    <tag k="operator:type" v="private"/>
     <tag k="social_facility" v="nursing_home"/>
     <tag k="social_facility:for" v="senior"/>
     <tag k="wheelchair" v="yes"/>
@@ -58995,7 +59032,7 @@
     <tag k="start_date" v="2018"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1395741167" version="5" timestamp="2025-11-24T19:34:17Z" changeset="175082233" uid="22919632" user="matteobott">
+  <way id="1395741167" version="6" timestamp="2025-12-16T11:32:22Z" changeset="176000906" uid="22919632" user="matteobott">
     <center lat="45.4167391" lon="9.1806284"/>
     <nd ref="12919417476"/>
     <nd ref="12919417477"/>
@@ -59010,6 +59047,7 @@
     <tag k="building" v="yes"/>
     <tag k="building:levels" v="2"/>
     <tag k="community_centre" v="parish_hall"/>
+    <tag k="name" v="Oratorio"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1410368677" version="1" timestamp="2025-06-28T15:06:54Z" changeset="168231067" uid="9319767" user="busnotturno95">
