@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-26T04:24:37Z" areas="2025-12-25T20:33:57Z"/>
+<meta osm_base="2025-12-27T04:21:15Z" areas="2025-12-26T23:01:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -46672,17 +46672,24 @@
     <tag k="shop" v="laundry"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13058811403" lat="45.4618062" lon="9.1361848" version="4" timestamp="2025-10-12T15:53:28Z" changeset="173188416" uid="13697350" user="c674a">
+  <node id="13058811403" lat="45.4618062" lon="9.1361848" version="5" timestamp="2025-12-26T13:57:52Z" changeset="176440672" uid="13697350" user="c674a">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
+    <tag k="cold_water" v="yes"/>
     <tag k="covered" v="no"/>
     <tag k="fee" v="no"/>
     <tag k="fountain" v="bottle_refill"/>
+    <tag k="hot_water" v="no"/>
+    <tag k="iced_water" v="no"/>
     <tag k="indoor" v="no"/>
     <tag k="name" v="Casa dell'acqua"/>
+    <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="MM S.p.A."/>
     <tag k="operator:wikidata" v="Q3855742"/>
+    <tag k="room_temperature_water" v="yes"/>
+    <tag k="seasonal" v="no"/>
+    <tag k="warm_water" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="13059886735" lat="45.4989039" lon="9.1912892" version="4" timestamp="2025-09-28T16:42:52Z" changeset="172575557" uid="22858586" user="paf_veglia">
@@ -47394,6 +47401,19 @@
     <tag k="panoramax" v="77584f9a-a168-4cde-8950-6e57b75fad46"/>
     <tag k="survey:date" v="2025-12-22"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13408442939" lat="45.4242585" lon="9.1871513" version="1" timestamp="2025-12-26T11:24:47Z" changeset="176433774" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="gender_segregated" v="no"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="supervised" v="no"/>
+    <tag k="toilets:disposal" v="bucket"/>
+    <tag k="toilets:handwashing" v="no"/>
+    <tag k="toilets:paper_supplied" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
@@ -54783,7 +54803,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="356911635" version="11" timestamp="2025-12-21T16:55:46Z" changeset="176226188" uid="13840929" user="aa30mom">
-    <center lat="45.4525095" lon="9.1596670"/>
+    <center lat="45.4524980" lon="9.1596696"/>
     <nd ref="13393074244"/>
     <nd ref="3414894896"/>
     <nd ref="3623095483"/>
