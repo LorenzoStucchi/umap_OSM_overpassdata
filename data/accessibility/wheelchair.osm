@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-09T04:28:45Z" areas="2026-01-09T01:07:33Z"/>
+<meta osm_base="2026-01-10T04:22:58Z" areas="2026-01-09T22:19:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4658,7 +4658,7 @@
     <tag k="website" v="http://www.ristorantealdesiderio.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1598193837" lat="45.4762066" lon="9.1945741" version="10" timestamp="2022-09-06T14:34:05Z" changeset="125862176" uid="16642036" user="Kadubei">
+  <node id="1598193837" lat="45.4762066" lon="9.1945741" version="10" timestamp="2022-09-06T14:34:05Z" changeset="125862176" uid="16642036" user="Thalab12">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -4680,7 +4680,7 @@
     <tag k="wikidata" v="Q16507597"/>
     <tag k="wikipedia" v="fr:Consulat général de France à Milan"/>
   </node>
-  <node id="1598193883" lat="45.4751281" lon="9.1941410" version="8" timestamp="2022-09-06T14:34:05Z" changeset="125862176" uid="16642036" user="Kadubei">
+  <node id="1598193883" lat="45.4751281" lon="9.1941410" version="8" timestamp="2022-09-06T14:34:05Z" changeset="125862176" uid="16642036" user="Thalab12">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
@@ -46720,8 +46720,10 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13040620891" lat="45.4627641" lon="9.1339121" version="4" timestamp="2025-11-11T12:48:35Z" changeset="174509399" uid="242345" user="confusedbuffalo">
+  <node id="13040620891" lat="45.4627641" lon="9.1339121" version="5" timestamp="2026-01-10T01:33:26Z" changeset="177046609" uid="13697350" user="c674a">
+    <tag k="internet_access" v="no"/>
     <tag k="name" v="Lavasecco Ecologico"/>
+    <tag k="not:brand" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
@@ -47248,6 +47250,18 @@
     <tag k="amenity" v="toilets"/>
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13334107225" lat="45.4776322" lon="9.1844927" version="3" timestamp="2026-01-09T09:43:06Z" changeset="177017648" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Stazione M2 Moscova dietro la guardiola."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="fixme" v="specify location"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="-1"/>
+    <tag k="operator" v="ATM Milano"/>
+    <tag k="panoramax" v="dc09d68b-357d-428f-9a46-a427270cacb0"/>
+    <tag k="survey:date" v="2026-01-09"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="13335804007" lat="45.5059478" lon="9.2732553" version="1" timestamp="2025-11-27T10:59:53Z" changeset="175192783" uid="712033" user="lgsp0">
     <tag k="addr:city" v="Milano"/>
@@ -51113,7 +51127,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="137439383" version="9" timestamp="2025-11-27T08:00:39Z" changeset="175185796" uid="13697350" user="c674a">
+  <way id="137439383" version="10" timestamp="2026-01-10T01:33:48Z" changeset="177046609" uid="13697350" user="c674a">
     <center lat="45.4637347" lon="9.1324032"/>
     <nd ref="1507644561"/>
     <nd ref="1507644559"/>
@@ -51132,6 +51146,8 @@
     <tag k="brand:wikidata" v="Q105615038"/>
     <tag k="building" v="commercial"/>
     <tag k="building:levels" v="1"/>
+    <tag k="dog" v="no"/>
+    <tag k="internet_access" v="no"/>
     <tag k="name" v="Pam"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-21:00; Su 09:00-20:30"/>
     <tag k="organic" v="yes"/>
@@ -56980,14 +56996,15 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="821220323" version="4" timestamp="2025-11-09T10:38:57Z" changeset="174410441" uid="67550" user="Aiman">
-    <center lat="45.4601647" lon="9.1008439"/>
+  <way id="821220323" version="5" timestamp="2026-01-09T10:26:48Z" changeset="177019487" uid="8716397" user="f_gonella">
+    <center lat="45.4601614" lon="9.1008325"/>
     <nd ref="7667662761"/>
+    <nd ref="13442243722"/>
     <nd ref="7667662762"/>
+    <nd ref="13442243721"/>
     <nd ref="13290468552"/>
     <nd ref="7667662763"/>
     <nd ref="10827458843"/>
-    <nd ref="7667662764"/>
     <nd ref="7667662761"/>
     <tag k="brand" v="Lidl"/>
     <tag k="brand:wikidata" v="Q151954"/>
