@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-11T04:39:01Z" areas="2026-01-11T02:06:38Z"/>
+<meta osm_base="2026-01-12T04:39:20Z" areas="2026-01-11T23:00:19Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -24271,7 +24271,11 @@
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4574094991" lat="45.4550498" lon="9.1580568" version="3" timestamp="2021-10-20T16:51:19Z" changeset="112753594" uid="13204656" user="Erica Pedone">
+  <node id="4574094991" lat="45.4550498" lon="9.1580568" version="4" timestamp="2026-01-11T11:30:18Z" changeset="177092292" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="20144"/>
+    <tag k="addr:street" v="Via Enrico Stendhal"/>
     <tag k="name" v="Miracoli a Milano"/>
     <tag k="opening_hours" v="Mo-Fr 09:30-08:00"/>
     <tag k="shop" v="cheese"/>
@@ -27468,7 +27472,11 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5385566038" lat="45.4567567" lon="9.1568840" version="2" timestamp="2018-05-18T10:52:59Z" changeset="59066025" uid="290680" user="wheelmap_visitor">
+  <node id="5385566038" lat="45.4567296" lon="9.1569488" version="3" timestamp="2026-01-11T14:43:05Z" changeset="177099245" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="20144"/>
+    <tag k="addr:street" v="Via Vincenzo Foppa"/>
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Foppa"/>
     <tag k="wheelchair" v="limited"/>
@@ -47523,6 +47531,18 @@
     <tag k="barrier" v="gate"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="13447831818" lat="45.4525984" lon="9.1596531" version="1" timestamp="2026-01-11T11:30:18Z" changeset="177092292" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="20144"/>
+    <tag k="addr:street" v="Via Enrico Stendhal"/>
+    <tag k="brand" v="Carrefour Express"/>
+    <tag k="brand:wikidata" v="Q2940190"/>
+    <tag k="brand:wikipedia" v="fr:Carrefour Express"/>
+    <tag k="name" v="Carrefour Express"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -48115,7 +48135,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="24048692" version="16" timestamp="2025-11-29T14:37:48Z" changeset="175278314" uid="13840929" user="aa30mom">
-    <center lat="45.4477504" lon="9.1548331"/>
+    <center lat="45.4477457" lon="9.1548331"/>
     <nd ref="1516793688"/>
     <nd ref="1516793668"/>
     <nd ref="1516793666"/>
@@ -54184,7 +54204,7 @@
     <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-via-dei-missaglia-milano.mis.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="306830284" version="3" timestamp="2025-09-23T19:33:19Z" changeset="172361207" uid="22919632" user="matteobott">
+  <way id="306830284" version="5" timestamp="2026-01-11T21:09:37Z" changeset="177113364" uid="22919632" user="matteobott">
     <center lat="45.4210952" lon="9.1772868"/>
     <nd ref="3118363533"/>
     <nd ref="3118363534"/>
@@ -54194,7 +54214,9 @@
     <nd ref="13165895597"/>
     <nd ref="3118363228"/>
     <nd ref="3118363533"/>
+    <tag k="access" v="customers"/>
     <tag k="amenity" v="parking"/>
+    <tag k="fee" v="no"/>
     <tag k="name" v="Esselunga"/>
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
@@ -54911,26 +54933,6 @@
     <nd ref="3612927259"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="source" v="survey"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="356911635" version="11" timestamp="2025-12-21T16:55:46Z" changeset="176226188" uid="13840929" user="aa30mom">
-    <center lat="45.4524924" lon="9.1596714"/>
-    <nd ref="13393074244"/>
-    <nd ref="3414894896"/>
-    <nd ref="3623095483"/>
-    <nd ref="3623097129"/>
-    <nd ref="13393074245"/>
-    <nd ref="1493242564"/>
-    <nd ref="1493242565"/>
-    <nd ref="3623097114"/>
-    <nd ref="13393074244"/>
-    <tag k="brand" v="Carrefour Express"/>
-    <tag k="brand:wikidata" v="Q2940190"/>
-    <tag k="brand:wikipedia" v="fr:Carrefour Express"/>
-    <tag k="building" v="retail"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="name" v="Carrefour Express"/>
-    <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="357801385" version="2" timestamp="2023-04-13T06:20:19Z" changeset="134845864" uid="19367" user="lastman">
@@ -56658,7 +56660,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="689602886" version="2" timestamp="2024-06-18T17:54:07Z" changeset="152860093" uid="19739044" user="desoter">
-    <center lat="45.4483012" lon="9.1523515"/>
+    <center lat="45.4483012" lon="9.1523476"/>
     <nd ref="6469334633"/>
     <nd ref="6469334621"/>
     <nd ref="6469334632"/>
@@ -58830,6 +58832,17 @@
     <tag k="building:material" v="plastic"/>
     <tag k="layer" v="1"/>
     <tag k="roof:colour" v="#800000"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1238832864" version="2" timestamp="2026-01-11T21:18:56Z" changeset="177113676" uid="22919632" user="matteobott">
+    <center lat="45.4195892" lon="9.1803221"/>
+    <nd ref="11508434390"/>
+    <nd ref="11508434391"/>
+    <nd ref="11508434392"/>
+    <nd ref="11508434393"/>
+    <nd ref="11508434390"/>
+    <tag k="access" v="yes"/>
+    <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="no"/>
   </way>
   <way id="1238832865" version="3" timestamp="2025-12-01T22:51:59Z" changeset="175379220" uid="22919632" user="matteobott">
