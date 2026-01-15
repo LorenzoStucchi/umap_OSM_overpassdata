@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-14T04:37:43Z" areas="2026-01-13T21:12:00Z"/>
+<meta osm_base="2026-01-15T04:31:47Z" areas="2026-01-15T00:35:19Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2673,6 +2673,15 @@
     <tag k="vehicle" v="private"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="567547732" lat="45.4807579" lon="9.2364606" version="6" timestamp="2026-01-14T17:46:00Z" changeset="177229731" uid="15264988" user="nicola_yubo">
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Via Valvassori Peroni"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="Largo's caffe"/>
+    <tag k="opening_hours" v="Tu-Fr 07:00-02:00; Sa 06:00-15:00, 19:00-02:00; Su 08:00-23:00"/>
+    <tag k="phone" v="+39 02 8417 5116"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="593500379" lat="45.4518951" lon="9.1870304" version="9" timestamp="2021-11-04T00:19:10Z" changeset="113353449" uid="11645399" user="davidoskky">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20136"/>
@@ -3754,7 +3763,7 @@
     <tag k="tourism" v="hotel"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1343437341" lat="45.4795302" lon="9.1968509" version="7" timestamp="2025-12-01T18:28:37Z" changeset="175371311" uid="13697350" user="c674a">
+  <node id="1343437341" lat="45.4794427" lon="9.1968319" version="8" timestamp="2026-01-15T00:06:59Z" changeset="177240412" uid="69717" user="kaitu">
     <tag k="amenity" v="drinking_water"/>
     <tag k="man_made" v="water_tap"/>
     <tag k="mapillary" v="https://www.mapillary.com/app/?lat=45.47931166206554&amp;lng=9.196614140516385&amp;z=17&amp;mapStyle=osm&amp;pKey=0PCxcYxzimQDiJDiGoLz-w&amp;focus=photo&amp;x=0.37126199327376985&amp;y=0.4141072702405599&amp;zoom=0.5563798219584567"/>
@@ -30092,6 +30101,26 @@
     <tag k="ref:vatin" v="IT08704180960"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="5922938978" lat="45.4792402" lon="9.2364849" version="6" timestamp="2026-01-14T17:46:01Z" changeset="177229733" uid="15264988" user="nicola_yubo">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Via Carlo Valvassori Peroni"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:phone" v="+39 02 2364182"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Trattoria Sole"/>
+    <tag k="opening_hours" v="Mo-Fr 12:00-14:00, Mo-Sa 20:00-23:30"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:edenred_ticket" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="5934562066" lat="45.4578274" lon="9.1514345" version="2" timestamp="2024-04-05T08:24:53Z" changeset="149602650" uid="186480" user="bioia81">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
@@ -47305,6 +47334,18 @@
     <tag k="website" v="https://ambrosianasrl.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="13338529237" lat="45.4706925" lon="9.1785909" version="3" timestamp="2026-01-14T08:22:55Z" changeset="177209167" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="check_date" v="2025-11-28"/>
+    <tag k="defibrillator:location" v="Interno ufficio corpo di guardia."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="image" v="https://openaedmap.org/api/v1/photos/view/UZXeCs_gM7h5OWi8-lNOog.webp"/>
+    <tag k="image:license" v="CC0"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="operator" v="Comune di Milano"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="13338531645" lat="45.4624211" lon="9.1734031" version="4" timestamp="2025-12-01T19:47:14Z" changeset="175373864" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="check_date" v="2025-11-28"/>
@@ -47581,6 +47622,25 @@
     <tag k="level" v="0"/>
     <tag k="panoramax" v="004bfd1d-8809-453b-b233-5fd5d30924d6"/>
     <tag k="survey:date" v="2026-01-13"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13455478774" lat="45.5013204" lon="9.1555064" version="4" timestamp="2026-01-14T08:11:30Z" changeset="177209167" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Esterno bar"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="panoramax" v="9090e3e1-100f-4dcd-9a16-a0cb30162756"/>
+    <tag k="survey:date" v="2026-01-14"/>
+    <tag k="wheelchair" v="designated"/>
+  </node>
+  <node id="13456007053" lat="45.5015581" lon="9.1592807" version="3" timestamp="2026-01-14T15:52:25Z" changeset="177225586" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location:en" v="Station entrance"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="panoramax" v="300a292b-1e4a-4fc1-a2d5-ed78df346bb5"/>
+    <tag k="survey:date" v="2026-01-14"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
