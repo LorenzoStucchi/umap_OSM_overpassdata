@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-16T04:29:11Z" areas="2026-01-15T21:02:06Z"/>
+<meta osm_base="2026-01-17T04:22:25Z" areas="2026-01-16T23:22:22Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -9116,7 +9116,7 @@
     <tag k="tobacco" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2409688064" lat="45.4841912" lon="9.1872671" version="7" timestamp="2024-04-15T17:52:13Z" changeset="150051645" uid="1404750" user="Yiyi (itwikipedia)">
+  <node id="2409688064" lat="45.4841912" lon="9.1872671" version="7" timestamp="2024-04-15T17:52:13Z" changeset="150051645" uid="1404750" user="Yiyi_">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="1"/>
@@ -21548,7 +21548,7 @@
     <tag k="ref:vatin" v="IT09542640157"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4198278497" lat="45.4516876" lon="9.1614577" version="7" timestamp="2023-12-21T09:22:23Z" changeset="145362580" uid="1404750" user="Yiyi (itwikipedia)">
+  <node id="4198278497" lat="45.4516876" lon="9.1614577" version="7" timestamp="2023-12-21T09:22:23Z" changeset="145362580" uid="1404750" user="Yiyi_">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:street" v="Via Tortona"/>
@@ -27680,14 +27680,14 @@
     <tag k="sport" v="basketball"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5438626021" lat="45.4521243" lon="9.2522773" version="5" timestamp="2024-04-15T16:41:26Z" changeset="150048481" uid="89897" user="airon90">
+  <node id="5438626021" lat="45.4521243" lon="9.2522773" version="7" timestamp="2026-01-16T22:30:45Z" changeset="177317847" uid="15264988" user="nicola_yubo">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="20138"/>
     <tag k="addr:street" v="Via Gaudenzio Fantoli"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="nightclub"/>
-    <tag k="check_date" v="2024-04-14"/>
+    <tag k="check_date" v="2026-01-16"/>
     <tag k="contact:email" v="info@fabriquemilano.it"/>
     <tag k="contact:facebook" v="fabriquemilano"/>
     <tag k="contact:instagram" v="fabrique_milano"/>
@@ -27697,9 +27697,14 @@
     <tag k="live_music" v="yes"/>
     <tag k="name" v="Fabrique"/>
     <tag k="operator" v="Tutti per Uno S.R.L."/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="ref:vatin" v="IT08435070969"/>
     <tag k="smoking" v="outside"/>
-    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5443930444" lat="45.4509476" lon="9.2022056" version="4" timestamp="2025-07-15T09:25:27Z" changeset="168953876" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -39849,6 +39854,11 @@
     <tag k="vending" v="public_transport_tickets"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="10313758903" lat="45.4617731" lon="9.2402412" version="4" timestamp="2026-01-16T17:32:38Z" changeset="177308026" uid="15264988" user="nicola_yubo">
+    <tag k="name" v="Repetti"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="10536755533" lat="45.4762039" lon="9.2049555" version="4" timestamp="2024-05-23T19:40:24Z" changeset="151740672" uid="20905165" user="nu99et">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
@@ -40632,6 +40642,11 @@
   </node>
   <node id="10807022919" lat="45.4662098" lon="9.1498810" version="3" timestamp="2025-11-21T17:38:04Z" changeset="174959108" uid="13697350" user="c674a">
     <tag k="name" v="De Angeli"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10808428309" lat="45.4617899" lon="9.2402416" version="3" timestamp="2026-01-16T17:32:38Z" changeset="177308026" uid="15264988" user="nicola_yubo">
+    <tag k="name" v="Repetti"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -47641,6 +47656,37 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="panoramax" v="300a292b-1e4a-4fc1-a2d5-ed78df346bb5"/>
     <tag k="survey:date" v="2026-01-14"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13461275832" lat="45.4456602" lon="9.1784103" version="3" timestamp="2026-01-16T23:36:45Z" changeset="177319143" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Dentro bar Frizzi e Lazzi."/>
+    <tag k="defibrillator:location:en" v="Inside Bar"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="opening_hours" v="00:00-02:00, 18:30-00:00; PH off"/>
+    <tag k="survey:date" v="2026-01-16"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="13461349504" lat="45.4528254" lon="9.2530748" version="1" timestamp="2026-01-16T22:30:45Z" changeset="177317847" uid="15264988" user="nicola_yubo">
+    <tag k="addr:floor" v="G"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="20138"/>
+    <tag k="addr:street" v="Via Gaudenzio Fantoli"/>
+    <tag k="check_date" v="2026-01-16"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/GemmiLuci/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/gemmiluci_srl"/>
+    <tag k="contact:phone" v="+39 02 5801 2222"/>
+    <tag k="contact:website" v="https://www.gemmiluci.it"/>
+    <tag k="description" v="Noleggio attrezzature per lo spettacolo"/>
+    <tag k="email" v="gemmiluci@gemmiluci.it"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Gemmi Luci"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-12:45,14:15-18:00"/>
+    <tag k="operator" v="Gemmiluci S.R.L."/>
+    <tag k="ref:vatin" v="IT09727170152"/>
+    <tag k="shop" v="rental"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
