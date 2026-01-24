@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-23T04:31:42Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-24T04:24:52Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -544,6 +544,26 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-13:30,14:15-16:15"/>
     <tag k="operator" v="Intesa San Paolo"/>
     <tag k="phone" v="+39 02 6416331"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="258034430" lat="45.4492503" lon="9.2057481" version="11" timestamp="2026-01-24T00:44:10Z" changeset="177631172" uid="23724596" user="ChimpanBC">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Via Piacenza"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date:opening_hours" v="2026-01-24"/>
+    <tag k="contact:email" v="info@farmaciaroma.org"/>
+    <tag k="contact:phone" v="+39 02 59900565"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Roma snc"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-12:30,15:30-19:30; Sa 08:30-12:30"/>
+    <tag k="operator" v="Roma snc"/>
+    <tag k="ref:msal" v="2946"/>
+    <tag k="ref:vatin" v="IT04087880961"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://www.farmaciaroma.org/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="258035188" lat="45.4489609" lon="9.2029222" version="9" timestamp="2025-11-15T21:01:31Z" changeset="174704125" uid="13697350" user="c674a">
@@ -2267,11 +2287,13 @@
     <tag k="operator" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="439221112" lat="45.4487641" lon="9.2036681" version="4" timestamp="2025-07-15T09:21:42Z" changeset="168953647" uid="290680" user="wheelmap_visitor">
+  <node id="439221112" lat="45.4487641" lon="9.2036681" version="6" timestamp="2026-01-24T00:50:15Z" changeset="177631174" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20135"/>
     <tag k="addr:street" v="Via Piacenza"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Hotel Piacenza"/>
     <tag k="phone" v="+39 02 5455041"/>
     <tag k="rooms" v="24"/>
@@ -3531,6 +3553,21 @@
     <tag k="addr:street" v="Piazzetta Maurilio Bossi"/>
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Bar Dei Bossi"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1272557499" lat="45.4471527" lon="9.2069388" version="8" timestamp="2026-01-24T00:38:14Z" changeset="177631174" uid="23724596" user="ChimpanBC">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Viale Isonzo"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Grand Visconti Palace"/>
+    <tag k="rooms" v="172"/>
+    <tag k="stars" v="4"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.grandviscontipalace.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1272557596" lat="45.4477507" lon="9.2098950" version="8" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
@@ -9131,6 +9168,25 @@
     <tag k="source" v="local_knowledge"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wifi" v="no"/>
+  </node>
+  <node id="2409197185" lat="45.4496514" lon="9.2060306" version="13" timestamp="2026-01-24T00:42:11Z" changeset="177631246" uid="23724596" user="ChimpanBC">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Piazza Bruno Buozzi"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="cuisine" v="chicken"/>
+    <tag k="name" v="Giannasi"/>
+    <tag k="note" v="Pollo allo spiedo e prodotti gastronomici"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:30; Sa 08:00-20:30"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+393208576881"/>
+    <tag k="start_date" v="1967"/>
+    <tag k="takeaway" v="only"/>
+    <tag k="website" v="https://www.giannasi1967.com/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2409197193" lat="45.4499326" lon="9.2053097" version="3" timestamp="2025-07-15T09:29:23Z" changeset="168954133" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="cafe"/>
@@ -45462,6 +45518,23 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="12615805577" lat="45.4492393" lon="9.2055973" version="5" timestamp="2026-01-24T00:45:39Z" changeset="177631246" uid="23724596" user="ChimpanBC">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Via Piacenza"/>
+    <tag k="check_date:opening_hours" v="2026-01-24"/>
+    <tag k="email" v="gaghe2016@gmail.com"/>
+    <tag k="name" v="Gaghe"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-20:00; Su 10:00-19:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+39 02 84076284"/>
+    <tag k="ref:vatin" v="IT09294440962"/>
+    <tag k="shop" v="food"/>
+    <tag k="website" v="https://www.gaghe.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="12618281114" lat="45.4667310" lon="9.1520412" version="2" timestamp="2025-07-15T10:00:25Z" changeset="168956335" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Casa Dalfilo"/>
     <tag k="shop" v="household_linen"/>
@@ -57042,8 +57115,8 @@
     <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-viale-famagosta-milano.fam.html"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="661097834" version="4" timestamp="2025-09-05T17:56:08Z" changeset="171511387" uid="13697350" user="c674a">
-    <center lat="45.4588523" lon="9.1448470"/>
+  <way id="661097834" version="5" timestamp="2026-01-23T16:12:41Z" changeset="177616321" uid="13840929" user="aa30mom">
+    <center lat="45.4588523" lon="9.1448402"/>
     <nd ref="6189385972"/>
     <nd ref="13121583899"/>
     <nd ref="13121583898"/>
@@ -57065,9 +57138,8 @@
     <nd ref="6189385976"/>
     <nd ref="13121583892"/>
     <nd ref="1487629700"/>
-    <nd ref="1487629710"/>
-    <nd ref="1487629709"/>
-    <nd ref="1487629757"/>
+    <nd ref="257680368"/>
+    <nd ref="257680367"/>
     <nd ref="1487629758"/>
     <nd ref="1487629737"/>
     <nd ref="6189385972"/>
