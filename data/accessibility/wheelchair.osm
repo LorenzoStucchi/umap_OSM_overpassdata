@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-25T04:41:55Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-26T04:45:02Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -11255,8 +11255,11 @@
     <tag k="website" v="https://www.autorigoldi.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2533997433" lat="45.4839903" lon="9.2160479" version="3" timestamp="2025-07-15T09:35:47Z" changeset="168954612" uid="290680" user="wheelmap_visitor">
+  <node id="2533997433" lat="45.4839903" lon="9.2160479" version="5" timestamp="2026-01-25T13:23:14Z" changeset="177681329" uid="23724596" user="ChimpanBC">
     <tag k="name" v="Street cafe"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="payment:debit_cards" v="no"/>
     <tag k="shop" v="kiosk"/>
     <tag k="tobacco" v="yes"/>
     <tag k="wheelchair" v="no"/>
@@ -20580,9 +20583,9 @@
     <tag k="tourism" v="hostel"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4023217982" lat="45.4842215" lon="9.2160004" version="3" timestamp="2025-07-15T09:36:45Z" changeset="168954669" uid="290680" user="wheelmap_visitor">
+  <node id="4023217982" lat="45.4842215" lon="9.2160004" version="4" timestamp="2026-01-25T13:21:47Z" changeset="177681093" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="vending_machine"/>
-    <tag k="check_date" v="2023-03-09"/>
+    <tag k="check_date" v="2026-01-25"/>
     <tag k="vending" v="parking_tickets"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -30232,25 +30235,6 @@
     <tag k="locked" v="yes"/>
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="5913247063" lat="45.4808384" lon="9.2263821" version="4" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:postcode" v="20131"/>
-    <tag k="addr:street" v="Via Andrea Maria Ampère"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="club" v="board_games"/>
-    <tag k="contact:email" v="info@laforgiadeglieroi.it"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/ForgiadegliEroi"/>
-    <tag k="contact:phone" v="+39 02 49799108"/>
-    <tag k="contact:website" v="http://www.laforgiadeglieroi.it"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="La Forgia degli Eroi"/>
-    <tag k="opening_hours" v="We-Th 07:00-01:00; Fr-Sa 07:00-02:00; Su-Mo 07:00-01:00"/>
-    <tag k="operator" v="La Forgia degli Eroi Srl"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="ref:vatin" v="IT09483070968"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5915416468" lat="45.4852757" lon="9.2358578" version="3" timestamp="2025-08-07T13:37:24Z" changeset="170107413" uid="89897" user="airon90">
     <tag k="addr:city" v="Milano"/>
@@ -51316,7 +51300,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="136077621" version="2" timestamp="2012-03-17T00:07:23Z" changeset="11001752" uid="290680" user="wheelmap_visitor">
-    <center lat="45.4550503" lon="9.1468617"/>
+    <center lat="45.4550475" lon="9.1468502"/>
     <nd ref="1493255189"/>
     <nd ref="1493255194"/>
     <nd ref="1493255007"/>
@@ -54156,7 +54140,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="255758754" version="3" timestamp="2021-08-16T08:29:16Z" changeset="109735359" uid="4413023" user="realjep">
+  <way id="255758754" version="4" timestamp="2026-01-25T13:41:10Z" changeset="177682015" uid="23724596" user="ChimpanBC">
     <center lat="45.4805959" lon="9.2239100"/>
     <nd ref="2614477773"/>
     <nd ref="2614477742"/>
@@ -54171,10 +54155,11 @@
     <nd ref="2614477754"/>
     <nd ref="2614477755"/>
     <nd ref="2614477773"/>
+    <tag k="check_date:wheelchair" v="2026-01-25"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="255758755" version="3" timestamp="2021-08-16T08:29:51Z" changeset="109735359" uid="4413023" user="realjep">
+  <way id="255758755" version="4" timestamp="2026-01-25T13:41:08Z" changeset="177682015" uid="23724596" user="ChimpanBC">
     <center lat="45.4801884" lon="9.2239962"/>
     <nd ref="2614477776"/>
     <nd ref="2614477732"/>
@@ -54195,6 +54180,7 @@
     <nd ref="2614477746"/>
     <nd ref="2614477766"/>
     <nd ref="2614477776"/>
+    <tag k="check_date:wheelchair" v="2026-01-25"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
