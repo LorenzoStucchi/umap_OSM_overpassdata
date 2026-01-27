@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-26T04:45:02Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-27T04:36:20Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -20380,12 +20380,13 @@
     <tag k="website" v="https://www.farmaciafoglia.eu/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3991744051" lat="45.4573757" lon="9.1910934" version="5" timestamp="2023-11-07T09:55:28Z" changeset="143728613" uid="9451067" user="b-jazz-bot">
+  <node id="3991744051" lat="45.4573757" lon="9.1910934" version="6" timestamp="2026-01-26T16:01:20Z" changeset="177726441" uid="15264988" user="nicola_yubo">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Via Santa Sofia"/>
+    <tag k="check_date" v="2026-01-26"/>
     <tag k="email" v="info@canadahotel.it"/>
     <tag k="fax" v="+390258300282"/>
     <tag k="name" v="Hotel Canada"/>
@@ -21243,6 +21244,17 @@
     <tag k="amenity" v="waste_basket"/>
     <tag k="check_date" v="2023-10-28"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4170033716" lat="45.4626148" lon="9.1949687" version="3" timestamp="2026-01-26T16:01:12Z" changeset="177726424" uid="15264988" user="nicola_yubo">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="Piazza Santo Stefano"/>
+    <tag k="name" v="Rogari"/>
+    <tag k="opening_hours" v="Mo-Fr 14:30-18:30, Tu-Fr 09:30-13:30, Sa 09:30-13:00"/>
+    <tag k="shop" v="furniture"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4172175290" lat="45.4817133" lon="9.2115540" version="3" timestamp="2025-07-15T10:02:16Z" changeset="168956467" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="3"/>
@@ -44133,34 +44145,21 @@
     <tag k="tourism" v="gallery"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11780461972" lat="45.4566306" lon="9.1510253" version="5" timestamp="2026-01-24T13:58:13Z" changeset="177647176" uid="13840929" user="aa30mom">
+  <node id="11780461972" lat="45.4566306" lon="9.1510253" version="6" timestamp="2026-01-26T11:16:40Z" changeset="177715597" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:street" v="Via Privata Barce"/>
-    <tag k="entrance" v="main"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="11780461973" lat="45.4565482" lon="9.1508845" version="2" timestamp="2026-01-19T15:48:02Z" changeset="177435935" uid="13840929" user="aa30mom">
-    <tag k="access" v="private"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Via Privata Barce"/>
-    <tag k="entrance" v="main"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="11780461974" lat="45.4565118" lon="9.1506030" version="2" timestamp="2025-06-10T08:57:18Z" changeset="167433553" uid="13840929" user="aa30mom">
-    <tag k="access" v="private"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20146"/>
     <tag k="addr:street" v="Via Privata Barce"/>
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11780461975" lat="45.4566646" lon="9.1511422" version="2" timestamp="2026-01-19T15:48:02Z" changeset="177435935" uid="13840929" user="aa30mom">
+  <node id="11780461974" lat="45.4565118" lon="9.1506030" version="3" timestamp="2026-01-26T11:16:40Z" changeset="177715597" uid="13840929" user="aa30mom">
+    <tag k="access" v="private"/>
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20146"/>
     <tag k="addr:street" v="Via Privata Barce"/>
-    <tag k="entrance" v="main"/>
+    <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11793046259" lat="45.4648149" lon="9.1927288" version="4" timestamp="2025-07-19T09:47:12Z" changeset="169143743" uid="13840929" user="aa30mom">
@@ -55654,15 +55653,17 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q111123694"/>
   </way>
-  <way id="369263361" version="3" timestamp="2025-10-23T16:09:08Z" changeset="173682191" uid="13697350" user="c674a">
-    <center lat="45.4594999" lon="9.1484051"/>
-    <nd ref="3730689811"/>
+  <way id="369263361" version="4" timestamp="2026-01-26T11:36:12Z" changeset="177716273" uid="13840929" user="aa30mom">
+    <center lat="45.4594888" lon="9.1484536"/>
+    <nd ref="13495527811"/>
     <nd ref="3730689812"/>
     <nd ref="3730689813"/>
     <nd ref="3730689814"/>
+    <nd ref="13495527809"/>
+    <nd ref="13495527808"/>
     <nd ref="3730689817"/>
     <nd ref="3730689816"/>
-    <nd ref="3730689811"/>
+    <nd ref="13495527811"/>
     <tag k="barrier" v="fence"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
