@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-17T05:07:33Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-18T05:09:22Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -25259,7 +25259,7 @@
     <tag k="website" v="http://www.fornocantoni.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4788530423" lat="45.4638625" lon="9.1909370" version="8" timestamp="2025-10-28T18:00:21Z" changeset="173895841" uid="18794438" user="Alexandr_Konovalov">
+  <node id="4788530423" lat="45.4638625" lon="9.1909370" version="9" timestamp="2026-02-17T17:10:22Z" changeset="178689493" uid="11753427" user="AvéloXYZ">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="charge" v="2.00"/>
@@ -29664,11 +29664,7 @@
     <tag k="payment:satispay" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5787332282" lat="45.4839747" lon="9.2046296" version="7" timestamp="2023-10-23T18:25:41Z" changeset="143030340" uid="413098" user="jeyh">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Piazza Duca d'Aosta"/>
+  <node id="5787332282" lat="45.4839747" lon="9.2046296" version="8" timestamp="2026-02-17T07:57:59Z" changeset="178664833" uid="8473" user="fparri">
     <tag k="amenity" v="fast_food"/>
     <tag k="contact:phone" v="+39 02 66989365"/>
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/Restaurant_Review-g187849-d4243375"/>
@@ -48695,6 +48691,11 @@
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="13541257201" lat="45.4771806" lon="9.2280252" version="5" timestamp="2026-02-17T14:43:12Z" changeset="178683389" uid="22971213" user="littlewindow">
+    <tag k="door" v="sliding"/>
+    <tag k="level" v="1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="13570047674" lat="45.4881719" lon="9.1952723" version="1" timestamp="2026-02-16T15:02:41Z" changeset="178634356" uid="8473" user="fparri">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
@@ -54926,6 +54927,18 @@
     <tag k="smoking" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="285715638" version="2" timestamp="2026-02-17T18:12:45Z" changeset="178692127" uid="23821100" user="trauplete">
+    <center lat="45.5057728" lon="9.1991625"/>
+    <nd ref="2893572771"/>
+    <nd ref="2893572778"/>
+    <nd ref="2893572772"/>
+    <nd ref="2893572773"/>
+    <nd ref="2893572774"/>
+    <nd ref="2893572775"/>
+    <nd ref="2893572771"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
+  </way>
   <way id="285716952" version="2" timestamp="2021-03-13T13:05:54Z" changeset="100952845" uid="4413023" user="realjep">
     <center lat="45.5133103" lon="9.2070261"/>
     <nd ref="2893595137"/>
@@ -60850,7 +60863,7 @@
     <tag k="name" v="Spazio Varesina 204"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1476216333" version="10" timestamp="2026-02-14T11:49:14Z" changeset="178540892" uid="11976" user="Map47">
+  <way id="1476216333" version="14" timestamp="2026-02-17T16:09:02Z" changeset="178686962" uid="21123780" user="hariborange">
     <center lat="45.4772041" lon="9.2280718"/>
     <nd ref="13541167401"/>
     <nd ref="13541122401"/>
@@ -60897,16 +60910,20 @@
     <nd ref="13546663402"/>
     <nd ref="13546664601"/>
     <nd ref="13546664502"/>
+    <nd ref="13573716001"/>
     <nd ref="13546698601"/>
+    <nd ref="13573715902"/>
     <nd ref="13546664402"/>
     <nd ref="13546664503"/>
     <nd ref="13546664403"/>
     <nd ref="13546664404"/>
     <nd ref="13546664002"/>
     <nd ref="13541055002"/>
+    <nd ref="13541055002"/>
+    <nd ref="13541215601"/>
     <nd ref="13541214901"/>
-    <nd ref="13546664204"/>
-    <nd ref="13541058002"/>
+    <nd ref="13573207702"/>
+    <nd ref="13573207702"/>
     <nd ref="13541214907"/>
     <nd ref="13541181601"/>
     <nd ref="13541167501"/>
@@ -60915,6 +60932,18 @@
     <nd ref="13541167401"/>
     <tag k="access" v="private"/>
     <tag k="indoor" v="corridor"/>
+    <tag k="level" v="1"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1479718757" version="1" timestamp="2026-02-17T14:43:15Z" changeset="178683389" uid="22971213" user="littlewindow">
+    <center lat="45.4771812" lon="9.2280134"/>
+    <nd ref="13573233301"/>
+    <nd ref="13573233203"/>
+    <nd ref="13573233202"/>
+    <nd ref="13573233201"/>
+    <nd ref="13573233301"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="indoor" v="room"/>
     <tag k="level" v="1"/>
     <tag k="wheelchair" v="yes"/>
   </way>
