@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-18T05:09:22Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-19T05:08:21Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -29155,6 +29155,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="5694558564" lat="45.4911549" lon="9.2183631" version="5" timestamp="2026-02-18T23:48:16Z" changeset="178747471" uid="23629183" user="Fla13">
+    <tag k="name" v="Pasteur"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="5695173923" lat="45.4943979" lon="9.2163609" version="2" timestamp="2019-03-27T11:53:45Z" changeset="68583514" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="83"/>
@@ -36684,6 +36689,15 @@
     <tag k="website" v="http://www.lechicmilano.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="9561991645" lat="45.4950548" lon="9.1841307" version="2" timestamp="2026-02-18T10:17:22Z" changeset="178718006" uid="2211171" user="Angelo Mai">
+    <tag k="access" v="private"/>
+    <tag k="barrier" v="bollard"/>
+    <tag k="bollard" v="removable"/>
+    <tag k="foot" v="yes"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="9566331458" lat="45.4957201" lon="9.2439318" version="1" timestamp="2022-03-09T15:53:16Z" changeset="118284598" uid="2370220" user="Paolo pn">
     <tag k="blind" v="limited"/>
     <tag k="fitness_station" v="yes"/>
@@ -39269,14 +39283,6 @@
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="10036294918" lat="45.4550527" lon="9.1321071" version="2" timestamp="2026-02-11T16:04:57Z" changeset="178413602" uid="13840929" user="aa30mom">
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="unisex" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="10036315017" lat="45.4573367" lon="9.2196232" version="1" timestamp="2022-09-19T11:21:52Z" changeset="126367229" uid="10153698" user="Francesco Cioria">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="yes"/>
@@ -53445,7 +53451,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="199881162" version="4" timestamp="2024-11-12T17:47:33Z" changeset="159061090" uid="6220204" user="Ysogo">
-    <center lat="45.4412989" lon="9.1190220"/>
+    <center lat="45.4412927" lon="9.1190054"/>
     <nd ref="2098675836"/>
     <nd ref="2098675839"/>
     <nd ref="2098675834"/>
@@ -60019,6 +60025,50 @@
     <tag k="motor_vehicle" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="1218239972" version="9" timestamp="2026-02-18T06:52:31Z" changeset="178710527" uid="13697350" user="c674a">
+    <center lat="45.4413803" lon="9.2551717"/>
+    <nd ref="11288436105"/>
+    <nd ref="11288436106"/>
+    <nd ref="11288436107"/>
+    <nd ref="11288436108"/>
+    <nd ref="12742196440"/>
+    <nd ref="11288436109"/>
+    <nd ref="11288436110"/>
+    <nd ref="12742196441"/>
+    <nd ref="11288436111"/>
+    <nd ref="12742196439"/>
+    <nd ref="11288436112"/>
+    <nd ref="13450152967"/>
+    <nd ref="11288436094"/>
+    <nd ref="12742196442"/>
+    <nd ref="11288436095"/>
+    <nd ref="11288436098"/>
+    <nd ref="11288436099"/>
+    <nd ref="11288436100"/>
+    <nd ref="11288436101"/>
+    <nd ref="11288436102"/>
+    <nd ref="11288436103"/>
+    <nd ref="11288436104"/>
+    <nd ref="11288436096"/>
+    <nd ref="11288436097"/>
+    <nd ref="11288436105"/>
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="148"/>
+    <tag k="addr:postcode" v="20148"/>
+    <tag k="addr:street" v="Via Romualdo Bonfadini"/>
+    <tag k="building" v="stadium"/>
+    <tag k="check_date" v="2026-02-18"/>
+    <tag k="email" v="info@arenamilano.it"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="PalaItalia - Arena Santa Giulia"/>
+    <tag k="sport" v="multi"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://arenamilano.it/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q64825395"/>
+    <tag k="wikipedia" v="it:Arena Santa Giulia"/>
+  </way>
   <way id="1225398812" version="10" timestamp="2025-09-28T19:18:22Z" changeset="172581410" uid="13920670" user="ottanium">
     <center lat="45.5135238" lon="9.0998746"/>
     <nd ref="11363888954"/>
@@ -60863,7 +60913,7 @@
     <tag k="name" v="Spazio Varesina 204"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1476216333" version="14" timestamp="2026-02-17T16:09:02Z" changeset="178686962" uid="21123780" user="hariborange">
+  <way id="1476216333" version="15" timestamp="2026-02-18T11:42:27Z" changeset="178721800" uid="11976" user="Map47">
     <center lat="45.4772041" lon="9.2280718"/>
     <nd ref="13541167401"/>
     <nd ref="13541122401"/>
@@ -60919,10 +60969,8 @@
     <nd ref="13546664404"/>
     <nd ref="13546664002"/>
     <nd ref="13541055002"/>
-    <nd ref="13541055002"/>
     <nd ref="13541215601"/>
     <nd ref="13541214901"/>
-    <nd ref="13573207702"/>
     <nd ref="13573207702"/>
     <nd ref="13541214907"/>
     <nd ref="13541181601"/>
@@ -60946,6 +60994,24 @@
     <tag k="indoor" v="room"/>
     <tag k="level" v="1"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1480395945" version="1" timestamp="2026-02-18T20:01:22Z" changeset="178741402" uid="18266291" user="Nicola Allegranza">
+    <center lat="45.4771897" lon="9.2280092"/>
+    <nd ref="13577858295"/>
+    <nd ref="13574688982"/>
+    <nd ref="13577858294"/>
+    <nd ref="13577858293"/>
+    <nd ref="13577858292"/>
+    <nd ref="13577858291"/>
+    <nd ref="13577858290"/>
+    <nd ref="13577858289"/>
+    <nd ref="13577858288"/>
+    <nd ref="13577858295"/>
+    <tag k="access" v="private"/>
+    <tag k="indoor" v="room"/>
+    <tag k="level" v="-1"/>
+    <tag k="room" v="toilets"/>
+    <tag k="wheelchair" v="designated"/>
   </way>
 
 </osm>
