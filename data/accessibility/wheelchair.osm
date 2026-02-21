@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-20T05:03:33Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-21T04:54:58Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5720,7 +5720,7 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1735145994" lat="45.4730094" lon="9.2305622" version="6" timestamp="2025-03-22T13:18:10Z" changeset="163947174" uid="12266546" user="tiziodcaio">
+  <node id="1735145994" lat="45.4730094" lon="9.2305622" version="7" timestamp="2026-02-20T11:27:45Z" changeset="178814508" uid="18379809" user="niels-valec">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20133"/>
@@ -5731,10 +5731,12 @@
     <tag k="contact:facebook" v="https://www.facebook.com/gelateria.gorini"/>
     <tag k="contact:phone" v="+39 02 70000721"/>
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.it/Restaurant_Review-g187849-d5281564-Reviews-Gelateria_Gorini-Milan_Lombardy.html"/>
+    <tag k="indoor_seating" v="no"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="Gelateria Gorini"/>
     <tag k="opening_hours" v="Mo-Su  11:00-21:00"/>
     <tag k="operator" v="Enza Addis &amp; C. SNC"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
@@ -5742,11 +5744,12 @@
     <tag k="start_date" v="2003"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1735145995" lat="45.4733193" lon="9.2305899" version="5" timestamp="2023-11-16T17:54:55Z" changeset="144106496" uid="4862063" user="tars4815">
+  <node id="1735145995" lat="45.4733193" lon="9.2305899" version="6" timestamp="2026-02-20T11:27:21Z" changeset="178814508" uid="18379809" user="niels-valec">
     <tag k="amenity" v="bar"/>
     <tag k="brewery" v="no"/>
     <tag k="check_date" v="2023-11-16"/>
     <tag k="dog" v="unleashed"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="no"/>
     <tag k="microbrewery" v="no"/>
     <tag k="name" v="Cafè de Flore"/>
@@ -11150,10 +11153,12 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2516378868" lat="45.4724531" lon="9.2304599" version="2" timestamp="2023-11-16T17:56:13Z" changeset="144106536" uid="4862063" user="tars4815">
+  <node id="2516378868" lat="45.4724531" lon="9.2304599" version="3" timestamp="2026-02-20T11:28:37Z" changeset="178814508" uid="18379809" user="niels-valec">
     <tag k="amenity" v="bar"/>
     <tag k="check_date" v="2023-11-16"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Niki Bar"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2516378889" lat="45.4685592" lon="9.2303688" version="6" timestamp="2024-02-05T16:14:27Z" changeset="147100164" uid="1875845" user="Valerio_Bozzolan">
@@ -36476,6 +36481,25 @@
     <tag k="website" v="https://www.cinemabeltrade.net/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="9546800591" lat="45.4859098" lon="9.2059805" version="6" timestamp="2026-02-20T13:50:27Z" changeset="178820279" uid="15541433" user="paulbrunner">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1/15"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Piazza Luigi di Savoia"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="branch" v="Milano Stazione Centrale"/>
+    <tag k="check_date" v="2026-02-20"/>
+    <tag k="diet:vegan" v="limited"/>
+    <tag k="diet:vegetarian" v="limited"/>
+    <tag k="email" v="infoallanticovinaio@gmail.com"/>
+    <tag k="name" v="All'Antico Vinaio"/>
+    <tag k="opening_hours" v="10:00-22:00"/>
+    <tag k="phone" v="+39 333 269 0704"/>
+    <tag k="start_date" v="2002-09-12"/>
+    <tag k="website" v="https://www.allanticovinaio.com/milano-stazione-centrale/"/>
+    <tag k="website:menu" v="https://www.allanticovinaio.com/menu/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="9546918211" lat="45.4659952" lon="9.2170096" version="4" timestamp="2024-06-23T09:39:29Z" changeset="153058992" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="33"/>
@@ -42685,13 +42709,6 @@
     <tag k="shop" v="dry_cleaning"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11356476414" lat="45.4732128" lon="9.2305988" version="1" timestamp="2023-11-16T17:54:55Z" changeset="144106496" uid="4862063" user="tars4815">
-    <tag k="beauty" v="nails"/>
-    <tag k="check_date" v="2023-11-16"/>
-    <tag k="name" v="Solarium Estetica"/>
-    <tag k="shop" v="beauty"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="11367217666" lat="45.4802789" lon="9.1236449" version="2" timestamp="2024-09-06T15:16:11Z" changeset="156280431" uid="67550" user="Aiman">
     <tag k="access" v="permissive"/>
     <tag k="defibrillator:location" v="Reception albergo, sulla destra"/>
@@ -47441,7 +47458,7 @@
     <tag k="website" v="https://www.polimi.it/campus-e-servizi/spazi-e-aule-studio/spazi/poliprint"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13144010721" lat="45.4433991" lon="9.1677616" version="6" timestamp="2026-01-27T10:00:25Z" changeset="177754756" uid="22919632" user="matteobott">
+  <node id="13144010721" lat="45.4433991" lon="9.1677616" version="7" timestamp="2026-02-20T17:16:50Z" changeset="178828441" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="check_date" v="2025-09-15"/>
     <tag k="defibrillator:location" v="Scendere nella stazione M2. Oltrepassare i tornelli e dirigersi verso le scale della banchina per Abbiategrasso/Assago."/>
@@ -47451,6 +47468,7 @@
     <tag k="opening_hours" v="Mo-Su06:00-24:45"/>
     <tag k="operator" v="ATM Milano"/>
     <tag k="panoramax" v="5b4e3361-af27-4593-ab15-6d8f9b6b4e09"/>
+    <tag k="panoramax:0" v="c06965fe-224b-4fe3-a50d-2977547274a1"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="13165890821" lat="45.4210118" lon="9.1774856" version="6" timestamp="2025-12-28T17:05:52Z" changeset="176539468" uid="22919632" user="matteobott">
@@ -48974,7 +48992,7 @@
     <tag k="wikidata" v="Q902210"/>
     <tag k="wikipedia" v="it:Chiesa di San Fedele (Milano)"/>
   </way>
-  <way id="23313966" version="24" timestamp="2023-11-08T01:51:02Z" changeset="143759863" uid="9451067" user="b-jazz-bot">
+  <way id="23313966" version="25" timestamp="2026-02-20T21:44:02Z" changeset="178836662" uid="717233" user="jacopofar">
     <center lat="45.5144602" lon="9.2136591"/>
     <nd ref="252411314"/>
     <nd ref="252411315"/>
@@ -49009,6 +49027,7 @@
     <tag k="amenity" v="theatre"/>
     <tag k="building" v="public"/>
     <tag k="building:colour" v="#d6d6d7"/>
+    <tag k="check_date" v="2026-02-20"/>
     <tag k="name" v="Teatro degli Arcimboldi"/>
     <tag k="phone" v="+ 39 02 641142200"/>
     <tag k="roof:colour" v="#c0bbbd"/>
@@ -60230,12 +60249,15 @@
     <tag k="roof:colour" v="#800000"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="1238832864" version="2" timestamp="2026-01-11T21:18:56Z" changeset="177113676" uid="22919632" user="matteobott">
+  <way id="1238832864" version="3" timestamp="2026-02-20T13:54:59Z" changeset="178820475" uid="22919632" user="matteobott">
     <center lat="45.4195892" lon="9.1803221"/>
     <nd ref="11508434390"/>
     <nd ref="11508434391"/>
     <nd ref="11508434392"/>
     <nd ref="11508434393"/>
+    <nd ref="13584852327"/>
+    <nd ref="13584852329"/>
+    <nd ref="13584852328"/>
     <nd ref="11508434390"/>
     <tag k="access" v="yes"/>
     <tag k="leisure" v="dog_park"/>
