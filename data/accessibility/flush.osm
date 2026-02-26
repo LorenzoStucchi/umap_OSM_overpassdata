@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-25T04:52:30Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-02-26T07:03:56Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="251291650" lat="45.4694750" lon="9.1976909" version="13" timestamp="2024-06-27T15:24:27Z" changeset="153253001" uid="3847112" user="YieldMapper">
     <tag k="crossing" v="uncontrolled"/>
@@ -36,6 +36,13 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="1028634747" lat="45.4496305" lon="9.1799162" version="12" timestamp="2026-02-25T18:26:30Z" changeset="179050993" uid="23724596" user="ChimpanBC">
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="crossing:signals" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
   </node>
   <node id="1253819790" lat="45.4579615" lon="9.1471980" version="2" timestamp="2026-01-26T14:55:32Z" changeset="177723736" uid="13840929" user="aa30mom">
     <tag k="barrier" v="kerb"/>
@@ -804,6 +811,10 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4097991228" lat="45.4551102" lon="9.1323015" version="3" timestamp="2026-02-25T21:57:59Z" changeset="179059503" uid="13697350" user="c674a">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
   </node>
   <node id="4109272115" lat="45.5117115" lon="9.1283738" version="5" timestamp="2025-11-06T21:21:14Z" changeset="174307855" uid="22891840" user="VLD317">
     <tag k="barrier" v="kerb"/>
@@ -3686,6 +3697,11 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
+  <node id="6512705474" lat="45.4540584" lon="9.1742164" version="5" timestamp="2026-02-25T22:08:55Z" changeset="179059753" uid="23724596" user="ChimpanBC">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
   <node id="6539124587" lat="45.4523406" lon="9.1767654" version="5" timestamp="2022-06-30T08:33:23Z" changeset="123033862" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
@@ -3736,8 +3752,9 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="6539244695" lat="45.4521836" lon="9.1807152" version="5" timestamp="2022-02-12T11:28:08Z" changeset="117317688" uid="1983103" user="Jorisbo">
+  <node id="6539244695" lat="45.4521836" lon="9.1807152" version="6" timestamp="2026-02-25T22:01:08Z" changeset="179059582" uid="23724596" user="ChimpanBC">
     <tag k="barrier" v="kerb"/>
+    <tag k="check_date:tactile_paving" v="2026-02-25"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
@@ -15253,11 +15270,6 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="yes"/>
   </node>
-  <node id="9492426843" lat="45.4808396" lon="9.1975940" version="2" timestamp="2025-11-11T23:21:02Z" changeset="174534592" uid="23213281" user="VLD319">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="flush"/>
-    <tag k="tactile_paving" v="yes"/>
-  </node>
   <node id="9492426844" lat="45.4808195" lon="9.1975648" version="1" timestamp="2022-02-09T13:28:12Z" changeset="117202666" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
@@ -18698,22 +18710,12 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="9529493689" lat="45.4551328" lon="9.1323623" version="3" timestamp="2026-02-11T16:04:57Z" changeset="178413602" uid="13840929" user="aa30mom">
+  <node id="9529493691" lat="45.4554025" lon="9.1322138" version="2" timestamp="2026-02-25T21:57:59Z" changeset="179059503" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="9529493690" lat="45.4551380" lon="9.1323110" version="3" timestamp="2026-02-11T16:04:57Z" changeset="178413602" uid="13840929" user="aa30mom">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="flush"/>
-    <tag k="tactile_paving" v="no"/>
-  </node>
-  <node id="9529493691" lat="45.4553805" lon="9.1322225" version="1" timestamp="2022-02-23T10:49:34Z" changeset="117764009" uid="8350372" user="Balaabirami">
-    <tag k="barrier" v="kerb"/>
-    <tag k="kerb" v="flush"/>
-    <tag k="tactile_paving" v="no"/>
-  </node>
-  <node id="9529493692" lat="45.4553889" lon="9.1321671" version="1" timestamp="2022-02-23T10:49:34Z" changeset="117764009" uid="8350372" user="Balaabirami">
+  <node id="9529493692" lat="45.4553810" lon="9.1321388" version="2" timestamp="2026-02-25T21:57:59Z" changeset="179059503" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
@@ -18778,7 +18780,7 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="9529589782" lat="45.4605475" lon="9.1330813" version="1" timestamp="2022-02-23T11:23:15Z" changeset="117765475" uid="8350372" user="Balaabirami">
+  <node id="9529589782" lat="45.4605484" lon="9.1330796" version="3" timestamp="2026-02-25T16:46:27Z" changeset="179046314" uid="13840929" user="aa30mom">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
@@ -24194,12 +24196,12 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="9594267880" lat="45.4463840" lon="9.1255661" version="2" timestamp="2026-01-31T16:33:55Z" changeset="177932881" uid="13840929" user="aa30mom">
+  <node id="9594267880" lat="45.4463823" lon="9.1255601" version="3" timestamp="2026-02-25T21:57:59Z" changeset="179059503" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
-  <node id="9594267881" lat="45.4464122" lon="9.1255482" version="2" timestamp="2026-01-31T16:33:55Z" changeset="177932881" uid="13840929" user="aa30mom">
+  <node id="9594267881" lat="45.4464109" lon="9.1255437" version="3" timestamp="2026-02-25T21:57:59Z" changeset="179059503" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
@@ -26349,6 +26351,13 @@
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="9605461017" lat="45.4496299" lon="9.1799259" version="5" timestamp="2026-02-25T18:26:33Z" changeset="179050993" uid="23724596" user="ChimpanBC">
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="crossing:signals" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
   </node>
   <node id="9605667435" lat="45.4960236" lon="9.2196905" version="2" timestamp="2023-06-21T14:19:44Z" changeset="137607629" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
@@ -43145,6 +43154,12 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="no"/>
   </node>
+  <node id="12422141752" lat="45.4540633" lon="9.1331875" version="2" timestamp="2026-02-25T21:57:59Z" changeset="179059503" uid="13697350" user="c674a">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:markings" v="yes"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+  </node>
   <node id="12435222539" lat="45.5224871" lon="9.1772309" version="2" timestamp="2025-02-10T11:10:08Z" changeset="162345761" uid="8350372" user="Balaabirami">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
@@ -43241,6 +43256,11 @@
   <node id="12639629483" lat="45.4906340" lon="9.1434017" version="2" timestamp="2025-11-02T11:29:06Z" changeset="174097967" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
+  </node>
+  <node id="12641501324" lat="45.4842427" lon="9.2033139" version="3" timestamp="2026-02-26T06:02:59Z" changeset="179068489" uid="23629183" user="Fla13">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
   </node>
   <node id="12644135739" lat="45.4787145" lon="9.1968575" version="2" timestamp="2025-12-01T18:28:37Z" changeset="175371311" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
@@ -43576,6 +43596,15 @@
     <tag k="kerb" v="flush"/>
   </node>
   <node id="13352696395" lat="45.4602898" lon="9.1130331" version="1" timestamp="2025-12-04T07:42:25Z" changeset="175476656" uid="13697350" user="c674a">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+  </node>
+  <node id="13598419297" lat="45.4808357" lon="9.1975895" version="1" timestamp="2026-02-25T16:06:22Z" changeset="179044354" uid="13878104" user="Nádudvari Tamás">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="13599496773" lat="45.4551343" lon="9.1323766" version="1" timestamp="2026-02-25T21:57:59Z" changeset="179059503" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
   </node>
