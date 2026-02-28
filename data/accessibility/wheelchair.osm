@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-27T05:09:43Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-28T04:43:44Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -48546,6 +48546,19 @@
     <tag k="cycle_barrier" v="triple"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="13357854301" lat="45.5048405" lon="9.1223749" version="5" timestamp="2026-02-27T21:34:04Z" changeset="179150554" uid="23724596" user="ChimpanBC">
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="20156"/>
+    <tag k="addr:street" v="Piazzale Cimitero Maggiore"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="check_date:opening_hours" v="2026-02-27"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Cascina Autogestita Torchiera Senz'acqua"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="website" v="https://torchiera.noblogs.org/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="13359642801" lat="45.4529785" lon="9.1753479" version="3" timestamp="2026-02-25T22:14:00Z" changeset="179059879" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2A"/>
@@ -49221,6 +49234,25 @@
     <tag k="shop" v="bakery"/>
     <tag k="website" v="http://www.pasticcerianavottisenzaglutine.com/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13605272686" lat="45.4465077" lon="9.1884697" version="3" timestamp="2026-02-27T11:54:36Z" changeset="179127235" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Reception"/>
+    <tag k="defibrillator:location:en" v="Reception"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-22:00; Sa 07:30-19:00; Su 08:30-19:00"/>
+    <tag k="wheelchair" v="designated"/>
+  </node>
+  <node id="13605273050" lat="45.4250508" lon="9.1730555" version="2" timestamp="2026-02-27T11:42:25Z" changeset="179127235" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Piscina Sant'Abbondio. Di fianco alla reception"/>
+    <tag k="defibrillator:location:en" v="Next to reception"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
@@ -55444,6 +55476,22 @@
     <tag k="smoking" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="281856553" version="6" timestamp="2026-02-27T15:08:22Z" changeset="179135902" uid="23629183" user="Fla13">
+    <center lat="45.4806763" lon="9.2296207"/>
+    <nd ref="256987515"/>
+    <nd ref="2858275365"/>
+    <nd ref="2858275366"/>
+    <nd ref="2858275367"/>
+    <nd ref="256987515"/>
+    <tag k="amenity" v="police"/>
+    <tag k="building" v="public"/>
+    <tag k="check_date" v="2024-03-10"/>
+    <tag k="name" v="Polizia Locale – Comando di zona 3"/>
+    <tag k="operator" v="Polizia Locale"/>
+    <tag k="operator:wikidata" v="Q61634147"/>
+    <tag k="operator:wikipedia" v="it:Polizia locale (Italia)"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
   <way id="285715638" version="2" timestamp="2026-02-17T18:12:45Z" changeset="178692127" uid="23821100" user="trauplete">
     <center lat="45.5057728" lon="9.1991625"/>
     <nd ref="2893572771"/>
@@ -55984,16 +56032,18 @@
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="309384277" version="19" timestamp="2024-12-24T17:05:27Z" changeset="160582948" uid="11242131" user="ja+">
+  <way id="309384277" version="20" timestamp="2026-02-27T12:43:07Z" changeset="179129785" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5332440" lon="9.1726941"/>
     <nd ref="12449827835"/>
     <nd ref="3147137572"/>
+    <nd ref="13605386874"/>
     <nd ref="8290074500"/>
     <nd ref="8290074503"/>
     <nd ref="3147137578"/>
     <nd ref="3147137571"/>
     <nd ref="8290074502"/>
     <nd ref="8290074501"/>
+    <nd ref="13605386875"/>
     <nd ref="12449827835"/>
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
@@ -56009,18 +56059,21 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="309384278" version="17" timestamp="2024-12-24T17:05:27Z" changeset="160582948" uid="11242131" user="ja+">
+  <way id="309384278" version="18" timestamp="2026-02-27T12:43:07Z" changeset="179129785" uid="13878104" user="Nádudvari Tamás">
     <center lat="45.5332415" lon="9.1728626"/>
     <nd ref="3147137573"/>
     <nd ref="8290074498"/>
     <nd ref="8290074497"/>
     <nd ref="11876063164"/>
+    <nd ref="13605386877"/>
     <nd ref="3406798700"/>
     <nd ref="11958568303"/>
     <nd ref="11958568302"/>
     <nd ref="3147137563"/>
     <nd ref="12449827817"/>
     <nd ref="3147137564"/>
+    <nd ref="13605386878"/>
+    <nd ref="13605386876"/>
     <nd ref="8290074496"/>
     <nd ref="8290074499"/>
     <nd ref="3147137565"/>
