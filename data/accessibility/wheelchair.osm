@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-04T04:58:45Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-03-05T05:02:28Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -610,6 +610,23 @@
     <tag k="amenity" v="toilets"/>
     <tag k="check_date" v="2023-08-31"/>
     <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="260368955" lat="45.4859522" lon="9.2262255" version="13" timestamp="2026-03-04T11:29:35Z" changeset="179343698" uid="23629183" user="Fla13">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="87"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Andre' Marie Ampere"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="BENU Farmacia"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00; Su 09:00-13:00,15:00-19:00"/>
+    <tag k="operator" v="Municipale n.50"/>
+    <tag k="phone" v="+39 02 70635011"/>
+    <tag k="ref:msal" v="2769"/>
+    <tag k="ref:vatin" v="IT13195220150"/>
+    <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="263772434" lat="45.5001143" lon="9.2350329" version="7" timestamp="2022-02-25T07:18:38Z" changeset="117837322" uid="1875845" user="Valerio_Bozzolan">
@@ -4466,6 +4483,11 @@
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1505101610" lat="45.4519230" lon="9.2028672" version="3" timestamp="2025-07-15T09:36:18Z" changeset="168954633" uid="290680" user="wheelmap_visitor">
+    <tag k="name" v="Porta Romana"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1505101612" lat="45.4515243" lon="9.2028785" version="3" timestamp="2026-03-04T13:39:04Z" changeset="179350133" uid="23724596" user="ChimpanBC">
     <tag k="name" v="Porta Romana"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -16997,6 +17019,12 @@
     <tag k="source" v="survey"/>
     <tag k="toilets" v="yes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3517230925" lat="45.4828157" lon="9.2252179" version="5" timestamp="2026-03-04T11:28:00Z" changeset="179344787" uid="23629183" user="Fla13">
+    <tag k="barrier" v="gate"/>
+    <tag k="material" v="metal"/>
+    <tag k="maxwidth:physical" v="1.5"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3521819300" lat="45.4898106" lon="9.1831493" version="2" timestamp="2019-09-13T15:23:30Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -30713,7 +30741,7 @@
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5964204917" lat="45.4482656" lon="9.2090384" version="3" timestamp="2025-07-15T10:31:23Z" changeset="168957919" uid="290680" user="wheelmap_visitor">
+  <node id="5964204917" lat="45.4481745" lon="9.2091846" version="4" timestamp="2026-03-04T15:48:31Z" changeset="179355994" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="bank"/>
     <tag k="brand" v="BNL"/>
     <tag k="brand:wikidata" v="Q2201225"/>
@@ -30723,16 +30751,6 @@
     <tag k="official_name:en" v="National Labor Bank"/>
     <tag k="official_name:it" v="Banca Nazionale del Lavoro"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="5970037505" lat="45.4510920" lon="9.2008940" version="4" timestamp="2025-07-15T09:21:12Z" changeset="168953614" uid="290680" user="wheelmap_visitor">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="brand" v="Rossopomodoro"/>
-    <tag k="brand:wikidata" v="Q16598843"/>
-    <tag k="brand:wikipedia" v="it:Rossopomodoro"/>
-    <tag k="cuisine" v="pizza;seafood"/>
-    <tag k="name" v="Rossopomodoro"/>
-    <tag k="phone" v="+39 02 5832 8501"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5971878591" lat="45.5168136" lon="9.2091532" version="4" timestamp="2024-03-13T18:26:54Z" changeset="148607750" uid="12375075" user="fdila">
     <tag k="check_date" v="2024-03-13"/>
@@ -33680,9 +33698,10 @@
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8473834313" lat="45.4319839" lon="9.2436474" version="3" timestamp="2024-04-10T08:05:17Z" changeset="149807186" uid="20817555" user="Alessandro_Gianfelici">
+  <node id="8473834313" lat="45.4319839" lon="9.2436474" version="4" timestamp="2026-03-04T13:29:53Z" changeset="179349708" uid="95387" user="rugamarcus">
     <tag k="amenity" v="drinking_water"/>
     <tag k="fee" v="no"/>
+    <tag k="fountain" v="drinking"/>
     <tag k="name" v="Casa dell'acqua"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -38481,6 +38500,18 @@
     <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9881327657" lat="45.4812747" lon="9.2252776" version="5" timestamp="2026-03-04T10:59:42Z" changeset="179343698" uid="23629183" user="Fla13">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Antonio Bazzini"/>
+    <tag k="name" v="Onoranze Funebri La Pace"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+39 0223951034"/>
+    <tag k="shop" v="funeral_directors"/>
+    <tag k="website" v="https://www.impresafunebrelapacemilano.com/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="9882780947" lat="45.5220594" lon="9.2160733" version="2" timestamp="2024-10-08T09:30:54Z" changeset="157616910" uid="11220113" user="ivanbranco">
     <tag k="addr:full" v="Viale Sarca angolo Via Chiese - 20126, Milano (MI)"/>
     <tag k="amenity" v="fast_food"/>
@@ -43077,6 +43108,17 @@
     <tag k="takeaway" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11382018928" lat="45.4838787" lon="9.2252136" version="3" timestamp="2026-03-04T11:17:49Z" changeset="179343698" uid="23629183" user="Fla13">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Antonio Bazzini"/>
+    <tag k="name" v="Artigiano Expo 2015"/>
+    <tag k="opening_hours" v="We-Fr 10:30-12:30, 14:30-18:30; Sa 10:30-12:30; Mo 14:30-18:30"/>
+    <tag k="phone" v="+39 3282030465"/>
+    <tag k="shop" v="leather"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="11398040761" lat="45.4814664" lon="9.2146645" version="2" timestamp="2025-07-15T09:55:12Z" changeset="168955974" uid="290680" user="wheelmap_visitor">
     <tag k="leisure" v="pitch"/>
     <tag k="sport" v="table_tennis"/>
@@ -45360,6 +45402,18 @@
     <tag k="recycling_type" v="container"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12174353065" lat="45.4817447" lon="9.2253008" version="3" timestamp="2026-03-04T11:00:52Z" changeset="179343698" uid="23629183" user="Fla13">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Antonio Bazzini"/>
+    <tag k="name" v="Istituto San Giuseppe"/>
+    <tag k="office" v="educational_institution"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="phone" v="+39 0270600591"/>
+    <tag k="website" v="https://milano.scuolededalo.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="12178210601" lat="45.4852951" lon="9.1866699" version="1" timestamp="2024-09-15T11:50:39Z" changeset="156643819" uid="10153698" user="Francesco Cioria">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
@@ -46641,6 +46695,19 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="hardware"/>
     <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="12690619982" lat="45.4813049" lon="9.2252424" version="3" timestamp="2026-03-04T10:59:19Z" changeset="179343698" uid="23629183" user="Fla13">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Antonio Bazzini"/>
+    <tag k="check_date" v="2025-03-22"/>
+    <tag k="name" v="Copy Center Studio Emme"/>
+    <tag k="opening_hours" v="Mo-Th 08:30-18:30; Fr 08:30-18:00"/>
+    <tag k="phone" v="+39 0245495340"/>
+    <tag k="shop" v="copyshop"/>
+    <tag k="website" v="http://www.copycenterstudioemme.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="12690627525" lat="45.4808707" lon="9.2247835" version="2" timestamp="2025-09-05T15:22:38Z" changeset="171505037" uid="18490865" user="lello_ba">
@@ -48002,7 +48069,7 @@
     <tag k="operator" v="ATM Milano"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13169343201" lat="45.4784387" lon="9.2281412" version="6" timestamp="2025-12-24T14:58:45Z" changeset="176365881" uid="22919632" user="matteobott">
+  <node id="13169343201" lat="45.4784387" lon="9.2281412" version="7" timestamp="2026-03-04T14:05:56Z" changeset="179351384" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="check_date" v="2025-09-25"/>
     <tag k="defibrillator:location" v="Su Viale Tonolini, tra l'edificio 2 e l'edificio 4. Collocato a destra rispetto alle scale."/>
@@ -48013,6 +48080,7 @@
     <tag k="indoor" v="no"/>
     <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 07:00-20:00; PH off"/>
     <tag k="operator" v="Politecnico di Milano"/>
+    <tag k="panoramax" v="dfc8d4dd-e0de-43c3-92f7-1dbd26c707d3"/>
     <tag k="start_date" v="2025-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -49029,8 +49097,8 @@
     <tag k="name" v="LATA - Laboratorio Analisi e Tecnologia Ambientale"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13477747502" lat="45.4447459" lon="9.1790365" version="3" timestamp="2026-02-03T19:04:09Z" changeset="178064223" uid="23724596" user="ChimpanBC">
-    <tag k="name" v="Tabacchi caffè meda self service 24h"/>
+  <node id="13477747502" lat="45.4447459" lon="9.1790365" version="4" timestamp="2026-03-04T12:49:10Z" changeset="179347977" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Self Service 24h"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="yes"/>
@@ -49511,6 +49579,12 @@
     <tag k="level" v="0"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="survey:date" v="2026-03-03"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13617305651" lat="45.4337774" lon="9.1597342" version="1" timestamp="2026-03-04T10:01:43Z" changeset="179341236" uid="15264988" user="nicola_yubo">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="sliding"/>
+    <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -51128,6 +51202,37 @@
     <tag k="tourism" v="attraction"/>
     <tag k="wheelchair" v="no"/>
   </way>
+  <way id="40949695" version="9" timestamp="2026-03-04T11:19:14Z" changeset="179343698" uid="23629183" user="Fla13">
+    <center lat="45.4852484" lon="9.2250623"/>
+    <nd ref="3719977900"/>
+    <nd ref="1681302541"/>
+    <nd ref="3719977892"/>
+    <nd ref="1681302535"/>
+    <nd ref="1681302540"/>
+    <nd ref="1681302542"/>
+    <nd ref="1681302536"/>
+    <nd ref="498796581"/>
+    <nd ref="498796582"/>
+    <nd ref="3719977883"/>
+    <nd ref="498796583"/>
+    <nd ref="3719977891"/>
+    <nd ref="2001388985"/>
+    <nd ref="3719977885"/>
+    <nd ref="3719977901"/>
+    <nd ref="3719977894"/>
+    <nd ref="1681302547"/>
+    <nd ref="3719977906"/>
+    <nd ref="3719977887"/>
+    <nd ref="3719977900"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="building" v="hospital"/>
+    <tag k="check_date" v="2024-07-20"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="name" v="Istituto Clinico Città Studi"/>
+    <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="41267782" version="12" timestamp="2024-03-25T10:32:44Z" changeset="149123947" uid="11220113" user="ivanbranco">
     <center lat="45.4848999" lon="9.2259978"/>
     <nd ref="504505410"/>
@@ -51155,6 +51260,53 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q18223049"/>
     <tag k="wikipedia" v="it:Chiesa di San Luca Evangelista (Milano)"/>
+  </way>
+  <way id="41267785" version="7" timestamp="2026-03-04T11:19:06Z" changeset="179343698" uid="23629183" user="Fla13">
+    <center lat="45.4848323" lon="9.2256120"/>
+    <nd ref="504505439"/>
+    <nd ref="2001273366"/>
+    <nd ref="2001273365"/>
+    <nd ref="504505442"/>
+    <nd ref="504505435"/>
+    <nd ref="504505437"/>
+    <nd ref="504505439"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="building" v="hospital"/>
+    <tag k="check_date" v="2024-09-13"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="name" v="Istituto Clinico Città Studi"/>
+    <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="41459501" version="10" timestamp="2026-03-04T19:07:46Z" changeset="179364581" uid="23629183" user="Fla13">
+    <center lat="45.4888391" lon="9.2269152"/>
+    <nd ref="2001104782"/>
+    <nd ref="3161308304"/>
+    <nd ref="2001104779"/>
+    <nd ref="507108232"/>
+    <nd ref="2001104780"/>
+    <nd ref="2001104777"/>
+    <nd ref="2001104778"/>
+    <nd ref="3307951577"/>
+    <nd ref="507108233"/>
+    <nd ref="507108215"/>
+    <nd ref="1503344978"/>
+    <nd ref="507108214"/>
+    <nd ref="507108213"/>
+    <nd ref="2001104783"/>
+    <nd ref="507108212"/>
+    <nd ref="2001104782"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="check_date" v="2026-01-28"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Chiesa di Santa Maria Bianca della Misericordia"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q3673387"/>
+    <tag k="wikimedia_commons" v="Category:Santa Maria Bianca della Misericordia (Milan)"/>
+    <tag k="wikipedia" v="it:Chiesa di Santa Maria Bianca della Misericordia"/>
   </way>
   <way id="41518948" version="10" timestamp="2026-01-31T17:16:45Z" changeset="177934552" uid="23724596" user="ChimpanBC">
     <center lat="45.4916240" lon="9.2195752"/>
@@ -58644,7 +58796,7 @@
     <tag k="name" v="A.C. Milanese Corvetto"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="610305854" version="3" timestamp="2020-02-16T19:04:51Z" changeset="81079401" uid="330842" user="PJ Hooker">
+  <way id="610305854" version="4" timestamp="2026-03-04T15:13:27Z" changeset="179354193" uid="11242131" user="ja+">
     <center lat="45.4696631" lon="9.2434520"/>
     <nd ref="5780205651"/>
     <nd ref="5780205652"/>
@@ -58655,6 +58807,7 @@
     <nd ref="5780205755"/>
     <nd ref="5780205756"/>
     <nd ref="5780205757"/>
+    <nd ref="13618064610"/>
     <nd ref="5780205758"/>
     <nd ref="5780205759"/>
     <nd ref="5780205760"/>
@@ -60000,6 +60153,20 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="939079578" version="2" timestamp="2026-03-04T09:20:00Z" changeset="179339539" uid="95387" user="rugamarcus">
+    <center lat="45.4377369" lon="9.2400168"/>
+    <nd ref="8699397635"/>
+    <nd ref="8699397636"/>
+    <nd ref="8699397637"/>
+    <nd ref="8699397638"/>
+    <nd ref="8699397639"/>
+    <nd ref="8699397640"/>
+    <nd ref="8699397641"/>
+    <nd ref="8699397642"/>
+    <nd ref="8699397635"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="limited"/>
   </way>
   <way id="951200514" version="7" timestamp="2025-11-12T07:58:41Z" changeset="174545150" uid="8716397" user="f_gonella">
     <center lat="45.4594167" lon="9.2235482"/>
