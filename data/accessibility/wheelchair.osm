@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-06T04:59:54Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-03-07T04:49:58Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1544,20 +1544,24 @@
     <tag k="name" v="Matricola"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="310772644" lat="45.5161175" lon="9.2029905" version="8" timestamp="2024-03-12T17:23:14Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+  <node id="310772644" lat="45.5161146" lon="9.2029996" version="9" timestamp="2026-03-06T23:06:00Z" changeset="179467464" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="155"/>
     <tag k="addr:postcode" v="20162"/>
     <tag k="addr:street" v="Viale Giovanni Suzzani"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Municipale n. 16"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-13:00, 15:30-19:30; Su off"/>
     <tag k="operator" v="Municipale n. 16"/>
+    <tag k="phone" v="+39026432121"/>
     <tag k="ref" v="16"/>
     <tag k="ref:msal" v="2713"/>
     <tag k="ref:vatin" v="IT01199250158"/>
     <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://www.benufarma.it/farmacie/milano/store-locator-6835-benu-farmacia-milano-n-16"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="311821023" lat="45.4527433" lon="9.1421771" version="11" timestamp="2025-10-19T11:35:15Z" changeset="173486920" uid="13697350" user="c674a">
@@ -4573,6 +4577,11 @@
   </node>
   <node id="1523199210" lat="45.4847050" lon="9.2027428" version="6" timestamp="2023-04-07T14:37:34Z" changeset="134619474" uid="3396014" user="Moncecchi Daniele">
     <tag k="name" v="Centrale FS"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1523205688" lat="45.4764497" lon="9.2081281" version="5" timestamp="2026-03-06T16:24:40Z" changeset="179454400" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Milano Porta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -7830,17 +7839,19 @@
     <tag k="ref" v="MIEE8F201R"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2131348311" lat="45.4764560" lon="9.2082490" version="2" timestamp="2025-07-15T09:19:06Z" changeset="168953457" uid="290680" user="wheelmap_visitor">
+  <node id="2131348311" lat="45.4764560" lon="9.2082490" version="3" timestamp="2026-03-06T16:24:45Z" changeset="179454406" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="bicycle_parking"/>
     <tag k="bicycle_parking" v="verona"/>
     <tag k="capacity" v="10"/>
+    <tag k="covered" v="no"/>
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2131348324" lat="45.4765090" lon="9.2082600" version="3" timestamp="2025-07-15T09:18:56Z" changeset="168953443" uid="290680" user="wheelmap_visitor">
+  <node id="2131348324" lat="45.4765090" lon="9.2082600" version="4" timestamp="2026-03-06T16:24:47Z" changeset="179454406" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="bicycle_parking"/>
     <tag k="bicycle_parking" v="verona"/>
     <tag k="capacity" v="10"/>
+    <tag k="covered" v="no"/>
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -22124,7 +22135,7 @@
     <tag k="shop" v="deli"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4224004271" lat="45.4757953" lon="9.2073824" version="8" timestamp="2025-06-15T11:45:45Z" changeset="167647261" uid="974272" user="baprischka">
+  <node id="4224004271" lat="45.4757953" lon="9.2073824" version="9" timestamp="2026-03-06T16:32:08Z" changeset="179454737" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="20129"/>
@@ -22132,7 +22143,8 @@
     <tag k="branch" v="Milano Spallanzani"/>
     <tag k="brand" v="Città del sole"/>
     <tag k="brand:wikidata" v="Q115215840"/>
-    <tag k="check_date" v="2025-06-15"/>
+    <tag k="check_date" v="2026-03-06"/>
+    <tag k="check_date:opening_hours" v="2026-03-06"/>
     <tag k="contact:email" v="mi.spallanzani@cittadelsole.com"/>
     <tag k="contact:phone" v="+39 02 29412335"/>
     <tag k="contact:twitter" v="Cittdelsole"/>
@@ -29031,7 +29043,8 @@
     <tag k="website" v="https://www.lastazionedellebiciclette.com/negozi/corso-lodi/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5658024055" lat="45.4735767" lon="9.1871641" version="2" timestamp="2019-09-13T14:38:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="5658024055" lat="45.4735767" lon="9.1871641" version="3" timestamp="2026-03-06T16:00:04Z" changeset="179453463" uid="21210191" user="Jan Willamowius">
+    <tag k="check_date" v="2026-03-06"/>
     <tag k="clothes" v="women"/>
     <tag k="name" v="Peserico"/>
     <tag k="shop" v="clothes"/>
@@ -29054,8 +29067,8 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5658024067" lat="45.4736858" lon="9.1871560" version="3" timestamp="2023-10-22T13:14:02Z" changeset="142968008" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="check_date" v="2023-10-22"/>
+  <node id="5658024067" lat="45.4736858" lon="9.1871560" version="4" timestamp="2026-03-06T16:00:04Z" changeset="179453463" uid="21210191" user="Jan Willamowius">
+    <tag k="check_date" v="2026-03-06"/>
     <tag k="name" v="Blue Deep"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
@@ -29072,13 +29085,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5658024074" lat="45.4739660" lon="9.1873343" version="4" timestamp="2023-11-07T09:58:17Z" changeset="143728758" uid="9451067" user="b-jazz-bot">
+  <node id="5658024074" lat="45.4739660" lon="9.1873343" version="5" timestamp="2026-03-06T16:00:05Z" changeset="179453463" uid="21210191" user="Jan Willamowius">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Solferino"/>
-    <tag k="check_date" v="2023-10-22"/>
+    <tag k="check_date" v="2026-03-06"/>
     <tag k="name" v="Rossi &amp; Grassi"/>
     <tag k="phone" v="+39 02 6599556"/>
     <tag k="shop" v="deli"/>
@@ -29102,8 +29115,8 @@
     <tag k="shop" v="greengrocer"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5658024083" lat="45.4740883" lon="9.1872793" version="3" timestamp="2023-10-22T13:14:41Z" changeset="142968008" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="check_date" v="2023-10-22"/>
+  <node id="5658024083" lat="45.4740883" lon="9.1872793" version="4" timestamp="2026-03-06T16:00:06Z" changeset="179453463" uid="21210191" user="Jan Willamowius">
+    <tag k="check_date" v="2026-03-06"/>
     <tag k="name" v="Citterio Gioielli"/>
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="limited"/>
@@ -32078,7 +32091,7 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6847439725" lat="45.4751952" lon="9.2080791" version="5" timestamp="2024-05-23T19:41:36Z" changeset="151740682" uid="20905165" user="nu99et">
+  <node id="6847439725" lat="45.4751952" lon="9.2080791" version="7" timestamp="2026-03-06T16:35:36Z" changeset="179454851" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:postcode" v="20129"/>
@@ -32094,9 +32107,11 @@
     <tag k="drink:tea" v="served"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="La Teiera Eclettica"/>
-    <tag k="opening_hours" v="Mo 15:00-19:30; Th-Fr 10:00-13:30,15:00-19:30; Sa 10:00-19:30; Su off"/>
+    <tag k="opening_hours" v="Mo 15:00-19:00; Tu-Sa 10:00-13:45,14:45-19:30; Su off"/>
     <tag k="operator" v="Barbara Sighieri"/>
     <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="ref:vatin" v="IT04211720968"/>
     <tag k="shop" v="tea"/>
     <tag k="wheelchair" v="yes"/>
@@ -41484,6 +41499,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="10846420811" lat="45.4764461" lon="9.2080762" version="2" timestamp="2026-03-06T16:24:41Z" changeset="179454400" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Milano Porta Venezia"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="10853039707" lat="45.4676596" lon="9.1549715" version="2" timestamp="2025-07-15T09:45:00Z" changeset="168955277" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Wagner"/>
     <tag k="railway" v="subway_entrance"/>
@@ -44137,26 +44157,64 @@
     <tag k="official_name" v="Banca Popolare dell'Emilia Romagna"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11725137027" lat="45.5163475" lon="9.2031402" version="2" timestamp="2024-03-12T17:26:50Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11725137027" lat="45.5163446" lon="9.2031493" version="3" timestamp="2026-03-06T23:06:00Z" changeset="179467464" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Viale Giovanni Suzzani"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/cartoleriaoltrelascuola/"/>
+    <tag k="contact:whatsapp" v="+39026435783"/>
     <tag k="name" v="Oltre la squola"/>
+    <tag k="phone" v="+39026435783"/>
     <tag k="shop" v="stationery"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11725194614" lat="45.5162500" lon="9.2030893" version="3" timestamp="2024-03-12T17:25:08Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11725194614" lat="45.5162228" lon="9.2030701" version="4" timestamp="2026-03-06T23:06:00Z" changeset="179467464" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Viale Giovanni Suzzani"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/pages/Panelatte/253337934817515/"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="PaneLatte"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39026437800"/>
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11725206724" lat="45.5163996" lon="9.2031761" version="2" timestamp="2024-03-12T17:28:16Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="craft" v="key_cutter"/>
+  <node id="11725206724" lat="45.5163972" lon="9.2031836" version="3" timestamp="2026-03-06T23:06:00Z" changeset="179467464" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Viale Giovanni Suzzani"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/people/TACCO-LAMPO-Viale-Suzzani/61557301393804/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/taccolampovialesuzzani"/>
+    <tag k="email" v="taccolamposrl@gmail.com"/>
+    <tag k="mobile" v="+393890080077"/>
     <tag k="name" v="Tacco Lampo"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su off"/>
+    <tag k="operator" v="Tacco Lampo S.R.L."/>
+    <tag k="ref:vatin" v="IT13254050969"/>
+    <tag k="shop" v="shoe_repair"/>
+    <tag k="website" v="https://www.taccolampomilano.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11725216502" lat="45.5161582" lon="9.2030217" version="2" timestamp="2024-03-12T17:24:24Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11725216502" lat="45.5161565" lon="9.2030269" version="3" timestamp="2026-03-06T23:06:00Z" changeset="179467464" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="155"/>
+    <tag k="addr:postcode" v="20162"/>
+    <tag k="addr:street" v="Viale Giovanni Suzzani"/>
+    <tag k="beauty" v="hair;nails;hair_removal;aesthetic"/>
+    <tag k="branch" v="Hair &amp; beauty"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/DamianHairBeauty/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/damianhairbeauty/"/>
+    <tag k="contact:whatsapp" v="https://api.whatsapp.com/send/?phone=%252B393249885244"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/@DamianHairBeauty"/>
     <tag k="name" v="damian"/>
+    <tag k="opening_hours" v="Mo off; Tu-We, Fr-Sa 09:00-19:00; Th 11:00-21:00; Su off"/>
+    <tag k="phone" v="+39026423553"/>
     <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://damianhairbeauty.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="11725254625" lat="45.5232958" lon="9.2070307" version="2" timestamp="2024-03-12T17:57:56Z" changeset="148559848" uid="1875845" user="Valerio_Bozzolan">
@@ -47619,7 +47677,8 @@
     <tag k="website" v="https://www.psicologapavani.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="12961169497" lat="45.4718366" lon="9.2145155" version="3" timestamp="2025-06-29T13:48:49Z" changeset="168266176" uid="17843669" user="DomKor">
+  <node id="12961169497" lat="45.4718366" lon="9.2145155" version="5" timestamp="2026-03-06T17:11:02Z" changeset="179454851" uid="23724596" user="ChimpanBC">
+    <tag k="check_date:opening_hours" v="2026-03-06"/>
     <tag k="contact:city" v="Milano"/>
     <tag k="contact:housenumber" v="23"/>
     <tag k="contact:postcode" v="20129"/>
@@ -47628,6 +47687,8 @@
     <tag k="name" v="Pasticceria Lorini"/>
     <tag k="opening_hours" v="Tu-Sa 09:00-13:00,15:30-19:30; Su 08:00-13:00; PH closed"/>
     <tag k="operator" v="Pasticceria Lorini Srl"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+39 02 2951 6086"/>
     <tag k="shop" v="pastry"/>
     <tag k="website" v="https://www.pasticceria-lorini-milano.it/"/>
@@ -51187,6 +51248,42 @@
     <tag k="wikidata" v="Q734371"/>
     <tag k="wikimedia_commons" v="Category:San Bernardino alle ossa (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Bernardino alle Ossa"/>
+  </way>
+  <way id="39493104" version="10" timestamp="2026-03-06T16:25:00Z" changeset="179454415" uid="23724596" user="ChimpanBC">
+    <center lat="45.4767866" lon="9.2087356"/>
+    <nd ref="473080142"/>
+    <nd ref="5141437534"/>
+    <nd ref="473080145"/>
+    <nd ref="473080147"/>
+    <nd ref="473080148"/>
+    <nd ref="5153171627"/>
+    <nd ref="473080150"/>
+    <nd ref="473080151"/>
+    <nd ref="2298792418"/>
+    <nd ref="2298792430"/>
+    <nd ref="473080155"/>
+    <nd ref="473080158"/>
+    <nd ref="473080159"/>
+    <nd ref="2298792453"/>
+    <nd ref="5153170971"/>
+    <nd ref="5141437537"/>
+    <nd ref="2298792449"/>
+    <nd ref="2298792450"/>
+    <nd ref="2298792448"/>
+    <nd ref="473080160"/>
+    <nd ref="2298792436"/>
+    <nd ref="473080161"/>
+    <nd ref="473080142"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="check_date" v="2026-03-06"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Chiesa Santa Francesca Romana"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q30887988"/>
+    <tag k="wikimedia_commons" v="Category:Santa Francesca Romana (Milan)"/>
+    <tag k="wikipedia" v="it:Chiesa di Santa Francesca Romana (Milano)"/>
   </way>
   <way id="39522765" version="10" timestamp="2023-12-29T10:23:14Z" changeset="145654364" uid="13840929" user="aa30mom">
     <center lat="45.5043172" lon="9.2005635"/>
@@ -60207,6 +60304,24 @@
     <tag k="sport" v="gymnastics"/>
     <tag k="toilets:access" v="customers"/>
     <tag k="toilets:wheelchair" v="designated"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="924568817" version="3" timestamp="2026-03-06T18:50:29Z" changeset="179460176" uid="95387" user="rugamarcus">
+    <center lat="45.4424499" lon="9.2410083"/>
+    <nd ref="8580972928"/>
+    <nd ref="8580972929"/>
+    <nd ref="8580972930"/>
+    <nd ref="8580972931"/>
+    <nd ref="8580972932"/>
+    <nd ref="9221063646"/>
+    <nd ref="9221063647"/>
+    <nd ref="9221063648"/>
+    <nd ref="9221063649"/>
+    <nd ref="9221063650"/>
+    <nd ref="8580972933"/>
+    <nd ref="8878006613"/>
+    <nd ref="8580972928"/>
+    <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="931936846" version="5" timestamp="2025-11-11T12:48:35Z" changeset="174509399" uid="242345" user="confusedbuffalo">
