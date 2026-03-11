@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-10T04:59:45Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-03-11T04:59:11Z" areas="2026-03-10T15:33:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -7267,6 +7267,15 @@
     <tag k="name" v="SAN DONATO-EMILIA VIA SAN DONATO-EMILIA CORRISPONDENZA LINEA MM3"/>
     <tag k="park_ride" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2034384169" lat="45.4827096" lon="9.2424733" version="3" timestamp="2026-03-10T22:22:12Z" changeset="179661343" uid="22919632" user="matteobott">
+    <tag k="name" v="Imperato"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-12:30, 15:30-19:00; Sa 09:15-12:30, 15:30-19:00"/>
+    <tag k="operator" v="Imperato Raffaele"/>
+    <tag k="phone" v="+39 02 2150 897"/>
+    <tag k="shop" v="stationery"/>
+    <tag k="stroller" v="limited"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2035541444" lat="45.5113914" lon="9.2243804" version="5" timestamp="2025-07-15T09:25:38Z" changeset="168953887" uid="290680" user="wheelmap_visitor">
     <tag k="bus" v="yes"/>
@@ -22518,6 +22527,19 @@
     <tag k="phone" v="+39 02 28381583"/>
     <tag k="shop" v="motorcycle"/>
     <tag k="website" v="http://www.terzimotor.it/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4277859757" lat="45.4853128" lon="9.2089683" version="6" timestamp="2026-03-10T19:02:09Z" changeset="179654486" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Stazione Caiazzo M2. Dopo i tornelli sulla destra (colonna)."/>
+    <tag k="defibrillator:location:en" v="Caiazzo Station M2. After the turnstiles on the right (column)."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="fixme" v="posizione approssimata"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="-1"/>
+    <tag k="note:it" v="si trova all'interno dei tornelli della metropolitana"/>
+    <tag k="opening_hours" v="Mo-Su06:00-24:45"/>
+    <tag k="survey:date" v="2026-03-10"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4277859758" lat="45.4853248" lon="9.2110801" version="2" timestamp="2025-07-15T09:40:43Z" changeset="168954986" uid="290680" user="wheelmap_visitor">
@@ -48128,10 +48150,11 @@
     <tag k="panoramax:0" v="c06965fe-224b-4fe3-a50d-2977547274a1"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="13165890821" lat="45.4210118" lon="9.1774856" version="6" timestamp="2025-12-28T17:05:52Z" changeset="176539468" uid="22919632" user="matteobott">
+  <node id="13165890821" lat="45.4210118" lon="9.1774856" version="9" timestamp="2026-03-10T09:08:51Z" changeset="179625132" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="check_date" v="2025-09-25"/>
     <tag k="defibrillator:location" v="Dirigersi verso i totem Prestospesa. Subito visibile."/>
+    <tag k="defibrillator:location:en" v="Head to the Prestospesa totems. Immediately visible."/>
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="yes"/>
     <tag k="level" v="0"/>
@@ -48139,6 +48162,7 @@
     <tag k="operator" v="Esselunga"/>
     <tag k="panoramax" v="632865c6-4d39-4ff8-98dc-ba9dd96709cd"/>
     <tag k="phone" v="+39 02 9279 0233"/>
+    <tag k="survey:date" v="2026-03-09"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="13168060882" lat="45.5096466" lon="9.2475861" version="1" timestamp="2025-09-24T18:44:46Z" changeset="172407994" uid="15264988" user="nicola_yubo">
@@ -48198,6 +48222,20 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://camaggiolina.it/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13183582177" lat="45.4799889" lon="9.2289098" version="5" timestamp="2026-03-10T12:53:28Z" changeset="179636867" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="check_date" v="2025-09-30"/>
+    <tag k="defibrillator:location" v="Di fianco alla portineria"/>
+    <tag k="defibrillator:location:en" v="Next to reception"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="-1"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-20:30; PH off"/>
+    <tag k="operator" v="Politecnico di Milano"/>
+    <tag k="panoramax" v="699d6cad-2aa4-401e-9c0e-2ec11d863f88"/>
+    <tag k="survey:date" v="2026-03-01"/>
+    <tag k="wheelchair" v="designated"/>
   </node>
   <node id="13183771190" lat="45.4790529" lon="9.2174722" version="5" timestamp="2025-12-02T10:02:54Z" changeset="175394692" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
@@ -48324,6 +48362,17 @@
     <tag k="takeaway" v="yes"/>
     <tag k="toilets" v="yes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="13249398794" lat="45.4798707" lon="9.2288415" version="4" timestamp="2026-03-10T12:53:28Z" changeset="179636867" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Di fronte al bar."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="image" v="https://openaedmap.org/api/v1/photos/view/_br8BdIPdxIQ62gmsjS-_Q.webp"/>
+    <tag k="image:license" v="CC0"/>
+    <tag k="indoor" v="no"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-20:30; PH off"/>
+    <tag k="survey:date" v="2026-03-01"/>
+    <tag k="wheelchair" v="designated"/>
   </node>
   <node id="13249429049" lat="45.4721876" lon="9.1825169" version="2" timestamp="2026-01-17T09:58:41Z" changeset="177328768" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
@@ -49015,6 +49064,12 @@
     <tag k="brand:wikipedia" v="fr:Carrefour Express"/>
     <tag k="name" v="Carrefour Express"/>
     <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13450152967" lat="45.4420950" lon="9.2549586" version="2" timestamp="2026-03-10T07:57:28Z" changeset="179623791" uid="67550" user="Aiman">
+    <tag k="access" v="customers"/>
+    <tag k="door" v="sliding"/>
+    <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="13451193313" lat="45.5222484" lon="9.2159819" version="3" timestamp="2026-01-12T19:53:42Z" changeset="177152212" uid="19558353" user="George Sears">
@@ -49748,6 +49803,15 @@
     <tag k="motor_vehicle" v="no"/>
     <tag k="opening_hours" v="Mo-Fr 07:00-21:00"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13634753206" lat="45.4857520" lon="9.1734004" version="1" timestamp="2026-03-10T19:57:19Z" changeset="179654486" uid="22919632" user="matteobott">
+    <tag k="access" v="private"/>
+    <tag k="defibrillator:location" v="Corpo di guardia deposito ATM"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
