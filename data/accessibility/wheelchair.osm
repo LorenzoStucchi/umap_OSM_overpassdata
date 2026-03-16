@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-15T05:31:29Z" areas="2026-03-14T23:34:29Z"/>
+<meta osm_base="2026-03-16T05:40:56Z" areas="2026-03-15T19:44:45Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1327,13 +1327,14 @@
     <tag k="website" v="https://www.ristoranteariccione.net/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="285608998" lat="45.4736312" lon="9.2305970" version="10" timestamp="2025-05-01T22:20:05Z" changeset="165696203" uid="12266546" user="tiziodcaio">
+  <node id="285608998" lat="45.4736312" lon="9.2305970" version="11" timestamp="2026-03-15T14:53:13Z" changeset="179900764" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Piazzale Paolo Gorini"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="check_date" v="2025-03-22"/>
+    <tag k="check_date" v="2026-03-15"/>
+    <tag k="check_date:opening_hours" v="2026-03-15"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="internet_access" v="no"/>
@@ -5830,12 +5831,13 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1735145991" lat="45.4729954" lon="9.2296118" version="3" timestamp="2024-12-20T13:00:42Z" changeset="160432503" uid="18379809" user="niels-valec">
+  <node id="1735145991" lat="45.4729783" lon="9.2296148" version="5" timestamp="2026-03-15T14:40:47Z" changeset="179901207" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Piazzale Paolo Gorini"/>
-    <tag k="check_date" v="2024-12-20"/>
+    <tag k="check_date" v="2026-03-15"/>
+    <tag k="check_date:opening_hours" v="2026-03-15"/>
     <tag k="contact:facebook" v="https://www.facebook.com/lissanagorini"/>
     <tag k="contact:phone" v="+39 02 730448"/>
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.it/Restaurant_Review-g187849-d5598286-Reviews-Lissana_Milano-Milan_Lombardy.html"/>
@@ -5848,7 +5850,7 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1735145994" lat="45.4730094" lon="9.2305622" version="7" timestamp="2026-02-20T11:27:45Z" changeset="178814508" uid="18379809" user="niels-valec">
+  <node id="1735145994" lat="45.4730094" lon="9.2305622" version="8" timestamp="2026-03-15T14:57:09Z" changeset="179901207" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20133"/>
@@ -5866,6 +5868,8 @@
     <tag k="operator" v="Enza Addis &amp; C. SNC"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="ref:vatin" v="IT03504130968"/>
@@ -31819,6 +31823,13 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q116729926"/>
   </node>
+  <node id="6494349888" lat="45.4710499" lon="9.2298309" version="4" timestamp="2026-03-15T15:08:11Z" changeset="179901201" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Lavanderia Self Service Milano"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+    <tag k="self_service" v="yes"/>
+    <tag k="shop" v="laundry"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="6514011339" lat="45.5181530" lon="9.2292151" version="2" timestamp="2025-07-15T08:13:13Z" changeset="168950647" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Beiersdorf Italia"/>
     <tag k="office" v="company"/>
@@ -38963,17 +38974,6 @@
     <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9893836228" lat="45.4623959" lon="9.2082174" version="3" timestamp="2025-07-05T17:59:38Z" changeset="168533546" uid="19415461" user="PharmaWP">
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="Corso ventidue marzo"/>
-    <tag k="brand" v="Pam Local"/>
-    <tag k="brand:wikidata" v="Q105614389"/>
-    <tag k="fixme" v="position estimated"/>
-    <tag k="name" v="Pam Local"/>
-    <tag k="operator" v="PAM Panorama S.p.A."/>
-    <tag k="shop" v="convenience"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="9897478673" lat="45.5174649" lon="9.2261092" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Villa San Giovanni"/>
@@ -42406,10 +42406,10 @@
     <tag k="locked" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11185503860" lat="45.4551144" lon="9.2040358" version="3" timestamp="2025-07-15T10:07:56Z" changeset="168956840" uid="290680" user="wheelmap_visitor">
+  <node id="11185503860" lat="45.4551144" lon="9.2040358" version="4" timestamp="2026-03-15T15:52:56Z" changeset="179904354" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="atm"/>
     <tag k="cash_in" v="no"/>
-    <tag k="check_date" v="2023-09-09"/>
+    <tag k="check_date" v="2026-03-15"/>
     <tag k="covered" v="no"/>
     <tag k="drive_through" v="no"/>
     <tag k="indoor" v="no"/>
@@ -49970,12 +49970,13 @@
     <tag k="shop" v="greengrocer"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13645689085" lat="45.5280739" lon="9.1636876" version="4" timestamp="2026-03-13T21:06:54Z" changeset="179829200" uid="22919632" user="matteobott">
+  <node id="13645689085" lat="45.5280739" lon="9.1636876" version="5" timestamp="2026-03-15T17:57:10Z" changeset="179911317" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="defibrillator:location" v="Stazione Comasina M3. Dopo i tornelli a sinistra."/>
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="yes"/>
     <tag k="level" v="-1"/>
+    <tag k="opening_hours" v="Mo-Su06:00-24:45"/>
     <tag k="panoramax" v="0e0af2fa-7e5e-42ed-86ca-3aea4b8b492a"/>
     <tag k="survey:date" v="2026-03-13"/>
     <tag k="wheelchair" v="limited"/>
