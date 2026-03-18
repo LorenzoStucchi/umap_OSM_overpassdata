@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-17T05:06:45Z" areas="2026-03-16T17:51:56Z"/>
+<meta osm_base="2026-03-18T05:13:13Z" areas="2026-03-17T20:04:14Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -663,7 +663,7 @@
     <tag k="preschool" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="265654308" lat="45.4975575" lon="9.2253513" version="5" timestamp="2025-07-15T09:58:19Z" changeset="168956185" uid="290680" user="wheelmap_visitor">
+  <node id="265654308" lat="45.4974597" lon="9.2255043" version="6" timestamp="2026-03-17T14:53:19Z" changeset="180012036" uid="10153698" user="Francesco Cioria">
     <tag k="amenity" v="drinking_water"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -2421,7 +2421,7 @@
     <tag k="website" v="https://milano.biblioteche.it/library/oglio"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="442022319" lat="45.4666904" lon="9.1980152" version="10" timestamp="2025-05-21T19:39:05Z" changeset="166584125" uid="8305310" user="Martin Ligabue">
+  <node id="442022319" lat="45.4666904" lon="9.1980152" version="10" timestamp="2025-05-21T19:39:05Z" changeset="166584125" uid="8305310" user="Martinligabue">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
@@ -2904,7 +2904,7 @@
     <tag k="man_made" v="water_tap"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="650781282" lat="45.4897938" lon="9.1275658" version="6" timestamp="2022-11-27T08:33:55Z" changeset="129425753" uid="8305310" user="Martin Ligabue">
+  <node id="650781282" lat="45.4897938" lon="9.1275658" version="6" timestamp="2022-11-27T08:33:55Z" changeset="129425753" uid="8305310" user="Martinligabue">
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="20151"/>
     <tag k="addr:street" v="Via Giulio Natta"/>
@@ -3838,7 +3838,7 @@
     <tag k="website" v="https://www.francoangeli.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1318991409" lat="45.4777922" lon="9.1784892" version="4" timestamp="2025-07-02T14:44:28Z" changeset="168404166" uid="8305310" user="Martin Ligabue">
+  <node id="1318991409" lat="45.4777922" lon="9.1784892" version="4" timestamp="2025-07-02T14:44:28Z" changeset="168404166" uid="8305310" user="Martinligabue">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20154"/>
@@ -10446,24 +10446,32 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2446726390" lat="45.5037844" lon="9.1650880" version="10" timestamp="2023-09-15T10:48:10Z" changeset="141296940" uid="18306404" user="over_the_edge">
+  <node id="2446726390" lat="45.5037844" lon="9.1650880" version="11" timestamp="2026-03-17T23:01:45Z" changeset="180031614" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:postcode" v="20158"/>
+    <tag k="addr:street" v="Via Giuseppe Candiani"/>
     <tag k="amenity" v="cafe"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Scudo Cafè"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2446726398" lat="45.5036679" lon="9.1645476" version="12" timestamp="2023-05-24T07:15:45Z" changeset="136484382" uid="11220113" user="ivanbranco">
+  <node id="2446726398" lat="45.5036679" lon="9.1645476" version="13" timestamp="2026-03-17T23:01:45Z" changeset="180031614" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:postcode" v="20158"/>
     <tag k="addr:street" v="Via Giuseppe Candiani"/>
     <tag k="brand" v="Libraccio"/>
+    <tag k="brand:wikidata" v="Q116785672"/>
+    <tag k="contact:whatsapp" v="https://api.whatsapp.com/send/?phone=393331848365"/>
     <tag k="name" v="Libraccio"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-19:30"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-19:30; Su 10:00-13:00, 15:00-19:00"/>
     <tag k="operator" v="Norma Libri Srl"/>
-    <tag k="phone" v="+39 02 39314075"/>
     <tag k="ref:vatin" v="IT02317150965"/>
     <tag k="second_hand" v="yes"/>
     <tag k="shop" v="books"/>
+    <tag k="website" v="https://negozi.libraccio.it/negozi/milano/libraccio-bovisa"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2456044340" lat="45.4859277" lon="9.1869256" version="8" timestamp="2025-10-12T08:09:57Z" changeset="173167444" uid="4425563" user="Danysan95">
@@ -33244,7 +33252,7 @@
     <tag k="website" v="www.upim.it"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="7737386850" lat="45.4629510" lon="9.2353369" version="5" timestamp="2025-05-21T18:04:43Z" changeset="166581009" uid="8305310" user="Martin Ligabue">
+  <node id="7737386850" lat="45.4629510" lon="9.2353369" version="5" timestamp="2025-05-21T18:04:43Z" changeset="166581009" uid="8305310" user="Martinligabue">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20133"/>
@@ -34329,7 +34337,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8678996645" lat="45.4849664" lon="9.2048504" version="4" timestamp="2024-03-21T07:00:00Z" changeset="148945477" uid="8305310" user="Martin Ligabue">
+  <node id="8678996645" lat="45.4849664" lon="9.2048504" version="4" timestamp="2024-03-21T07:00:00Z" changeset="148945477" uid="8305310" user="Martinligabue">
     <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
@@ -41733,7 +41741,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="10887148012" lat="45.4859519" lon="9.2028942" version="4" timestamp="2024-03-21T07:00:12Z" changeset="148945477" uid="8305310" user="Martin Ligabue">
+  <node id="10887148012" lat="45.4859519" lon="9.2028942" version="4" timestamp="2024-03-21T07:00:12Z" changeset="148945477" uid="8305310" user="Martinligabue">
     <tag k="name" v="Centrale FS"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
@@ -46363,26 +46371,6 @@
     <tag k="name" v="Sato Sushi Experience"/>
     <tag k="website" v="https://satosushi.it/"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="12469724477" lat="45.4316973" lon="9.1729845" version="5" timestamp="2026-01-29T22:11:42Z" changeset="177866735" uid="23724596" user="ChimpanBC">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:postcode" v="20142"/>
-    <tag k="addr:street" v="Via della Chiesa Rossa"/>
-    <tag k="air_conditioning" v="no"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="check_date:opening_hours" v="2026-01-29"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="O_ste"/>
-    <tag k="opening_hours" v="We-Su 18:30-01:00"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="toilets:access" v="permissive"/>
-    <tag k="toilets:wheelchair" v="no"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="12471673901" lat="45.4796579" lon="9.2040437" version="3" timestamp="2025-07-15T10:06:39Z" changeset="168956789" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="29A"/>
@@ -62787,7 +62775,7 @@
     <tag k="name" v="Spazio Varesina 204"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1476216333" version="17" timestamp="2026-03-13T16:40:45Z" changeset="179819925" uid="10341989" user="Quang Huy NGUYEN">
+  <way id="1476216333" version="18" timestamp="2026-03-17T07:28:22Z" changeset="179987597" uid="10341989" user="Quang Huy NGUYEN">
     <center lat="45.4772041" lon="9.2280718"/>
     <nd ref="13541167401"/>
     <nd ref="13541122401"/>
@@ -62840,11 +62828,11 @@
     <nd ref="13546664402"/>
     <nd ref="13546664503"/>
     <nd ref="13574697803"/>
-    <nd ref="13574688978"/>
+    <nd ref="13546664404"/>
     <nd ref="13574697804"/>
     <nd ref="13546664403"/>
-    <nd ref="13546664404"/>
     <nd ref="13546664002"/>
+    <nd ref="13573233601"/>
     <nd ref="13541055002"/>
     <nd ref="13541215601"/>
     <nd ref="13541214901"/>
