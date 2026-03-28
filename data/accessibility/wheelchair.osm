@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-27T05:33:14Z" areas="2026-03-26T19:03:30Z"/>
+<meta osm_base="2026-03-28T05:08:26Z" areas="2026-03-27T17:50:34Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4474,6 +4474,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1505078334" lat="45.4400460" lon="9.2236781" version="3" timestamp="2026-03-27T18:06:32Z" changeset="180514970" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Corvetto"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1505078335" lat="45.4400704" lon="9.2229674" version="7" timestamp="2025-10-23T15:00:41Z" changeset="173679170" uid="22525435" user="btcitnet">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="130"/>
@@ -4498,15 +4503,16 @@
     <tag k="parking" v="surface"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1505099593" lat="45.4423983" lon="9.2185260" version="4" timestamp="2023-04-12T07:23:45Z" changeset="134802462" uid="10893865" user="Emanuele Lorenzo Corti">
+  <node id="1505099593" lat="45.4423983" lon="9.2185260" version="5" timestamp="2026-03-27T17:50:21Z" changeset="180514970" uid="23724596" user="ChimpanBC">
+    <tag k="check_date:wheelchair" v="2026-03-27"/>
     <tag k="name" v="Brenta"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1505100174" lat="45.4468078" lon="9.2101776" version="4" timestamp="2023-09-06T17:20:50Z" changeset="140904815" uid="19198184" user="the_real_shb">
+  <node id="1505100174" lat="45.4468078" lon="9.2101776" version="5" timestamp="2026-03-28T00:26:37Z" changeset="180526028" uid="23724596" user="ChimpanBC">
     <tag k="name" v="Lodi TIBB"/>
     <tag k="railway" v="subway_entrance"/>
-    <tag k="wheelchair" v="limited"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1505100176" lat="45.4474110" lon="9.2095076" version="3" timestamp="2025-02-26T10:58:34Z" changeset="162966593" uid="8772934" user="mapperich">
     <tag k="name" v="Lodi TIBB"/>
@@ -7991,12 +7997,6 @@
     <tag k="website" v="https://www.touringclub.it/destinazione/fare/shopping/100515/punto-touring-milano"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2146878737" lat="45.4452943" lon="9.2131972" version="3" timestamp="2023-07-18T17:27:23Z" changeset="138680036" uid="19198184" user="the_real_shb">
-    <tag k="amenity" v="bar"/>
-    <tag k="check_date" v="2023-07-18"/>
-    <tag k="name" v="Re Artù Cafè"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2146894823" lat="45.4441221" lon="9.2152575" version="7" timestamp="2023-03-08T20:20:53Z" changeset="133454634" uid="4458851" user="impotriva">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
@@ -11028,6 +11028,22 @@
     <tag k="name" v="L'Isola del gusto"/>
     <tag k="website" v="http://www.lisoladelgusto.info/?page_id=12"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2480553380" lat="45.4497957" lon="9.2117591" version="10" timestamp="2026-03-27T20:49:16Z" changeset="180521152" uid="23724596" user="ChimpanBC">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Viale Umbria"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2026-01-22"/>
+    <tag k="check_date:opening_hours" v="2026-01-22"/>
+    <tag k="name" v="Zhen Asian Fusion Restaurant"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-15:00,18:00-23:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2480566230" lat="45.4623990" lon="9.2086093" version="6" timestamp="2024-10-16T15:41:21Z" changeset="157971170" uid="69259" user="DnaX">
     <tag k="amenity" v="ice_cream"/>
@@ -21311,13 +21327,14 @@
     <tag k="check_date" v="2022-04-08"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4092382677" lat="45.4414662" lon="9.2207355" version="3" timestamp="2018-10-21T15:39:55Z" changeset="63727964" uid="290680" user="wheelmap_visitor">
+  <node id="4092382677" lat="45.4414662" lon="9.2207355" version="4" timestamp="2026-03-27T18:00:32Z" changeset="180515386" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian"/>
+    <tag k="check_date" v="2026-03-27"/>
+    <tag k="cuisine" v="deli;italian"/>
     <tag k="name" v="Gnam"/>
     <tag k="takeaway" v="yes"/>
     <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="website" v="www.gnam-milano.com"/>
+    <tag k="website" v="http://www.gnam-milano.com"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4109287868" lat="45.4855480" lon="9.1810487" version="5" timestamp="2024-09-26T20:35:54Z" changeset="157145304" uid="393359" user="Robot8A">
@@ -21595,28 +21612,6 @@
     <tag k="name" v="Bar fortuna"/>
     <tag k="outdoor_seating" v="no"/>
     <tag k="tobacco" v="yes"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="4144127765" lat="45.4458750" lon="9.2131432" version="7" timestamp="2024-03-01T07:33:39Z" changeset="148084264" uid="15815055" user="ablevi202">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:postcode" v="20139"/>
-    <tag k="addr:street" v="Corso Lodi"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:email" v="info@patchoulicafe.com"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/patchoulimilano"/>
-    <tag k="contact:mobile" v="+39 347 0110885"/>
-    <tag k="contact:phone" v="+39 02 5464345"/>
-    <tag k="contact:twitter" v="https://twitter.com/patchoulicafe"/>
-    <tag k="contact:website" v="http://www.patchoulicafe.com/"/>
-    <tag k="contact:yelp" v="http://www.yelp.com/biz/patchouli-milano"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="internet_access" v="no"/>
-    <tag k="lgbtq" v="primary"/>
-    <tag k="name" v="Patchouli"/>
-    <tag k="opening_hours" v="Mo-We 18:00-03:00; Th off; Fr-Su 18:00-03:00"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="http://www.patchoulicafe.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4144508538" lat="45.5120337" lon="9.2244786" version="4" timestamp="2025-07-15T09:34:27Z" changeset="168954508" uid="290680" user="wheelmap_visitor">
@@ -25100,9 +25095,10 @@
     <tag k="website" v="https://scuola.lacucinaitaliana.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4610258861" lat="45.4413021" lon="9.2210061" version="5" timestamp="2023-12-29T15:55:47Z" changeset="145667602" uid="13840929" user="aa30mom">
+  <node id="4610258861" lat="45.4413021" lon="9.2210061" version="7" timestamp="2026-03-27T18:00:48Z" changeset="180515395" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="atm"/>
-    <tag k="check_date" v="2021-11-02"/>
+    <tag k="cash_in" v="no"/>
+    <tag k="check_date" v="2026-03-27"/>
     <tag k="operator" v="UniCredit"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -29162,12 +29158,13 @@
     <tag k="name" v="Gelateria Artigianale Il Geko"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5651148980" lat="45.4442665" lon="9.2149686" version="5" timestamp="2023-05-24T08:08:10Z" changeset="136486340" uid="15541433" user="paulbrunner">
+  <node id="5651148980" lat="45.4442665" lon="9.2149686" version="6" timestamp="2026-03-27T17:35:20Z" changeset="180513745" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="66"/>
     <tag k="addr:postcode" v="20135"/>
     <tag k="addr:street" v="Corso Lodi"/>
     <tag k="air_conditioning" v="yes"/>
+    <tag k="check_date:opening_hours" v="2026-03-27"/>
     <tag k="email" v="info@lastazionedellebiciclette.com"/>
     <tag k="name" v="La Stazione delle Biciclette"/>
     <tag k="opening_hours" v="Mo 15:00-19:00; Tu-Fr 10:00-13:00,15:00-19:00; Sa 11:00-19:00; Su off"/>
@@ -42438,7 +42435,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11148062691" lat="45.4484500" lon="9.2088614" version="2" timestamp="2025-07-15T10:31:46Z" changeset="168957941" uid="290680" user="wheelmap_visitor">
+  <node id="11148062691" lat="45.4484669" lon="9.2087396" version="3" timestamp="2026-03-28T00:33:07Z" changeset="180526150" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="sushi"/>
     <tag k="name" v="Eimi"/>
@@ -48950,15 +48947,17 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13330035108" lat="45.4524664" lon="9.1696209" version="4" timestamp="2026-01-27T10:00:15Z" changeset="177754756" uid="22919632" user="matteobott">
+  <node id="13330035108" lat="45.4524664" lon="9.1696209" version="6" timestamp="2026-03-27T11:21:57Z" changeset="180497330" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="check_date" v="2025-11-26"/>
     <tag k="defibrillator:location" v="Stazione M2 Porta Genova. Dopo i tornelli, il defibrillatore si trova dietro una macchinetta per biglietti."/>
+    <tag k="defibrillator:location:en" v="Past the turnstiles, the AED is behind a ticket machine"/>
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="yes"/>
     <tag k="level" v="-1"/>
     <tag k="opening_hours" v="Mo-Su06:00-24:45"/>
     <tag k="operator" v="ATM Milano"/>
+    <tag k="panoramax" v="9b22f703-5633-4281-ad9b-08134c215f69"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="13333499318" lat="45.4616385" lon="9.1731198" version="7" timestamp="2026-01-27T10:01:13Z" changeset="177754756" uid="22919632" user="matteobott">
@@ -59489,13 +59488,27 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="540985449" version="3" timestamp="2026-03-03T15:41:52Z" changeset="179308391" uid="21123780" user="hariborange">
-    <center lat="45.4799552" lon="9.2283441"/>
-    <nd ref="5232288339"/>
-    <nd ref="5232287952"/>
-    <nd ref="259609635"/>
-    <nd ref="5232288350"/>
-    <nd ref="5232288339"/>
+  <way id="540985449" version="5" timestamp="2026-03-27T20:37:29Z" changeset="180520750" uid="22971213" user="littlewindow">
+    <center lat="45.4799718" lon="9.2283164"/>
+    <nd ref="13685460101"/>
+    <nd ref="13685460312"/>
+    <nd ref="13685460201"/>
+    <nd ref="13685489005"/>
+    <nd ref="13685460202"/>
+    <nd ref="13685460301"/>
+    <nd ref="13685460302"/>
+    <nd ref="13685460401"/>
+    <nd ref="13685460303"/>
+    <nd ref="13685460501"/>
+    <nd ref="13685460502"/>
+    <nd ref="13685460402"/>
+    <nd ref="13685460403"/>
+    <nd ref="13685460304"/>
+    <nd ref="13685460601"/>
+    <nd ref="13685460102"/>
+    <nd ref="13685460503"/>
+    <nd ref="13685460504"/>
+    <nd ref="13685460101"/>
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
     <tag k="indoor" v="room"/>
