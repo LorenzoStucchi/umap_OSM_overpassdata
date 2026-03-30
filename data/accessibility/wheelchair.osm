@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-29T05:39:05Z" areas="2026-03-29T01:08:53Z"/>
+<meta osm_base="2026-03-30T05:48:43Z" areas="2026-03-29T15:37:09Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4526,6 +4526,11 @@
   </node>
   <node id="1505100179" lat="45.4472141" lon="9.2094562" version="3" timestamp="2025-02-26T10:58:37Z" changeset="162966593" uid="8772934" user="mapperich">
     <tag k="name" v="Lodi TIBB"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1505101608" lat="45.4517671" lon="9.2031152" version="3" timestamp="2026-03-29T18:16:38Z" changeset="180598144" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Porta Romana"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -29528,6 +29533,16 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="5694558561" lat="45.4906018" lon="9.2179055" version="4" timestamp="2026-03-29T16:50:19Z" changeset="180594192" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Pasteur"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5694558563" lat="45.4908573" lon="9.2179812" version="3" timestamp="2026-03-29T16:50:56Z" changeset="180594192" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Pasteur"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="5694558564" lat="45.4911549" lon="9.2183631" version="5" timestamp="2026-02-18T23:48:16Z" changeset="178747471" uid="23629183" user="Fla13">
     <tag k="name" v="Pasteur"/>
     <tag k="railway" v="subway_entrance"/>
@@ -34983,11 +34998,6 @@
     <tag k="name" v="Leonardi"/>
     <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="8954756166" lat="45.4917334" lon="9.2186061" version="3" timestamp="2025-07-15T09:33:50Z" changeset="168954460" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Mini-Market"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="8954762384" lat="45.4947167" lon="9.2194891" version="2" timestamp="2025-07-15T09:20:31Z" changeset="168953572" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Fiorino Fiorello"/>
