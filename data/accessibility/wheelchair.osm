@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-31T05:35:29Z" areas="2026-03-30T19:51:40Z"/>
+<meta osm_base="2026-04-01T06:09:46Z" areas="2026-04-01T00:26:23Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4544,7 +4544,13 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1505105322" lat="45.4296593" lon="9.1775140" version="3" timestamp="2023-11-01T10:04:21Z" changeset="143465600" uid="19294642" user="Disperato">
+  <node id="1505105322" lat="45.4296593" lon="9.1775140" version="4" timestamp="2026-03-31T16:43:39Z" changeset="180683034" uid="23724596" user="ChimpanBC">
+    <tag k="check_date:wheelchair" v="2026-03-31"/>
+    <tag k="name" v="Abbiategrasso"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1505105348" lat="45.4296223" lon="9.1776696" version="3" timestamp="2026-03-31T16:51:13Z" changeset="180683034" uid="23724596" user="ChimpanBC">
     <tag k="name" v="Abbiategrasso"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -6795,6 +6801,19 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1895967932" lat="45.4908459" lon="9.2245270" version="8" timestamp="2026-03-31T19:20:48Z" changeset="180689104" uid="23629183" user="Fla13">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="15/17"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Ruggero Leoncavallo"/>
+    <tag k="brand" v="Conad City"/>
+    <tag k="brand:wikidata" v="Q57543102"/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="name" v="Conad City"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:00; Su 09:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1896236896" lat="45.4858287" lon="9.2160774" version="8" timestamp="2025-12-04T22:33:27Z" changeset="175522997" uid="13697350" user="c674a">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
@@ -8888,6 +8907,16 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="ref:vatin" v="IT11636030154"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2349904386" lat="45.4498704" lon="9.2095321" version="8" timestamp="2026-03-31T15:58:55Z" changeset="180681012" uid="23724596" user="ChimpanBC">
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:street" v="Via Pietro Colletta"/>
+    <tag k="name" v="Hangar 107"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-19:30, Su 10:00-13:00, Su 14:30-19:30"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="variety_store"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2353216943" lat="45.4831740" lon="9.1897283" version="19" timestamp="2025-11-23T08:57:26Z" changeset="175017017" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
@@ -41749,7 +41778,8 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10853039712" lat="45.4296498" lon="9.1774749" version="2" timestamp="2023-11-01T10:04:22Z" changeset="143465600" uid="19294642" user="Disperato">
+  <node id="10853039712" lat="45.4296498" lon="9.1774749" version="3" timestamp="2026-03-31T16:43:25Z" changeset="180683034" uid="23724596" user="ChimpanBC">
+    <tag k="check_date:wheelchair" v="2026-03-31"/>
     <tag k="name" v="Abbiategrasso"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -49674,13 +49704,15 @@
     <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 08:00-20:00; PH off"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13511954990" lat="45.4906381" lon="9.2241622" version="4" timestamp="2026-03-12T21:24:03Z" changeset="179777295" uid="23629183" user="Fla13">
+  <node id="13511954990" lat="45.4906381" lon="9.2241622" version="5" timestamp="2026-03-31T19:20:38Z" changeset="180689099" uid="23629183" user="Fla13">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Via Ruggero Leoncavallo"/>
     <tag k="check_date" v="2026-03-11"/>
     <tag k="level" v="-1"/>
     <tag k="name" v="Pianeta Hobby"/>
     <tag k="opening_hours" v="Tu-Su 10:00-19:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+39 02 2804 0306"/>
     <tag k="shop" v="toys"/>
     <tag k="website" v="https://www.pianetahobby.it/"/>
@@ -52030,7 +52062,7 @@
     <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="41267782" version="12" timestamp="2024-03-25T10:32:44Z" changeset="149123947" uid="11220113" user="ivanbranco">
+  <way id="41267782" version="13" timestamp="2026-03-31T09:11:54Z" changeset="180662872" uid="23629183" user="Fla13">
     <center lat="45.4848999" lon="9.2259978"/>
     <nd ref="504505410"/>
     <nd ref="504505443"/>
@@ -52050,6 +52082,7 @@
     <nd ref="504505410"/>
     <tag k="amenity" v="place_of_worship"/>
     <tag k="building" v="church"/>
+    <tag k="check_date" v="2026-03-31"/>
     <tag k="denomination" v="roman_catholic"/>
     <tag k="name" v="San Luca Evangelista"/>
     <tag k="religion" v="christian"/>
@@ -54138,7 +54171,7 @@
     <tag k="ref" v="Edificio 16"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="137199806" version="12" timestamp="2023-12-19T11:10:24Z" changeset="145286860" uid="13840929" user="aa30mom">
+  <way id="137199806" version="13" timestamp="2026-03-31T08:14:08Z" changeset="180660544" uid="95387" user="rugamarcus">
     <center lat="45.4417908" lon="9.2186625"/>
     <nd ref="1505078873"/>
     <nd ref="1505078876"/>
@@ -54154,6 +54187,7 @@
     <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
     <tag k="building" v="retail"/>
     <tag k="building:levels" v="1"/>
+    <tag k="check_date" v="2026-03-31"/>
     <tag k="contact:phone" v="+39 02 5394063"/>
     <tag k="name" v="Carrefour Market"/>
     <tag k="opening_hours" v="24/7"/>
