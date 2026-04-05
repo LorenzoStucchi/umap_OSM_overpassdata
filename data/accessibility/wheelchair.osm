@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-04T05:14:53Z" areas="2026-04-03T14:17:03Z"/>
+<meta osm_base="2026-04-05T05:37:23Z" areas="2026-04-04T23:45:41Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5120,6 +5120,14 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1611026681" lat="45.4842869" lon="9.2145340" version="6" timestamp="2026-04-04T18:43:38Z" changeset="180867974" uid="23629183" user="Fla13">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026684" lat="45.4844403" lon="9.2146849" version="5" timestamp="2026-04-04T18:43:29Z" changeset="180867974" uid="23629183" user="Fla13">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1611026686" lat="45.4845159" lon="9.2155256" version="7" timestamp="2025-11-15T16:44:07Z" changeset="174695217" uid="18069" user="Claudius Henrichs">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
@@ -5137,6 +5145,10 @@
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1611026710" lat="45.4859625" lon="9.2159905" version="5" timestamp="2025-11-15T16:44:07Z" changeset="174695217" uid="18069" user="Claudius Henrichs">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1611026718" lat="45.4863959" lon="9.2161687" version="5" timestamp="2026-04-04T18:24:36Z" changeset="180867974" uid="23629183" user="Fla13">
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -9497,7 +9509,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2407086051" lat="45.4645936" lon="9.1938567" version="7" timestamp="2022-07-14T19:58:33Z" changeset="123623632" uid="10901495" user="Martino Scaglione">
+  <node id="2407086051" lat="45.4645936" lon="9.1938567" version="7" timestamp="2022-07-14T19:58:33Z" changeset="123623632" uid="10901495" user="user_10901495">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20122"/>
@@ -11716,6 +11728,17 @@
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="2534906595" lat="45.4843270" lon="9.2144735" version="6" timestamp="2026-04-04T18:44:26Z" changeset="180868611" uid="23629183" user="Fla13">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Piazza Argentina"/>
+    <tag k="brand" v="Kasanova"/>
+    <tag k="brand:wikidata" v="Q116214505"/>
+    <tag k="name" v="Kasanova"/>
+    <tag k="opening_hours" v="Mo-Su 09:30-19:30"/>
+    <tag k="shop" v="houseware"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="2535219053" lat="45.4440364" lon="9.1676917" version="9" timestamp="2024-11-23T18:56:11Z" changeset="159511300" uid="9319767" user="busnotturno95">
     <tag k="name" v="Romolo"/>
     <tag k="railway" v="subway_entrance"/>
@@ -11877,16 +11900,15 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2543389114" lat="45.4848400" lon="9.2149034" version="5" timestamp="2023-11-04T13:08:37Z" changeset="143613048" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="amenity" v="bank"/>
-    <tag k="brand" v="Deutsche Bank"/>
-    <tag k="brand:wikidata" v="Q66048"/>
-    <tag k="brand:wikipedia" v="en:Deutsche Bank"/>
-    <tag k="name" v="Deutsche Bank"/>
-    <tag k="wheelchair" v="no"/>
+  <node id="2543389114" lat="45.4848400" lon="9.2149034" version="9" timestamp="2026-04-04T18:41:20Z" changeset="180868611" uid="23629183" user="Fla13">
+    <tag k="name" v="facile.it"/>
+    <tag k="office" v="insurance"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa 09:00-14:00"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2543411286" lat="45.4854660" lon="9.2136252" version="3" timestamp="2025-07-15T09:31:41Z" changeset="168954297" uid="290680" user="wheelmap_visitor">
+  <node id="2543411286" lat="45.4854660" lon="9.2136252" version="4" timestamp="2026-04-04T18:37:44Z" changeset="180867791" uid="23629183" user="Fla13">
     <tag k="amenity" v="cafe"/>
+    <tag k="name" v="L'aurora"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2543436921" lat="45.4855442" lon="9.2158565" version="7" timestamp="2025-12-04T22:33:27Z" changeset="175522997" uid="13697350" user="c674a">
@@ -12193,6 +12215,10 @@
   <node id="2606120415" lat="45.4750862" lon="9.2058807" version="6" timestamp="2024-05-23T19:41:25Z" changeset="151740727" uid="20905165" user="nu99et">
     <tag k="name" v="P.ta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2609211471" lat="45.4850997" lon="9.2143128" version="2" timestamp="2026-04-04T18:39:45Z" changeset="180868554" uid="23629183" user="Fla13">
+    <tag k="barrier" v="gate"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2610177888" lat="45.4842227" lon="9.2208462" version="4" timestamp="2025-08-23T10:16:39Z" changeset="170872204" uid="3392826" user="Hugoren Martinako">
@@ -16741,6 +16767,10 @@
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Caffè Venezia"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3373292665" lat="45.4868383" lon="9.2166156" version="7" timestamp="2026-04-04T18:22:23Z" changeset="180867974" uid="23629183" user="Fla13">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3373424475" lat="45.4456148" lon="9.2451996" version="4" timestamp="2024-09-11T16:50:52Z" changeset="156493474" uid="187355" user="MatStrange">
     <tag k="amenity" v="toilets"/>
@@ -37357,6 +37387,10 @@
     <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-express-milano-piazza-argentina-6n01-3211.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9571208135" lat="45.4839652" lon="9.2142815" version="6" timestamp="2026-04-04T18:45:46Z" changeset="180867974" uid="23629183" user="Fla13">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="9571905657" lat="45.4681137" lon="9.1573670" version="4" timestamp="2025-07-15T09:33:59Z" changeset="168954470" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
@@ -48171,8 +48205,10 @@
     <tag k="start_date" v="2024"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="13013644659" lat="45.4187406" lon="9.1798849" version="2" timestamp="2025-11-09T17:38:23Z" changeset="174428559" uid="22919632" user="matteobott">
+  <node id="13013644659" lat="45.4187406" lon="9.1798849" version="3" timestamp="2026-04-04T14:30:41Z" changeset="180856982" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="20142"/>
     <tag k="addr:street" v="Via Nicola Romeo"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="restaurant"/>
@@ -48603,12 +48639,17 @@
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13248254111" lat="45.4198411" lon="9.1777608" version="1" timestamp="2025-10-21T17:43:27Z" changeset="173594616" uid="22919632" user="matteobott">
+  <node id="13248254111" lat="45.4197971" lon="9.1777512" version="2" timestamp="2026-04-04T14:30:41Z" changeset="180856982" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="20142"/>
+    <tag k="addr:street" v="Via Nicola Romeo"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian;fish"/>
     <tag k="name" v="Il pescatore"/>
     <tag k="takeaway" v="yes"/>
     <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://www.ilpescatoreristorantepizzeria.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="13249398794" lat="45.4798707" lon="9.2288415" version="4" timestamp="2026-03-10T12:53:28Z" changeset="179636867" uid="22919632" user="matteobott">
@@ -51826,6 +51867,43 @@
     <tag k="wikidata" v="Q30887988"/>
     <tag k="wikimedia_commons" v="Category:Santa Francesca Romana (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di Santa Francesca Romana (Milano)"/>
+  </way>
+  <way id="39498212" version="8" timestamp="2026-04-04T18:38:52Z" changeset="180868529" uid="23629183" user="Fla13">
+    <center lat="45.4847064" lon="9.2138927"/>
+    <nd ref="473137375"/>
+    <nd ref="473137379"/>
+    <nd ref="473137382"/>
+    <nd ref="473137384"/>
+    <nd ref="473137387"/>
+    <nd ref="473137390"/>
+    <nd ref="1694954556"/>
+    <nd ref="1694954561"/>
+    <nd ref="1694954567"/>
+    <nd ref="473137393"/>
+    <nd ref="1694954564"/>
+    <nd ref="4546771072"/>
+    <nd ref="473137396"/>
+    <nd ref="473137399"/>
+    <nd ref="473137403"/>
+    <nd ref="473142724"/>
+    <nd ref="473137406"/>
+    <nd ref="3307951576"/>
+    <nd ref="473137409"/>
+    <nd ref="473137412"/>
+    <nd ref="1694954574"/>
+    <nd ref="473137416"/>
+    <nd ref="473137375"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="check_date" v="2026-04-04"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Chiesa del Santissimo Redentore"/>
+    <tag k="religion" v="christian"/>
+    <tag k="start_date" v="1900"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q17624770"/>
+    <tag k="wikimedia_commons" v="Category:Santissimo Redentore (Milan)"/>
+    <tag k="wikipedia" v="it:Chiesa del Santissimo Redentore (Milano)"/>
   </way>
   <way id="39522765" version="10" timestamp="2023-12-29T10:23:14Z" changeset="145654364" uid="13840929" user="aa30mom">
     <center lat="45.5043172" lon="9.2005635"/>
@@ -62880,7 +62958,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1395741167" version="6" timestamp="2025-12-16T11:32:22Z" changeset="176000906" uid="22919632" user="matteobott">
-    <center lat="45.4167391" lon="9.1806284"/>
+    <center lat="45.4167353" lon="9.1806207"/>
     <nd ref="12919417476"/>
     <nd ref="12919417477"/>
     <nd ref="13328875255"/>
