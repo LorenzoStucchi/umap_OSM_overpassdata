@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-05T05:37:23Z" areas="2026-04-04T23:45:41Z"/>
+<meta osm_base="2026-04-06T05:50:02Z" areas="2026-04-05T17:36:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -20662,7 +20662,7 @@
     <tag k="website" v="https://www.tomoyoshi-endo.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3957004123" lat="45.4760295" lon="9.2026759" version="16" timestamp="2026-03-11T22:29:43Z" changeset="179724774" uid="23629183" user="Fla13">
+  <node id="3957004123" lat="45.4760295" lon="9.2026759" version="17" timestamp="2026-04-05T21:41:34Z" changeset="180916858" uid="23629183" user="Fla13">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:floor" v="G"/>
     <tag k="addr:housenumber" v="10"/>
@@ -20673,7 +20673,7 @@
     <tag k="brand" v="Flower Burger"/>
     <tag k="brand:wikidata" v="Q67168925"/>
     <tag k="changing_table" v="no"/>
-    <tag k="check_date" v="2026-03-11"/>
+    <tag k="check_date" v="2026-04-05"/>
     <tag k="contact:email" v="smile@flowerburger.it"/>
     <tag k="contact:facebook" v="flowerburger2015"/>
     <tag k="contact:instagram" v="flower_burger"/>
@@ -20686,6 +20686,7 @@
     <tag k="delivery" v="yes"/>
     <tag k="delivery:foodora" v="yes"/>
     <tag k="delivery:foodora:ref" v="https://www.foodora.it/restaurant/s2zd/flower-burger"/>
+    <tag k="diet:gluten_free" v="no"/>
     <tag k="diet:vegan" v="only"/>
     <tag k="drive_through" v="no"/>
     <tag k="indoor_seating" v="yes"/>
@@ -48391,7 +48392,7 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13138072866" lat="45.4796951" lon="9.2268063" version="8" timestamp="2026-04-01T11:51:37Z" changeset="180718089" uid="22919632" user="matteobott">
+  <node id="13138072866" lat="45.4796951" lon="9.2268063" version="9" timestamp="2026-04-05T10:50:01Z" changeset="180890683" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="check_date" v="2025-09-12"/>
     <tag k="defibrillator:location" v="Portineria edificio 11. Subito sulla destra entrando dall'ingresso di Via Ampere e prima della macchinetta di Trenitalia."/>
@@ -48399,7 +48400,7 @@
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="yes"/>
     <tag k="level" v="0"/>
-    <tag k="opening_hours" v="07:00-26:00"/>
+    <tag k="opening_hours" v="07:00-26:00; PH off"/>
     <tag k="operator" v="Politecnico di Milano"/>
     <tag k="survey:date" v="2025-12-05"/>
     <tag k="wheelchair" v="yes"/>
@@ -50327,6 +50328,18 @@
     <tag k="indoor" v="no"/>
     <tag k="opening_hours" v="Mo-Fr 07:00-22:30; Sa-Su 09:00-18:30; PH off"/>
     <tag k="panoramax" v="233f33c3-b16a-443d-95a6-c12de49ca612"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13709696404" lat="45.4752260" lon="9.1980843" version="1" timestamp="2026-04-05T22:06:25Z" changeset="180917379" uid="23629183" user="Fla13">
+    <tag k="addr:floor" v="4"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Corso Venezia"/>
+    <tag k="amenity" v="library"/>
+    <tag k="check_date" v="2026-04-06"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Biblioteca del Museo Civico di Storia Naturale"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="website" v="https://museodistorianaturalemilano.it/il-museo/la-biblioteca"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -56186,6 +56199,32 @@
     <tag k="height" v="30"/>
     <tag k="layer" v="0"/>
     <tag k="roof:colour" v="#ACA4A4"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="219654904" version="7" timestamp="2026-04-05T21:56:12Z" changeset="180917171" uid="23629183" user="Fla13">
+    <center lat="45.4752271" lon="9.1980490"/>
+    <nd ref="2287986775"/>
+    <nd ref="2287986774"/>
+    <nd ref="2287986772"/>
+    <nd ref="6822229801"/>
+    <nd ref="2287986775"/>
+    <tag k="addr:floor" v="G, 1, -1"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:street" v="Corso Venezia"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2026-04-05"/>
+    <tag k="email" v="msn.milano@coopculture.it"/>
+    <tag k="fee" v="yes"/>
+    <tag k="museum" v="nature"/>
+    <tag k="name" v="Museo Civico di Storia Naturale - Paleolab"/>
+    <tag k="opening_hours" v="Mo off; Tu-Su 10:00-17:30; Jan 01,Jan 06,May 01,Dec 25 off"/>
+    <tag k="operator" v="CoopCulture-Pleiadi"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="phone" v="+39 06 39967998; +39 02 8846 3337"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://museodistorianaturalemilano.it/web/museo-di-storia-naturale"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="226924328" version="3" timestamp="2021-02-15T17:36:27Z" changeset="99325395" uid="4413023" user="realjep">
