@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-08T05:37:46Z" areas="2026-04-07T20:08:36Z"/>
+<meta osm_base="2026-04-09T05:35:33Z" areas="2026-04-08T15:56:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -25203,6 +25203,18 @@
     <tag k="brand:wikipedia" v="it:Intesa Sanpaolo"/>
     <tag k="fixme" v="Position estimated"/>
     <tag k="name" v="Intesa Sanpaolo"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4612219182" lat="45.4791327" lon="9.2338674" version="11" timestamp="2026-04-08T15:20:09Z" changeset="181055701" uid="23629183" user="Fla13">
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="check_date" v="2026-04-08"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="male" v="yes"/>
+    <tag k="toilets:disposal" v="flush"/>
+    <tag k="toilets:handwashing" v="no"/>
+    <tag k="toilets:position" v="seated"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4612222081" lat="45.4777728" lon="9.2351198" version="4" timestamp="2025-03-22T10:43:27Z" changeset="163939914" uid="19766472" user="Zargio">
@@ -57020,7 +57032,7 @@
     <tag k="smoking" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="281856553" version="8" timestamp="2026-04-01T08:17:14Z" changeset="180707341" uid="23629183" user="Fla13">
+  <way id="281856553" version="9" timestamp="2026-04-08T08:14:16Z" changeset="181035428" uid="23629183" user="Fla13">
     <center lat="45.4806763" lon="9.2296207"/>
     <nd ref="256987515"/>
     <nd ref="2858275365"/>
@@ -57034,7 +57046,7 @@
     <tag k="operator" v="Polizia Locale"/>
     <tag k="operator:wikidata" v="Q61634147"/>
     <tag k="operator:wikipedia" v="it:Polizia locale (Italia)"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair" v="designated"/>
   </way>
   <way id="285715638" version="2" timestamp="2026-02-17T18:12:45Z" changeset="178692127" uid="23821100" user="trauplete">
     <center lat="45.5057728" lon="9.1991625"/>
