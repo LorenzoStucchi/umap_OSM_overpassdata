@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-16T05:55:00Z" areas="2026-04-15T17:16:56Z"/>
+<meta osm_base="2026-04-17T05:52:50Z" areas="2026-04-16T16:06:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3049,7 +3049,7 @@
     <tag k="website" v="https://www.grom.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="687897963" lat="45.4718956" lon="9.1676381" version="14" timestamp="2026-03-20T21:57:15Z" changeset="180179594" uid="13697350" user="c674a">
+  <node id="687897963" lat="45.4718956" lon="9.1676381" version="15" timestamp="2026-04-16T17:29:40Z" changeset="181424996" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="55"/>
@@ -3071,7 +3071,7 @@
     <tag k="payment:satispay" v="yes"/>
     <tag k="phone" v="+39 02 4694107"/>
     <tag k="ref:vatin" v="IT12683790153"/>
-    <tag k="shop" v="convenience"/>
+    <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.carrefour.it/punti-vendita/carrefour-market-milano-via-monti-n-55-0022.html"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -5797,6 +5797,11 @@
     <tag k="name" v="Boggi"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="1722078867" lat="45.4784815" lon="9.2272775" version="8" timestamp="2026-04-16T14:09:47Z" changeset="181416101" uid="23420318" user="darcros">
+    <tag k="access" v="permissive"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1722078886" lat="45.4785355" lon="9.2298201" version="8" timestamp="2025-06-23T13:35:13Z" changeset="168004203" uid="13840929" user="aa30mom">
     <tag k="access" v="permissive"/>
@@ -11468,19 +11473,27 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q111413058"/>
   </node>
-  <node id="2496456233" lat="45.4788607" lon="9.2278430" version="11" timestamp="2023-11-16T16:09:34Z" changeset="144103004" uid="4862063" user="tars4815">
+  <node id="2496456233" lat="45.4788607" lon="9.2278430" version="12" timestamp="2026-04-16T13:52:36Z" changeset="181415275" uid="4862063" user="tars4815">
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="bar" v="yes"/>
+    <tag k="check_date" v="2026-04-16"/>
     <tag k="contact:city" v="Milano"/>
     <tag k="contact:housenumber" v="32"/>
     <tag k="contact:postcode" v="20100"/>
     <tag k="contact:street" v="Piazza Leonardo da Vinci"/>
+    <tag k="cuisine" v="coffee_shop"/>
     <tag k="layer" v="-1"/>
     <tag k="level" v="-1"/>
     <tag k="name" v="SeRist"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-17:30"/>
     <tag k="operator" v="Serist S.r.l."/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="ramp:wheelchair" v="yes"/>
     <tag k="ref:vatin" v="IT09671780964"/>
+    <tag k="smoking" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2498266557" lat="45.4666661" lon="9.1844970" version="11" timestamp="2025-12-01T23:28:16Z" changeset="175379957" uid="13697350" user="c674a">
@@ -11514,10 +11527,10 @@
     <tag k="website" v="https://www.mazzolari.info/en/stores/corso-monforte.html"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2498673900" lat="45.4786394" lon="9.2281552" version="7" timestamp="2025-10-01T15:40:49Z" changeset="172712663" uid="8716397" user="f_gonella">
+  <node id="2498673900" lat="45.4786394" lon="9.2281552" version="8" timestamp="2026-04-16T14:02:05Z" changeset="181415732" uid="4862063" user="tars4815">
     <tag k="access" v="permissive"/>
     <tag k="door" v="no"/>
-    <tag k="entrance" v="yes"/>
+    <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2498673940" lat="45.4786391" lon="9.2278944" version="6" timestamp="2025-10-01T15:40:49Z" changeset="172712663" uid="8716397" user="f_gonella">
@@ -11545,6 +11558,15 @@
   <node id="2501673166" lat="45.4525023" lon="9.1700941" version="6" timestamp="2023-07-26T16:20:52Z" changeset="139045863" uid="19266080" user="frlrt">
     <tag k="name" v="P.ta Genova FS"/>
     <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2516378791" lat="45.4825996" lon="9.2354774" version="6" timestamp="2026-04-16T12:54:49Z" changeset="181412614" uid="23629183" user="Fla13">
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:street" v="Via Cesare Beruto"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="maxwidth:physical" v="0.92"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2516378868" lat="45.4724531" lon="9.2304599" version="3" timestamp="2026-02-20T11:28:37Z" changeset="178814508" uid="18379809" user="niels-valec">
@@ -16788,6 +16810,30 @@
     <tag k="name" v="Studio Immobiliare"/>
     <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3372509707" lat="45.4821380" lon="9.2354837" version="8" timestamp="2026-04-16T12:54:49Z" changeset="181412614" uid="23629183" user="Fla13">
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="yes"/>
+    <tag k="horse" v="no"/>
+    <tag k="locked" v="no"/>
+    <tag k="maxwidth:physical" v="1"/>
+    <tag k="source:maxwidth:physical" v="ARCore"/>
+    <tag k="vehicle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3372520823" lat="45.4819387" lon="9.2354869" version="5" timestamp="2026-04-16T12:54:49Z" changeset="181412614" uid="23629183" user="Fla13">
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:street" v="Via Cesare Beruto"/>
+    <tag k="barrier" v="gate"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="foot" v="private"/>
+    <tag k="horse" v="no"/>
+    <tag k="locked" v="yes"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3373079344" lat="45.4771542" lon="9.2054184" version="3" timestamp="2025-07-15T09:18:49Z" changeset="168953440" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Milano"/>
@@ -23627,14 +23673,14 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4355938255" lat="45.4478686" lon="9.2122503" version="6" timestamp="2025-10-29T19:17:09Z" changeset="173944959" uid="22525435" user="btcitnet">
+  <node id="4355938255" lat="45.4478686" lon="9.2122503" version="7" timestamp="2026-04-16T16:35:13Z" changeset="181422629" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="48b"/>
     <tag k="addr:postcode" v="20135"/>
     <tag k="addr:street" v="Via Pietro Colletta"/>
     <tag k="brand" v="MediaWorld"/>
     <tag k="brand:wikidata" v="Q2381223"/>
-    <tag k="check_date" v="2025-02-26"/>
+    <tag k="check_date" v="2026-04-16"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="level" v="1"/>
     <tag k="name" v="MediaWorld"/>
@@ -25845,7 +25891,14 @@
     <tag k="shop" v="deli"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4808277459" lat="45.4777194" lon="9.2272889" version="8" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+  <node id="4808277458" lat="45.4779023" lon="9.2272875" version="6" timestamp="2026-04-16T14:04:20Z" changeset="181415823" uid="23420318" user="darcros">
+    <tag k="access" v="permissive"/>
+    <tag k="entrance" v="main"/>
+    <tag k="foot" v="designated"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4808277459" lat="45.4777194" lon="9.2272889" version="9" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
+    <tag k="access" v="yes"/>
     <tag k="door" v="no"/>
     <tag k="entrance" v="main"/>
     <tag k="foot" v="designated"/>
@@ -27549,12 +27602,15 @@
     <tag k="website" v="https://onosushiexperience.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5154117623" lat="45.4480409" lon="9.2052687" version="4" timestamp="2026-02-07T14:17:34Z" changeset="178229328" uid="23724596" user="ChimpanBC">
+  <node id="5154117623" lat="45.4480409" lon="9.2052687" version="6" timestamp="2026-04-16T16:59:19Z" changeset="181423641" uid="23724596" user="ChimpanBC">
+    <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="pub"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Bere Buona Birra"/>
     <tag k="opening_hours" v="We-Fr,Su,Mo 17:00-23:00; Sa 13:00-23:00; Tu off"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+39 02 8739 4371"/>
     <tag k="takeaway" v="yes"/>
     <tag k="toilets:access" v="permissive"/>
@@ -27840,20 +27896,16 @@
     <tag k="website" v="https://www.lahormiga.net/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5271533010" lat="45.4711983" lon="9.1843718" version="4" timestamp="2025-10-09T06:18:12Z" changeset="173032989" uid="22858586" user="paf_veglia">
+  <node id="5271533010" lat="45.4711983" lon="9.1843718" version="5" timestamp="2026-04-16T16:19:47Z" changeset="181421991" uid="10901495" user="user_10901495">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Mercato"/>
-    <tag k="brand" v="Apple Store"/>
-    <tag k="brand:wikidata" v="Q421253"/>
-    <tag k="brand:wikipedia" v="en:Apple Store"/>
     <tag k="check_date" v="2025-10-09"/>
     <tag k="clothes" v="men"/>
     <tag k="name" v="Velasca"/>
     <tag k="shop" v="clothes"/>
-    <tag k="short_name" v="Apple"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5271533013" lat="45.4712782" lon="9.1843651" version="4" timestamp="2025-10-09T06:18:12Z" changeset="173032989" uid="22858586" user="paf_veglia">
@@ -28048,6 +28100,11 @@
     <tag k="name" v="Swarovski"/>
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5297709217" lat="45.4790860" lon="9.2272716" version="6" timestamp="2026-04-16T14:09:47Z" changeset="181416101" uid="23420318" user="darcros">
+    <tag k="entrance" v="yes"/>
+    <tag k="foot" v="designated"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5297949309" lat="45.5021265" lon="9.1657665" version="6" timestamp="2025-10-23T08:11:03Z" changeset="173660739" uid="22525435" user="btcitnet">
     <tag k="addr:city" v="Milano"/>
@@ -29586,9 +29643,9 @@
     <tag k="source" v="ds959"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5683348855" lat="45.4775791" lon="9.2287390" version="5" timestamp="2023-02-09T16:17:01Z" changeset="132315844" uid="4841818" user="122131">
-    <tag k="access" v="permissive"/>
-    <tag k="entrance" v="yes"/>
+  <node id="5683348855" lat="45.4775791" lon="9.2287390" version="6" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
+    <tag k="access" v="yes"/>
+    <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5683348856" lat="45.4775818" lon="9.2290785" version="3" timestamp="2025-06-26T14:23:42Z" changeset="168142684" uid="12266546" user="tiziodcaio">
@@ -29607,6 +29664,17 @@
     <tag k="maxwidth:physical" v="2.7"/>
     <tag k="source:maxwidth:physical" v="ARCore"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5683348867" lat="45.4771262" lon="9.2272913" version="5" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
+    <tag k="access" v="yes"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="foot" v="designated"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5683348868" lat="45.4783039" lon="9.2272808" version="5" timestamp="2026-04-16T14:04:20Z" changeset="181415823" uid="23420318" user="darcros">
+    <tag k="access" v="permissive"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5683443074" lat="45.4776002" lon="9.2294250" version="4" timestamp="2025-06-26T14:23:42Z" changeset="168142684" uid="12266546" user="tiziodcaio">
     <tag k="access" v="permissive"/>
@@ -30528,6 +30596,13 @@
     <tag k="amenity" v="ice_cream"/>
     <tag k="name" v="Ottavo Senso"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5797828611" lat="45.4771261" lon="9.2273842" version="5" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="no"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5798204867" lat="45.4808989" lon="9.2255074" version="2" timestamp="2025-09-05T14:57:20Z" changeset="171503651" uid="18490865" user="lello_ba">
     <tag k="access" v="yes"/>
@@ -33009,6 +33084,12 @@
   <node id="7131105279" lat="45.5056446" lon="9.1797115" version="3" timestamp="2022-02-22T20:26:09Z" changeset="117743256" uid="13920670" user="ottanium">
     <tag k="name" v="Dergano"/>
     <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="7137141525" lat="45.4781089" lon="9.2280028" version="3" timestamp="2026-04-16T14:04:20Z" changeset="181415823" uid="23420318" user="darcros">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="staircase"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="7139721659" lat="45.4681520" lon="9.1549963" version="2" timestamp="2025-07-15T09:59:48Z" changeset="168956290" uid="290680" user="wheelmap_visitor">
@@ -37457,10 +37538,15 @@
     <tag k="website" v="https://naturaselection.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9568166097" lat="45.4773807" lon="9.2287708" version="2" timestamp="2023-02-09T16:17:01Z" changeset="132315844" uid="4841818" user="122131">
+  <node id="9568166097" lat="45.4773807" lon="9.2287708" version="3" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
     <tag k="access" v="permissive"/>
-    <tag k="entrance" v="yes"/>
+    <tag k="entrance" v="service"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568173735" lat="45.4784826" lon="9.2274771" version="4" timestamp="2026-04-16T14:09:47Z" changeset="181416101" uid="23420318" user="darcros">
+    <tag k="access" v="permissive"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9568173841" lat="45.4784366" lon="9.2272463" version="2" timestamp="2025-05-13T09:44:27Z" changeset="166192640" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="waste_basket"/>
@@ -37478,6 +37564,18 @@
     <tag k="waste" v="trash"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9568174059" lat="45.4777770" lon="9.2283605" version="3" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9568174065" lat="45.4776766" lon="9.2283291" version="3" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="9568174169" lat="45.4781110" lon="9.2285558" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="access" v="permissive"/>
     <tag k="door" v="hinged"/>
@@ -37490,16 +37588,68 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9568174536" lat="45.4786439" lon="9.2287369" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
-    <tag k="access" v="permissive"/>
-    <tag k="door" v="no"/>
-    <tag k="entrance" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
+  <node id="9568174346" lat="45.4789752" lon="9.2288455" version="2" timestamp="2026-04-16T14:05:51Z" changeset="181415888" uid="4862063" user="tars4815">
+    <tag k="access" v="private"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9568174537" lat="45.4786448" lon="9.2290678" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+  <node id="9568174380" lat="45.4788887" lon="9.2287346" version="2" timestamp="2026-04-16T14:05:51Z" changeset="181415888" uid="4862063" user="tars4815">
+    <tag k="access" v="private"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="staircase"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9568174415" lat="45.4790751" lon="9.2290904" version="2" timestamp="2026-04-16T13:48:42Z" changeset="181415113" uid="4862063" user="tars4815">
     <tag k="access" v="permissive"/>
     <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9568174427" lat="45.4789484" lon="9.2291967" version="2" timestamp="2026-04-16T14:09:55Z" changeset="181416108" uid="4862063" user="tars4815">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="hinged"/>
     <tag k="entrance" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9568174432" lat="45.4787618" lon="9.2291968" version="2" timestamp="2026-04-16T14:09:55Z" changeset="181416108" uid="4862063" user="tars4815">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="main"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174506" lat="45.4787440" lon="9.2291852" version="2" timestamp="2026-04-16T14:09:55Z" changeset="181416108" uid="4862063" user="tars4815">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174511" lat="45.4786506" lon="9.2289441" version="2" timestamp="2026-04-16T14:07:11Z" changeset="181415951" uid="4862063" user="tars4815">
+    <tag k="access" v="private"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9568174536" lat="45.4786439" lon="9.2287369" version="2" timestamp="2026-04-16T14:05:51Z" changeset="181415888" uid="4862063" user="tars4815">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="no"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174537" lat="45.4786448" lon="9.2290678" version="2" timestamp="2026-04-16T14:07:11Z" changeset="181415951" uid="4862063" user="tars4815">
+    <tag k="access" v="permissive"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9568174559" lat="45.4784444" lon="9.2292656" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
@@ -37508,11 +37658,31 @@
     <tag k="entrance" v="service"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="9568174562" lat="45.4786362" lon="9.2296743" version="2" timestamp="2026-04-16T14:15:29Z" changeset="181416414" uid="4862063" user="tars4815">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="9568174587" lat="45.4786244" lon="9.2295247" version="2" timestamp="2026-04-16T14:15:29Z" changeset="181416414" uid="4862063" user="tars4815">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="9568174612" lat="45.4785423" lon="9.2292187" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="access" v="permissive"/>
     <tag k="door" v="hinged"/>
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9568174619" lat="45.4786334" lon="9.2293857" version="2" timestamp="2026-04-16T14:15:29Z" changeset="181416414" uid="4862063" user="tars4815">
+    <tag k="access" v="private"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="9568174628" lat="45.4784738" lon="9.2295811" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
     <tag k="access" v="permissive"/>
@@ -37526,10 +37696,12 @@
     <tag k="entrance" v="service"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9568174644" lat="45.4786361" lon="9.2296519" version="1" timestamp="2022-03-10T09:33:31Z" changeset="118313047" uid="4841818" user="122131">
+  <node id="9568174644" lat="45.4786361" lon="9.2296519" version="2" timestamp="2026-04-16T14:15:29Z" changeset="181416414" uid="4862063" user="tars4815">
     <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
     <tag k="door" v="hinged"/>
     <tag k="entrance" v="yes"/>
+    <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9571016844" lat="45.4656464" lon="9.1734734" version="4" timestamp="2025-07-22T13:13:17Z" changeset="169293121" uid="13840929" user="aa30mom">
@@ -41343,6 +41515,18 @@
     <tag k="level" v="1"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="10633058766" lat="45.4771179" lon="9.2279664" version="3" timestamp="2026-04-16T14:19:23Z" changeset="181416644" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058827" lat="45.4771104" lon="9.2280590" version="2" timestamp="2026-04-16T14:19:23Z" changeset="181416644" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="10633058833" lat="45.4771185" lon="9.2281170" version="4" timestamp="2025-05-13T09:43:34Z" changeset="166192606" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="recycling"/>
     <tag k="location" v="indoor"/>
@@ -41370,6 +41554,40 @@
     <tag k="foot" v="permissive"/>
     <tag k="material" v="metal"/>
     <tag k="motor_vehicle" v="delivery"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058876" lat="45.4775423" lon="9.2279848" version="4" timestamp="2026-04-16T14:15:57Z" changeset="181416434" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058877" lat="45.4775103" lon="9.2279843" version="4" timestamp="2026-04-16T14:15:57Z" changeset="181416434" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058878" lat="45.4774768" lon="9.2279847" version="4" timestamp="2026-04-16T14:15:57Z" changeset="181416434" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058880" lat="45.4771120" lon="9.2279433" version="5" timestamp="2026-04-16T14:19:23Z" changeset="181416644" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058881" lat="45.4771734" lon="9.2279092" version="4" timestamp="2026-04-16T14:19:23Z" changeset="181416644" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="emergency"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10633058882" lat="45.4772471" lon="9.2279094" version="4" timestamp="2026-04-16T14:19:23Z" changeset="181416644" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="emergency"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="10651256333" lat="45.5078278" lon="9.2030348" version="4" timestamp="2024-05-31T20:00:53Z" changeset="152097022" uid="717233" user="jacopofar">
@@ -45462,14 +45680,14 @@
     <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11795366867" lat="45.4459285" lon="9.1771673" version="9" timestamp="2026-04-15T09:52:27Z" changeset="181357980" uid="23926999" user="PrUsT2">
+  <node id="11795366867" lat="45.4459285" lon="9.1771673" version="10" timestamp="2026-04-16T10:50:13Z" changeset="181407255" uid="23926999" user="PrUsT2">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:postcode" v="20136"/>
     <tag k="addr:street" v="Via Conchetta"/>
     <tag k="amenity" v="community_centre"/>
     <tag k="changing_table" v="no"/>
-    <tag k="check_date" v="2026-04-14"/>
+    <tag k="check_date" v="2026-04-16"/>
     <tag k="check_date:opening_hours" v="2026-01-22"/>
     <tag k="contact:facebook" v="Cox18"/>
     <tag k="contact:instagram" v="csoa.cox18"/>
@@ -45481,7 +45699,7 @@
     <tag k="opening_hours:signed" v="no"/>
     <tag k="operator" v="Centro Sociale Occupato Autogestito Conchetta 18"/>
     <tag k="operator:type" v="community"/>
-    <tag k="phone" v="02 5810 5688;02 8941 5976"/>
+    <tag k="phone" v="+39 02 5810 5688;+39 02 8941 5976"/>
     <tag k="website" v="https://cox18.noblogs.org/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -47084,7 +47302,11 @@
     <tag k="website" v="https://www.camillapizza.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12636392968" lat="45.4456419" lon="9.1791964" version="4" timestamp="2026-01-29T21:39:25Z" changeset="177866735" uid="23724596" user="ChimpanBC">
+  <node id="12636392968" lat="45.4455262" lon="9.1791790" version="5" timestamp="2026-04-16T16:04:08Z" changeset="181421400" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="20136"/>
+    <tag k="addr:street" v="Via Giuseppe Meda"/>
     <tag k="check_date:opening_hours" v="2026-01-29"/>
     <tag k="name" v="VisionOttica Meda"/>
     <tag k="opening_hours" v="Tu-Sa 09:30-12:30,15:00-19:30"/>
@@ -49903,14 +50125,6 @@
     <tag k="name" v="LATA - Laboratorio Analisi e Tecnologia Ambientale"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13477747502" lat="45.4447459" lon="9.1790365" version="5" timestamp="2026-03-09T20:34:35Z" changeset="179603636" uid="23724596" user="ChimpanBC">
-    <tag k="name" v="Self Service 24h"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="shop" v="tobacco"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="13503497747" lat="45.4422802" lon="9.1300368" version="4" timestamp="2026-01-27T09:49:18Z" changeset="177754756" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="defibrillator:location" v="Stazione M4 San Cristoforo. Dopo i tornelli."/>
@@ -50186,6 +50400,12 @@
     <tag k="phone" v="+39 02 66 98 17 54"/>
     <tag k="website" v="https://www.utilia.it/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13573829396" lat="45.4773836" lon="9.2281090" version="2" timestamp="2026-04-16T14:19:23Z" changeset="181416644" uid="4861141" user="Michael Montani">
+    <tag k="access" v="private"/>
+    <tag k="entrance" v="service"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="13596435885" lat="45.4857100" lon="9.2162264" version="5" timestamp="2026-02-25T13:29:13Z" changeset="179037337" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
@@ -50692,6 +50912,85 @@
     <tag k="phone" v="+39 02 5810 2599"/>
     <tag k="website" v="https://naga.it"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13734816142" lat="45.4772368" lon="9.2292157" version="1" timestamp="2026-04-16T14:04:52Z" changeset="181415847" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="private"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="fixme" v="Please merge me into a nearby building"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13734825737" lat="45.4771007" lon="9.2293924" version="1" timestamp="2026-04-16T14:09:45Z" changeset="181416099" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="no"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="fixme" v="Please merge me into a nearby building"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13734825738" lat="45.4771996" lon="9.2295734" version="1" timestamp="2026-04-16T14:09:45Z" changeset="181416099" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="no"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="fixme" v="Please merge me into a nearby building"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13734825739" lat="45.4773408" lon="9.2295542" version="1" timestamp="2026-04-16T14:09:45Z" changeset="181416099" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="no"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="fixme" v="Please merge me into a nearby building"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13734825740" lat="45.4773564" lon="9.2295877" version="1" timestamp="2026-04-16T14:09:45Z" changeset="181416099" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="yes"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="fixme" v="Please merge me into a nearby building"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13734834000" lat="45.4777632" lon="9.2296291" version="1" timestamp="2026-04-16T14:16:06Z" changeset="181416443" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13734847903" lat="45.4778479" lon="9.2293748" version="1" timestamp="2026-04-16T14:22:38Z" changeset="181416818" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13734847904" lat="45.4783141" lon="9.2293712" version="1" timestamp="2026-04-16T14:22:38Z" changeset="181416818" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="permissive"/>
+    <tag k="addr:floor" v="G"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="secondary"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13734847905" lat="45.4782959" lon="9.2293503" version="1" timestamp="2026-04-16T14:22:38Z" changeset="181416818" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="private"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13734851297" lat="45.4795216" lon="9.2279765" version="1" timestamp="2026-04-16T14:29:01Z" changeset="181417095" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="no"/>
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="emergency"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="13734851298" lat="45.4795912" lon="9.2279752" version="1" timestamp="2026-04-16T14:29:01Z" changeset="181417095" uid="10341989" user="Quang Huy NGUYEN">
+    <tag k="access" v="private"/>
+    <tag k="door" v="yes"/>
+    <tag k="entrance" v="emergency"/>
+    <tag k="level" v="-1"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
@@ -54009,6 +54308,28 @@
     <tag k="fee" v="yes"/>
     <tag k="parking" v="surface"/>
     <tag k="surface" v="asphalt"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="134548486" version="17" timestamp="2026-04-16T12:04:27Z" changeset="181410511" uid="20047347" user="Sara Newmountain">
+    <center lat="45.5114087" lon="9.2605327"/>
+    <nd ref="1479171121"/>
+    <nd ref="1479171022"/>
+    <nd ref="9702630121"/>
+    <nd ref="1479171010"/>
+    <nd ref="1479171153"/>
+    <nd ref="9702630120"/>
+    <nd ref="2356329681"/>
+    <nd ref="1479171012"/>
+    <nd ref="1479171121"/>
+    <tag k="amenity" v="bus_station"/>
+    <tag k="building" v="train_station"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="bus" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Cascina Gobba M2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="start_date" v="1968"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="134940971" version="8" timestamp="2022-05-21T16:48:02Z" changeset="121290248" uid="6220204" user="Ysogo">
@@ -59712,7 +60033,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="491367824" version="16" timestamp="2025-12-06T16:03:54Z" changeset="175591804" uid="13697350" user="c674a">
+  <way id="491367824" version="17" timestamp="2026-04-16T16:33:22Z" changeset="181422559" uid="10901495" user="user_10901495">
     <center lat="45.4654442" lon="9.1940845"/>
     <nd ref="4834893868"/>
     <nd ref="4834893872"/>
@@ -59725,6 +60046,10 @@
     <nd ref="4834893865"/>
     <nd ref="5781144808"/>
     <nd ref="4834893868"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Piazza del Liberty"/>
     <tag k="brand" v="Apple Store"/>
     <tag k="brand:wikidata" v="Q421253"/>
     <tag k="brand:wikipedia" v="en:Apple Store"/>
@@ -59732,14 +60057,14 @@
     <tag k="check_date" v="2025-11-17"/>
     <tag k="email" v="piazzaliberty@apple.com"/>
     <tag k="level" v="-1"/>
-    <tag k="name" v="Apple Store"/>
+    <tag k="name" v="Apple Piazza Liberty"/>
     <tag k="opening_hours" v="10:00-20:00"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:cheque" v="yes"/>
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+39 02 30302400"/>
+    <tag k="phone" v="+390230302400"/>
     <tag k="shop" v="electronics"/>
     <tag k="short_name" v="Apple"/>
     <tag k="website" v="https://www.apple.com/it/retail/piazzaliberty/"/>
@@ -60060,6 +60385,36 @@
     <tag k="room" v="toilets"/>
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="534201587" version="6" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
+    <center lat="45.4772082" lon="9.2273536"/>
+    <nd ref="259621784"/>
+    <nd ref="5181281380"/>
+    <nd ref="730760176"/>
+    <nd ref="5179618660"/>
+    <nd ref="5181322513"/>
+    <nd ref="5179618659"/>
+    <nd ref="5179618703"/>
+    <nd ref="12655943017"/>
+    <nd ref="259621784"/>
+    <tag k="books" v="academic;textbook"/>
+    <tag k="check_date" v="2026-04-16"/>
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:housenumber" v="32"/>
+    <tag k="contact:phone" v="+39 3317017162"/>
+    <tag k="contact:postcode" v="20133"/>
+    <tag k="contact:street" v="Piazza Leonardo da Vinci"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="indoor" v="room"/>
+    <tag k="level" v="-1"/>
+    <tag k="name" v="C.U.S.L."/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="operator" v="C.U.S.L. S.C.P.A."/>
+    <tag k="ref:vatin" v="IT03776380150"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="shop" v="books"/>
+    <tag k="toilets" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="534206043" version="4" timestamp="2026-03-03T14:47:46Z" changeset="179305834" uid="12266546" user="tiziodcaio">
     <center lat="45.4772401" lon="9.2276836"/>
@@ -61180,9 +61535,11 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="851534755" version="10" timestamp="2026-01-28T16:46:52Z" changeset="177813461" uid="22919632" user="matteobott">
+  <way id="851534755" version="11" timestamp="2026-04-16T14:29:01Z" changeset="181417095" uid="10341989" user="Quang Huy NGUYEN">
     <center lat="45.4795659" lon="9.2282570"/>
     <nd ref="7942295498"/>
+    <nd ref="13734851298"/>
+    <nd ref="13734851297"/>
     <nd ref="7942295499"/>
     <nd ref="13504822717"/>
     <nd ref="13252618298"/>
