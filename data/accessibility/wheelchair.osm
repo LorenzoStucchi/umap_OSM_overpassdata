@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-18T05:33:08Z" areas="2026-04-17T23:00:58Z"/>
+<meta osm_base="2026-04-19T05:52:21Z" areas="2026-04-18T18:22:01Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -357,13 +357,13 @@
     <tag k="website" v="http://www.epn.lloydsfarmacia.it/stores/farmacie-milano/milano-64"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="250657226" lat="45.4999659" lon="9.1965393" version="7" timestamp="2025-08-09T11:59:49Z" changeset="170198356" uid="22858586" user="paf_veglia">
+  <node id="250657226" lat="45.4999659" lon="9.1965393" version="8" timestamp="2026-04-18T13:40:18Z" changeset="181499089" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="131"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Viale Zara"/>
     <tag k="amenity" v="post_office"/>
-    <tag k="check_date" v="2025-08-09"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="fax" v="+39 02 6884311"/>
     <tag k="name" v="Milano 58"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-13:35; Sa 08:20-12:35; Su off"/>
@@ -1249,6 +1249,12 @@
     <tag k="shop" v="convenience"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="282181519" lat="45.4676961" lon="9.2227017" version="6" timestamp="2026-04-18T17:29:40Z" changeset="181509247" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="clinic"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="name" v="Santagostino"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="282181931" lat="45.4741594" lon="9.2184026" version="7" timestamp="2021-01-02T14:47:46Z" changeset="96810852" uid="9082724" user="pNyC6U3gmE4w">
     <tag k="brand" v="Punto Simply"/>
     <tag k="brand:wikidata" v="Q3484790"/>
@@ -1266,12 +1272,13 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="282182220" lat="45.4728804" lon="9.2156698" version="5" timestamp="2019-05-04T07:21:51Z" changeset="69867507" uid="417672" user="Guidus">
+  <node id="282182220" lat="45.4728804" lon="9.2156698" version="6" timestamp="2026-04-18T16:46:45Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
     <tag k="brand" v="Deutsche Bank"/>
     <tag k="brand:wikidata" v="Q66048"/>
     <tag k="brand:wikipedia" v="en:Deutsche Bank"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Deutsche Bank"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -3766,14 +3773,14 @@
     <tag k="wikidata" v="Q1088225"/>
     <tag k="wikipedia" v="it:Affori FN (metropolitana di Milano)"/>
   </node>
-  <node id="1279675094" lat="45.4798333" lon="9.2102403" version="10" timestamp="2023-12-07T12:01:05Z" changeset="144864513" uid="2052228" user="kauevestena">
+  <node id="1279675094" lat="45.4798333" lon="9.2102403" version="11" timestamp="2026-04-18T16:34:18Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="check_date" v="2023-12-07"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="contact:phone" v="+39 02 29529867"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
@@ -4623,7 +4630,8 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1514367261" lat="45.5285018" lon="9.1633070" version="6" timestamp="2023-07-14T16:17:50Z" changeset="138514843" uid="3396014" user="Moncecchi Daniele">
+  <node id="1514367261" lat="45.5285018" lon="9.1633070" version="7" timestamp="2026-04-18T20:36:31Z" changeset="181515625" uid="23724596" user="ChimpanBC">
+    <tag k="check_date:wheelchair" v="2026-04-18"/>
     <tag k="name" v="Comasina"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -12309,8 +12317,9 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2609211471" lat="45.4850997" lon="9.2143128" version="2" timestamp="2026-04-04T18:39:45Z" changeset="180868554" uid="23629183" user="Fla13">
+  <node id="2609211471" lat="45.4850997" lon="9.2143128" version="3" timestamp="2026-04-19T00:32:42Z" changeset="181520078" uid="24046152" user="GVE_06">
     <tag k="barrier" v="gate"/>
+    <tag k="maxwidth:physical" v="2.5"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2610177888" lat="45.4842227" lon="9.2208462" version="4" timestamp="2025-08-23T10:16:39Z" changeset="170872204" uid="3392826" user="Hugoren Martinako">
@@ -13481,6 +13490,14 @@
     <tag k="material" v="concrete"/>
     <tag k="maxwidth" v="1"/>
     <tag k="motor_vehicle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2933256402" lat="45.4684200" lon="9.2227561" version="5" timestamp="2026-04-18T17:27:25Z" changeset="181509247" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="Crédit Agricole"/>
+    <tag k="brand:wikidata" v="Q2938832"/>
+    <tag k="brand:wikipedia" v="fr:Crédit agricole"/>
+    <tag k="name" v="Crédit Agricole"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2935373801" lat="45.4890070" lon="9.1872235" version="3" timestamp="2019-09-13T15:06:27Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
@@ -15028,9 +15045,11 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Interni Cappella Stazione.jpg"/>
   </node>
-  <node id="3040011379" lat="45.4858341" lon="9.2056774" version="4" timestamp="2022-11-28T17:17:13Z" changeset="129485157" uid="11220113" user="ivanbranco">
+  <node id="3040011379" lat="45.4858341" lon="9.2056774" version="5" timestamp="2026-04-18T07:20:58Z" changeset="181486142" uid="13697350" user="c674a">
     <tag k="amenity" v="police"/>
-    <tag k="operator" v="Polizia Ferroviaria"/>
+    <tag k="name" v="Polizia Ferroviaria"/>
+    <tag k="operator" v="Polizia di Stato"/>
+    <tag k="operator:wikidata" v="Q897817"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3042190534" lat="45.4664796" lon="9.1624449" version="2" timestamp="2025-07-15T09:42:49Z" changeset="168955125" uid="290680" user="wheelmap_visitor">
@@ -15172,11 +15191,7 @@
     <tag k="website" v="https://www.calzedonia.com/it/negozi/lombardia/milano/milano_corso_genova_14/CG90.html"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3051560136" lat="45.4754394" lon="9.2145513" version="5" timestamp="2023-11-21T16:49:07Z" changeset="144295683" uid="13840929" user="aa30mom">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="20129"/>
-    <tag k="addr:street" v="Via Bartolomeo Eustachi"/>
+  <node id="3051560136" lat="45.4755643" lon="9.2150266" version="8" timestamp="2026-04-18T16:44:32Z" changeset="181507501" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="50"/>
     <tag k="cuisine" v="sushi"/>
@@ -15195,20 +15210,6 @@
     <tag k="phone" v="+39 348 808 4916"/>
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="3054307485" lat="45.4855931" lon="9.2048640" version="5" timestamp="2024-08-28T14:10:32Z" changeset="155883052" uid="20803065" user="Pyjot">
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Piazza Duca d'Aosta"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="level" v="1"/>
-    <tag k="name" v="McDonald's Café"/>
-    <tag k="note:it" v="La parte fast food apre alle ore 06:30, la parte caffè apre alle ore 06:00 entrambe chiudono alle ore 23:00"/>
-    <tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
-    <tag k="operator" v="McDonald's Development Italy Unc."/>
-    <tag k="ref:vatin" v="IT09499510155"/>
-    <tag k="website" v="https://www.mcdonalds.it/ristorante/lombardia/milano/milano-stazione-centrale-interno"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3061365065" lat="45.4642109" lon="9.2185729" version="6" timestamp="2024-06-26T16:34:48Z" changeset="153211869" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
@@ -15271,6 +15272,28 @@
     <tag k="smoking" v="outside"/>
     <tag k="start_date" v="2012-03-01"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3077210019" lat="45.4622394" lon="9.1942721" version="10" timestamp="2026-04-18T15:06:02Z" changeset="181502984" uid="23724596" user="ChimpanBC">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="Piazza Santo Stefano"/>
+    <tag k="brand" v="Carrefour Express"/>
+    <tag k="brand:wikidata" v="Q2940190"/>
+    <tag k="brand:wikipedia" v="fr:Carrefour Express"/>
+    <tag k="check_date" v="2026-04-18"/>
+    <tag k="check_date:opening_hours" v="2026-04-18"/>
+    <tag k="comment:it" v="entrata principale in piaza Santo Stefano, entrata secondaria da via Bergamini"/>
+    <tag k="contact:phone" v="+39 02 58314630"/>
+    <tag k="name" v="Carrefour Express"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:00; Su 09:00-12:30"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="ref:vatin" v="IT12002340151"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.carrefour.it/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3078963339" lat="45.4832073" lon="9.1901195" version="9" timestamp="2025-10-07T06:29:09Z" changeset="172943225" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
@@ -16337,12 +16360,13 @@
     <tag k="shop" v="travel_agency"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3236536364" lat="45.4800986" lon="9.2104938" version="8" timestamp="2023-11-04T15:15:17Z" changeset="143618447" uid="1875845" user="Valerio_Bozzolan">
+  <node id="3236536364" lat="45.4800986" lon="9.2104938" version="9" timestamp="2026-04-18T16:33:34Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
     <tag k="brand" v="Wind Tre"/>
     <tag k="brand:wikidata" v="Q28119223"/>
     <tag k="brand:wikipedia" v="en:Wind Tre"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Wind 3"/>
     <tag k="opening_hours" v="Mo-Sa 10:00-19:30"/>
     <tag k="shop" v="mobile_phone"/>
@@ -19162,6 +19186,23 @@
     <tag k="name" v="Da Sasà"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3817760894" lat="45.4817559" lon="9.2081076" version="6" timestamp="2026-04-18T16:30:12Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via Vitruvio"/>
+    <tag k="check_date" v="2026-04-18"/>
+    <tag k="email" v="info@hoteleden.mi.it"/>
+    <tag k="fax" v="+39 02 29415910"/>
+    <tag k="name" v="Hotel Eden"/>
+    <tag k="phone" v="+39 02 20480343"/>
+    <tag k="rooms" v="17"/>
+    <tag k="stars" v="2"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.hoteleden.mi.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3817766828" lat="45.4831145" lon="9.2097440" version="5" timestamp="2024-10-15T15:46:17Z" changeset="157927200" uid="15541433" user="paulbrunner">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -19349,7 +19390,7 @@
     <tag k="website" v="https://www.hotelvitruvio.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3848619950" lat="45.4833827" lon="9.2046135" version="5" timestamp="2021-07-04T08:09:01Z" changeset="107379324" uid="3860151" user="Michele Aquilani">
+  <node id="3848619950" lat="45.4833827" lon="9.2046135" version="6" timestamp="2026-04-18T16:26:13Z" changeset="181506605" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="47"/>
@@ -19360,8 +19401,10 @@
     <tag k="contact:phone" v="+3 02 66982473"/>
     <tag k="contact:yelp" v="https://www.yelp.com/biz/caff%C3%A9-lepetit-milano"/>
     <tag k="cuisine" v="italian"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="LePetit"/>
     <tag k="operator" v="Frau Giuseppe &amp; C."/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 66982473"/>
     <tag k="ref:vatin" v="IT04854030964"/>
     <tag k="smoking" v="no"/>
@@ -19548,6 +19591,30 @@
     <tag k="amenity" v="bar"/>
     <tag k="check_date" v="2025-06-18"/>
     <tag k="name" v="Inside"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3848621433" lat="45.4837183" lon="9.2039940" version="6" timestamp="2026-04-18T16:24:38Z" changeset="181506516" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Piazza Duca d'Aosta"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="branch" v="https://www.bancobpm.it/trova-filiali/tutte-le-filiali/lombardia/MI/MILANO-00670/"/>
+    <tag k="brand" v="Banco BPM"/>
+    <tag k="brand:en" v="Popular Bank of Milan"/>
+    <tag k="brand:it" v="Banca Popolare di Milano"/>
+    <tag k="brand:wikidata" v="Q27331643"/>
+    <tag k="brand:wikipedia" v="en:Banca Popolare di Milano"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="email" v="filiale.00670@bancobpm.it"/>
+    <tag k="fax" v="+390266710036"/>
+    <tag k="name" v="Banco BPM"/>
+    <tag k="name:en" v="Popular Bank of Milan"/>
+    <tag k="name:it" v="Banca Popolare di Milano"/>
+    <tag k="opening_hours" v="Mo-Th 08:20-13:20, 14:30-16:30; Fr 08:20-13:20, 14:30-16:00; Sa-Su off"/>
+    <tag k="phone" v="+390267076400"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3848621435" lat="45.4831928" lon="9.2049540" version="6" timestamp="2025-11-10T18:46:53Z" changeset="174478066" uid="616774" user="mueschel">
@@ -19834,6 +19901,24 @@
     <tag k="name" v="to.market"/>
     <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
     <tag k="shop" v="convenience"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3861243544" lat="45.4822466" lon="9.2066772" version="6" timestamp="2026-04-18T16:28:38Z" changeset="181506516" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via Vitruvio"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2026-04-10"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Vitruvio snc"/>
+    <tag k="operator" v="Vitruvio snc"/>
+    <tag k="ref:msal" v="2961"/>
+    <tag k="ref:vatin" v="IT07514450969"/>
+    <tag k="source" v="Ministero della Salute"/>
+    <tag k="website" v="https://farmaciavitruviomilano.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3861245051" lat="45.4818219" lon="9.2044136" version="6" timestamp="2026-04-10T21:25:53Z" changeset="181168910" uid="4425563" user="Danysan95">
@@ -20751,11 +20836,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3935597018" lat="45.5013503" lon="9.1971527" version="6" timestamp="2025-09-20T10:19:30Z" changeset="172198790" uid="22858586" user="paf_veglia">
+  <node id="3935597018" lat="45.5013503" lon="9.1971527" version="7" timestamp="2026-04-18T13:40:18Z" changeset="181499089" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Piazzale Istria"/>
-    <tag k="check_date" v="2025-09-20"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="internet_access" v="no"/>
     <tag k="level" v="0"/>
     <tag k="name" v="MF Minimarket"/>
@@ -24714,14 +24799,16 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4527053954" lat="45.4760253" lon="9.2150633" version="4" timestamp="2025-07-15T10:05:17Z" changeset="168956698" uid="290680" user="wheelmap_visitor">
+  <node id="4527053954" lat="45.4760253" lon="9.2150633" version="5" timestamp="2026-04-18T16:42:25Z" changeset="181506605" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Baobar"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4527053955" lat="45.4757638" lon="9.2152363" version="2" timestamp="2025-07-15T10:04:13Z" changeset="168956611" uid="290680" user="wheelmap_visitor">
+  <node id="4527053955" lat="45.4757638" lon="9.2152363" version="3" timestamp="2026-04-18T16:42:36Z" changeset="181506605" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Bar dell'Angolo"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
@@ -24730,21 +24817,6 @@
     <tag k="name" v="Maison Gigolette"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="4527053958" lat="45.4760836" lon="9.2149801" version="4" timestamp="2025-07-15T10:05:43Z" changeset="168956727" uid="290680" user="wheelmap_visitor">
-    <tag k="brand" v="Punto Simply"/>
-    <tag k="brand:wikidata" v="Q3484790"/>
-    <tag k="brand:wikipedia" v="it:Simply Market"/>
-    <tag k="name" v="Punto Simply"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="4527053959" lat="45.4755842" lon="9.2150177" version="2" timestamp="2025-07-15T10:01:50Z" changeset="168956432" uid="290680" user="wheelmap_visitor">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="japanese"/>
-    <tag k="name" v="Shir"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4527053982" lat="45.4759801" lon="9.2148447" version="4" timestamp="2025-07-15T10:00:19Z" changeset="168956325" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="recycling"/>
@@ -26274,13 +26346,14 @@
     <tag k="shop" v="bag"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4858001986" lat="45.4798159" lon="9.2106796" version="5" timestamp="2022-05-15T10:36:06Z" changeset="121007157" uid="13933690" user="Andrea Carulli">
+  <node id="4858001986" lat="45.4798159" lon="9.2106796" version="6" timestamp="2026-04-18T16:33:38Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Galleria Buenos Aires"/>
     <tag k="brand" v="Yamamay"/>
     <tag k="brand:wikidata" v="Q2599214"/>
     <tag k="brand:wikipedia" v="it:Yamamay"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="clothes" v="underwear"/>
     <tag k="contact:phone" v="+39 02 29519470"/>
     <tag k="name" v="Yamamay"/>
@@ -26307,6 +26380,11 @@
     <tag k="website" v="https://www.hotelnascomilano.it/"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q111413082"/>
+  </node>
+  <node id="4875403546" lat="45.4788231" lon="9.2128006" version="3" timestamp="2026-04-18T16:37:42Z" changeset="181506516" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Roberto piante e fiori"/>
+    <tag k="shop" v="florist"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4877429109" lat="45.4824433" lon="9.2122621" version="2" timestamp="2023-12-07T10:59:26Z" changeset="144862451" uid="2052228" user="kauevestena">
     <tag k="name" v="Ri.Me."/>
@@ -26596,7 +26674,7 @@
     <tag k="ref:vatin" v="08331491210"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4916541765" lat="45.4970425" lon="9.1932776" version="7" timestamp="2025-09-16T18:28:51Z" changeset="172029953" uid="22858586" user="paf_veglia">
+  <node id="4916541765" lat="45.4970425" lon="9.1932776" version="8" timestamp="2026-04-18T13:40:18Z" changeset="181499089" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="20159"/>
@@ -26604,18 +26682,19 @@
     <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="20"/>
-    <tag k="check_date" v="2025-09-16"/>
+    <tag k="check_date" v="2026-04-18"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/bellapizza248"/>
+    <tag k="contact:whatsapp" v="+393715798825"/>
     <tag k="cuisine" v="pizza;italian;kebab"/>
     <tag k="delivery" v="yes"/>
     <tag k="internet_access" v="no"/>
-    <tag k="name" v="Pizzeria Marisa"/>
-    <tag k="opening_hours" v="Mo-Sa 11:00-14:10,18:00-22:10; Su 18:00-22:10"/>
+    <tag k="name" v="Bella Pizza"/>
+    <tag k="opening_hours" v="10:00-15:00,18:00-04:00"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+39 02 6990 0561; +39 338 786 7675"/>
+    <tag k="phone" v="+39 02 6990 0561; +39 371 579 8825"/>
     <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://pizzeriamarisa.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4916936129" lat="45.4520877" lon="9.1819995" version="6" timestamp="2026-03-23T02:17:03Z" changeset="180278474" uid="2350365" user="Kartibu">
@@ -27183,13 +27262,13 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="winery" v="no"/>
   </node>
-  <node id="4985227702" lat="45.4997391" lon="9.1947828" version="6" timestamp="2025-11-11T12:48:35Z" changeset="174509399" uid="242345" user="confusedbuffalo">
+  <node id="4985227702" lat="45.4997391" lon="9.1947828" version="7" timestamp="2026-04-18T13:40:18Z" changeset="181499089" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Veglia"/>
-    <tag k="check_date" v="2025-09-14"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="email" v="info@garbagnati.info"/>
     <tag k="name" v="Garbagnati"/>
     <tag k="opening_hours" v="Mo-Sa 07:30-19:30"/>
@@ -29746,7 +29825,8 @@
     <tag k="male" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5686125623" lat="45.4795953" lon="9.2104614" version="5" timestamp="2023-11-04T14:56:37Z" changeset="143614476" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5686125623" lat="45.4795953" lon="9.2104614" version="6" timestamp="2026-04-18T16:33:46Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Luigi Fusaro"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
@@ -31161,7 +31241,7 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5938290662" lat="45.4771492" lon="9.1744082" version="2" timestamp="2025-10-26T15:29:13Z" changeset="173800024" uid="15264988" user="nicola_yubo">
+  <node id="5938290662" lat="45.4771492" lon="9.1744082" version="3" timestamp="2026-04-18T07:20:58Z" changeset="181486142" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20154"/>
@@ -31170,7 +31250,7 @@
     <tag k="contact:facebook" v="https://www.facebook.com/fradiavolopizzaecucina"/>
     <tag k="contact:instagram" v="https://www.instagram.com/fradiavolopizza"/>
     <tag k="contact:phone" v="+39 02 4013 0251"/>
-    <tag k="contact:website" v="fradiavolopizzeria.com"/>
+    <tag k="contact:website" v="https://fradiavolopizzeria.com"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Fradiavolo - Milano Sempione"/>
@@ -31302,7 +31382,8 @@
     <tag k="name" v="Caffè Moda Plinio"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5999726561" lat="45.4798133" lon="9.2112100" version="4" timestamp="2022-03-20T15:40:06Z" changeset="118697405" uid="1875845" user="Valerio_Bozzolan">
+  <node id="5999726561" lat="45.4798133" lon="9.2112100" version="5" timestamp="2026-04-18T16:35:18Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Beauty gallery parfum's"/>
     <tag k="shop" v="perfumery"/>
     <tag k="wheelchair" v="limited"/>
@@ -31331,6 +31412,11 @@
     <tag k="opening_hours" v="Mo 15:30-19:30; Tu-Sa 10:00-19:00"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="5999726575" lat="45.4785034" lon="9.2136294" version="3" timestamp="2026-04-18T16:38:24Z" changeset="181506516" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="L'angolo della frutta"/>
+    <tag k="shop" v="greengrocer"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5999727416" lat="45.4797738" lon="9.2143723" version="2" timestamp="2025-07-21T09:11:43Z" changeset="169231873" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="restaurant"/>
@@ -31621,13 +31707,13 @@
     <tag k="ref:vatin" v="IT09691250964"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6100264753" lat="45.4855850" lon="9.2036306" version="5" timestamp="2023-05-21T19:08:11Z" changeset="136384204" uid="974272" user="baprischka">
+  <node id="6100264753" lat="45.4855850" lon="9.2036306" version="6" timestamp="2026-04-18T07:20:58Z" changeset="181486142" uid="13697350" user="c674a">
     <tag k="amenity" v="car_rental"/>
-    <tag k="brand" v="SIXT"/>
+    <tag k="brand" v="Sixt"/>
     <tag k="brand:wikidata" v="Q705664"/>
     <tag k="brand:wikipedia" v="en:Sixt"/>
     <tag k="check_date" v="2023-05-21"/>
-    <tag k="name" v="SIXT"/>
+    <tag k="name" v="Sixt"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="6106272985" lat="45.4778900" lon="9.2045196" version="5" timestamp="2025-07-15T09:22:35Z" changeset="168953695" uid="290680" user="wheelmap_visitor">
@@ -34157,6 +34243,15 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="8419465233" lat="45.4810495" lon="9.2089562" version="2" timestamp="2026-04-18T20:30:38Z" changeset="181515116" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via Vitruvio"/>
+    <tag k="name" v="Gelmetti"/>
+    <tag k="shop" v="seafood"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="8419981915" lat="45.4670477" lon="9.1585462" version="2" timestamp="2024-09-15T13:19:11Z" changeset="156646519" uid="1875845" user="Valerio_Bozzolan">
     <tag k="name" v="Biarritz"/>
     <tag k="shop" v="clothes"/>
@@ -35368,6 +35463,14 @@
   <node id="8953557085" lat="45.4533592" lon="9.2004287" version="2" timestamp="2025-07-15T10:05:25Z" changeset="168956706" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Concept Caffè"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="8954295788" lat="45.4768401" lon="9.2167612" version="2" timestamp="2026-04-18T20:18:45Z" changeset="181515116" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="brand" v="Tecnocasa"/>
+    <tag k="brand:wikidata" v="Q2399658"/>
+    <tag k="brand:wikipedia" v="de:Tecnocasa"/>
+    <tag k="name" v="Tecnocasa"/>
+    <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="8954295792" lat="45.4771834" lon="9.2161353" version="2" timestamp="2024-02-14T10:50:18Z" changeset="147445072" uid="2052228" user="kauevestena">
@@ -37499,6 +37602,17 @@
     <tag k="wikimedia_commons" v="Category:Palazzo dell'Arte"/>
     <tag k="wikipedia" v="it:Palazzo dell'Arte"/>
   </node>
+  <node id="9561991474" lat="45.4832461" lon="9.2053112" version="6" timestamp="2026-04-18T20:38:15Z" changeset="181515116" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20124"/>
+    <tag k="addr:street" v="Via Vitruvio"/>
+    <tag k="contact:housenumber" v="44"/>
+    <tag k="hairdresser" v="barber"/>
+    <tag k="name" v="Nabil's Barbershop"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-20:00"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="9561991475" lat="45.4829119" lon="9.2059459" version="4" timestamp="2025-11-08T23:53:16Z" changeset="174398564" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="40"/>
@@ -37532,7 +37646,7 @@
     <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9561991480" lat="45.4825650" lon="9.2066403" version="4" timestamp="2026-04-10T21:25:53Z" changeset="181168910" uid="4425563" user="Danysan95">
+  <node id="9561991480" lat="45.4825650" lon="9.2066403" version="5" timestamp="2026-04-18T16:28:30Z" changeset="181506605" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Vitruvio"/>
@@ -37541,8 +37655,10 @@
     <tag k="contact:facebook" v="https://www.facebook.com/TerraGelato/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/terragelato/"/>
     <tag k="email" v="info@terragelato.it"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Terra"/>
     <tag k="opening_hours" v="Mo-Fr 12:00-24:00, Sa-Su 13:00-24:00"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="phone" v="+39 02 91948458"/>
     <tag k="website" v="https://terragelato.it/"/>
     <tag k="wheelchair" v="no"/>
@@ -38087,10 +38203,11 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9596933510" lat="45.4799462" lon="9.2103374" version="8" timestamp="2023-07-05T19:31:22Z" changeset="138161020" uid="1875845" user="Valerio_Bozzolan">
+  <node id="9596933510" lat="45.4799462" lon="9.2103374" version="9" timestamp="2026-04-18T16:34:10Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Clayton"/>
     <tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
     <tag k="payment:credit_cards" v="yes"/>
@@ -38099,9 +38216,10 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9596933511" lat="45.4799165" lon="9.2103208" version="5" timestamp="2023-07-02T15:41:50Z" changeset="138028434" uid="1875845" user="Valerio_Bozzolan">
+  <node id="9596933511" lat="45.4799165" lon="9.2103208" version="6" timestamp="2026-04-18T16:34:14Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="39"/>
     <tag k="addr:street" v="Corso Buenos Aires"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Buga Bags"/>
     <tag k="opening_hours" v="Mo 11:00-19:30; Tu-Sa 10:00-19:30; Su 11:00-19:00"/>
     <tag k="payment:credit_cards" v="yes"/>
@@ -42196,8 +42314,8 @@
     <tag k="shop" v="electronics"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="10814629197" lat="45.4715768" lon="9.2064123" version="1" timestamp="2023-04-15T15:23:27Z" changeset="134945021" uid="15541433" user="paulbrunner">
-    <tag k="check_date" v="2023-04-15"/>
+  <node id="10814629197" lat="45.4715768" lon="9.2064123" version="2" timestamp="2026-04-18T13:39:29Z" changeset="181499049" uid="23724596" user="ChimpanBC">
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="craft" v="photographic_laboratory"/>
     <tag k="name" v="QSS Piave"/>
     <tag k="phone" v="+39 02 7600 7849"/>
@@ -42927,13 +43045,13 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11108898692" lat="45.5012815" lon="9.1954049" version="4" timestamp="2025-08-09T15:51:41Z" changeset="170209431" uid="22858586" user="paf_veglia">
+  <node id="11108898692" lat="45.5012815" lon="9.1954049" version="5" timestamp="2026-04-18T13:40:18Z" changeset="181499089" uid="22858586" user="paf_veglia">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Piazza Caserta"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="cafe"/>
-    <tag k="check_date" v="2025-08-09"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Il gelato di Gigi"/>
     <tag k="opening_hours" v="Mo, We-Fr 08:00-20:00; Sa-Su 09:00-20:00"/>
     <tag k="payment:cash" v="yes"/>
@@ -43293,8 +43411,9 @@
     <tag k="name" v="Toledo"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11264671351" lat="45.4675311" lon="9.2226892" version="2" timestamp="2023-10-15T14:05:18Z" changeset="142616945" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11264671351" lat="45.4675311" lon="9.2226892" version="3" timestamp="2026-04-18T17:30:45Z" changeset="181509383" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="veterinary"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Dr. Stanizzo"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -43747,7 +43866,8 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11314072743" lat="45.4795625" lon="9.2104256" version="2" timestamp="2023-11-04T14:55:55Z" changeset="143614476" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11314072743" lat="45.4795625" lon="9.2104256" version="3" timestamp="2026-04-18T16:33:52Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Nadine"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
@@ -43775,8 +43895,9 @@
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11314100181" lat="45.4795434" lon="9.2104002" version="3" timestamp="2023-11-04T14:55:40Z" changeset="143614476" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11314100181" lat="45.4795434" lon="9.2104002" version="4" timestamp="2026-04-18T16:33:56Z" changeset="181506812" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Cin cin"/>
     <tag k="outdoor_seating" v="yes"/>
@@ -43807,7 +43928,8 @@
     <tag k="ref" v="17588"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11314948540" lat="45.4920936" lon="9.2045810" version="2" timestamp="2023-11-04T18:00:11Z" changeset="143624248" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11314948540" lat="45.4920936" lon="9.2045810" version="3" timestamp="2026-04-18T20:45:53Z" changeset="181515874" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="name" v="Magic moments"/>
     <tag k="shop" v="erotic"/>
     <tag k="wheelchair" v="no"/>
@@ -46036,6 +46158,12 @@
     <tag k="name" v="San Lorenzo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11935448086" lat="45.4915479" lon="9.2056371" version="2" timestamp="2026-04-18T20:45:23Z" changeset="181515116" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="clothes" v="motorcycle"/>
+    <tag k="name" v="Non solo caschi - Outlet del casco"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="11941724938" lat="45.4819021" lon="9.1874507" version="4" timestamp="2025-10-08T06:15:57Z" changeset="172987135" uid="22858586" user="paf_veglia">
     <tag k="check_date" v="2025-10-08"/>
     <tag k="name" v="10 Corso Como"/>
@@ -47822,11 +47950,11 @@
     <tag k="operator" v="ASAP"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12709872001" lat="45.4999954" lon="9.1947682" version="5" timestamp="2025-08-09T16:10:28Z" changeset="170210279" uid="22858586" user="paf_veglia">
+  <node id="12709872001" lat="45.4999954" lon="9.1947682" version="6" timestamp="2026-04-18T13:40:18Z" changeset="181499089" uid="22858586" user="paf_veglia">
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Veglia"/>
-    <tag k="check_date" v="2025-08-09"/>
+    <tag k="check_date" v="2026-04-18"/>
     <tag k="email" v="milano@playmusicstore.net"/>
     <tag k="name" v="Play!"/>
     <tag k="opening_hours" v="Mo 15:00-19:00; Tu-Sa 10:30-13:15,14:30-19:00"/>
@@ -51153,6 +51281,33 @@
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="PolyGram"/>
     <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="13739725459" lat="45.4636654" lon="9.1324028" version="1" timestamp="2026-04-18T10:52:59Z" changeset="181492892" uid="13697350" user="c674a">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="20147"/>
+    <tag k="addr:street" v="Via delle Forze Armate"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="Pam"/>
+    <tag k="brand:wikidata" v="Q105615038"/>
+    <tag k="dog" v="no"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Pam"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:00; Su 09:00-20:30"/>
+    <tag k="organic" v="yes"/>
+    <tag k="payment:american_express" v="no"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:food_voucher" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="phone" v="+390240090184"/>
+    <tag k="self_checkout" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="toilets" v="no"/>
+    <tag k="website" v="https://www.pampanorama.it/punti-vendita/milano-forze-armate"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -55136,44 +55291,6 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="137439383" version="10" timestamp="2026-01-10T01:33:48Z" changeset="177046609" uid="13697350" user="c674a">
-    <center lat="45.4637347" lon="9.1324032"/>
-    <nd ref="1507644561"/>
-    <nd ref="1507644559"/>
-    <nd ref="1507644564"/>
-    <nd ref="13207629194"/>
-    <nd ref="1507644567"/>
-    <nd ref="13207629193"/>
-    <nd ref="1507644565"/>
-    <nd ref="1507644561"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:postcode" v="20147"/>
-    <tag k="addr:street" v="Via delle Forze Armate"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="brand" v="Pam"/>
-    <tag k="brand:wikidata" v="Q105615038"/>
-    <tag k="building" v="commercial"/>
-    <tag k="building:levels" v="1"/>
-    <tag k="dog" v="no"/>
-    <tag k="internet_access" v="no"/>
-    <tag k="name" v="Pam"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-21:00; Su 09:00-20:30"/>
-    <tag k="organic" v="yes"/>
-    <tag k="payment:american_express" v="no"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:food_voucher" v="yes"/>
-    <tag k="payment:satispay" v="yes"/>
-    <tag k="phone" v="+390240090184"/>
-    <tag k="self_checkout" v="yes"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="stroller" v="yes"/>
-    <tag k="toilets" v="no"/>
-    <tag k="website" v="https://www.pampanorama.it/punti-vendita/milano-forze-armate"/>
-    <tag k="wheelchair" v="limited"/>
-  </way>
   <way id="138750066" version="19" timestamp="2023-10-02T17:31:09Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4682831" lon="9.2018218"/>
     <nd ref="1521490840"/>
@@ -55905,11 +56022,15 @@
     <tag k="wikimedia_commons" v="Category:Galleria Vittorio Emanuele II (Milan)"/>
     <tag k="wikipedia" v="it:Galleria Vittorio Emanuele II"/>
   </way>
-  <way id="172805920" version="7" timestamp="2022-04-26T13:13:47Z" changeset="120212784" uid="11242131" user="ja+">
+  <way id="172805920" version="11" timestamp="2026-04-18T20:34:20Z" changeset="181515568" uid="23724596" user="ChimpanBC">
     <center lat="45.5289851" lon="9.1633773"/>
     <nd ref="1836574090"/>
     <nd ref="8904302947"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="lit" v="yes"/>
     <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </way>
@@ -60735,6 +60856,41 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q860569"/>
     <tag k="wikipedia" v="it:Abbazia di Chiaravalle"/>
+  </way>
+  <way id="586103888" version="6" timestamp="2026-04-18T10:52:59Z" changeset="181492892" uid="13697350" user="c674a">
+    <center lat="45.4641552" lon="9.1456861"/>
+    <nd ref="345366387"/>
+    <nd ref="11176108379"/>
+    <nd ref="4331629851"/>
+    <nd ref="4331629853"/>
+    <nd ref="4331629852"/>
+    <nd ref="4331629854"/>
+    <nd ref="4331629857"/>
+    <nd ref="4598417776"/>
+    <nd ref="4598417778"/>
+    <nd ref="4598417780"/>
+    <nd ref="4598417781"/>
+    <nd ref="4598417782"/>
+    <nd ref="11176061292"/>
+    <nd ref="5600645623"/>
+    <nd ref="5600645622"/>
+    <nd ref="5600645621"/>
+    <nd ref="5600645620"/>
+    <nd ref="5600645619"/>
+    <nd ref="5600645618"/>
+    <nd ref="5600645617"/>
+    <nd ref="5600645616"/>
+    <nd ref="345366388"/>
+    <nd ref="3730609505"/>
+    <nd ref="345366387"/>
+    <tag k="amenity" v="social_facility"/>
+    <tag k="name" v="Pio Albergo Trivulzio"/>
+    <tag k="social_facility" v="nursing_home"/>
+    <tag k="social_facility:for" v="senior"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q3905346"/>
+    <tag k="wikimedia_commons" v="Category:Pio Albergo Trivulzio"/>
+    <tag k="wikipedia" v="it:Pio Albergo Trivulzio"/>
   </way>
   <way id="587717044" version="4" timestamp="2025-12-29T16:39:16Z" changeset="176586980" uid="13840929" user="aa30mom">
     <center lat="45.4503438" lon="9.1569820"/>
