@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-25T05:36:20Z" areas="2026-04-25T01:44:58Z"/>
+<meta osm_base="2026-04-26T06:02:14Z" areas="2026-04-26T01:02:14Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2750,14 +2750,14 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="540824144" lat="45.4863078" lon="9.1588601" version="10" timestamp="2022-03-24T17:01:14Z" changeset="118873438" uid="13840929" user="aa30mom">
+  <node id="540824144" lat="45.4863078" lon="9.1588601" version="11" timestamp="2026-04-25T17:52:39Z" changeset="181817481" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="94"/>
     <tag k="addr:postcode" v="20154"/>
     <tag k="addr:street" v="Corso Sempione"/>
     <tag k="amenity" v="post_office"/>
     <tag k="fax" v="+39 02 3314869"/>
-    <tag k="name" v="Milano 114"/>
+    <tag k="name" v="Poste Italiane Milano 114"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-19:05; Sa 08:20-12:35; Su off"/>
     <tag k="operator" v="Poste Italiane"/>
     <tag k="operator:wikidata" v="Q495026"/>
@@ -8067,11 +8067,6 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2131451013" lat="45.4709706" lon="9.2012356" version="2" timestamp="2014-02-27T17:34:11Z" changeset="20810795" uid="290680" user="wheelmap_visitor">
-    <tag k="amenity" v="cafe"/>
-    <tag k="name" v="Bar Nobile"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="2131451054" lat="45.4711267" lon="9.2013552" version="3" timestamp="2025-07-15T09:48:17Z" changeset="168955479" uid="290680" user="wheelmap_visitor">
     <tag k="name" v="Unione Confocommercio"/>
     <tag k="office" v="association"/>
@@ -8977,6 +8972,16 @@
     <tag k="ref:vatin" v="IT12263860152"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="website" v="https://www.farmaciamissori.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2332379859" lat="45.4713575" lon="9.2017894" version="3" timestamp="2026-04-25T13:29:36Z" changeset="181806589" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Palestro"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2332379866" lat="45.4715368" lon="9.2019831" version="5" timestamp="2026-04-25T13:30:13Z" changeset="181806589" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Palestro"/>
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2334186681" lat="45.4435764" lon="9.2141526" version="4" timestamp="2025-11-02T11:35:04Z" changeset="174098197" uid="13840929" user="aa30mom">
@@ -40033,16 +40038,18 @@
     <tag k="wikidata" v="Q3094926"/>
     <tag k="wikipedia" v="it:Gambara (metropolitana di Milano)"/>
   </node>
-  <node id="9914785152" lat="45.5051543" lon="9.0933177" version="4" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785152" lat="45.5051543" lon="9.0933177" version="5" timestamp="2026-04-25T19:14:55Z" changeset="181820229" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Molino Dorino"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1986"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087562"/>
@@ -40065,31 +40072,37 @@
     <tag k="wikidata" v="Q1087081"/>
     <tag k="wikipedia" v="it:San Leonardo (metropolitana di Milano)"/>
   </node>
-  <node id="9914785156" lat="45.4970317" lon="9.1101295" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785156" lat="45.4970317" lon="9.1101295" version="3" timestamp="2026-04-25T19:14:55Z" changeset="181820229" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Bonola"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1980"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
     <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087591"/>
     <tag k="wikipedia" v="it:Bonola (metropolitana di Milano)"/>
   </node>
-  <node id="9914785157" lat="45.4938806" lon="9.1202555" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785157" lat="45.4938806" lon="9.1202555" version="3" timestamp="2026-04-25T19:14:55Z" changeset="181820229" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Uruguay"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1980"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1087618"/>
     <tag k="wikipedia" v="it:Uruguay (metropolitana di Milano)"/>
@@ -40109,16 +40122,19 @@
     <tag k="wikidata" v="Q1087090"/>
     <tag k="wikipedia" v="it:Lampugnano (metropolitana di Milano)"/>
   </node>
-  <node id="9914785159" lat="45.4860084" lon="9.1370307" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="9914785159" lat="45.4860084" lon="9.1370307" version="3" timestamp="2026-04-25T19:14:55Z" changeset="181820229" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="QT8"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="operator" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1975"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1087575"/>
     <tag k="wikipedia" v="it:QT8 (metropolitana di Milano)"/>
@@ -52368,6 +52384,47 @@
     <tag k="wikimedia_commons" v="Category:Piscina Cozzi"/>
     <tag k="wikipedia" v="it:Piscina Cozzi"/>
   </way>
+  <way id="26009942" version="21" timestamp="2026-04-25T07:54:04Z" changeset="181794938" uid="23629183" user="Fla13">
+    <center lat="45.4781046" lon="9.2471972"/>
+    <nd ref="283817686"/>
+    <nd ref="283817688"/>
+    <nd ref="1500116346"/>
+    <nd ref="12292606657"/>
+    <nd ref="283817702"/>
+    <nd ref="283817704"/>
+    <nd ref="283817706"/>
+    <nd ref="283817708"/>
+    <nd ref="283817710"/>
+    <nd ref="283817712"/>
+    <nd ref="1500104921"/>
+    <nd ref="1500104919"/>
+    <nd ref="1500107219"/>
+    <nd ref="1500104924"/>
+    <nd ref="12147762291"/>
+    <nd ref="3644630516"/>
+    <nd ref="1500104918"/>
+    <nd ref="283817686"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:street" v="Via Riccardo Pitteri"/>
+    <tag k="branch" v="RUBATTINO"/>
+    <tag k="brand" v="Esselunga"/>
+    <tag k="brand:wikidata" v="Q1059636"/>
+    <tag k="brand:wikipedia" v="en:Esselunga"/>
+    <tag k="building" v="retail"/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="name" v="Esselunga"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su,PH 09:00-20:00"/>
+    <tag k="operator" v="Esselunga"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="phone" v="+39 02 21597394"/>
+    <tag k="ref:vatin" v="IT04916380159"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.esselunga.it/cms/negozi/ricerca-negozi.RUB.html"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="26096081" version="6" timestamp="2024-10-21T17:46:00Z" changeset="158181194" uid="13986573" user="dombul">
     <center lat="45.4822037" lon="9.2428894"/>
     <nd ref="285648947"/>
@@ -53686,6 +53743,45 @@
     <tag k="wikidata" v="Q3983197"/>
     <tag k="wikimedia_commons" v="Category:Waldensian Church (Milan)"/>
     <tag k="wikipedia" v="it:Tempio Valdese (Milano)"/>
+  </way>
+  <way id="44448850" version="16" timestamp="2026-04-25T13:10:58Z" changeset="181805825" uid="23724596" user="ChimpanBC">
+    <center lat="45.4669666" lon="9.1983716"/>
+    <nd ref="564924257"/>
+    <nd ref="564924259"/>
+    <nd ref="564924261"/>
+    <nd ref="564924266"/>
+    <nd ref="564924268"/>
+    <nd ref="4126472544"/>
+    <nd ref="1999672506"/>
+    <nd ref="1999672508"/>
+    <nd ref="1999672507"/>
+    <nd ref="564924270"/>
+    <nd ref="564924273"/>
+    <nd ref="4448818008"/>
+    <nd ref="1999663978"/>
+    <nd ref="1999663977"/>
+    <nd ref="564924274"/>
+    <nd ref="4448817115"/>
+    <nd ref="4448817119"/>
+    <nd ref="4448817107"/>
+    <nd ref="4448817105"/>
+    <nd ref="564924263"/>
+    <nd ref="3307935640"/>
+    <nd ref="564924257"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="check_date" v="2025-09-20"/>
+    <tag k="denomination" v="catholic"/>
+    <tag k="name" v="Basilica di San Babila"/>
+    <tag k="name:es" v="Basílica de San Babia"/>
+    <tag k="name:it" v="Basilica di San Babila"/>
+    <tag k="religion" v="christian"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="http://www.sanbabila.org/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1255602"/>
+    <tag k="wikimedia_commons" v="Category:San Babila (Milan)"/>
+    <tag k="wikipedia" v="it:Basilica di San Babila"/>
   </way>
   <way id="45061015" version="7" timestamp="2024-06-17T09:38:34Z" changeset="152793768" uid="19764554" user="Itrf">
     <center lat="45.4581690" lon="9.1984981"/>
