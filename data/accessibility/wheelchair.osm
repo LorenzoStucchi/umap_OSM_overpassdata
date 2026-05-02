@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-01T06:30:46Z" areas="2026-04-30T23:21:36Z"/>
+<meta osm_base="2026-05-02T05:59:35Z" areas="2026-05-01T23:43:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1221,13 +1221,13 @@
     <tag k="website" v="https://farmaciacalatafimi.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="282180471" lat="45.4621099" lon="9.2064682" version="6" timestamp="2022-03-26T13:34:16Z" changeset="118947759" uid="1875845" user="Valerio_Bozzolan">
+  <node id="282180471" lat="45.4621099" lon="9.2064682" version="7" timestamp="2026-05-01T12:45:06Z" changeset="182072762" uid="13697350" user="c674a">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
-    <tag k="brand" v="UniCredit Bank"/>
+    <tag k="brand" v="UniCredit"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="en:UniCredit"/>
-    <tag k="name" v="UniCredit Bank"/>
+    <tag k="name" v="UniCredit"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="282181456" lat="45.4678043" lon="9.2212590" version="9" timestamp="2023-10-15T13:31:56Z" changeset="142616945" uid="1875845" user="Valerio_Bozzolan">
@@ -13437,6 +13437,12 @@
     <tag k="phone" v="+39 02 39565381"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="2904667037" lat="45.4928063" lon="9.2459420" version="4" timestamp="2026-05-01T13:34:45Z" changeset="182074779" uid="95387" user="rugamarcus">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="toilets:disposal" v="chemical"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2909096958" lat="45.4839671" lon="9.2076329" version="10" timestamp="2026-04-10T21:25:53Z" changeset="181168910" uid="4425563" user="Danysan95">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -15343,12 +15349,13 @@
     <tag k="website" v="https://www.volemosebenemilano.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3085870326" lat="45.4999694" lon="9.2106381" version="5" timestamp="2023-10-03T17:39:05Z" changeset="142111364" uid="69259" user="DnaX">
+  <node id="3085870326" lat="45.4999694" lon="9.2106381" version="6" timestamp="2026-05-01T07:31:03Z" changeset="182060639" uid="13920670" user="ottanium">
     <tag k="brand" v="MD"/>
     <tag k="brand:wikidata" v="Q3841263"/>
+    <tag k="check_date" v="2026-05-01"/>
+    <tag k="disused:shop" v="supermarket"/>
     <tag k="name" v="MD"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-20:30; Su 08:30-20:00"/>
-    <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3086120710" lat="45.4452431" lon="9.1806654" version="11" timestamp="2026-01-29T21:37:22Z" changeset="177866739" uid="23724596" user="ChimpanBC">
@@ -16311,18 +16318,19 @@
     <tag k="name" v="Era Progress"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3217983534" lat="45.4835930" lon="9.1995574" version="5" timestamp="2025-12-12T07:22:53Z" changeset="175832816" uid="22858586" user="paf_veglia">
+  <node id="3217983534" lat="45.4835930" lon="9.1995574" version="6" timestamp="2026-05-01T09:41:38Z" changeset="182065179" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Fabio Filzi"/>
     <tag k="amenity" v="bank"/>
-    <tag k="brand" v="UBI Banca"/>
-    <tag k="brand:wikidata" v="Q1476162"/>
+    <tag k="branch" v="Sanpaolo"/>
+    <tag k="brand" v="Intesa Sanpaolo"/>
+    <tag k="brand:wikidata" v="Q1343118"/>
     <tag k="brand:wikipedia" v="en:UBI Banca"/>
     <tag k="check_date" v="2025-12-12"/>
-    <tag k="name" v="Banca Intesa Sanpaolo"/>
+    <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3217983887" lat="45.4813842" lon="9.1970232" version="9" timestamp="2025-11-15T16:45:59Z" changeset="174695300" uid="18069" user="Claudius Henrichs">
@@ -28577,6 +28585,29 @@
     <tag k="ref:vatin" v="IT02281510152"/>
     <tag k="shop" v="hardware"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="5382582248" lat="45.4601683" lon="9.1713818" version="7" timestamp="2026-05-01T10:47:33Z" changeset="182067900" uid="1781586" user="fick89">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="20123"/>
+    <tag k="addr:street" v="Via Olona"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="bar" v="yes"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="delivery" v="no"/>
+    <tag k="name" v="Caffè diamante"/>
+    <tag k="operator" v="Yang Lele"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:pluxee" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="ref:vatin" v="IT13908610960"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5384543215" lat="45.4550900" lon="9.1553057" version="3" timestamp="2018-05-17T23:17:24Z" changeset="59062436" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="pub"/>
@@ -57926,26 +57957,29 @@
     <tag k="wikimedia_commons" v="Category:Cimitero Maggiore (Milan)"/>
     <tag k="wikipedia" v="it:Cimitero Maggiore"/>
   </way>
-  <way id="246303907" version="7" timestamp="2024-09-30T11:21:42Z" changeset="157292206" uid="18970157" user="Sciking">
-    <center lat="45.4555113" lon="9.2206073"/>
+  <way id="246303907" version="8" timestamp="2026-05-01T12:45:06Z" changeset="182072762" uid="13697350" user="c674a">
+    <center lat="45.4555167" lon="9.2206076"/>
     <nd ref="2533582164"/>
     <nd ref="2533582175"/>
     <nd ref="2533582154"/>
-    <nd ref="2533582161"/>
-    <nd ref="2533582167"/>
+    <nd ref="13784688370"/>
     <nd ref="2533582173"/>
+    <nd ref="13784688369"/>
     <nd ref="2533582143"/>
     <nd ref="2533582151"/>
+    <nd ref="13784688368"/>
+    <nd ref="13784688367"/>
     <nd ref="2533582157"/>
     <nd ref="2533582170"/>
     <nd ref="2533582164"/>
     <tag k="amenity" v="library"/>
     <tag k="building" v="public"/>
     <tag k="building:levels" v="1"/>
-    <tag k="check_date" v="2024-09-30"/>
+    <tag k="check_date" v="2026-05-01"/>
     <tag k="name" v="Biblioteca Comunale Calvairate"/>
-    <tag k="note" v="Attualmente chiusa per ristrutturazione"/>
-    <tag k="opening_hours" v="&quot;Actually closed&quot;"/>
+    <tag k="operator" v="Comune di Milano"/>
+    <tag k="operator:type" v="government"/>
+    <tag k="operator:wikidata" v="Q103903096"/>
     <tag k="phone" v="+39 02 8846 5801"/>
     <tag k="website" v="https://biblioteche.comune.milano.it/library/calvairate"/>
     <tag k="wheelchair" v="limited"/>
