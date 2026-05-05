@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-04T06:11:42Z" areas="2026-05-04T01:48:14Z"/>
+<meta osm_base="2026-05-05T05:51:01Z" areas="2026-05-05T01:01:33Z"/>
 
   <node id="251291650" lat="45.4694750" lon="9.1976909" version="13" timestamp="2024-06-27T15:24:27Z" changeset="153253001" uid="3847112" user="YieldMapper">
     <tag k="crossing" v="uncontrolled"/>
@@ -44082,6 +44082,11 @@
     <tag k="kerb" v="flush"/>
     <tag k="tactile_paving" v="yes"/>
   </node>
+  <node id="13297186936" lat="45.4663683" lon="9.1823018" version="3" timestamp="2026-05-04T18:42:03Z" changeset="182218940" uid="18830700" user="j4bb1">
+    <tag k="barrier" v="kerb"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
   <node id="13298318803" lat="45.4442095" lon="9.1764967" version="2" timestamp="2026-02-27T17:27:48Z" changeset="179141865" uid="23724596" user="ChimpanBC">
     <tag k="crossing" v="uncontrolled"/>
     <tag k="crossing:markings" v="zebra"/>
@@ -44250,6 +44255,13 @@
   <node id="13733033370" lat="45.4537485" lon="9.1154823" version="1" timestamp="2026-04-15T18:16:40Z" changeset="181381470" uid="13697350" user="c674a">
     <tag k="barrier" v="kerb"/>
     <tag k="kerb" v="flush"/>
+  </node>
+  <node id="13793719317" lat="45.4778145" lon="9.2344561" version="1" timestamp="2026-05-04T08:52:10Z" changeset="182193618" uid="23629183" user="Fla13">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="crossing:markings" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="kerb" v="flush"/>
+    <tag k="tactile_paving" v="yes"/>
   </node>
 
 </osm>
