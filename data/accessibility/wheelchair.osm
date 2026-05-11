@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-10T06:26:52Z" areas="2026-05-10T04:22:00Z"/>
+<meta osm_base="2026-05-11T07:00:00Z" areas="2026-05-11T03:08:59Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -1745,23 +1745,6 @@
     <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="316535190" lat="45.4751773" lon="9.1866733" version="12" timestamp="2025-11-16T16:36:43Z" changeset="174735701" uid="13697350" user="c674a">
-    <tag k="amenity" v="bicycle_rental"/>
-    <tag k="brand" v="BikeMi"/>
-    <tag k="brand:wikidata" v="Q2902552"/>
-    <tag k="brand:wikipedia" v="en:BikeMi"/>
-    <tag k="capacity" v="24"/>
-    <tag k="fee" v="yes"/>
-    <tag k="name" v="Treves"/>
-    <tag k="network" v="BikeMi"/>
-    <tag k="operator" v="Clear Channel"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="ref" v="62"/>
-    <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
-    <tag k="website" v="https://www.bikemi.com"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="316535195" lat="45.4790447" lon="9.1965650" version="12" timestamp="2025-11-27T07:14:41Z" changeset="175184377" uid="13697350" user="c674a">
     <tag k="amenity" v="bicycle_rental"/>
@@ -5223,6 +5206,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1611026760" lat="45.5010478" lon="9.2210531" version="5" timestamp="2026-05-10T14:53:35Z" changeset="182470541" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Turro"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1611070691" lat="45.4402649" lon="9.2219958" version="7" timestamp="2025-08-10T19:27:27Z" changeset="170261617" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
@@ -7181,25 +7169,6 @@
     <tag k="name" v="La Belle Aurore"/>
     <tag k="opening_hours" v="Mo-Tu,Th 10:00-22:30; Fr-Sa 10:00-23:30; Su 10:00-22:00"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="1973121630" lat="45.4775461" lon="9.1845366" version="8" timestamp="2025-11-08T19:59:56Z" changeset="174392503" uid="13697350" user="c674a">
-    <tag k="amenity" v="bicycle_rental"/>
-    <tag k="bicycle_rental" v="docking_station"/>
-    <tag k="brand" v="BikeMi"/>
-    <tag k="brand:wikidata" v="Q2902552"/>
-    <tag k="brand:wikipedia" v="en:BikeMi"/>
-    <tag k="capacity" v="24"/>
-    <tag k="check_date" v="2025-10-09"/>
-    <tag k="fee" v="yes"/>
-    <tag k="name" v="Moscova"/>
-    <tag k="network" v="BikeMi"/>
-    <tag k="operator" v="Clear Channel"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="ref" v="16"/>
-    <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
-    <tag k="website" v="https://www.bikemi.com"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1973121638" lat="45.4789789" lon="9.2015357" version="7" timestamp="2025-07-15T09:35:59Z" changeset="168954622" uid="290680" user="wheelmap_visitor">
     <tag k="amenity" v="bicycle_rental"/>
@@ -20278,7 +20247,7 @@
     <tag k="website" v="https://www.grandhoteletdemilan.it/en/dining/caruso-nuovo-restaurant.html"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3877974349" lat="45.4693408" lon="9.1937684" version="4" timestamp="2025-10-14T15:58:39Z" changeset="173283293" uid="13840929" user="aa30mom">
+  <node id="3877974349" lat="45.4693408" lon="9.1937684" version="5" timestamp="2026-05-11T06:34:58Z" changeset="182495419" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="25"/>
@@ -20286,7 +20255,7 @@
     <tag k="addr:street" v="Via Monte Napoleone"/>
     <tag k="brand" v="Celine"/>
     <tag k="brand:wikidata" v="Q948531"/>
-    <tag k="clothes" v="women"/>
+    <tag k="clothes" v="luxury"/>
     <tag k="name" v="Celine"/>
     <tag k="opening_hours" v="Mo-Sa 10:30-19:30; Su 10:00-19:00"/>
     <tag k="phone" v="+39 02 76015579"/>
@@ -20416,14 +20385,16 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3877990563" lat="45.4673581" lon="9.1964092" version="5" timestamp="2025-07-15T09:17:52Z" changeset="168953395" uid="290680" user="wheelmap_visitor">
+  <node id="3877990563" lat="45.4673581" lon="9.1964092" version="6" timestamp="2026-05-11T06:34:58Z" changeset="182495419" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Monte Napoleone"/>
-    <tag k="name" v="Bulgari"/>
-    <tag k="shop" v="jewelry"/>
+    <tag k="brand" v="Bulgari"/>
+    <tag k="brand:wikidata" v="Q752515"/>
+    <tag k="name" v="Bvlgari"/>
+    <tag k="shop" v="fashion_accessories"/>
     <tag k="start_date" v="2025-05"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -32311,17 +32282,6 @@
     <tag k="shop" v="newsagent"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6442477700" lat="45.4749555" lon="9.2310426" version="2" timestamp="2019-05-02T10:13:20Z" changeset="69797299" uid="1967477" user="bubix">
-    <tag k="healthcare" v="yes"/>
-    <tag k="healthcare:speciality" v="palliative"/>
-    <tag k="level" v="2"/>
-    <tag k="name" v="Hospice Virgilio Floriani"/>
-    <tag k="operator" v="Istituto Nazionale dei Tumori"/>
-    <tag k="phone" v="+39 02 23903272"/>
-    <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="website" v="https://fondazionefloriani.eu/hospice-vf/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="6446608175" lat="45.4784005" lon="9.2341169" version="5" timestamp="2025-03-22T11:16:11Z" changeset="163942315" uid="19766472" user="Zargio">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20133"/>
@@ -43223,11 +43183,13 @@
     <tag k="shop" v="newsagent"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11117129698" lat="45.4766370" lon="9.1846021" version="6" timestamp="2026-02-22T10:26:57Z" changeset="178892570" uid="13840929" user="aa30mom">
+  <node id="11117129698" lat="45.4766370" lon="9.1846021" version="7" timestamp="2026-05-11T06:34:58Z" changeset="182495419" uid="13697350" user="c674a">
+    <tag k="brand" v="Herman Miller"/>
+    <tag k="brand:wikidata" v="Q489469"/>
     <tag k="check_date" v="2025-10-28"/>
     <tag k="name" v="Herman Miller"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-13:00, 14:00-18:00"/>
-    <tag k="shop" v="houseware"/>
+    <tag k="shop" v="furniture"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11117129700" lat="45.4758958" lon="9.1839424" version="6" timestamp="2025-10-28T07:10:04Z" changeset="173868155" uid="22858586" user="paf_veglia">
@@ -46527,14 +46489,17 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12040028575" lat="45.5018607" lon="9.2178340" version="6" timestamp="2026-05-04T20:49:13Z" changeset="182223449" uid="23878005" user="DavR123">
+  <node id="12040028575" lat="45.5018607" lon="9.2178340" version="8" timestamp="2026-05-10T14:58:43Z" changeset="182470756" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:postcode" v="20125"/>
     <tag k="addr:street" v="Via Jean Jaures"/>
     <tag k="amenity" v="community_centre"/>
-    <tag k="check_date" v="2026-05-04"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="check_date" v="2026-05-10"/>
+    <tag k="check_date:internet_access" v="2026-05-10"/>
     <tag k="community_centre" v="cultural_centre"/>
+    <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Scomodo"/>
     <tag k="opening_hours" v="Mo-Th 08:30-24:00, Su 10:00-24:00, Fr 08:30-02:00, Sa 10:00-02:00"/>
     <tag k="website" v="http://scomodo.org"/>
@@ -50516,16 +50481,16 @@
     <tag k="shop" v="wine"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13465336402" lat="45.4507681" lon="9.2115985" version="7" timestamp="2026-05-08T02:02:14Z" changeset="182362429" uid="2350365" user="Kartibu">
+  <node id="13465336402" lat="45.4507681" lon="9.2115985" version="8" timestamp="2026-05-10T07:09:56Z" changeset="182452572" uid="1950277" user="Mannivu">
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:street" v="Via Lodovico Muratori"/>
     <tag k="check_date" v="2026-04-17"/>
     <tag k="check_date:opening_hours" v="2026-01-19"/>
+    <tag k="contact:mobile" v="+39 348 641 4918"/>
     <tag k="name" v="La Belle Fiori"/>
     <tag k="opening_hours:signed" v="no"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+39 348 641 4918"/>
     <tag k="shop" v="florist"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -52241,63 +52206,6 @@
     <tag k="wikimedia_commons" v="Category:Planetario (Milan)"/>
     <tag k="wikipedia" v="it:Civico Planetario Ulrico Hoepli"/>
   </way>
-  <way id="23727850" version="17" timestamp="2025-10-22T08:43:31Z" changeset="173615735" uid="22919632" user="matteobott">
-    <center lat="45.4775262" lon="9.2306522"/>
-    <nd ref="256974717"/>
-    <nd ref="1492431182"/>
-    <nd ref="1492431189"/>
-    <nd ref="1492431190"/>
-    <nd ref="1492431185"/>
-    <nd ref="1803260252"/>
-    <nd ref="1492431186"/>
-    <nd ref="1492431192"/>
-    <nd ref="1492431193"/>
-    <nd ref="1492431188"/>
-    <nd ref="256974719"/>
-    <nd ref="1492431216"/>
-    <nd ref="1492431214"/>
-    <nd ref="1492431217"/>
-    <nd ref="1492431218"/>
-    <nd ref="256974721"/>
-    <nd ref="256974722"/>
-    <nd ref="13249441181"/>
-    <nd ref="13249441182"/>
-    <nd ref="256974728"/>
-    <nd ref="13249441183"/>
-    <nd ref="13249441184"/>
-    <nd ref="13249441185"/>
-    <nd ref="13249441186"/>
-    <nd ref="1492431198"/>
-    <nd ref="1492431209"/>
-    <nd ref="1492431208"/>
-    <nd ref="1492431213"/>
-    <nd ref="1492431212"/>
-    <nd ref="1492431206"/>
-    <nd ref="1492431205"/>
-    <nd ref="1492431196"/>
-    <nd ref="256974730"/>
-    <nd ref="1492431202"/>
-    <nd ref="1492431201"/>
-    <nd ref="1492431210"/>
-    <nd ref="256974734"/>
-    <nd ref="256974736"/>
-    <nd ref="256974738"/>
-    <nd ref="256974717"/>
-    <tag k="amenity" v="hospital"/>
-    <tag k="building" v="hospital"/>
-    <tag k="building:levels" v="3"/>
-    <tag k="healthcare" v="hospital"/>
-    <tag k="name" v="Istituto Neurologico Carlo Besta"/>
-    <tag k="name:de" v="Neurologisches Institut Carlo Besta"/>
-    <tag k="name:es" v="Instituto Neurológico Carlo Besta"/>
-    <tag k="name:fr" v="Institut de neurologie Carlo Besta"/>
-    <tag k="roof:levels" v="1"/>
-    <tag k="roof:shape" v="flat"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q5041465"/>
-    <tag k="wikimedia_commons" v="Category:Istituto Neurologico Carlo Besta"/>
-    <tag k="wikipedia" v="it:Istituto Nazionale Neurologico Carlo Besta"/>
-  </way>
   <way id="23911115" version="9" timestamp="2026-01-02T13:00:14Z" changeset="176741814" uid="8634948" user="cuginogionata">
     <center lat="45.4438307" lon="9.1529924"/>
     <nd ref="259173106"/>
@@ -53503,7 +53411,7 @@
     <tag k="wikimedia_commons" v="Category:San Pio X (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Pio X (Milano)"/>
   </way>
-  <way id="40286040" version="8" timestamp="2026-04-24T13:55:56Z" changeset="181767084" uid="290680" user="wheelmap_visitor">
+  <way id="40286040" version="9" timestamp="2026-05-11T06:34:58Z" changeset="182495419" uid="13697350" user="c674a">
     <center lat="45.4772622" lon="9.1790897"/>
     <nd ref="485983963"/>
     <nd ref="485983943"/>
@@ -53512,7 +53420,7 @@
     <nd ref="485983946"/>
     <nd ref="485983966"/>
     <nd ref="485983963"/>
-    <tag k="leisure" v="garden"/>
+    <tag k="landuse" v="grass"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="40492172" version="7" timestamp="2026-04-26T20:37:21Z" changeset="181863867" uid="13697350" user="c674a">
@@ -59301,6 +59209,34 @@
     <tag k="religion" v="christian"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="329563272" version="8" timestamp="2026-05-10T18:08:31Z" changeset="182478906" uid="23724596" user="ChimpanBC">
+    <center lat="45.5062608" lon="9.2360286"/>
+    <nd ref="3364509492"/>
+    <nd ref="3364516193"/>
+    <nd ref="3364516196"/>
+    <nd ref="5166605213"/>
+    <nd ref="5166605209"/>
+    <nd ref="5166605208"/>
+    <nd ref="3364516197"/>
+    <nd ref="3364516198"/>
+    <nd ref="3364516199"/>
+    <nd ref="5166605210"/>
+    <nd ref="3364516202"/>
+    <nd ref="8827517945"/>
+    <nd ref="3364516203"/>
+    <nd ref="3364516204"/>
+    <nd ref="8827517942"/>
+    <nd ref="3364516205"/>
+    <nd ref="3364509492"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="building" v="church"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="denomination" v="roman_catholic"/>
+    <tag k="name" v="San Basilio Magno"/>
+    <tag k="religion" v="christian"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q106637545"/>
+  </way>
   <way id="329573459" version="5" timestamp="2024-08-25T21:43:57Z" changeset="155756859" uid="10521220" user="sNappy_ml">
     <center lat="45.4457655" lon="9.1625410"/>
     <nd ref="3364608993"/>
@@ -61727,11 +61663,11 @@
     <tag k="social_facility:for" v="disabled;senior"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="680786078" version="2" timestamp="2025-10-26T15:29:13Z" changeset="173800024" uid="15264988" user="nicola_yubo">
+  <way id="680786078" version="3" timestamp="2026-05-11T06:34:58Z" changeset="182495419" uid="13697350" user="c674a">
     <center lat="45.4773863" lon="9.1755157"/>
     <nd ref="1303484706"/>
-    <nd ref="6374717370"/>
-    <nd ref="6374717369"/>
+    <nd ref="13816813888"/>
+    <nd ref="13816813887"/>
     <nd ref="6374717366"/>
     <nd ref="6374717358"/>
     <nd ref="6374717359"/>
@@ -64772,6 +64708,33 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="1443890004" version="2" timestamp="2026-05-10T09:50:13Z" changeset="182458005" uid="13697350" user="c674a">
+    <center lat="45.4777518" lon="9.2307003"/>
+    <nd ref="5392981595"/>
+    <nd ref="2013377601"/>
+    <nd ref="13249441172"/>
+    <nd ref="13249441170"/>
+    <nd ref="13249441157"/>
+    <nd ref="256974717"/>
+    <nd ref="256974738"/>
+    <nd ref="2013377642"/>
+    <nd ref="5392981598"/>
+    <nd ref="5392981595"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="no"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="healthcare:speciality" v="neurology"/>
+    <tag k="name" v="Istituto Neurologico Carlo Besta"/>
+    <tag k="name:de" v="Neurologisches Institut Carlo Besta"/>
+    <tag k="name:es" v="Instituto Neurológico Carlo Besta"/>
+    <tag k="name:fr" v="Institut de neurologie Carlo Besta"/>
+    <tag k="roof:levels" v="1"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5041465"/>
+    <tag k="wikimedia_commons" v="Category:Istituto Neurologico Carlo Besta"/>
+    <tag k="wikipedia" v="it:Istituto Nazionale Neurologico Carlo Besta"/>
+  </way>
   <way id="1444366738" version="2" timestamp="2025-10-29T11:55:26Z" changeset="173925741" uid="13697350" user="c674a">
     <center lat="45.4621167" lon="9.1371148"/>
     <nd ref="13253024211"/>
@@ -65324,6 +65287,54 @@
     <tag k="name" v="Istituto Clinico Città Studi"/>
     <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1511862313" version="1" timestamp="2026-05-11T06:34:58Z" changeset="182495419" uid="13697350" user="c674a">
+    <center lat="45.4775449" lon="9.1845369"/>
+    <nd ref="13816813890"/>
+    <nd ref="13816813891"/>
+    <nd ref="13816813892"/>
+    <nd ref="13816813893"/>
+    <nd ref="13816813890"/>
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="bicycle_rental" v="docking_station"/>
+    <tag k="brand" v="BikeMi"/>
+    <tag k="brand:wikidata" v="Q2902552"/>
+    <tag k="brand:wikipedia" v="en:BikeMi"/>
+    <tag k="capacity" v="24"/>
+    <tag k="check_date" v="2025-10-09"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Moscova"/>
+    <tag k="network" v="BikeMi"/>
+    <tag k="operator" v="Clear Channel"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="ref" v="16"/>
+    <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
+    <tag k="website" v="https://www.bikemi.com"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1511862314" version="1" timestamp="2026-05-11T06:34:58Z" changeset="182495419" uid="13697350" user="c674a">
+    <center lat="45.4751627" lon="9.1866695"/>
+    <nd ref="13816813894"/>
+    <nd ref="13816813895"/>
+    <nd ref="13816813896"/>
+    <nd ref="13816813897"/>
+    <nd ref="13816813894"/>
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="brand" v="BikeMi"/>
+    <tag k="brand:wikidata" v="Q2902552"/>
+    <tag k="brand:wikipedia" v="en:BikeMi"/>
+    <tag k="capacity" v="24"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Treves"/>
+    <tag k="network" v="BikeMi"/>
+    <tag k="operator" v="Clear Channel"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="ref" v="62"/>
+    <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
+    <tag k="website" v="https://www.bikemi.com"/>
+    <tag k="wheelchair" v="no"/>
   </way>
 
 </osm>
