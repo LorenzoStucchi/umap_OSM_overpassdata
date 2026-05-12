@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-11T07:00:00Z" areas="2026-05-11T03:08:59Z"/>
+<meta osm_base="2026-05-12T06:30:00Z" areas="2026-05-12T02:42:15Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -29885,11 +29885,11 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5687445730" lat="45.4752624" lon="9.2345501" version="5" timestamp="2024-04-27T13:31:53Z" changeset="150580197" uid="1914637" user="a1ca424">
+  <node id="5687445730" lat="45.4752624" lon="9.2345501" version="6" timestamp="2026-05-11T09:42:38Z" changeset="182502690" uid="646083" user="freak_antoni">
     <tag k="information" v="office"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="Orto Botanico Città Studi"/>
-    <tag k="opening_hours" v="Mar-Oct Tu-Th 10:00-17:00; Mar-Oct Fr 10:00-16:00"/>
+    <tag k="opening_hours" v="Mar-Oct: Tu-Th 10:00-17:00; Mar-Oct: Fr 10:00-16:00"/>
     <tag k="tourism" v="information"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -34451,7 +34451,7 @@
     <tag k="operator:wikidata" v="Q279978"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8450317025" lat="45.5221438" lon="9.2159994" version="2" timestamp="2022-07-12T09:21:59Z" changeset="123510403" uid="89897" user="airon90">
+  <node id="8450317025" lat="45.5221438" lon="9.2159994" version="3" timestamp="2026-05-11T21:31:19Z" changeset="182530212" uid="23629183" user="Fla13">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20126"/>
     <tag k="addr:street" v="Via Chiese"/>
@@ -34459,6 +34459,7 @@
     <tag k="amenity" v="fast_food"/>
     <tag k="brand" v="Flower Burger"/>
     <tag k="brand:wikidata" v="Q67168925"/>
+    <tag k="check_date" v="2026-05-11"/>
     <tag k="contact:facebook" v="flowerburger.milano.bicocca"/>
     <tag k="contact:phone" v="+39 02 66104606"/>
     <tag k="contact:website" v="https://www.flowerburger.it/negozi/flower-burger-milano-bicocca/"/>
@@ -34468,8 +34469,11 @@
     <tag k="diet:vegan" v="only"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Flower Burger"/>
-    <tag k="opening_hours" v="Mo-Su 12:00-14:30, 19:00-21:30"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-15:00,19:00-22:30; Fr 12:00-15:00,19:00-23:00; Sa 12:00-15:00,18:00-23:00; Su 12:00-15:00,18:00-22:30"/>
     <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="ref:delivery:deliveroo" v="https://deliveroo.it/it/menu/milano/sesto-san-giovanni/flower-burger-bicocca"/>
     <tag k="reservation" v="no"/>
     <tag k="smoking" v="no"/>
@@ -51813,6 +51817,17 @@
     <tag k="fee" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="13818491681" lat="45.4203153" lon="9.1935283" version="1" timestamp="2026-05-11T15:30:58Z" changeset="182517155" uid="22919632" user="matteobott">
+    <tag k="access" v="no"/>
+    <tag k="barrier" v="swing_gate"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="horse" v="yes"/>
+    <tag k="locked" v="yes"/>
+    <tag k="material" v="metal"/>
+    <tag k="motor_vehicle" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -60762,6 +60777,24 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="485365698" version="4" timestamp="2026-05-11T09:27:02Z" changeset="182502080" uid="646083" user="freak_antoni">
+    <center lat="45.4878075" lon="9.1680601"/>
+    <nd ref="4781361760"/>
+    <nd ref="4781364986"/>
+    <nd ref="10577493733"/>
+    <nd ref="4080173298"/>
+    <nd ref="4080173297"/>
+    <nd ref="10577493729"/>
+    <nd ref="10577493730"/>
+    <nd ref="10577493732"/>
+    <nd ref="10577493731"/>
+    <nd ref="10577493728"/>
+    <nd ref="4781361760"/>
+    <tag k="building" v="apartments"/>
+    <tag k="building:levels" v="6"/>
+    <tag k="building:levels:underground" v="1"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
   <way id="490205759" version="2" timestamp="2023-06-18T15:13:56Z" changeset="137482378" uid="706350" user="morenegade">
     <center lat="45.5219631" lon="9.2231275"/>
     <nd ref="4823806555"/>
@@ -63417,13 +63450,14 @@
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1027289177" version="3" timestamp="2025-12-15T18:24:39Z" changeset="175974273" uid="10893865" user="Emanuele Lorenzo Corti">
+  <way id="1027289177" version="4" timestamp="2026-05-11T11:17:23Z" changeset="182506392" uid="646083" user="freak_antoni">
     <center lat="45.4741908" lon="9.2300808"/>
     <nd ref="9470740356"/>
     <nd ref="9470740357"/>
     <nd ref="9470740359"/>
     <nd ref="9470740360"/>
     <nd ref="9470740356"/>
+    <tag k="access" v="yes"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="name" v="Area cani Piazzale Gorini"/>
     <tag k="wheelchair" v="yes"/>
