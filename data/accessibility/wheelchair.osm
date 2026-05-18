@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-17T06:38:59Z" areas="2026-05-17T03:39:28Z"/>
+<meta osm_base="2026-05-18T07:15:14Z" areas="2026-05-18T03:37:29Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -12507,6 +12507,13 @@
     <tag k="name" v="Boggi"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="2707317673" lat="45.4992886" lon="9.1557609" version="6" timestamp="2026-05-17T17:00:25Z" changeset="182794715" uid="23724596" user="ChimpanBC">
+    <tag k="amenity" v="toilets"/>
+    <tag k="check_date" v="2026-05-17"/>
+    <tag k="check_date:wheelchair" v="2026-05-17"/>
+    <tag k="fee" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2718645802" lat="45.4872012" lon="9.1912878" version="5" timestamp="2025-10-21T12:03:09Z" changeset="173578678" uid="19367" user="lastman">
     <tag k="name" v="Isola"/>
@@ -27113,11 +27120,12 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikimedia_commons" v="File:Fountain_of_Via_Principe_Eugenio_Milan_-_01.jpg"/>
   </node>
-  <node id="4953162376" lat="45.4992175" lon="9.1509951" version="5" timestamp="2025-12-11T19:08:37Z" changeset="175816689" uid="13697350" user="c674a">
+  <node id="4953162376" lat="45.4992175" lon="9.1509951" version="6" timestamp="2026-05-17T16:24:33Z" changeset="182793079" uid="23724596" user="ChimpanBC">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="drinking_water"/>
     <tag k="bottle" v="yes"/>
     <tag k="fee" v="no"/>
+    <tag k="fountain" v="bubbler"/>
     <tag k="operator" v="MM S.p.A."/>
     <tag k="operator:website" v="http://www.metropolitanamilanese.it/"/>
     <tag k="operator:wikidata" v="Q3855742"/>
@@ -56245,6 +56253,17 @@
     <tag k="roof:shape" v="flat"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="159966862" version="3" timestamp="2026-05-17T17:00:14Z" changeset="182794354" uid="23724596" user="ChimpanBC">
+    <center lat="45.4992776" lon="9.1553271"/>
+    <nd ref="1720335683"/>
+    <nd ref="1720335677"/>
+    <nd ref="1720335681"/>
+    <nd ref="1720335679"/>
+    <nd ref="4550031209"/>
+    <nd ref="1720335683"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="160016020" version="4" timestamp="2021-01-10T15:23:25Z" changeset="97252274" uid="4413023" user="realjep">
     <center lat="45.5204918" lon="9.2052815"/>
     <nd ref="1720802486"/>
@@ -62065,6 +62084,32 @@
     <tag k="sport" v="swimming;basketball;volleyball"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="704155934" version="3" timestamp="2026-05-17T13:21:32Z" changeset="182784337" uid="23724596" user="ChimpanBC">
+    <center lat="45.4470939" lon="9.1939511"/>
+    <nd ref="6611797220"/>
+    <nd ref="6611797221"/>
+    <nd ref="6611797222"/>
+    <nd ref="6611797223"/>
+    <nd ref="10957269446"/>
+    <nd ref="6611797220"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="704155935" version="3" timestamp="2026-05-17T13:21:55Z" changeset="182784337" uid="23724596" user="ChimpanBC">
+    <center lat="45.4479995" lon="9.1911871"/>
+    <nd ref="13447263954"/>
+    <nd ref="6611797225"/>
+    <nd ref="6611797226"/>
+    <nd ref="6611797227"/>
+    <nd ref="6611797228"/>
+    <nd ref="13447263953"/>
+    <nd ref="6611797229"/>
+    <nd ref="13447263955"/>
+    <nd ref="6611797230"/>
+    <nd ref="13447263954"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="727738316" version="2" timestamp="2024-05-02T06:03:24Z" changeset="150777581" uid="15298985" user="wwjd2022">
     <center lat="45.4607474" lon="9.2148563"/>
     <nd ref="6819786179"/>
@@ -62606,6 +62651,22 @@
     <nd ref="7970686695"/>
     <nd ref="7970686704"/>
     <tag k="barrier" v="fence"/>
+    <tag k="leisure" v="dog_park"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="865414724" version="3" timestamp="2026-05-17T13:21:39Z" changeset="182784337" uid="23724596" user="ChimpanBC">
+    <center lat="45.4471657" lon="9.1931840"/>
+    <nd ref="8968363083"/>
+    <nd ref="8968363084"/>
+    <nd ref="8066401789"/>
+    <nd ref="8066401790"/>
+    <nd ref="8066401791"/>
+    <nd ref="8066401792"/>
+    <nd ref="8066401793"/>
+    <nd ref="8066401794"/>
+    <nd ref="8066401795"/>
+    <nd ref="8968363086"/>
+    <nd ref="8968363083"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
@@ -63802,7 +63863,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1051819461" version="6" timestamp="2024-05-02T21:12:01Z" changeset="150812114" uid="13878104" user="Nádudvari Tamás">
+  <way id="1051819461" version="7" timestamp="2026-05-17T18:15:14Z" changeset="182797633" uid="23724596" user="ChimpanBC">
     <center lat="45.5021603" lon="9.1511174"/>
     <nd ref="5144505639"/>
     <nd ref="9665780172"/>
@@ -63818,6 +63879,7 @@
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
+    <tag k="check_date:bench" v="2026-05-17"/>
     <tag k="covered" v="partial"/>
     <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
@@ -63828,7 +63890,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1051819462" version="6" timestamp="2024-05-02T21:12:01Z" changeset="150812114" uid="13878104" user="Nádudvari Tamás">
+  <way id="1051819462" version="7" timestamp="2026-05-17T18:15:08Z" changeset="182797633" uid="23724596" user="ChimpanBC">
     <center lat="45.5020657" lon="9.1510276"/>
     <nd ref="9665780178"/>
     <nd ref="9665780177"/>
@@ -63842,6 +63904,7 @@
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
+    <tag k="check_date:bench" v="2026-05-17"/>
     <tag k="covered" v="partial"/>
     <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
@@ -63852,7 +63915,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1051819463" version="6" timestamp="2024-05-02T21:12:01Z" changeset="150812114" uid="13878104" user="Nádudvari Tamás">
+  <way id="1051819463" version="7" timestamp="2026-05-17T18:15:10Z" changeset="182797633" uid="23724596" user="ChimpanBC">
     <center lat="45.5019633" lon="9.1509284"/>
     <nd ref="9665780182"/>
     <nd ref="9665780181"/>
@@ -63867,6 +63930,7 @@
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
+    <tag k="check_date:bench" v="2026-05-17"/>
     <tag k="covered" v="partial"/>
     <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
@@ -63877,7 +63941,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1051819464" version="6" timestamp="2024-05-02T21:12:01Z" changeset="150812114" uid="13878104" user="Nádudvari Tamás">
+  <way id="1051819464" version="7" timestamp="2026-05-17T18:15:16Z" changeset="182797633" uid="23724596" user="ChimpanBC">
     <center lat="45.5018717" lon="9.1508405"/>
     <nd ref="9665780185"/>
     <nd ref="9665780184"/>
@@ -63893,6 +63957,7 @@
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
+    <tag k="check_date:bench" v="2026-05-17"/>
     <tag k="covered" v="partial"/>
     <tag k="lit" v="yes"/>
     <tag k="passenger_information_display" v="yes"/>
@@ -64772,6 +64837,17 @@
     <tag k="building" v="yes"/>
     <tag k="layer" v="1"/>
     <tag k="shelter_type" v="public_transport"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1356199963" version="3" timestamp="2026-05-17T16:53:21Z" changeset="182794354" uid="23724596" user="ChimpanBC">
+    <center lat="45.5002407" lon="9.1528973"/>
+    <nd ref="12551711037"/>
+    <nd ref="12551711038"/>
+    <nd ref="12551711039"/>
+    <nd ref="12551711040"/>
+    <nd ref="12551711037"/>
+    <tag k="access" v="yes"/>
+    <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1366616406" version="4" timestamp="2025-03-22T09:35:45Z" changeset="163938206" uid="12266546" user="tiziodcaio">
