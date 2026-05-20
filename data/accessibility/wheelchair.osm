@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-19T07:11:00Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-20T07:11:15Z" areas="2026-05-19T13:02:56Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3538,13 +3538,14 @@
     <tag k="tobacco" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1149228717" lat="45.4795274" lon="9.2268098" version="8" timestamp="2025-03-22T11:28:20Z" changeset="163942802" uid="9054148" user="sanddune94">
+  <node id="1149228717" lat="45.4795274" lon="9.2268098" version="9" timestamp="2026-05-19T10:29:08Z" changeset="182872362" uid="22919632" user="matteobott">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20131"/>
     <tag k="addr:street" v="Via Andre' Marie Ampere"/>
     <tag k="amenity" v="library"/>
-    <tag k="check_date" v="2025-03-22"/>
+    <tag k="check_date" v="2026-05-19"/>
+    <tag k="check_date:opening_hours" v="2026-05-19"/>
     <tag k="name" v="Biblioteca Campus Leonardo"/>
     <tag k="name:en" v="Leonardo Campus Library"/>
     <tag k="old_name" v="Biblioteca Centrale di Architettura - Politecnico di Milano"/>
@@ -4576,6 +4577,16 @@
     <tag k="name" v="Famagosta"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1505106680" lat="45.4377754" lon="9.1681555" version="6" timestamp="2026-05-19T16:28:26Z" changeset="182889251" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Famagosta"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1505106689" lat="45.4372036" lon="9.1687902" version="4" timestamp="2026-05-19T16:40:11Z" changeset="182889251" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Famagosta"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1514331907" lat="45.4952639" lon="9.1851342" version="9" timestamp="2025-10-13T11:01:14Z" changeset="173221332" uid="22525435" user="btcitnet">
     <tag k="addr:city" v="Milano"/>
@@ -14521,6 +14532,11 @@
     <tag k="name" v="Guess"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3012431712" lat="45.4368919" lon="9.1686718" version="3" timestamp="2026-05-19T16:44:59Z" changeset="182889251" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Famagosta"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3012733094" lat="45.4685653" lon="9.1992235" version="4" timestamp="2025-07-15T09:57:22Z" changeset="168956130" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="14"/>
@@ -25502,6 +25518,13 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4612209175" lat="45.4800321" lon="9.2270762" version="4" timestamp="2026-05-19T10:29:13Z" changeset="182872364" uid="22919632" user="matteobott">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="-1"/>
+    <tag k="male" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="4612219182" lat="45.4791327" lon="9.2338674" version="11" timestamp="2026-04-08T15:20:09Z" changeset="181055701" uid="23629183" user="Fla13">
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="no"/>
@@ -25521,6 +25544,14 @@
     <tag k="fee" v="no"/>
     <tag k="male" v="yes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="4612278295" lat="45.4790290" lon="9.2338177" version="5" timestamp="2026-05-19T15:13:48Z" changeset="182885624" uid="23629183" user="Fla13">
+    <tag k="amenity" v="toilets"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="female" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4612299017" lat="45.4773592" lon="9.2296966" version="5" timestamp="2026-03-03T14:59:40Z" changeset="179305842" uid="23629183" user="Fla13">
     <tag k="amenity" v="toilets"/>
@@ -35704,6 +35735,16 @@
     <tag k="toilets:access" v="customers"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="8992898641" lat="45.4368926" lon="9.1685153" version="3" timestamp="2026-05-19T16:44:57Z" changeset="182889251" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Famagosta"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="8992898649" lat="45.4372113" lon="9.1680928" version="2" timestamp="2026-05-19T16:34:28Z" changeset="182889251" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Famagosta"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="8995523245" lat="45.4559077" lon="9.1839344" version="6" timestamp="2025-12-20T14:55:57Z" changeset="176184192" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
@@ -46543,7 +46584,7 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12040028575" lat="45.5018607" lon="9.2178340" version="8" timestamp="2026-05-10T14:58:43Z" changeset="182470756" uid="23724596" user="ChimpanBC">
+  <node id="12040028575" lat="45.5018607" lon="9.2178340" version="9" timestamp="2026-05-19T09:33:05Z" changeset="182869871" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:postcode" v="20125"/>
@@ -46556,7 +46597,7 @@
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Scomodo"/>
     <tag k="opening_hours" v="Mo-Th 08:30-24:00, Su 10:00-24:00, Fr 08:30-02:00, Sa 10:00-02:00"/>
-    <tag k="website" v="http://scomodo.org"/>
+    <tag k="website" v="https://scomodo.org/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12043530984" lat="45.4646395" lon="9.1419705" version="4" timestamp="2026-04-26T20:37:21Z" changeset="181863867" uid="13697350" user="c674a">
@@ -61885,7 +61926,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="652901123" version="16" timestamp="2025-12-22T09:36:04Z" changeset="176253309" uid="22919632" user="matteobott">
+  <way id="652901123" version="17" timestamp="2026-05-19T16:28:14Z" changeset="182889233" uid="23724596" user="ChimpanBC">
     <center lat="45.4368331" lon="9.1670972"/>
     <nd ref="6119677014"/>
     <nd ref="6119677016"/>
@@ -61914,7 +61955,7 @@
     <tag k="brand:wikipedia" v="en:Esselunga"/>
     <tag k="building" v="supermarket"/>
     <tag k="building:levels" v="3"/>
-    <tag k="check_date" v="2025-04-22"/>
+    <tag k="check_date" v="2026-05-19"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="name" v="Esselunga"/>
     <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 08:00-20:00"/>
