@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-20T07:11:15Z" areas="2026-05-19T13:02:56Z"/>
+<meta osm_base="2026-05-21T07:12:02Z" areas="2026-05-20T14:25:17Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4562,6 +4562,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="1505105318" lat="45.4299063" lon="9.1783892" version="5" timestamp="2026-05-21T06:56:33Z" changeset="182959431" uid="22919632" user="matteobott">
+    <tag k="name" v="Abbiategrasso"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1505105322" lat="45.4296593" lon="9.1775140" version="4" timestamp="2026-03-31T16:43:39Z" changeset="180683034" uid="23724596" user="ChimpanBC">
     <tag k="check_date:wheelchair" v="2026-03-31"/>
     <tag k="name" v="Abbiategrasso"/>
@@ -5666,21 +5671,23 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wifi" v="no"/>
   </node>
-  <node id="1679694028" lat="45.4796764" lon="9.2344712" version="11" timestamp="2024-07-05T11:32:08Z" changeset="153584579" uid="67550" user="Aiman">
+  <node id="1679694028" lat="45.4796764" lon="9.2344712" version="13" timestamp="2026-05-20T17:10:34Z" changeset="182938836" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Via Camillo Golgi"/>
     <tag k="amenity" v="pub"/>
     <tag k="brewery" v="yes;various"/>
-    <tag k="check_date" v="2023-10-13"/>
+    <tag k="check_date" v="2026-05-20"/>
+    <tag k="check_date:opening_hours" v="2026-05-20"/>
     <tag k="contact:email" v="golgi@birrificiolambrate.com"/>
     <tag k="contact:facebook" v="https://www.facebook.com/BirrificioLambrate/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/birrificiolambrate/"/>
     <tag k="contact:website" v="http://birrificiolambrate.com"/>
+    <tag k="cuisine" v="burger;sandwich;sausage"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Birrificio Lambrate"/>
-    <tag k="opening_hours" v="Mo-Fr 12:00-02:00; Sa 19:00-02:00"/>
+    <tag k="opening_hours" v="Mo-Fr 12:00-02:00, Sa 19:00-02:00; Su off"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:edenred_ticket" v="yes"/>
     <tag k="phone" v="+39 02 8496 1890"/>
@@ -5989,13 +5996,13 @@
     <tag k="shop" v="bakery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1735145994" lat="45.4730094" lon="9.2305622" version="8" timestamp="2026-03-15T14:57:09Z" changeset="179901207" uid="23724596" user="ChimpanBC">
+  <node id="1735145994" lat="45.4730094" lon="9.2305622" version="9" timestamp="2026-05-20T16:59:28Z" changeset="182938386" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="20133"/>
     <tag k="addr:street" v="Piazzale Paolo Gorini"/>
     <tag k="amenity" v="ice_cream"/>
-    <tag k="check_date" v="2025-03-22"/>
+    <tag k="check_date" v="2026-05-20"/>
     <tag k="contact:email" v="gelateria.gorini@libero.it"/>
     <tag k="contact:facebook" v="https://www.facebook.com/gelateria.gorini"/>
     <tag k="contact:phone" v="+39 02 70000721"/>
@@ -50423,7 +50430,7 @@
     <tag k="survey:date" v="2025-12-22"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13408442939" lat="45.4242585" lon="9.1871513" version="1" timestamp="2025-12-26T11:24:47Z" changeset="176433774" uid="22919632" user="matteobott">
+  <node id="13408442939" lat="45.4242872" lon="9.1871145" version="2" timestamp="2026-05-20T08:39:38Z" changeset="182915612" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="no"/>
@@ -51993,6 +52000,11 @@
     <tag k="motorcar" v="yes"/>
     <tag k="vehicle" v="no"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13851745125" lat="45.4227698" lon="9.1864818" version="1" timestamp="2026-05-20T08:39:38Z" changeset="182915612" uid="22919632" user="matteobott">
+    <tag k="barrier" v="gate"/>
+    <tag k="locked" v="no"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
@@ -59219,35 +59231,7 @@
     <tag k="shop" v="newsagent"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="306829080" version="14" timestamp="2026-02-14T19:01:02Z" changeset="178555408" uid="19538393" user="Lena6">
-    <center lat="45.4206648" lon="9.1775904"/>
-    <nd ref="3118354126"/>
-    <nd ref="13378355698"/>
-    <nd ref="9966330375"/>
-    <nd ref="13165895587"/>
-    <nd ref="3118354119"/>
-    <nd ref="3118354120"/>
-    <nd ref="3118354121"/>
-    <nd ref="3118354122"/>
-    <nd ref="3118354125"/>
-    <nd ref="3118354123"/>
-    <nd ref="3118354124"/>
-    <nd ref="3118354126"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:street" v="Via dei Missaglia"/>
-    <tag k="branch" v="MISSAGLIA"/>
-    <tag k="brand" v="Esselunga"/>
-    <tag k="brand:wikidata" v="Q1059636"/>
-    <tag k="brand:wikipedia" v="en:Esselunga"/>
-    <tag k="building" v="retail"/>
-    <tag k="name" v="Esselunga"/>
-    <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 08:00-20:00"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.esselunga-di-via-dei-missaglia-milano.mis.html"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="306830284" version="6" timestamp="2026-04-02T15:14:19Z" changeset="180773552" uid="13840929" user="aa30mom">
+  <way id="306830284" version="7" timestamp="2026-05-20T12:26:05Z" changeset="182925860" uid="22919632" user="matteobott">
     <center lat="45.4211006" lon="9.1772881"/>
     <nd ref="3118363533"/>
     <nd ref="3118363534"/>
@@ -59257,6 +59241,8 @@
     <nd ref="3118363539"/>
     <nd ref="13165895597"/>
     <nd ref="3118363228"/>
+    <nd ref="13852534492"/>
+    <nd ref="13852534491"/>
     <nd ref="3118363533"/>
     <tag k="access" v="customers"/>
     <tag k="amenity" v="parking"/>
@@ -64996,7 +64982,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1395741167" version="6" timestamp="2025-12-16T11:32:22Z" changeset="176000906" uid="22919632" user="matteobott">
-    <center lat="45.4167353" lon="9.1806207"/>
+    <center lat="45.4167345" lon="9.1806201"/>
     <nd ref="12919417476"/>
     <nd ref="12919417477"/>
     <nd ref="13328875255"/>
@@ -65546,6 +65532,20 @@
     <tag k="ref" v="016"/>
     <tag k="room" v="toilets"/>
     <tag k="wheelchair" v="designated"/>
+  </way>
+  <way id="1481121100" version="2" timestamp="2026-05-20T12:26:05Z" changeset="182925860" uid="22919632" user="matteobott">
+    <center lat="45.4206228" lon="9.1788878"/>
+    <nd ref="13584783684"/>
+    <nd ref="13584783685"/>
+    <nd ref="13584783686"/>
+    <nd ref="13584783687"/>
+    <nd ref="13584783684"/>
+    <tag k="area" v="yes"/>
+    <tag k="baby" v="yes"/>
+    <tag k="blind" v="no"/>
+    <tag k="capacity" v="2"/>
+    <tag k="playground" v="swing"/>
+    <tag k="wheelchair" v="no"/>
   </way>
   <way id="1483452612" version="2" timestamp="2026-02-26T16:11:09Z" changeset="179091545" uid="22971213" user="littlewindow">
     <center lat="45.4771810" lon="9.2280136"/>
