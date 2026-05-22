@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-21T07:12:02Z" areas="2026-05-20T14:25:17Z"/>
+<meta osm_base="2026-05-22T07:09:36Z" areas="2026-05-22T01:20:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -8171,8 +8171,9 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2148025049" lat="45.5106392" lon="9.2623229" version="6" timestamp="2024-09-25T12:49:46Z" changeset="157081270" uid="8350372" user="Balaabirami">
+  <node id="2148025049" lat="45.5106392" lon="9.2623229" version="7" timestamp="2026-05-21T14:58:40Z" changeset="182980701" uid="11242131" user="ja+">
     <tag k="name" v="Cascina Gobba"/>
+    <tag k="opening_hours" v="Mo-Fr 06:30-20:30;PH off"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="no"/>
@@ -36746,10 +36747,12 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9352676138" lat="45.4636148" lon="9.1897885" version="3" timestamp="2025-02-26T10:58:51Z" changeset="162966593" uid="8772934" user="mapperich">
+  <node id="9352676138" lat="45.4636148" lon="9.1897885" version="5" timestamp="2026-05-21T13:19:21Z" changeset="182976155" uid="24135566" user="steta0">
+    <tag k="access" v="no"/>
     <tag k="comment:it" v="Ingresso chiuso?"/>
+    <tag k="disused" v="yes"/>
+    <tag k="disused:railway" v="subway_entrance"/>
     <tag k="name" v="Duomo"/>
-    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="9352676142" lat="45.4638410" lon="9.1879824" version="4" timestamp="2026-05-16T18:25:32Z" changeset="182754908" uid="23724596" user="ChimpanBC">
@@ -54610,7 +54613,7 @@
     <tag k="website" v="https://www.mercatoisola.it/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="95003773" version="15" timestamp="2024-03-16T15:12:04Z" changeset="148736213" uid="21026245" user="DBBBL">
+  <way id="95003773" version="16" timestamp="2026-05-21T14:58:40Z" changeset="182980701" uid="11242131" user="ja+">
     <center lat="45.5107796" lon="9.2623647"/>
     <nd ref="1102426543"/>
     <nd ref="2148025049"/>
@@ -54629,7 +54632,6 @@
     <tag k="building:colour" v="Grigio"/>
     <tag k="building:levels" v="2"/>
     <tag k="name" v="Cascina Gobba"/>
-    <tag k="public_transport" v="station"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="95919765" version="8" timestamp="2025-07-15T09:14:11Z" changeset="168953202" uid="290680" user="wheelmap_visitor">
@@ -56347,13 +56349,14 @@
     <tag k="lit" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="160136158" version="16" timestamp="2026-04-12T21:51:43Z" changeset="181250492" uid="21378857" user="GiovanniPen">
+  <way id="160136158" version="17" timestamp="2026-05-21T17:31:52Z" changeset="182987483" uid="22919632" user="matteobott">
     <center lat="45.4797752" lon="9.2292288"/>
     <nd ref="259609586"/>
     <nd ref="13612480451"/>
     <nd ref="1722079071"/>
     <nd ref="259609580"/>
     <nd ref="1722079094"/>
+    <nd ref="13858288292"/>
     <nd ref="13252710588"/>
     <nd ref="13252710513"/>
     <nd ref="1722079123"/>
@@ -56390,7 +56393,7 @@
     <tag k="ref" v="Edificio 14"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="160136162" version="28" timestamp="2026-05-03T08:27:33Z" changeset="182147896" uid="11976" user="Map47">
+  <way id="160136162" version="32" timestamp="2026-05-21T14:41:20Z" changeset="182979902" uid="18266291" user="nicola_alle">
     <center lat="45.4799824" lon="9.2281852"/>
     <nd ref="13682093101"/>
     <nd ref="13682199709"/>
@@ -56420,6 +56423,7 @@
     <nd ref="13682093402"/>
     <nd ref="13682185203"/>
     <nd ref="13682093601"/>
+    <nd ref="13857723302"/>
     <nd ref="13682093403"/>
     <nd ref="13682093502"/>
     <nd ref="13682093503"/>
@@ -56450,6 +56454,7 @@
     <nd ref="13682093508"/>
     <nd ref="13682093212"/>
     <nd ref="13682093213"/>
+    <nd ref="13857755830"/>
     <nd ref="13682093214"/>
     <nd ref="13682093509"/>
     <nd ref="13682093215"/>
@@ -56474,13 +56479,22 @@
     <nd ref="13682093217"/>
     <nd ref="13682093218"/>
     <nd ref="13682093409"/>
+    <nd ref="13857623803"/>
+    <nd ref="13857635001"/>
+    <nd ref="13857623903"/>
+    <nd ref="13857635102"/>
+    <nd ref="13857635104"/>
+    <nd ref="13857623807"/>
+    <nd ref="13857493601"/>
+    <nd ref="13857493501"/>
     <nd ref="13682093219"/>
     <nd ref="13682093101"/>
     <tag k="access" v="yes"/>
     <tag k="architect" v="Gio Ponti"/>
     <tag k="building" v="university"/>
     <tag k="building:colour" v="#D3D3D3"/>
-    <tag k="building:levels" v="4"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="building:levels:underground" v="1"/>
     <tag k="building:material" v="cement_block"/>
     <tag k="layer" v="1"/>
     <tag k="max_level" v="2"/>
@@ -61487,7 +61501,7 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="540985449" version="6" timestamp="2026-04-12T21:51:43Z" changeset="181250492" uid="21378857" user="GiovanniPen">
+  <way id="540985449" version="7" timestamp="2026-05-21T13:17:02Z" changeset="182976025" uid="22971213" user="littlewindow">
     <center lat="45.4799718" lon="9.2283164"/>
     <nd ref="13685460101"/>
     <nd ref="13685460201"/>
@@ -61501,6 +61515,7 @@
     <nd ref="13685460502"/>
     <nd ref="13685460402"/>
     <nd ref="13685460403"/>
+    <nd ref="13857444401"/>
     <nd ref="13685460304"/>
     <nd ref="13685460601"/>
     <nd ref="13685460102"/>
