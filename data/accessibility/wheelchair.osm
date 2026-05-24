@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-23T06:29:15Z" areas="2026-05-22T22:19:36Z"/>
+<meta osm_base="2026-05-24T06:58:50Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4482,6 +4482,11 @@
     <tag k="website" v="https://www.upim.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1505077263" lat="45.4368472" lon="9.2301315" version="5" timestamp="2026-05-23T10:04:05Z" changeset="183059879" uid="23724596" user="ChimpanBC">
+    <tag k="name" v="Porto di Mare"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1505078329" lat="45.4398020" lon="9.2235821" version="3" timestamp="2026-02-12T20:29:27Z" changeset="178474459" uid="23724596" user="ChimpanBC">
     <tag k="name" v="Corvetto"/>
     <tag k="railway" v="subway_entrance"/>
@@ -8600,14 +8605,15 @@
     <tag k="website" v="https://www.lebanque.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2226705938" lat="45.4451963" lon="9.1766917" version="8" timestamp="2026-03-26T18:12:57Z" changeset="180467865" uid="23724596" user="ChimpanBC">
+  <node id="2226705938" lat="45.4451963" lon="9.1766917" version="9" timestamp="2026-05-23T22:51:09Z" changeset="183086656" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="63"/>
     <tag k="addr:postcode" v="20136"/>
     <tag k="addr:street" v="Via Ascanio Sforza"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="pub"/>
-    <tag k="check_date" v="2026-03-26"/>
+    <tag k="check_date" v="2026-05-24"/>
+    <tag k="check_date:toilets:wheelchair" v="2026-05-24"/>
     <tag k="contact:facebook" v="https://www.facebook.com/MilanoDaBirra"/>
     <tag k="contact:instagram" v="https://www.instagram.com/picobrew_milano/"/>
     <tag k="cuisine" v="sandwich"/>
@@ -8617,6 +8623,7 @@
     <tag k="opening_hours" v="Su-Th 17:30-01:00, Fr,Sa 17:30-02:00"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
+    <tag k="toilets:wheelchair" v="no"/>
     <tag k="website" v="https://www.picobrew.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -25116,7 +25123,7 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4552083330" lat="45.4915839" lon="9.1896074" version="6" timestamp="2026-04-11T07:34:09Z" changeset="181177456" uid="4425563" user="Danysan95">
+  <node id="4552083330" lat="45.4916153" lon="9.1895848" version="7" timestamp="2026-05-23T08:06:54Z" changeset="183055192" uid="7550430" user="Britzz">
     <tag k="check_date" v="2026-04-11"/>
     <tag k="name" v="Spesa Si"/>
     <tag k="opening_hours" v="Mo-Su 08:30-21:30"/>
@@ -32267,8 +32274,9 @@
     <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6353108158" lat="45.4619871" lon="9.2235471" version="3" timestamp="2022-11-19T12:38:35Z" changeset="129122279" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="name" v="Leon"/>
+  <node id="6353108158" lat="45.4619871" lon="9.2235471" version="4" timestamp="2026-05-23T13:28:10Z" changeset="183068290" uid="646083" user="freak_antoni">
+    <tag k="check_date" v="2026-05-23"/>
+    <tag k="name" v="Marilyn Fashion"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -37381,7 +37389,7 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wheelchair:description" v="Very nice hotel with a large swimming pool and good food. Large, accessible rooms with even showers and toilets for handicapped people. Quiet environment."/>
   </node>
-  <node id="9516560849" lat="45.4349161" lon="9.2279117" version="4" timestamp="2025-12-07T14:45:24Z" changeset="175626892" uid="23562518" user="Bearclaw1995">
+  <node id="9516560849" lat="45.4349161" lon="9.2279117" version="5" timestamp="2026-05-23T19:10:15Z" changeset="183081268" uid="23724596" user="ChimpanBC">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="20139"/>
@@ -37389,6 +37397,7 @@
     <tag k="alt_name" v="C.I.Q."/>
     <tag k="amenity" v="community_centre"/>
     <tag k="description" v="Il Centro Internazionale di Quartiere (C.I.Q.) è un progetto dell’associazione socio-culturale Sunugal, che si occupa di co-sviluppo tra Italia e Senegal, promozione sociale e intercultura, e della Cooperativa Sociale Fate Artigiane. Le due associazioni h"/>
+    <tag k="internet_access" v="wlan"/>
     <tag k="name" v="C.I.Q. – Centro Internazionale di Quartiere"/>
     <tag k="name:en" v="International community centre"/>
     <tag k="name:fr" v="Centre international de quartier"/>
@@ -43857,7 +43866,7 @@
     <tag k="entrance" v="elevator"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11297534982" lat="45.4913550" lon="9.1891260" version="2" timestamp="2026-04-11T07:34:09Z" changeset="181177456" uid="4425563" user="Danysan95">
+  <node id="11297534982" lat="45.4913425" lon="9.1891534" version="3" timestamp="2026-05-23T08:06:55Z" changeset="183055192" uid="7550430" user="Britzz">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="20159"/>
@@ -52049,6 +52058,16 @@
     <tag k="barrier" v="gate"/>
     <tag k="locked" v="no"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="13868472101" lat="45.4454749" lon="9.1791174" version="5" timestamp="2026-05-23T19:12:22Z" changeset="183081363" uid="23724596" user="ChimpanBC">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="check_date" v="2026-05-23"/>
+    <tag k="check_date:fee" v="2026-05-23"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Bertoglio"/>
+    <tag k="parking" v="underground"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
