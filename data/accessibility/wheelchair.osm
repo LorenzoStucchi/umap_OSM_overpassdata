@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-25T07:29:29Z" areas="2026-05-25T02:18:03Z"/>
+<meta osm_base="2026-05-26T07:08:30Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -7441,6 +7441,10 @@
     <tag k="operator:wikipedia" v="en:Poste italiane"/>
     <tag k="phone" v="+39 02 67072150"/>
     <tag k="ref" v="38654"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2012048112" lat="45.4865880" lon="9.2163629" version="6" timestamp="2026-05-25T23:58:16Z" changeset="183181023" uid="23724596" user="ChimpanBC">
+    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2016985973" lat="45.4784853" lon="9.2000762" version="3" timestamp="2018-07-31T09:11:03Z" changeset="61221374" uid="92387" user="SimonPoole">
@@ -17021,6 +17025,10 @@
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Caffè Venezia"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3373292660" lat="45.4867699" lon="9.2171258" version="6" timestamp="2026-05-25T23:54:20Z" changeset="183181023" uid="23724596" user="ChimpanBC">
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3373292665" lat="45.4868383" lon="9.2166156" version="7" timestamp="2026-04-04T18:22:23Z" changeset="180867974" uid="23629183" user="Fla13">
     <tag k="railway" v="subway_entrance"/>
@@ -31875,19 +31883,6 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6088705433" lat="45.5084264" lon="9.2075770" version="4" timestamp="2023-08-05T19:23:43Z" changeset="139493327" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="20125"/>
-    <tag k="addr:street" v="Via Roberto Cozzi"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cafe" v="yes"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Fuorimano"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="ref:vatin" v="IT09691250964"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="6100264753" lat="45.4855850" lon="9.2036306" version="6" timestamp="2026-04-18T07:20:58Z" changeset="181486142" uid="13697350" user="c674a">
     <tag k="amenity" v="car_rental"/>
     <tag k="brand" v="Sixt"/>
@@ -35170,7 +35165,7 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8726339213" lat="45.4885887" lon="9.2197314" version="4" timestamp="2025-07-15T10:31:55Z" changeset="168957946" uid="290680" user="wheelmap_visitor">
+  <node id="8726339213" lat="45.4885887" lon="9.2197314" version="6" timestamp="2026-05-25T23:27:49Z" changeset="183180657" uid="23724596" user="ChimpanBC">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
     <tag k="brand" v="BPER Banca"/>
@@ -41790,11 +41785,6 @@
     <tag k="clothes" v="underwear"/>
     <tag k="name" v="Triumph"/>
     <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="10554288360" lat="45.4854572" lon="9.2157718" version="2" timestamp="2025-07-15T09:17:21Z" changeset="168953365" uid="290680" user="wheelmap_visitor">
-    <tag k="name" v="Equivalenza"/>
-    <tag k="shop" v="optician"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="10554292342" lat="45.4848265" lon="9.2155614" version="3" timestamp="2025-07-15T09:19:55Z" changeset="168953515" uid="290680" user="wheelmap_visitor">
@@ -50212,6 +50202,17 @@
     <tag k="survey:date" v="2026-03-12"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="13337905319" lat="45.4846899" lon="9.1948384" version="9" timestamp="2026-05-25T15:59:01Z" changeset="183165660" uid="22919632" user="matteobott">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Stazione M2 Gioia. Dopo i tornelli sulla sinistra."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="-1"/>
+    <tag k="opening_hours" v="06:00-24:45"/>
+    <tag k="operator" v="ATM Milano"/>
+    <tag k="panoramax" v="46a47c4f-9a0b-443c-80e7-c35f974ffac1"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="13338272601" lat="45.4835991" lon="9.1867661" version="4" timestamp="2026-03-22T20:43:58Z" changeset="180271684" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="check_date" v="2025-11-28"/>
@@ -51410,8 +51411,9 @@
     <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 08:00-20:00; PH off"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13663513416" lat="45.4220471" lon="9.1784725" version="4" timestamp="2026-05-03T21:08:46Z" changeset="182178110" uid="22919632" user="matteobott">
+  <node id="13663513416" lat="45.4220471" lon="9.1784725" version="5" timestamp="2026-05-25T21:33:09Z" changeset="183178414" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="Inferno stazione Carabinieri"/>
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="yes"/>
     <tag k="level" v="0"/>
@@ -65785,6 +65787,247 @@
     <tag k="name" v="Niguarda Learning Center"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="1506932069" version="3" timestamp="2026-05-25T08:22:27Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798879" lon="9.2279988"/>
+    <nd ref="13781337701"/>
+    <nd ref="13781337505"/>
+    <nd ref="13781336804"/>
+    <nd ref="13781337801"/>
+    <nd ref="13781337701"/>
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932070" version="3" timestamp="2026-05-25T08:22:43Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798999" lon="9.2278989"/>
+    <nd ref="13781337501"/>
+    <nd ref="13781336805"/>
+    <nd ref="13781337901"/>
+    <nd ref="13781337502"/>
+    <nd ref="13781337501"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932071" version="3" timestamp="2026-05-25T08:22:46Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798830" lon="9.2278788"/>
+    <nd ref="13781336805"/>
+    <nd ref="13781337704"/>
+    <nd ref="13781337506"/>
+    <nd ref="13781337705"/>
+    <nd ref="13781336805"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1506932072" version="3" timestamp="2026-05-25T08:22:54Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798815" lon="9.2278946"/>
+    <nd ref="13781337902"/>
+    <nd ref="13781337506"/>
+    <nd ref="13781337602"/>
+    <nd ref="13781338101"/>
+    <nd ref="13781337902"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1506932073" version="5" timestamp="2026-05-25T08:22:21Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798801" lon="9.2279094"/>
+    <nd ref="13781338101"/>
+    <nd ref="13781337901"/>
+    <nd ref="13781336806"/>
+    <nd ref="13781337602"/>
+    <nd ref="13781338101"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932074" version="3" timestamp="2026-05-25T08:22:12Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798718" lon="9.2279849"/>
+    <nd ref="13781337505"/>
+    <nd ref="13781336807"/>
+    <nd ref="13781337603"/>
+    <nd ref="13781336808"/>
+    <nd ref="13781337505"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932077" version="4" timestamp="2026-05-25T08:22:17Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798703" lon="9.2279995"/>
+    <nd ref="13781337603"/>
+    <nd ref="13781336809"/>
+    <nd ref="13781337604"/>
+    <nd ref="13781336808"/>
+    <nd ref="13781337603"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932078" version="3" timestamp="2026-05-25T08:22:24Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798687" lon="9.2280125"/>
+    <nd ref="13781337604"/>
+    <nd ref="13781336809"/>
+    <nd ref="13781337508"/>
+    <nd ref="13781336804"/>
+    <nd ref="13781337604"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932079" version="3" timestamp="2026-05-25T08:22:49Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798540" lon="9.2278649"/>
+    <nd ref="13781336811"/>
+    <nd ref="13781337706"/>
+    <nd ref="13781336812"/>
+    <nd ref="13781337903"/>
+    <nd ref="13781336811"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1506932080" version="3" timestamp="2026-05-25T08:22:56Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798527" lon="9.2278810"/>
+    <nd ref="13781336812"/>
+    <nd ref="13781337903"/>
+    <nd ref="13781337707"/>
+    <nd ref="13781337904"/>
+    <nd ref="13781336812"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1506932081" version="4" timestamp="2026-05-25T08:22:48Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798514" lon="9.2278945"/>
+    <nd ref="13781337904"/>
+    <nd ref="13781337707"/>
+    <nd ref="13682275805"/>
+    <nd ref="13682274112"/>
+    <nd ref="13781337904"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1506932183" version="3" timestamp="2026-05-25T08:22:51Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798500" lon="9.2279077"/>
+    <nd ref="13682274112"/>
+    <nd ref="13682275805"/>
+    <nd ref="13682268531"/>
+    <nd ref="13682268530"/>
+    <nd ref="13682274112"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1506932184" version="3" timestamp="2026-05-25T08:22:10Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798490" lon="9.2279204"/>
+    <nd ref="13682268530"/>
+    <nd ref="13682268531"/>
+    <nd ref="13682268529"/>
+    <nd ref="13682260415"/>
+    <nd ref="13682268530"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932185" version="3" timestamp="2026-05-25T08:22:15Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798478" lon="9.2279337"/>
+    <nd ref="13682260415"/>
+    <nd ref="13682268529"/>
+    <nd ref="13682260414"/>
+    <nd ref="5232288012"/>
+    <nd ref="13682260415"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932801" version="3" timestamp="2026-05-25T08:22:40Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798466" lon="9.2279480"/>
+    <nd ref="13682260414"/>
+    <nd ref="5232288012"/>
+    <nd ref="13781337905"/>
+    <nd ref="13781338103"/>
+    <nd ref="13682260414"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1506932802" version="3" timestamp="2026-05-25T08:22:38Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798453" lon="9.2279614"/>
+    <nd ref="13781337905"/>
+    <nd ref="13781337906"/>
+    <nd ref="13781338104"/>
+    <nd ref="13781338103"/>
+    <nd ref="13781337905"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1506932803" version="3" timestamp="2026-05-25T08:22:28Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798442" lon="9.2279749"/>
+    <nd ref="13781338104"/>
+    <nd ref="13781337906"/>
+    <nd ref="13781337907"/>
+    <nd ref="13781338105"/>
+    <nd ref="13781338104"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932804" version="3" timestamp="2026-05-25T08:22:22Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798430" lon="9.2279874"/>
+    <nd ref="13781337907"/>
+    <nd ref="13781338102"/>
+    <nd ref="13781337708"/>
+    <nd ref="13781338105"/>
+    <nd ref="13781337907"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932805" version="3" timestamp="2026-05-25T08:22:14Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798418" lon="9.2280005"/>
+    <nd ref="13781338102"/>
+    <nd ref="13781337507"/>
+    <nd ref="13781337504"/>
+    <nd ref="13781337708"/>
+    <nd ref="13781338102"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1506932806" version="3" timestamp="2026-05-25T08:22:19Z" changeset="183142917" uid="22919632" user="matteobott">
+    <center lat="45.4798405" lon="9.2280132"/>
+    <nd ref="13781337507"/>
+    <nd ref="13781336810"/>
+    <nd ref="5232287958"/>
+    <nd ref="13781337504"/>
+    <nd ref="13781337507"/>
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="level" v="0"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="1510614494" version="1" timestamp="2026-05-08T17:13:02Z" changeset="182393008" uid="13697350" user="c674a">
     <center lat="45.4822665" lon="9.2152370"/>
     <nd ref="13809241337"/>
@@ -65891,6 +66134,36 @@
     <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1521458280" version="1" timestamp="2026-05-25T15:35:52Z" changeset="183164628" uid="579545" user="Aury88">
+    <center lat="45.5083920" lon="9.2076516"/>
+    <nd ref="520138897"/>
+    <nd ref="13876866842"/>
+    <nd ref="12250993139"/>
+    <nd ref="12257954566"/>
+    <nd ref="12257954567"/>
+    <nd ref="13876866841"/>
+    <nd ref="520138895"/>
+    <nd ref="12257954564"/>
+    <nd ref="12257954565"/>
+    <nd ref="520138903"/>
+    <nd ref="13876866840"/>
+    <nd ref="13876866839"/>
+    <nd ref="13876866838"/>
+    <nd ref="12250993137"/>
+    <nd ref="520138897"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cafe" v="yes"/>
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:housenumber" v="3"/>
+    <tag k="contact:postcode" v="20125"/>
+    <tag k="contact:street" v="Via Roberto Cozzi"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Fuorimano"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT09691250964"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="wheelchair" v="yes"/>
   </way>
 
 </osm>
