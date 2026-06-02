@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-01T08:07:35Z" areas="2026-05-31T17:54:30Z"/>
+<meta osm_base="2026-06-02T07:46:45Z" areas="2026-06-01T18:36:31Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4286,10 +4286,11 @@
     <tag k="name" v="Caffè Mood"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1476127426" lat="45.4361063" lon="9.2405818" version="8" timestamp="2024-07-09T06:34:54Z" changeset="153730317" uid="95387" user="rugamarcus">
+  <node id="1476127426" lat="45.4361063" lon="9.2405818" version="9" timestamp="2026-06-01T19:17:31Z" changeset="183515483" uid="95387" user="rugamarcus">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20138"/>
     <tag k="addr:street" v="Via Bruno Cassinari"/>
+    <tag k="female" v="yes"/>
     <tag k="name" v="Cheveu"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="yes"/>
@@ -22677,6 +22678,11 @@
     <tag k="website" v="https://www.mudec.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4198482901" lat="45.4844031" lon="9.1668984" version="5" timestamp="2026-06-01T15:39:05Z" changeset="183506138" uid="23629183" user="Fla13">
+    <tag k="name" v="Gerusalemme"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="4198482904" lat="45.4846148" lon="9.1665425" version="4" timestamp="2025-05-23T21:45:52Z" changeset="166675272" uid="6220204" user="Ysogo">
     <tag k="name" v="Gerusalemme"/>
     <tag k="railway" v="subway_entrance"/>
@@ -36329,12 +36335,12 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9162150890" lat="45.4353591" lon="9.2413583" version="4" timestamp="2022-05-20T17:10:06Z" changeset="121254252" uid="6220204" user="Ysogo">
+  <node id="9162150890" lat="45.4353591" lon="9.2413583" version="5" timestamp="2026-06-01T19:18:38Z" changeset="183515522" uid="95387" user="rugamarcus">
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="no"/>
     <tag k="fee" v="no"/>
     <tag k="toilets:disposal" v="chemical"/>
-    <tag k="wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9187621286" lat="45.4737252" lon="9.1514113" version="5" timestamp="2024-09-25T12:11:55Z" changeset="157079153" uid="8350372" user="Balaabirami">
     <tag k="name" v="Amendola"/>
@@ -40753,7 +40759,7 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10036335517" lat="45.4860253" lon="9.2408430" version="1" timestamp="2022-09-19T11:34:00Z" changeset="126367665" uid="10153698" user="Francesco Cioria">
+  <node id="10036335517" lat="45.4860122" lon="9.2408956" version="2" timestamp="2026-06-02T05:53:22Z" changeset="183528692" uid="13697350" user="c674a">
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="no"/>
@@ -57350,7 +57356,7 @@
     <tag k="religion" v="christian"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="200157349" version="5" timestamp="2026-03-03T18:36:51Z" changeset="179317666" uid="95387" user="rugamarcus">
+  <way id="200157349" version="6" timestamp="2026-06-01T19:17:40Z" changeset="183515488" uid="95387" user="rugamarcus">
     <center lat="45.4372913" lon="9.2395638"/>
     <nd ref="2101451295"/>
     <nd ref="2101451285"/>
@@ -57375,6 +57381,7 @@
     <nd ref="2101451295"/>
     <tag k="access" v="yes"/>
     <tag k="amenity" v="parking"/>
+    <tag k="fee" v="yes"/>
     <tag k="parking" v="surface"/>
     <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
