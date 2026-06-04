@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-03T08:20:07Z" areas="2026-06-02T19:02:30Z"/>
+<meta osm_base="2026-06-04T07:44:56Z" areas="2026-06-03T21:33:30Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -45055,7 +45055,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11638882004" lat="45.4625663" lon="9.1729177" version="5" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="11638882004" lat="45.4625663" lon="9.1729177" version="6" timestamp="2026-06-03T19:41:06Z" changeset="183611375" uid="13697350" user="c674a">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Sant'Ambrogio"/>
     <tag k="name:it" v="Sant'Ambrogio"/>
@@ -45068,6 +45068,7 @@
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024-10-12"/>
     <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087580"/>
@@ -61118,8 +61119,8 @@
     <tag k="wikimedia_commons" v="Category:Auditorium di Milano"/>
     <tag k="wikipedia" v="it:Auditorium di Milano"/>
   </way>
-  <way id="468280176" version="4" timestamp="2025-08-31T19:49:46Z" changeset="171285411" uid="13697350" user="c674a">
-    <center lat="45.4711828" lon="9.1622325"/>
+  <way id="468280176" version="5" timestamp="2026-06-04T05:37:04Z" changeset="183624326" uid="13697350" user="c674a">
+    <center lat="45.4711828" lon="9.1622271"/>
     <nd ref="4628156103"/>
     <nd ref="4628156104"/>
     <nd ref="4628156107"/>
@@ -61131,6 +61132,8 @@
     <nd ref="5808501330"/>
     <nd ref="5808501329"/>
     <nd ref="4628156114"/>
+    <nd ref="13908807566"/>
+    <nd ref="13908807567"/>
     <nd ref="5808501327"/>
     <nd ref="4628156103"/>
     <tag k="barrier" v="fence"/>
@@ -65914,240 +65917,43 @@
     <tag k="name" v="Niguarda Learning Center"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1506932069" version="3" timestamp="2026-05-25T08:22:27Z" changeset="183142917" uid="22919632" user="matteobott">
-    <center lat="45.4798879" lon="9.2279988"/>
-    <nd ref="13781337701"/>
-    <nd ref="13781337505"/>
-    <nd ref="13781336804"/>
-    <nd ref="13781337801"/>
-    <nd ref="13781337701"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="1506932070" version="4" timestamp="2026-05-30T09:05:06Z" changeset="183389864" uid="18266291" user="nicola_alle">
-    <center lat="45.4798997" lon="9.2278987"/>
-    <nd ref="13895435885"/>
-    <nd ref="13781336805"/>
-    <nd ref="13895435884"/>
-    <nd ref="13895435883"/>
-    <nd ref="13895435885"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="1506932071" version="5" timestamp="2026-05-31T20:51:38Z" changeset="183466156" uid="18266291" user="nicola_alle">
-    <center lat="45.4798828" lon="9.2278791"/>
-    <nd ref="13899935051"/>
+  <way id="1506932186" version="3" timestamp="2026-06-03T12:42:11Z" changeset="183592345" uid="18266291" user="nicola_alle">
+    <center lat="45.4798754" lon="9.2279042"/>
+    <nd ref="13781336811"/>
     <nd ref="13781337704"/>
-    <nd ref="13781337506"/>
-    <nd ref="13781337705"/>
     <nd ref="13899935051"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932072" version="5" timestamp="2026-05-31T20:51:38Z" changeset="183466156" uid="18266291" user="nicola_alle">
-    <center lat="45.4798813" lon="9.2278939"/>
     <nd ref="13781337705"/>
-    <nd ref="13781337506"/>
-    <nd ref="13781337602"/>
-    <nd ref="13781338101"/>
-    <nd ref="13781337705"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932073" version="6" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798798" lon="9.2279079"/>
     <nd ref="13781338101"/>
     <nd ref="13781337901"/>
     <nd ref="13781336806"/>
-    <nd ref="13781337602"/>
-    <nd ref="13781338101"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932074" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798718" lon="9.2279849"/>
-    <nd ref="13781337505"/>
-    <nd ref="13781336807"/>
-    <nd ref="13781337603"/>
-    <nd ref="13781336808"/>
-    <nd ref="13781337505"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932077" version="5" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798703" lon="9.2279995"/>
-    <nd ref="13781337603"/>
-    <nd ref="13781336809"/>
-    <nd ref="13781337604"/>
-    <nd ref="13781336808"/>
-    <nd ref="13781337603"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932078" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798687" lon="9.2280125"/>
-    <nd ref="13781337604"/>
-    <nd ref="13781336809"/>
-    <nd ref="13781337508"/>
-    <nd ref="13781336804"/>
-    <nd ref="13781337604"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932079" version="5" timestamp="2026-05-31T20:51:38Z" changeset="183466156" uid="18266291" user="nicola_alle">
-    <center lat="45.4798574" lon="9.2278677"/>
-    <nd ref="13781336811"/>
-    <nd ref="13781337706"/>
-    <nd ref="13781336812"/>
-    <nd ref="13781337903"/>
-    <nd ref="13781336811"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932080" version="5" timestamp="2026-05-31T20:51:38Z" changeset="183466156" uid="18266291" user="nicola_alle">
-    <center lat="45.4798561" lon="9.2278815"/>
-    <nd ref="13781336812"/>
-    <nd ref="13781337903"/>
-    <nd ref="13781337707"/>
-    <nd ref="13781337904"/>
-    <nd ref="13781336812"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932081" version="5" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798548" lon="9.2278942"/>
-    <nd ref="13781337904"/>
-    <nd ref="13781337707"/>
-    <nd ref="13682275805"/>
-    <nd ref="13682274112"/>
-    <nd ref="13781337904"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932183" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798535" lon="9.2279067"/>
-    <nd ref="13682274112"/>
-    <nd ref="13682275805"/>
-    <nd ref="13682268531"/>
-    <nd ref="13682268530"/>
-    <nd ref="13682274112"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932184" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798521" lon="9.2279191"/>
-    <nd ref="13682268530"/>
-    <nd ref="13682268531"/>
-    <nd ref="13682268529"/>
-    <nd ref="13682260415"/>
-    <nd ref="13682268530"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932185" version="5" timestamp="2026-05-31T20:51:38Z" changeset="183466156" uid="18266291" user="nicola_alle">
-    <center lat="45.4798509" lon="9.2279311"/>
-    <nd ref="13682260415"/>
-    <nd ref="13682268529"/>
+    <nd ref="13907148676"/>
+    <nd ref="13907148675"/>
+    <nd ref="13907148674"/>
+    <nd ref="13907148684"/>
+    <nd ref="13907148683"/>
+    <nd ref="13907148685"/>
+    <nd ref="13907148673"/>
+    <nd ref="13907148682"/>
+    <nd ref="13907148681"/>
+    <nd ref="13907148679"/>
+    <nd ref="13907148672"/>
+    <nd ref="13907148678"/>
+    <nd ref="13907148680"/>
+    <nd ref="13907148677"/>
     <nd ref="13899935053"/>
     <nd ref="5232288012"/>
     <nd ref="13682260415"/>
+    <nd ref="13682268530"/>
+    <nd ref="13682274112"/>
+    <nd ref="13781337904"/>
+    <nd ref="13781336812"/>
+    <nd ref="13781337706"/>
+    <nd ref="13781336811"/>
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="no"/>
     <tag k="fee" v="no"/>
+    <tag k="indoor" v="room"/>
     <tag k="level" v="0"/>
     <tag k="toilets:disposal" v="flush"/>
     <tag k="toilets:handwashing" v="no"/>
@@ -66155,107 +65961,43 @@
     <tag k="toilets:position" v="seated"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="1506932801" version="5" timestamp="2026-05-31T20:51:38Z" changeset="183466156" uid="18266291" user="nicola_alle">
-    <center lat="45.4798466" lon="9.2279480"/>
-    <nd ref="13682260414"/>
-    <nd ref="13899935052"/>
-    <nd ref="13781337905"/>
-    <nd ref="13781338103"/>
-    <nd ref="13682260414"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932802" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798453" lon="9.2279614"/>
-    <nd ref="13781337905"/>
-    <nd ref="13781337906"/>
-    <nd ref="13781338104"/>
-    <nd ref="13781338103"/>
-    <nd ref="13781337905"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932803" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798442" lon="9.2279749"/>
-    <nd ref="13781338104"/>
-    <nd ref="13781337906"/>
-    <nd ref="13781337907"/>
-    <nd ref="13781338105"/>
-    <nd ref="13781338104"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932804" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798430" lon="9.2279874"/>
-    <nd ref="13781337907"/>
-    <nd ref="13781338102"/>
-    <nd ref="13781337708"/>
-    <nd ref="13781338105"/>
-    <nd ref="13781337907"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932805" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798418" lon="9.2280005"/>
-    <nd ref="13781338102"/>
-    <nd ref="13781337507"/>
-    <nd ref="13781337504"/>
-    <nd ref="13781337708"/>
-    <nd ref="13781338102"/>
-    <tag k="access" v="yes"/>
-    <tag k="amenity" v="toilets"/>
-    <tag k="changing_table" v="no"/>
-    <tag k="fee" v="no"/>
-    <tag k="level" v="0"/>
-    <tag k="toilets:disposal" v="flush"/>
-    <tag k="toilets:handwashing" v="no"/>
-    <tag k="toilets:menstrual_products" v="limited"/>
-    <tag k="toilets:position" v="seated"/>
-    <tag k="wheelchair" v="no"/>
-  </way>
-  <way id="1506932806" version="4" timestamp="2026-05-26T20:42:30Z" changeset="183228311" uid="22919632" user="matteobott">
-    <center lat="45.4798405" lon="9.2280132"/>
-    <nd ref="13781337507"/>
-    <nd ref="13781336810"/>
+  <way id="1506932187" version="2" timestamp="2026-06-03T12:42:11Z" changeset="183592345" uid="18266291" user="nicola_alle">
+    <center lat="45.4798692" lon="9.2279775"/>
+    <nd ref="13907148671"/>
+    <nd ref="13907148670"/>
+    <nd ref="13907148669"/>
+    <nd ref="13907148635"/>
+    <nd ref="13907148668"/>
+    <nd ref="13907148667"/>
+    <nd ref="13907148666"/>
+    <nd ref="13907148664"/>
+    <nd ref="13907148663"/>
+    <nd ref="13907148654"/>
+    <nd ref="13907148662"/>
+    <nd ref="13907148665"/>
+    <nd ref="13907148661"/>
+    <nd ref="13907148660"/>
+    <nd ref="13781336807"/>
+    <nd ref="13781337505"/>
+    <nd ref="13781336808"/>
+    <nd ref="13781337604"/>
+    <nd ref="13781336804"/>
+    <nd ref="13781337508"/>
     <nd ref="5232287958"/>
-    <nd ref="13781337504"/>
+    <nd ref="13781336810"/>
     <nd ref="13781337507"/>
+    <nd ref="13781338102"/>
+    <nd ref="13781337907"/>
+    <nd ref="13781337906"/>
+    <nd ref="13781337905"/>
+    <nd ref="13899935052"/>
+    <nd ref="13682260414"/>
+    <nd ref="13907148671"/>
     <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
     <tag k="changing_table" v="no"/>
     <tag k="fee" v="no"/>
+    <tag k="indoor" v="room"/>
     <tag k="level" v="0"/>
     <tag k="toilets:disposal" v="flush"/>
     <tag k="toilets:handwashing" v="no"/>
