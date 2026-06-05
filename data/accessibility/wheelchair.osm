@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-04T07:44:56Z" areas="2026-06-03T21:33:30Z"/>
+<meta osm_base="2026-06-05T07:27:11Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -950,7 +950,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="279124325" lat="45.4376552" lon="9.1552351" version="7" timestamp="2025-11-29T15:24:22Z" changeset="175280285" uid="13840929" user="aa30mom">
+  <node id="279124325" lat="45.4376552" lon="9.1552351" version="8" timestamp="2026-06-04T18:17:55Z" changeset="183660125" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20143"/>
@@ -959,7 +959,7 @@
     <tag k="dispensing" v="yes"/>
     <tag k="fax" v="+390289181210"/>
     <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Barona sas"/>
+    <tag k="name" v="Farmacia Barona"/>
     <tag k="operator" v="Barona sas"/>
     <tag k="phone" v="+3902817401"/>
     <tag k="ref:msal" v="2951"/>
@@ -29343,9 +29343,11 @@
     <tag k="phone" v="+39 339 175 4852"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5523083125" lat="45.4489003" lon="9.2070136" version="2" timestamp="2026-05-15T19:31:41Z" changeset="182715344" uid="23724596" user="ChimpanBC">
+  <node id="5523083125" lat="45.4489003" lon="9.2070136" version="3" timestamp="2026-06-04T20:43:03Z" changeset="183665331" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="cafe"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Mistral cafè"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5524573804" lat="45.4510836" lon="9.1611506" version="2" timestamp="2018-06-05T13:03:12Z" changeset="59569268" uid="22290" user="Ale_Zena_IT">
@@ -52130,6 +52132,15 @@
     <tag k="name" v="Bertoglio"/>
     <tag k="parking" v="underground"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13910607045" lat="45.4489697" lon="9.2069138" version="7" timestamp="2026-06-04T20:50:36Z" changeset="183665525" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="indoor_seating" v="no"/>
+    <tag k="name" v="Gelateria artigianale n.22"/>
+    <tag k="opening_hours" v="Mo-Su 11:30-23:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
