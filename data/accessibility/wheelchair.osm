@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-11T07:54:01Z" areas="2026-06-11T02:47:08Z"/>
+<meta osm_base="2026-06-12T07:43:01Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -8836,7 +8836,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2310497628" lat="45.4856430" lon="9.2331665" version="3" timestamp="2022-08-13T12:54:51Z" changeset="124852280" uid="1781586" user="fick89">
+  <node id="2310497628" lat="45.4856430" lon="9.2331665" version="4" timestamp="2026-06-11T19:31:20Z" changeset="183987224" uid="12202620" user="nessdoor">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="20131"/>
@@ -8844,6 +8844,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="name" v="Mediterraneo"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-15:00,19:00-01:00"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2311951329" lat="45.4845614" lon="9.2053064" version="8" timestamp="2026-04-22T21:52:34Z" changeset="181692600" uid="1781586" user="fick89">
@@ -24317,14 +24318,6 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4417429003" lat="45.4433845" lon="9.1599723" version="5" timestamp="2024-04-30T16:05:40Z" changeset="150715683" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:street" v="Via Enrico Schievano"/>
-    <tag k="name" v="Mondogatto Associazione"/>
-    <tag k="opening_hours" v="Sa,Su 15:00-17:30"/>
-    <tag k="shop" v="pet"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="4417961790" lat="45.4563953" lon="9.2171851" version="4" timestamp="2023-11-07T09:55:57Z" changeset="143728613" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -28429,12 +28422,12 @@
     <tag k="official_name:it" v="Banca Nazionale del Lavoro"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5287291229" lat="45.4941606" lon="9.2211569" version="6" timestamp="2024-05-19T08:34:13Z" changeset="151523452" uid="413098" user="jeyh">
+  <node id="5287291229" lat="45.4941606" lon="9.2211569" version="7" timestamp="2026-06-11T17:33:57Z" changeset="183982549" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:street" v="Via Marco Aurelio"/>
     <tag k="alt_name" v="Clinica veterinaria Isola Verde"/>
     <tag k="amenity" v="veterinary"/>
-    <tag k="check_date" v="2024-05-19"/>
+    <tag k="check_date" v="2026-06-11"/>
     <tag k="contact:facebook" v="cvisolaverde"/>
     <tag k="email" v="cvisolaverde@gmail.com"/>
     <tag k="name" v="Isola Verde"/>
@@ -33705,7 +33698,8 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="7194884986" lat="45.4872188" lon="9.2133236" version="2" timestamp="2023-11-04T11:19:14Z" changeset="143608455" uid="1875845" user="Valerio_Bozzolan">
+  <node id="7194884986" lat="45.4872188" lon="9.2133236" version="3" timestamp="2026-06-11T17:33:56Z" changeset="183982549" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="check_date" v="2026-06-11"/>
     <tag k="name" v="La Contadina"/>
     <tag k="shop" v="cheese"/>
     <tag k="wheelchair" v="no"/>
@@ -43567,13 +43561,15 @@
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11153583815" lat="45.4851969" lon="9.2311733" version="3" timestamp="2023-08-29T22:59:35Z" changeset="140562250" uid="4862063" user="tars4815">
+  <node id="11153583815" lat="45.4851969" lon="9.2311733" version="4" timestamp="2026-06-11T18:02:49Z" changeset="183984048" uid="12202620" user="nessdoor">
     <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2023-08-30"/>
+    <tag k="check_date" v="2026-06-11"/>
+    <tag k="check_date:opening_hours" v="2026-06-11"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="Sleppa!"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-14:30,19:00-23:30; Fr 12:00-14:30,19:00-24:00; Sa,Su 12:00-15:00,19:00-24:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
@@ -46749,6 +46745,11 @@
     <tag k="opening_hours" v="10:00-20:00"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="11992812004" lat="45.4892174" lon="9.2103390" version="2" timestamp="2026-06-11T17:34:00Z" changeset="183982557" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="Frigerio Gomme"/>
+    <tag k="shop" v="tyres"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12002463491" lat="45.4655948" lon="9.2167531" version="4" timestamp="2024-06-23T09:34:40Z" changeset="153058992" uid="1875845" user="Valerio_Bozzolan">
     <tag k="female" v="yes"/>
@@ -56077,7 +56078,7 @@
     <tag k="religion" v="christian"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="136332873" version="7" timestamp="2025-11-11T14:28:06Z" changeset="174513964" uid="13840929" user="aa30mom">
+  <way id="136332873" version="8" timestamp="2026-06-11T17:34:03Z" changeset="183982561" uid="13697350" user="c674a">
     <center lat="45.4450901" lon="9.1606180"/>
     <nd ref="1495628649"/>
     <nd ref="1495628627"/>
@@ -56090,12 +56091,14 @@
     <nd ref="1495628686"/>
     <nd ref="1495628667"/>
     <nd ref="1495628649"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="brand" v="Lidl"/>
     <tag k="brand:wikidata" v="Q151954"/>
     <tag k="brand:wikipedia" v="en:Lidl"/>
     <tag k="building" v="retail"/>
     <tag k="name" v="Lidl"/>
     <tag k="operator" v="Lidl"/>
+    <tag k="self_checkout" v="yes"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </way>
@@ -64031,7 +64034,7 @@
     <tag k="website" v="https://www.spaziovitaniguarda.it"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="963365085" version="5" timestamp="2025-01-08T17:01:23Z" changeset="161141239" uid="1875845" user="Valerio_Bozzolan">
+  <way id="963365085" version="6" timestamp="2026-06-11T17:33:57Z" changeset="183982549" uid="1875845" user="Valerio_Bozzolan">
     <center lat="45.4888663" lon="9.2223625"/>
     <nd ref="4875432167"/>
     <nd ref="8911222031"/>
@@ -64039,7 +64042,7 @@
     <nd ref="8911222033"/>
     <nd ref="4875432167"/>
     <tag k="building" v="kiosk"/>
-    <tag k="check_date" v="2024-06-10"/>
+    <tag k="check_date" v="2026-06-11"/>
     <tag k="name:signed" v="no"/>
     <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 07:30-20:00"/>
     <tag k="shop" v="florist"/>
@@ -66418,6 +66421,22 @@
     <tag k="ref" v="52"/>
     <tag k="source" v="https://www.bikemi.com/it/mappa-stazioni.aspx"/>
     <tag k="website" v="https://www.bikemi.com"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1528565107" version="1" timestamp="2026-06-11T17:34:03Z" changeset="183982561" uid="13697350" user="c674a">
+    <center lat="45.4433381" lon="9.1601954"/>
+    <nd ref="9126019894"/>
+    <nd ref="9126019895"/>
+    <nd ref="9126019896"/>
+    <nd ref="9126019897"/>
+    <nd ref="9483721364"/>
+    <nd ref="9126019894"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Via Enrico Schievano"/>
+    <tag k="amenity" v="animal_shelter"/>
+    <tag k="name" v="Mondo Gatto - Associazione di Promozione Sociale"/>
+    <tag k="opening_hours" v="Sa,Su 15:00-17:30"/>
+    <tag k="website" v="https://mondogatto.org/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
 
