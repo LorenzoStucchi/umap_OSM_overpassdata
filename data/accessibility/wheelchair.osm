@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-16T09:09:44Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-17T08:14:14Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -10215,8 +10215,9 @@
     <tag k="website" v="https://www.paninogiusto.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2416148139" lat="45.4808278" lon="9.1858140" version="7" timestamp="2025-10-21T16:06:12Z" changeset="173590603" uid="13840929" user="aa30mom">
+  <node id="2416148139" lat="45.4808320" lon="9.1858140" version="8" timestamp="2026-06-16T14:16:49Z" changeset="184184458" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Viale Francesco Crispi"/>
     <tag k="alt_name" v="Peperino Milano"/>
@@ -10228,7 +10229,7 @@
     <tag k="contact:website" v="http://www.peperinomilano.it"/>
     <tag k="contact:yelp" v="https://www.yelp.com/biz/peperino-pizza-e-grill-milano"/>
     <tag k="cuisine" v="pizza;italian;regional"/>
-    <tag k="delivery" v="no"/>
+    <tag k="delivery" v="yes"/>
     <tag k="diet:gluten_free" v="yes"/>
     <tag k="name" v="O' Peperino e Milano"/>
     <tag k="opening_hours" v="Mo-Su 12:00-15:00,19:00-23:30"/>
@@ -10236,7 +10237,7 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="start_date" v="2009"/>
-    <tag k="takeaway" v="no"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2417414819" lat="45.4840136" lon="9.1983021" version="5" timestamp="2023-05-21T19:08:11Z" changeset="136384204" uid="974272" user="baprischka">
@@ -12429,10 +12430,15 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2633774872" lat="45.4540416" lon="9.2158882" version="2" timestamp="2021-10-30T13:56:17Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
+  <node id="2633774872" lat="45.4540416" lon="9.2158882" version="3" timestamp="2026-06-16T13:50:56Z" changeset="184183229" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Viale Umbria"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="regional"/>
     <tag k="name" v="Ristorante Toscano da Angelo"/>
+    <tag k="website" v="https://ristorante-da-angelo.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2633774879" lat="45.4538761" lon="9.2157834" version="3" timestamp="2021-10-30T13:55:52Z" changeset="113160103" uid="290680" user="wheelmap_visitor">
@@ -26116,14 +26122,14 @@
     <tag k="opening_hours" v="Mo-Su 12:00-23:30"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4769477525" lat="45.4619858" lon="9.1952325" version="4" timestamp="2026-05-22T13:06:46Z" changeset="183022731" uid="15264988" user="nicola_yubo">
+  <node id="4769477525" lat="45.4619858" lon="9.1952325" version="5" timestamp="2026-06-16T13:41:22Z" changeset="184182741" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Piazza Santo Stefano"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2026-05-22"/>
-    <tag k="contact:phone" v="+39 02 7638 9951"/>
+    <tag k="contact:phone" v="+39 02 76389951"/>
     <tag k="cuisine" v="burger;pizza"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Original Pizza"/>
@@ -26139,6 +26145,7 @@
     <tag k="reservation" v="recommended"/>
     <tag k="toilets" v="yes"/>
     <tag k="toilets:access" v="customers"/>
+    <tag k="website" v="https://www.originalpizza.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4770881226" lat="45.4655371" lon="9.1910758" version="6" timestamp="2025-10-23T08:16:56Z" changeset="173661000" uid="13840929" user="aa30mom">
@@ -51651,13 +51658,14 @@
     <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 08:00-20:00; PH off"/>
     <tag k="wheelchair" v="designated"/>
   </node>
-  <node id="13663513151" lat="45.4437911" lon="9.1782463" version="2" timestamp="2026-03-19T22:27:14Z" changeset="180131762" uid="22919632" user="matteobott">
+  <node id="13663513151" lat="45.4437911" lon="9.1782463" version="3" timestamp="2026-06-16T13:54:55Z" changeset="184183415" uid="22919632" user="matteobott">
     <tag k="access" v="yes"/>
     <tag k="defibrillator:location" v="Esselunga"/>
     <tag k="emergency" v="defibrillator"/>
     <tag k="indoor" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="opening_hours" v="Mo-Sa 07:30-21:00; Su 08:00-20:00; PH off"/>
+    <tag k="panoramax" v="15662a36-cd37-4d79-a71f-153624b415e6"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="13663513416" lat="45.4220471" lon="9.1784725" version="5" timestamp="2026-05-25T21:33:09Z" changeset="183178414" uid="22919632" user="matteobott">
