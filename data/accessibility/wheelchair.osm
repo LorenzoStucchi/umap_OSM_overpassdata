@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-18T07:54:00Z" areas="2026-06-18T02:08:00Z"/>
+<meta osm_base="2026-06-19T08:54:15Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="22" timestamp="2025-07-18T08:45:00Z" changeset="169097060" uid="89897" user="airon90">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4464,7 +4464,7 @@
     <tag k="shop" v="department_store"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1500093292" lat="45.4797513" lon="9.2101337" version="10" timestamp="2026-04-24T19:36:12Z" changeset="181781074" uid="13697350" user="c674a">
+  <node id="1500093292" lat="45.4797513" lon="9.2101337" version="11" timestamp="2026-06-18T09:07:59Z" changeset="184261379" uid="23629183" user="Fla13">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:postcode" v="20124"/>
@@ -4474,6 +4474,7 @@
     <tag k="brand:wikidata" v="Q1414836"/>
     <tag k="brand:wikipedia" v="it:UPIM"/>
     <tag k="name" v="Upim"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="ref:vatin" v="IT04240010274"/>
     <tag k="shop" v="department_store"/>
     <tag k="website" v="https://www.upim.it"/>
@@ -5015,6 +5016,11 @@
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1606676493" lat="45.4761349" lon="9.2068749" version="6" timestamp="2023-05-27T14:18:58Z" changeset="136626605" uid="3396014" user="Moncecchi Daniele">
+    <tag k="name" v="Porta Venezia"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="1606676496" lat="45.4762392" lon="9.2066571" version="4" timestamp="2026-06-18T08:38:35Z" changeset="184260143" uid="23629183" user="Fla13">
     <tag k="name" v="Porta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -11826,8 +11832,9 @@
     <tag k="wikimedia_commons" v="Category:Museo Bagatti Valsecchi (Milan)"/>
     <tag k="wikipedia" v="it:Museo Bagatti Valsecchi"/>
   </node>
-  <node id="2533435623" lat="45.4839168" lon="9.2149612" version="3" timestamp="2023-11-04T13:44:33Z" changeset="143614476" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="name" v="7"/>
+  <node id="2533435623" lat="45.4839168" lon="9.2149612" version="4" timestamp="2026-06-18T09:09:09Z" changeset="184261434" uid="23629183" user="Fla13">
+    <tag k="check_date" v="2026-06-18"/>
+    <tag k="name" v="Game7Athletics"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -20868,17 +20875,18 @@
     <tag k="name" v="Mediobanca Premier"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3911419259" lat="45.4766311" lon="9.2080592" version="4" timestamp="2025-07-15T09:20:12Z" changeset="168953546" uid="290680" user="wheelmap_visitor">
+  <node id="3911419259" lat="45.4766311" lon="9.2080592" version="5" timestamp="2026-06-18T17:02:16Z" changeset="184281081" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20129"/>
     <tag k="addr:street" v="Piazza Santa Francesca Romana"/>
     <tag k="amenity" v="bank"/>
-    <tag k="brand" v="UBI Banca"/>
-    <tag k="brand:wikidata" v="Q1476162"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Intesa Sanpaolo"/>
+    <tag k="brand:wikidata" v="Q1343118"/>
     <tag k="brand:wikipedia" v="en:UBI Banca"/>
-    <tag k="name" v="UBI Banca"/>
+    <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3911451324" lat="45.4780585" lon="9.2091844" version="7" timestamp="2026-05-24T18:19:57Z" changeset="183121272" uid="7550430" user="Britzz">
@@ -30140,8 +30148,9 @@
     <tag k="level" v="0"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5686052073" lat="45.4786647" lon="9.2329144" version="2" timestamp="2019-11-25T18:54:09Z" changeset="77539933" uid="10494647" user="pafferonis">
+  <node id="5686052073" lat="45.4786647" lon="9.2329144" version="3" timestamp="2026-06-18T08:38:35Z" changeset="184260142" uid="23629183" user="Fla13">
     <tag k="amenity" v="toilets"/>
+    <tag k="check_date" v="2026-06-03"/>
     <tag k="fee" v="no"/>
     <tag k="female" v="yes"/>
     <tag k="level" v="-1"/>
@@ -31035,15 +31044,6 @@
     <tag k="second_hand" v="only"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="5796845049" lat="45.4844739" lon="9.2206954" version="3" timestamp="2018-08-04T12:13:56Z" changeset="61352471" uid="1476146" user="Alecs01">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20131"/>
-    <tag k="addr:street" v="Via Giovanni Lulli"/>
-    <tag k="amenity" v="ice_cream"/>
-    <tag k="name" v="Ottavo Senso"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5797828611" lat="45.4771261" lon="9.2273842" version="5" timestamp="2026-04-16T14:13:38Z" changeset="181416318" uid="4861141" user="Michael Montani">
     <tag k="access" v="yes"/>
@@ -42864,7 +42864,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="10846420811" lat="45.4764461" lon="9.2080762" version="2" timestamp="2026-03-06T16:24:41Z" changeset="179454400" uid="23724596" user="ChimpanBC">
+  <node id="10846420811" lat="45.4764448" lon="9.2080749" version="3" timestamp="2026-06-18T17:02:16Z" changeset="184281081" uid="13697350" user="c674a">
     <tag k="name" v="Milano Porta Venezia"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
@@ -43337,11 +43337,6 @@
     <tag k="name" v="Erboristeria Magentina"/>
     <tag k="shop" v="herbalist"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="11020523093" lat="45.4827423" lon="9.2135302" version="2" timestamp="2023-11-04T13:48:02Z" changeset="143614476" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="name" v="David Naman"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="11020533165" lat="45.4827606" lon="9.2130988" version="4" timestamp="2025-01-03T11:09:51Z" changeset="160943449" uid="21850090" user="mpbin">
     <tag k="addr:city" v="Milano"/>
@@ -43876,18 +43871,6 @@
     <tag k="amenity" v="vending_machine"/>
     <tag k="ref" v="274"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="11267259436" lat="45.4820964" lon="9.2129069" version="3" timestamp="2025-07-15T09:59:37Z" changeset="168956277" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:postcode" v="20124"/>
-    <tag k="addr:street" v="Corso Buenos Aires"/>
-    <tag k="brand" v="Thun"/>
-    <tag k="brand:wikidata" v="Q3990930"/>
-    <tag k="check_date" v="2024-06-19"/>
-    <tag k="name" v="Thun"/>
-    <tag k="shop" v="gift"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="11269649679" lat="45.5088545" lon="9.2237614" version="3" timestamp="2026-04-24T19:36:12Z" changeset="181781074" uid="13697350" user="c674a">
     <tag k="amenity" v="charging_station"/>
