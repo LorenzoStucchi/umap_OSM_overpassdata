@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-05T07:01:07Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-07-06T07:31:15Z" areas="2026-07-05T12:17:00Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -4281,9 +4281,11 @@
     <tag k="phone" v="+39 02 5162 1588"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1476116766" lat="45.4369113" lon="9.2418632" version="6" timestamp="2024-12-24T00:19:37Z" changeset="160558651" uid="95387" user="rugamarcus">
+  <node id="1476116766" lat="45.4369113" lon="9.2418632" version="7" timestamp="2026-07-05T12:24:41Z" changeset="185137407" uid="6220204" user="Ysogo">
     <tag k="amenity" v="cafe"/>
-    <tag k="name" v="Caffè Mood"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Almacafè"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1476127426" lat="45.4361063" lon="9.2405818" version="9" timestamp="2026-06-01T19:17:31Z" changeset="183515483" uid="95387" user="rugamarcus">
@@ -8204,7 +8206,11 @@
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2139820630" lat="45.4367836" lon="9.1916515" version="9" timestamp="2025-11-13T18:19:58Z" changeset="174617960" uid="417672" user="Guidus">
+  <node id="2139820630" lat="45.4367836" lon="9.1916515" version="10" timestamp="2026-07-05T10:03:13Z" changeset="185131781" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="20141"/>
+    <tag k="addr:street" v="Via Giacomo Antonini"/>
     <tag k="brand" v="Penny"/>
     <tag k="brand:wikidata" v="Q284688"/>
     <tag k="brand:wikipedia" v="en:Penny (supermarket)"/>
@@ -13158,18 +13164,22 @@
     <tag k="name" v="Torrefazione Vercelli"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2770307234" lat="45.4667593" lon="9.1515039" version="5" timestamp="2025-10-29T19:07:50Z" changeset="173944670" uid="22525435" user="btcitnet">
+  <node id="2770307234" lat="45.4667593" lon="9.1515039" version="6" timestamp="2026-07-05T21:05:13Z" changeset="185162960" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:postcode" v="20149"/>
     <tag k="addr:street" v="Via Marghera"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="brand" v="Unieuro"/>
     <tag k="brand:wikidata" v="Q4004687"/>
+    <tag k="building:levels" v="2"/>
     <tag k="changing_table" v="yes"/>
     <tag k="level" v="0,1"/>
     <tag k="name" v="Unieuro"/>
     <tag k="opening_hours" v="09:30-20:30 mo-sa; 10:00-20:00 Su"/>
     <tag k="operator" v="Unieuro"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+39 02 4802 0934"/>
     <tag k="shop" v="electronics"/>
     <tag k="toilets" v="yes"/>
@@ -25856,11 +25866,9 @@
     <tag k="shop" v="perfumery"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4653446576" lat="45.4367871" lon="9.1931708" version="6" timestamp="2025-09-30T14:21:23Z" changeset="172663178" uid="22919632" user="matteobott">
+  <node id="4653446576" lat="45.4367871" lon="9.1931708" version="7" timestamp="2026-07-05T10:03:13Z" changeset="185131781" uid="13840929" user="aa30mom">
     <tag k="brand" v="Toys Center"/>
-    <tag k="phone" v="+39 02 87281241"/>
     <tag k="shop" v="vacant"/>
-    <tag k="website" v="https://www.toyscenter.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4662947676" lat="45.5155690" lon="9.2257506" version="3" timestamp="2025-07-15T10:05:58Z" changeset="168956748" uid="290680" user="wheelmap_visitor">
@@ -38340,7 +38348,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9571905657" lat="45.4681137" lon="9.1573670" version="4" timestamp="2025-07-15T09:33:59Z" changeset="168954470" uid="290680" user="wheelmap_visitor">
+  <node id="9571905657" lat="45.4681137" lon="9.1573670" version="5" timestamp="2026-07-05T21:05:13Z" changeset="185162960" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20145"/>
@@ -38348,7 +38356,7 @@
     <tag k="air_conditioning" v="yes"/>
     <tag k="description" v="Assistenza computer a Milano in zona Pagano - Wagner. Riparazione notebook, desktop, mac, iphone. Vendita pc e accessori."/>
     <tag k="email" v="info@pcbusterwagner.it"/>
-    <tag k="name" v="PcBuster© Assistenza Computer | Milano - Wagner"/>
+    <tag k="name" v="PcBuster Assistenza Computer"/>
     <tag k="operator" v="BP Srl"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -60511,10 +60519,14 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="343674890" version="11" timestamp="2022-11-03T16:10:55Z" changeset="128445304" uid="8350372" user="Balaabirami">
-    <center lat="45.4369626" lon="9.1920982"/>
+  <way id="343674890" version="12" timestamp="2026-07-05T10:03:13Z" changeset="185131781" uid="13840929" user="aa30mom">
+    <center lat="45.4369664" lon="9.1920987"/>
     <nd ref="3504781368"/>
+    <nd ref="13989712081"/>
+    <nd ref="13989712080"/>
     <nd ref="3504781369"/>
+    <nd ref="13989712062"/>
+    <nd ref="13989712079"/>
     <nd ref="3504781370"/>
     <nd ref="3504781371"/>
     <nd ref="3504781372"/>
@@ -65807,19 +65819,17 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="1445454146" version="1" timestamp="2025-10-27T16:14:24Z" changeset="173846356" uid="22919632" user="matteobott">
-    <center lat="45.4385281" lon="9.1891248"/>
+  <way id="1445454146" version="2" timestamp="2026-07-05T08:54:30Z" changeset="185129093" uid="13840929" user="aa30mom">
+    <center lat="45.4385285" lon="9.1891348"/>
     <nd ref="3370698489"/>
     <nd ref="6136988891"/>
     <nd ref="3780474193"/>
     <nd ref="3780474192"/>
+    <nd ref="13989632024"/>
+    <nd ref="13989632023"/>
     <nd ref="3370698703"/>
     <nd ref="3370698697"/>
     <nd ref="3370698489"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="20141"/>
-    <tag k="addr:street" v="Via Giacomo Antonini"/>
     <tag k="amenity" v="social_facility"/>
     <tag k="name" v="La piccola casa del rifugio"/>
     <tag k="social_facility" v="nursing_home"/>
