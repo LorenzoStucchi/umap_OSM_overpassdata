@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-08T06:15:30Z" areas="2026-07-07T19:41:45Z"/>
+<meta osm_base="2026-07-09T07:05:49Z" areas="2026-07-08T22:37:45Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -11686,8 +11686,8 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2501673166" lat="45.4525023" lon="9.1700941" version="6" timestamp="2023-07-26T16:20:52Z" changeset="139045863" uid="19266080" user="frlrt">
-    <tag k="name" v="P.ta Genova FS"/>
+  <node id="2501673166" lat="45.4525023" lon="9.1700941" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <tag k="name" v="P.ta Genova"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -18455,7 +18455,7 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3706949085" lat="45.4791058" lon="9.2026434" version="7" timestamp="2023-04-15T09:04:20Z" changeset="134932119" uid="15541433" user="paulbrunner">
+  <node id="3706949085" lat="45.4791058" lon="9.2026434" version="8" timestamp="2026-07-08T08:05:29Z" changeset="185323616" uid="1914637" user="a1ca424">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="27"/>
@@ -18466,10 +18466,11 @@
     <tag k="contact:facebook" v="pavemilano"/>
     <tag k="contact:instagram" v="pavemilano"/>
     <tag k="email" v="hello@pavemilano.com"/>
+    <tag k="laptop" v="yes"/>
     <tag k="name" v="Pavé"/>
     <tag k="opening_hours" v="Mo,We-Su 08:00-19:00; Tu off"/>
     <tag k="operator" v="Pavè srl"/>
-    <tag k="outdoor_seating" v="yes"/>
+    <tag k="outdoor_seating" v="sidewalk"/>
     <tag k="phone" v="+39 02 94392259"/>
     <tag k="website" v="https://www.pavemilano.com/"/>
     <tag k="wheelchair" v="no"/>
@@ -23056,7 +23057,7 @@
     <tag k="wikidata" v="Q15136611"/>
     <tag k="wikimedia_commons" v="Category:Wikimedia Italia office in Milan, via Bergognone"/>
   </node>
-  <node id="4250006941" lat="45.4837153" lon="9.2262672" version="12" timestamp="2026-03-23T02:17:03Z" changeset="180278474" uid="2350365" user="Kartibu">
+  <node id="4250006941" lat="45.4837153" lon="9.2262672" version="14" timestamp="2026-07-08T10:51:19Z" changeset="185332615" uid="1914637" user="a1ca424">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:postcode" v="20131"/>
@@ -23069,6 +23070,8 @@
     <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
+    <tag k="laptop" v="restricted"/>
+    <tag k="laptop:conditional" v="no @ 12:00-14:00,18:00-21:00"/>
     <tag k="name" v="Upcycle"/>
     <tag k="office" v="coworking"/>
     <tag k="opening_hours" v="Mo 08:30-20:00; Tu-Fr 08:30-23:00; Sa 10:00-23:00; Su 10:00-16:00"/>
@@ -27112,12 +27115,13 @@
     <tag k="name" v="type"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4942466113" lat="45.4753258" lon="9.2058895" version="5" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="4942466113" lat="45.4753258" lon="9.2058895" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Porta Venezia"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
@@ -34174,11 +34178,10 @@
     <tag k="website" v="https://ristoranteglaucomilano.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="7787907246" lat="45.4808740" lon="9.1622235" version="8" timestamp="2025-07-15T08:43:50Z" changeset="168951776" uid="18230056" user="AwFi">
+  <node id="7787907246" lat="45.4808646" lon="9.1622369" version="9" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Milano Domodossola"/>
     <tag k="network" v="STIBM"/>
-    <tag k="official_name" v="Milano Nord Domodossola"/>
     <tag k="old_name" v="Milano Nord Domodossola-Fiera"/>
     <tag k="operator" v="Ferrovienord"/>
     <tag k="operator:wikidata" v="Q3736799"/>
@@ -34191,19 +34194,18 @@
     <tag k="wikidata" v="Q3113699"/>
     <tag k="wikipedia" v="it:Stazione di Milano Domodossola"/>
   </node>
-  <node id="7801411132" lat="45.4553979" lon="9.1129252" version="6" timestamp="2025-09-22T13:06:07Z" changeset="172294319" uid="18069" user="Claudius Henrichs">
+  <node id="7801411132" lat="45.4553979" lon="9.1129252" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Bisceglie"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1992"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2904609"/>
     <tag k="wikipedia" v="it:Bisceglie (metropolitana di Milano)"/>
@@ -38817,26 +38819,24 @@
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9635608899" lat="45.5332364" lon="9.1727079" version="7" timestamp="2025-07-15T08:43:50Z" changeset="168951776" uid="18230056" user="AwFi">
+  <node id="9635608899" lat="45.5332364" lon="9.1727079" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
-    <tag k="name" v="Milano Bruzzano"/>
+    <tag k="name" v="Milano Bruzzano Parco Nord"/>
     <tag k="network" v="STIBM"/>
-    <tag k="official_name" v="Milano Bruzzano Parco Nord"/>
     <tag k="operator" v="Ferrovienord"/>
     <tag k="operator:wikidata" v="Q3736799"/>
     <tag k="platforms" v="3"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
+    <tag k="short_name" v="Milano Bruzzano"/>
     <tag k="start_date" v="2014"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3970115"/>
-    <tag k="wikipedia" v="it:Stazione di Milano Bruzzano"/>
+    <tag k="wikipedia" v="it:Stazione di Milano Bruzzano Parco Nord"/>
   </node>
-  <node id="9635608905" lat="45.4336129" lon="9.2386128" version="5" timestamp="2026-03-05T19:57:05Z" changeset="179413373" uid="18230056" user="AwFi">
+  <node id="9635608905" lat="45.4335948" lon="9.2386007" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="distance" v="9.586"/>
-    <tag k="iata" v="IMR"/>
     <tag k="name" v="Milano Rogoredo"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
@@ -38847,7 +38847,6 @@
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q801189"/>
     <tag k="wikimedia_commons" v="Category:Milano Rogoredo train station"/>
@@ -39288,19 +39287,18 @@
     <tag k="wikidata" v="Q1088228"/>
     <tag k="wikipedia" v="it:Maciachini (metropolitana di Milano)"/>
   </node>
-  <node id="9836271866" lat="45.4926642" lon="9.1928945" version="3" timestamp="2025-11-30T18:36:55Z" changeset="175326020" uid="13697350" user="c674a">
+  <node id="9836271866" lat="45.4926642" lon="9.1928945" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Zara"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2013"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1088305"/>
     <tag k="wikipedia" v="it:Zara (metropolitana di Milano)"/>
@@ -39559,21 +39557,20 @@
     <tag k="wikidata" v="Q1088817"/>
     <tag k="wikipedia" v="it:Missori (metropolitana di Milano)"/>
   </node>
-  <node id="9850493699" lat="45.4646014" lon="9.1894915" version="7" timestamp="2026-05-09T20:42:38Z" changeset="182441995" uid="13697350" user="c674a">
+  <node id="9850493699" lat="45.4646560" lon="9.1894751" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Duomo"/>
     <tag k="name:it" v="Duomo"/>
     <tag k="name:ja" v="ドゥオーモ"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2519375"/>
     <tag k="wikipedia" v="it:Duomo (metropolitana di Milano)"/>
@@ -39597,22 +39594,21 @@
     <tag k="wikimedia_commons" v="Category:Gioia station (Milan metro)"/>
     <tag k="wikipedia" v="it:Gioia (metropolitana di Milano)"/>
   </node>
-  <node id="9853414544" lat="45.4835639" lon="9.1867087" version="6" timestamp="2025-12-07T10:07:34Z" changeset="175615988" uid="13697350" user="c674a">
+  <node id="9853414544" lat="45.4835639" lon="9.1867087" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Garibaldi FS"/>
     <tag k="name:it" v="Garibaldi FS"/>
     <tag k="name:ja" v="ガリバルディ"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="platforms" v="2"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2014"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087026"/>
     <tag k="wikimedia_commons" v="Category:Garibaldi FS station (Milan metro)"/>
@@ -39652,18 +39648,18 @@
     <tag k="wikimedia_commons" v="Category:Piola station (Milan metro)"/>
     <tag k="wikipedia" v="it:Piola (metropolitana di Milano)"/>
   </node>
-  <node id="9853414557" lat="45.4852129" lon="9.2157423" version="3" timestamp="2025-12-04T22:33:27Z" changeset="175522997" uid="13697350" user="c674a">
+  <node id="9853414557" lat="45.4852129" lon="9.2157423" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Loreto"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q645136"/>
     <tag k="wikipedia" v="it:Loreto (metropolitana di Milano)"/>
@@ -40006,21 +40002,20 @@
     <tag k="subway" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9887508378" lat="45.4682326" lon="9.1764630" version="5" timestamp="2025-08-07T22:04:51Z" changeset="170129098" uid="13697350" user="c674a">
+  <node id="9887508378" lat="45.4682326" lon="9.1764630" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Cadorna FN"/>
     <tag k="name:it" v="Cadorna FN"/>
     <tag k="name:ja" v="カドルナ"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2258101"/>
     <tag k="wikimedia_commons" v="Category:Cadorna station (Milan metro)"/>
@@ -40132,495 +40127,452 @@
     <tag k="takeaway" v="only"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9897478673" lat="45.5174649" lon="9.2261092" version="3" timestamp="2026-04-24T19:36:12Z" changeset="181781074" uid="13697350" user="c674a">
+  <node id="9897478673" lat="45.5174649" lon="9.2261092" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Villa San Giovanni"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1085042"/>
     <tag k="wikipedia" v="it:Villa San Giovanni (metropolitana di Milano)"/>
   </node>
-  <node id="9897478674" lat="45.5120331" lon="9.2244644" version="3" timestamp="2026-04-24T19:36:12Z" changeset="181781074" uid="13697350" user="c674a">
-    <tag k="description" v="Area STIBM: Mi1"/>
-    <tag k="name" v="Precotto"/>
-    <tag k="network" v="STIBM"/>
-    <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
-    <tag k="operator:wikidata" v="Q381955"/>
-    <tag k="public_transport" v="station"/>
-    <tag k="railway" v="station"/>
-    <tag k="start_date" v="1964"/>
-    <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q1085136"/>
-    <tag k="wikipedia" v="it:Precotto (metropolitana di Milano)"/>
-  </node>
-  <node id="9897478676" lat="45.5061558" lon="9.2226651" version="3" timestamp="2026-04-24T19:36:12Z" changeset="181781074" uid="13697350" user="c674a">
+  <node id="9897478676" lat="45.5061470" lon="9.2227258" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Gorla"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1085075"/>
     <tag k="wikipedia" v="it:Gorla (metropolitana di Milano)"/>
   </node>
-  <node id="9897478677" lat="45.5004487" lon="9.2209865" version="3" timestamp="2025-12-01T18:28:37Z" changeset="175371311" uid="13697350" user="c674a">
+  <node id="9897478677" lat="45.5004428" lon="9.2210039" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Turro"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q614683"/>
     <tag k="wikipedia" v="it:Turro (metropolitana di Milano)"/>
   </node>
-  <node id="9897478678" lat="45.4955360" lon="9.2194872" version="5" timestamp="2026-04-24T19:36:12Z" changeset="181781074" uid="13697350" user="c674a">
+  <node id="9897478678" lat="45.4955311" lon="9.2195221" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Rovereto"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
     <tag k="toilets:wheelchair" v="no"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2258090"/>
     <tag k="wikipedia" v="it:Rovereto (metropolitana di Milano)"/>
   </node>
-  <node id="9897478679" lat="45.4902857" lon="9.2179293" version="3" timestamp="2025-12-03T21:53:11Z" changeset="175465300" uid="13697350" user="c674a">
+  <node id="9897478679" lat="45.4902835" lon="9.2179425" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Pasteur"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1087102"/>
     <tag k="wikipedia" v="it:Pasteur (metropolitana di Milano)"/>
   </node>
-  <node id="9897478706" lat="45.4666474" lon="9.1975680" version="4" timestamp="2025-08-15T17:27:00Z" changeset="170491500" uid="13697350" user="c674a">
+  <node id="9897478706" lat="45.4666474" lon="9.1975680" version="5" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="San Babila"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087622"/>
     <tag k="wikipedia" v="it:San Babila (metropolitana di Milano)"/>
   </node>
-  <node id="9897478707" lat="45.4716297" lon="9.2021428" version="3" timestamp="2025-08-15T17:27:00Z" changeset="170491500" uid="13697350" user="c674a">
+  <node id="9897478707" lat="45.4716297" lon="9.2021428" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Palestro"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q549621"/>
     <tag k="wikipedia" v="it:Palestro (metropolitana di Milano)"/>
   </node>
-  <node id="9897478708" lat="45.4803570" lon="9.2109589" version="4" timestamp="2026-04-24T19:36:12Z" changeset="181781074" uid="13697350" user="c674a">
+  <node id="9897478708" lat="45.4803570" lon="9.2109589" version="5" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Lima"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q2258138"/>
     <tag k="wikipedia" v="it:Lima (metropolitana di Milano)"/>
   </node>
-  <node id="9897478713" lat="45.4684915" lon="9.1819853" version="3" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
+  <node id="9897478713" lat="45.4684915" lon="9.1819853" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Cairoli"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087670"/>
     <tag k="wikipedia" v="it:Cairoli (metropolitana di Milano)"/>
   </node>
-  <node id="9897478714" lat="45.4655495" lon="9.1862299" version="4" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
+  <node id="9897478714" lat="45.4655495" lon="9.1862299" version="5" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Cordusio"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087020"/>
     <tag k="wikipedia" v="it:Cordusio (metropolitana di Milano)"/>
   </node>
-  <node id="9914785146" lat="45.4575781" lon="9.1222244" version="3" timestamp="2025-08-22T21:12:27Z" changeset="170852471" uid="13697350" user="c674a">
+  <node id="9914785146" lat="45.4575781" lon="9.1222244" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Inganni"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1975"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q3150918"/>
     <tag k="wikipedia" v="it:Inganni (metropolitana di Milano)"/>
   </node>
-  <node id="9914785147" lat="45.4594303" lon="9.1292549" version="3" timestamp="2025-08-24T18:52:52Z" changeset="170941012" uid="13697350" user="c674a">
+  <node id="9914785147" lat="45.4594303" lon="9.1292549" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Primaticcio"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1975"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q3403179"/>
     <tag k="wikipedia" v="it:Primaticcio (metropolitana di Milano)"/>
   </node>
-  <node id="9914785148" lat="45.4615240" lon="9.1364657" version="3" timestamp="2025-07-28T18:47:26Z" changeset="169630945" uid="13697350" user="c674a">
+  <node id="9914785148" lat="45.4615240" lon="9.1364657" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Bande Nere"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1975"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q2882165"/>
     <tag k="wikipedia" v="it:Bande Nere (metropolitana di Milano)"/>
   </node>
-  <node id="9914785149" lat="45.4649139" lon="9.1430147" version="3" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
+  <node id="9914785149" lat="45.4649139" lon="9.1430147" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Gambara"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1966"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q3094926"/>
     <tag k="wikipedia" v="it:Gambara (metropolitana di Milano)"/>
   </node>
-  <node id="9914785152" lat="45.5051543" lon="9.0933177" version="5" timestamp="2026-04-25T19:14:55Z" changeset="181820229" uid="13697350" user="c674a">
+  <node id="9914785152" lat="45.5051543" lon="9.0933177" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Molino Dorino"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1986"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087562"/>
     <tag k="wikipedia" v="it:Molino Dorino (metropolitana di Milano)"/>
   </node>
-  <node id="9914785155" lat="45.5011378" lon="9.1015462" version="3" timestamp="2025-09-20T21:38:15Z" changeset="172223514" uid="13697350" user="c674a">
+  <node id="9914785155" lat="45.5011378" lon="9.1015462" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="San Leonardo"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1980"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1087081"/>
     <tag k="wikipedia" v="it:San Leonardo (metropolitana di Milano)"/>
   </node>
-  <node id="9914785156" lat="45.4970317" lon="9.1101295" version="3" timestamp="2026-04-25T19:14:55Z" changeset="181820229" uid="13697350" user="c674a">
+  <node id="9914785156" lat="45.4970317" lon="9.1101295" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Bonola"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1980"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
     <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087591"/>
     <tag k="wikipedia" v="it:Bonola (metropolitana di Milano)"/>
   </node>
-  <node id="9914785157" lat="45.4938806" lon="9.1202555" version="3" timestamp="2026-04-25T19:14:55Z" changeset="181820229" uid="13697350" user="c674a">
+  <node id="9914785157" lat="45.4938806" lon="9.1202555" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Uruguay"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1980"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1087618"/>
     <tag k="wikipedia" v="it:Uruguay (metropolitana di Milano)"/>
   </node>
-  <node id="9914785158" lat="45.4894920" lon="9.1271948" version="3" timestamp="2025-11-23T13:16:29Z" changeset="175025509" uid="13697350" user="c674a">
+  <node id="9914785158" lat="45.4894920" lon="9.1271948" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Lampugnano"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1980"/>
     <tag k="station" v="subway"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087090"/>
     <tag k="wikipedia" v="it:Lampugnano (metropolitana di Milano)"/>
   </node>
-  <node id="9914785159" lat="45.4860084" lon="9.1370307" version="3" timestamp="2026-04-25T19:14:55Z" changeset="181820229" uid="13697350" user="c674a">
+  <node id="9914785159" lat="45.4860084" lon="9.1370307" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="QT8"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1975"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1087575"/>
     <tag k="wikipedia" v="it:QT8 (metropolitana di Milano)"/>
   </node>
-  <node id="9914785169" lat="45.4796920" lon="9.1437786" version="3" timestamp="2025-07-27T21:49:51Z" changeset="169582037" uid="13697350" user="c674a">
+  <node id="9914785169" lat="45.4796920" lon="9.1437786" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Lotto"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1085126"/>
     <tag k="wikipedia" v="it:Lotto (metropolitana di Milano)"/>
   </node>
-  <node id="9914785170" lat="45.4786497" lon="9.1444560" version="3" timestamp="2025-11-15T20:17:26Z" changeset="174702709" uid="13697350" user="c674a">
+  <node id="9914785170" lat="45.4786497" lon="9.1444560" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Lotto"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1085126"/>
     <tag k="wikipedia" v="it:Lotto (metropolitana di Milano)"/>
   </node>
-  <node id="9914785173" lat="45.4736967" lon="9.1509963" version="3" timestamp="2025-10-12T19:05:05Z" changeset="173195805" uid="13697350" user="c674a">
+  <node id="9914785173" lat="45.4736967" lon="9.1509963" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Amendola"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087585"/>
     <tag k="wikipedia" v="it:Amendola (metropolitana di Milano)"/>
   </node>
-  <node id="9914785174" lat="45.4704169" lon="9.1553160" version="3" timestamp="2025-11-15T20:17:26Z" changeset="174702709" uid="13697350" user="c674a">
+  <node id="9914785174" lat="45.4704169" lon="9.1553160" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Buonarroti"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q1087612"/>
     <tag k="wikipedia" v="it:Buonarroti (metropolitana di Milano)"/>
   </node>
-  <node id="9914785175" lat="45.4664527" lon="9.1495656" version="4" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
+  <node id="9914785175" lat="45.4664527" lon="9.1495656" version="5" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="De Angeli"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1966"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q2815996"/>
     <tag k="wikipedia" v="it:De Angeli (metropolitana di Milano)"/>
   </node>
-  <node id="9914785176" lat="45.4678782" lon="9.1555175" version="3" timestamp="2025-08-10T13:24:08Z" changeset="170245393" uid="13697350" user="c674a">
+  <node id="9914785176" lat="45.4678782" lon="9.1555175" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Wagner"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1966"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q3565090"/>
     <tag k="wikipedia" v="it:Wagner (metropolitana di Milano)"/>
   </node>
-  <node id="9914785180" lat="45.4683019" lon="9.1611020" version="3" timestamp="2025-08-15T10:58:44Z" changeset="170475248" uid="13697350" user="c674a">
+  <node id="9914785180" lat="45.4683019" lon="9.1611020" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Pagano"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1087677"/>
     <tag k="wikipedia" v="it:Pagano (metropolitana di Milano)"/>
   </node>
-  <node id="9914785181" lat="45.4675220" lon="9.1666054" version="3" timestamp="2025-12-07T15:31:03Z" changeset="175628666" uid="13697350" user="c674a">
+  <node id="9914785181" lat="45.4675220" lon="9.1666054" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Conciliazione"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="1964"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q2258112"/>
     <tag k="wikipedia" v="it:Conciliazione (metropolitana di Milano)"/>
@@ -40979,29 +40931,30 @@
     <tag k="unisex" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10036502930" lat="45.4762325" lon="9.1183538" version="4" timestamp="2025-11-15T23:17:59Z" changeset="174707538" uid="13697350" user="c674a">
+  <node id="10036502930" lat="45.4762325" lon="9.1183538" version="5" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="San Siro Stadio"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3947983"/>
     <tag k="wikipedia" v="it:San Siro Stadio"/>
   </node>
-  <node id="10036502931" lat="45.4760554" lon="9.1290328" version="2" timestamp="2025-06-28T20:54:52Z" changeset="168242790" uid="4890411" user="phaerrax">
+  <node id="10036502931" lat="45.4760554" lon="9.1290328" version="3" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="San Siro Ippodromo"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
@@ -41010,243 +40963,229 @@
     <tag k="wikidata" v="Q3947981"/>
     <tag k="wikipedia" v="it:San Siro Ippodromo"/>
   </node>
-  <node id="10036502932" lat="45.4762430" lon="9.1379391" version="4" timestamp="2025-08-17T12:33:15Z" changeset="170564248" uid="13697350" user="c674a">
+  <node id="10036502932" lat="45.4762430" lon="9.1379391" version="5" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Segesta"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3954249"/>
     <tag k="wikipedia" v="it:Segesta (metropolitana di Milano)"/>
   </node>
-  <node id="10036502936" lat="45.4813162" lon="9.1506045" version="3" timestamp="2025-07-31T19:38:49Z" changeset="169787650" uid="13697350" user="c674a">
+  <node id="10036502936" lat="45.4813162" lon="9.1506045" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Portello"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3909031"/>
     <tag k="wikipedia" v="it:Portello (metropolitana di Milano)"/>
   </node>
-  <node id="10036502937" lat="45.4780440" lon="9.1567618" version="3" timestamp="2025-10-22T21:51:15Z" changeset="173648421" uid="13697350" user="c674a">
+  <node id="10036502937" lat="45.4780440" lon="9.1567618" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Tre Torri"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3998075"/>
     <tag k="wikipedia" v="it:Tre Torri"/>
   </node>
-  <node id="10036502938" lat="45.4814045" lon="9.1619408" version="3" timestamp="2025-12-20T12:40:09Z" changeset="176179162" uid="13697350" user="c674a">
+  <node id="10036502938" lat="45.4814045" lon="9.1619408" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Domodossola FN"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3713387"/>
     <tag k="wikipedia" v="it:Domodossola FN"/>
   </node>
-  <node id="10036502939" lat="45.4844616" lon="9.1666565" version="3" timestamp="2025-12-11T19:08:37Z" changeset="175816689" uid="13697350" user="c674a">
+  <node id="10036502939" lat="45.4844616" lon="9.1666565" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Gerusalemme"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3761342"/>
     <tag k="wikipedia" v="it:Gerusalemme (metropolitana di Milano)"/>
   </node>
-  <node id="10036502940" lat="45.4874537" lon="9.1722620" version="3" timestamp="2025-08-12T16:26:02Z" changeset="170350697" uid="13697350" user="c674a">
+  <node id="10036502940" lat="45.4874537" lon="9.1722620" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Cenisio"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="official_name" v="Cenisio Widiba"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3664398"/>
     <tag k="wikipedia" v="it:Cenisio (metropolitana di Milano)"/>
   </node>
-  <node id="10036502941" lat="45.4851181" lon="9.1804883" version="3" timestamp="2026-03-22T19:55:30Z" changeset="180270141" uid="13697350" user="c674a">
+  <node id="10036502941" lat="45.4851181" lon="9.1804883" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Monumentale"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2015"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3862568"/>
     <tag k="wikipedia" v="it:Monumentale (metropolitana di Milano)"/>
   </node>
-  <node id="10036502946" lat="45.5267835" lon="9.2121828" version="3" timestamp="2026-06-06T07:14:46Z" changeset="183725005" uid="13697350" user="c674a">
+  <node id="10036502946" lat="45.5267835" lon="9.2121828" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Bignami"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
     <tag k="official_name" v="Bignami Parco Nord"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2013"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q2902416"/>
     <tag k="wikipedia" v="it:Bignami (metropolitana di Milano)"/>
   </node>
-  <node id="10036502947" lat="45.5219991" lon="9.2094704" version="3" timestamp="2026-06-06T07:14:46Z" changeset="183725005" uid="13697350" user="c674a">
+  <node id="10036502947" lat="45.5219991" lon="9.2094704" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Ponale"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2013"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3907907"/>
     <tag k="wikipedia" v="it:Ponale (metropolitana di Milano)"/>
   </node>
-  <node id="10036502948" lat="45.5147332" lon="9.2053603" version="3" timestamp="2026-06-06T07:14:46Z" changeset="183725005" uid="13697350" user="c674a">
+  <node id="10036502948" lat="45.5147332" lon="9.2053603" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Bicocca"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2013"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3639727"/>
     <tag k="wikipedia" v="it:Bicocca (metropolitana di Milano)"/>
   </node>
-  <node id="10036502949" lat="45.5072418" lon="9.2011180" version="3" timestamp="2026-06-06T07:14:46Z" changeset="183725005" uid="13697350" user="c674a">
+  <node id="10036502949" lat="45.5072418" lon="9.2011180" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Ca' Granda - Pratocentenaro"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="short_name" v="Ca' Granda"/>
     <tag k="start_date" v="2013"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3649077"/>
     <tag k="wikipedia" v="it:Ca' Granda (metropolitana di Milano)"/>
   </node>
-  <node id="10036502950" lat="45.5016171" lon="9.1979520" version="3" timestamp="2026-06-06T07:14:46Z" changeset="183725005" uid="13697350" user="c674a">
+  <node id="10036502950" lat="45.5016171" lon="9.1979520" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Istria"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2013"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3803878"/>
     <tag k="wikipedia" v="it:Istria (metropolitana di Milano)"/>
   </node>
-  <node id="10036502951" lat="45.4963520" lon="9.1949689" version="3" timestamp="2026-06-06T07:14:46Z" changeset="183725005" uid="13697350" user="c674a">
+  <node id="10036502951" lat="45.4963520" lon="9.1949689" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Marche"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2013"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3845747"/>
     <tag k="wikipedia" v="it:Marche (metropolitana di Milano)"/>
   </node>
-  <node id="10036502952" lat="45.4876120" lon="9.1912938" version="3" timestamp="2025-12-03T21:53:11Z" changeset="175465300" uid="13697350" user="c674a">
+  <node id="10036502952" lat="45.4876120" lon="9.1912938" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Isola"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2014"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q3802661"/>
     <tag k="wikipedia" v="it:Isola (metropolitana di Milano)"/>
@@ -41411,19 +41350,18 @@
     <tag k="entrance" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10108660047" lat="45.4680992" lon="9.2319145" version="12" timestamp="2025-12-13T20:30:40Z" changeset="175897758" uid="13697350" user="c674a">
+  <node id="10108660047" lat="45.4680992" lon="9.2319145" version="13" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Argonne"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2022-11-26"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q23018087"/>
     <tag k="wikimedia_commons" v="Category:Argonne station (Milan metro)"/>
@@ -42939,9 +42877,9 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="10853039922" lat="45.4523231" lon="9.1701259" version="5" timestamp="2026-04-10T21:05:36Z" changeset="181168393" uid="23724596" user="ChimpanBC">
+  <node id="10853039922" lat="45.4523231" lon="9.1701259" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="check_date:wheelchair" v="2026-04-10"/>
-    <tag k="name" v="P.ta Genova FS"/>
+    <tag k="name" v="P.ta Genova"/>
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -45236,21 +45174,20 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11638882004" lat="45.4625663" lon="9.1729177" version="6" timestamp="2026-06-03T19:41:06Z" changeset="183611375" uid="13697350" user="c674a">
+  <node id="11638882004" lat="45.4625663" lon="9.1729177" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Sant'Ambrogio"/>
     <tag k="name:it" v="Sant'Ambrogio"/>
     <tag k="name:ja" v="サンタンブロージョ"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024-10-12"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q1087580"/>
     <tag k="wikimedia_commons" v="Category:Sant'Ambrogio station (Milan metro)"/>
@@ -45415,104 +45352,98 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11705098343" lat="45.4418049" lon="9.1299776" version="6" timestamp="2026-04-26T07:17:48Z" changeset="181832626" uid="13697350" user="c674a">
+  <node id="11705098343" lat="45.4418049" lon="9.1299776" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="San Cristoforo"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024-10-12"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q22806967"/>
     <tag k="wikipedia" v="it:San Cristoforo (metropolitana di Milano)"/>
   </node>
-  <node id="11705098344" lat="45.4469415" lon="9.1309039" version="6" timestamp="2025-10-18T12:59:14Z" changeset="173449331" uid="13697350" user="c674a">
+  <node id="11705098344" lat="45.4469415" lon="9.1309039" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Segneri"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024-10-12"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q23018030"/>
     <tag k="wikipedia" v="it:Segneri (metropolitana di Milano)"/>
   </node>
-  <node id="11705098345" lat="45.4497587" lon="9.1358898" version="6" timestamp="2025-10-12T20:59:59Z" changeset="173199736" uid="13697350" user="c674a">
+  <node id="11705098345" lat="45.4497587" lon="9.1358898" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Gelsomini"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024-10-12"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q23018026"/>
     <tag k="wikipedia" v="it:Gelsomini (metropolitana di Milano)"/>
   </node>
-  <node id="11705098346" lat="45.4518746" lon="9.1424066" version="7" timestamp="2025-10-12T20:59:23Z" changeset="173199715" uid="13697350" user="c674a">
+  <node id="11705098346" lat="45.4518746" lon="9.1424066" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Frattini"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024-10-12"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q23018020"/>
     <tag k="wikipedia" v="it:Frattini (metropolitana di Milano)"/>
   </node>
-  <node id="11705098347" lat="45.4536909" lon="9.1480612" version="6" timestamp="2025-10-12T20:58:49Z" changeset="173199700" uid="13697350" user="c674a">
+  <node id="11705098347" lat="45.4536909" lon="9.1480612" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Tolstoj"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024-10-12"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q23018017"/>
     <tag k="wikipedia" v="it:Tolstoj (metropolitana di Milano)"/>
   </node>
-  <node id="11705098350" lat="45.4591563" lon="9.1650741" version="8" timestamp="2026-02-24T15:53:39Z" changeset="178996066" uid="17855542" user="giadamantione">
+  <node id="11705098350" lat="45.4591563" lon="9.1650741" version="9" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
     <tag k="name" v="Coni Zugna"/>
     <tag k="network" v="STIBM"/>
     <tag k="network:wikidata" v="Q65125405"/>
-    <tag k="operator" v="ATM"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
     <tag k="operator:wikidata" v="Q381955"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="start_date" v="2024-10-12"/>
     <tag k="station" v="subway"/>
-    <tag k="subway" v="yes"/>
-    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q22806959"/>
     <tag k="wikipedia" v="it:Coni Zugna (metropolitana di Milano)"/>
@@ -47476,6 +47407,22 @@
     <tag k="leisure" v="playground"/>
     <tag k="playground" v="climbingframe"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="12356649388" lat="45.4615316" lon="9.1957557" version="2" timestamp="2026-07-08T10:49:52Z" changeset="185332525" uid="1914637" user="a1ca424">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="9/11"/>
+    <tag k="addr:postcode" v="20122"/>
+    <tag k="addr:street" v="Via Laghetto"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="laptop" v="restricted"/>
+    <tag k="laptop:conditional" v="no @ Su"/>
+    <tag k="name" v="Colibrì"/>
+    <tag k="opening_hours" v="Mo 08:30-22:00; Tu-Fr 08:30-24:00; Sa 16:00-24:00; Su unknown"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="+39 349 401 6961"/>
+    <tag k="shop" v="books"/>
+    <tag k="website" v="https://www.colibrimilano.it/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12361805773" lat="45.5002799" lon="9.2211698" version="5" timestamp="2026-03-20T00:08:44Z" changeset="180133874" uid="2350365" user="Kartibu">
     <tag k="addr:city" v="Milano"/>
@@ -52558,6 +52505,24 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="13997842821" lat="45.5120291" lon="9.2244983" version="1" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <tag k="description" v="Area STIBM: Mi1"/>
+    <tag k="name" v="Precotto"/>
+    <tag k="network" v="STIBM"/>
+    <tag k="network:wikidata" v="Q65125405"/>
+    <tag k="operator" v="Azienda Trasporti Milanesi"/>
+    <tag k="operator:short" v="ATM"/>
+    <tag k="operator:wikidata" v="Q381955"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="1964"/>
+    <tag k="station" v="subway"/>
+    <tag k="subway" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q1085136"/>
+    <tag k="wikipedia" v="it:Precotto (metropolitana di Milano)"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -57327,7 +57292,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="177514943" version="13" timestamp="2024-05-03T09:38:44Z" changeset="150827633" uid="13878104" user="Nádudvari Tamás">
-    <center lat="45.5212057" lon="9.1674475"/>
+    <center lat="45.5212047" lon="9.1674491"/>
     <nd ref="1879371337"/>
     <nd ref="11876112909"/>
     <nd ref="11876112905"/>
@@ -57356,8 +57321,8 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="177514945" version="14" timestamp="2024-05-03T09:38:44Z" changeset="150827633" uid="13878104" user="Nádudvari Tamás">
-    <center lat="45.5212394" lon="9.1672915"/>
+  <way id="177514945" version="15" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.5212394" lon="9.1672934"/>
     <nd ref="1879371323"/>
     <nd ref="8772447360"/>
     <nd ref="11876112906"/>
@@ -57369,6 +57334,8 @@
     <nd ref="8772447358"/>
     <nd ref="8772447359"/>
     <nd ref="8206691259"/>
+    <nd ref="11876112915"/>
+    <nd ref="11876112911"/>
     <nd ref="1830617595"/>
     <nd ref="8772447380"/>
     <nd ref="2066408438"/>
@@ -59100,7 +59067,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="257619647" version="9" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="257619647" version="10" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5001433" lon="9.2415626"/>
     <nd ref="2631105895"/>
     <nd ref="2631105882"/>
@@ -59120,6 +59087,8 @@
     <tag k="lit" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
@@ -59876,7 +59845,7 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="309384278" version="18" timestamp="2026-02-27T12:43:07Z" changeset="179129785" uid="13878104" user="Nádudvari Tamás">
+  <way id="309384278" version="19" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5332415" lon="9.1728626"/>
     <nd ref="3147137573"/>
     <nd ref="8290074498"/>
@@ -59898,7 +59867,6 @@
     <nd ref="3147137573"/>
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
-    <tag k="bicycle" v="yes"/>
     <tag k="bin" v="yes"/>
     <tag k="covered" v="partial"/>
     <tag k="lit" v="yes"/>
@@ -62422,7 +62390,7 @@
     <tag k="repeat_on" v="0-1"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="607163768" version="9" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="607163768" version="10" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5280609" lon="9.1637725"/>
     <nd ref="5754823621"/>
     <nd ref="5754822592"/>
@@ -62438,12 +62406,13 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="607163769" version="9" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="607163769" version="10" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5280448" lon="9.1637020"/>
     <nd ref="5754823622"/>
     <nd ref="5754822615"/>
@@ -62459,6 +62428,7 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
@@ -62890,7 +62860,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="704155935" version="3" timestamp="2026-05-17T13:21:55Z" changeset="182784337" uid="23724596" user="ChimpanBC">
+  <way id="704155935" version="4" timestamp="2026-07-08T21:51:39Z" changeset="185371792" uid="717233" user="jacopofar">
     <center lat="45.4479995" lon="9.1911871"/>
     <nd ref="13447263954"/>
     <nd ref="6611797225"/>
@@ -62901,6 +62871,7 @@
     <nd ref="6611797229"/>
     <nd ref="13447263955"/>
     <nd ref="6611797230"/>
+    <nd ref="13998591610"/>
     <nd ref="13447263954"/>
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
@@ -63175,7 +63146,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="764457259" version="7" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="764457259" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5055787" lon="9.1795874"/>
     <nd ref="7141687544"/>
     <nd ref="7141687539"/>
@@ -63187,12 +63158,13 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="764457266" version="7" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="764457266" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5055530" lon="9.1795085"/>
     <nd ref="7141687548"/>
     <nd ref="7141687550"/>
@@ -63204,6 +63176,7 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
@@ -63291,7 +63264,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810877" version="9" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
+  <way id="835810877" version="10" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5025182" lon="9.1590346"/>
     <nd ref="9449465225"/>
     <nd ref="11876058070"/>
@@ -63312,11 +63285,12 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="2;3"/>
-    <tag k="tactile_paving" v="yes"/>
+    <tag k="surface" v="tiles"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810878" version="10" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
+  <way id="835810878" version="11" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5024975" lon="9.1588728"/>
     <nd ref="256256362"/>
     <nd ref="5996463213"/>
@@ -63341,11 +63315,12 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="1"/>
-    <tag k="tactile_paving" v="yes"/>
+    <tag k="surface" v="tiles"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810879" version="9" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
+  <way id="835810879" version="10" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5025405" lon="9.1592088"/>
     <nd ref="9449465224"/>
     <nd ref="9449465223"/>
@@ -63366,11 +63341,12 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="4;5"/>
-    <tag k="tactile_paving" v="yes"/>
+    <tag k="surface" v="tiles"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810880" version="9" timestamp="2024-05-03T08:57:54Z" changeset="150826089" uid="13878104" user="Nádudvari Tamás">
+  <way id="835810880" version="10" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5025629" lon="9.1593898"/>
     <nd ref="9449465221"/>
     <nd ref="11876046666"/>
@@ -63391,11 +63367,12 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="6;7"/>
-    <tag k="tactile_paving" v="yes"/>
+    <tag k="surface" v="tiles"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="835810881" version="11" timestamp="2024-12-05T16:55:01Z" changeset="159964912" uid="13840929" user="aa30mom">
+  <way id="835810881" version="12" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5025844" lon="9.1595450"/>
     <nd ref="256256363"/>
     <nd ref="9449465220"/>
@@ -63423,7 +63400,8 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="8"/>
-    <tag k="tactile_paving" v="yes"/>
+    <tag k="surface" v="tiles"/>
+    <tag k="tactile_paving" v="no"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
@@ -63548,18 +63526,11 @@
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845544" version="6" timestamp="2024-05-23T14:24:29Z" changeset="151726330" uid="13878104" user="Nádudvari Tamás">
-    <center lat="45.4342783" lon="9.2385322"/>
-    <nd ref="8402976071"/>
-    <nd ref="9560637372"/>
-    <nd ref="9560637373"/>
-    <nd ref="8402976084"/>
-    <nd ref="11928482742"/>
-    <nd ref="11873758811"/>
-    <nd ref="11873758812"/>
-    <nd ref="8402976085"/>
-    <nd ref="8402976083"/>
-    <nd ref="9560637402"/>
+  <way id="904845544" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4342783" lon="9.2385554"/>
+    <nd ref="13997818266"/>
+    <nd ref="13997818267"/>
+    <nd ref="13997818268"/>
     <nd ref="11928482741"/>
     <nd ref="9566060284"/>
     <nd ref="8402976081"/>
@@ -63573,6 +63544,14 @@
     <nd ref="9560637374"/>
     <nd ref="8402976076"/>
     <nd ref="8402976071"/>
+    <nd ref="9560637372"/>
+    <nd ref="9560637373"/>
+    <nd ref="8402976084"/>
+    <nd ref="11928482742"/>
+    <nd ref="11873758811"/>
+    <nd ref="11873758812"/>
+    <nd ref="8402976085"/>
+    <nd ref="13997818266"/>
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
@@ -63581,7 +63560,7 @@
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
-    <tag k="ref" v="1;1 Tr"/>
+    <tag k="ref" v="1"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -63677,16 +63656,12 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="904845548" version="6" timestamp="2024-05-23T14:24:29Z" changeset="151726330" uid="13878104" user="Nádudvari Tamás">
-    <center lat="45.4337307" lon="9.2389007"/>
-    <nd ref="8402976114"/>
-    <nd ref="8402976112"/>
-    <nd ref="11873758808"/>
-    <nd ref="11873758809"/>
-    <nd ref="11928482732"/>
-    <nd ref="8402976111"/>
-    <nd ref="9560637381"/>
-    <nd ref="8402976109"/>
+  <way id="904845548" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4337259" lon="9.2388937"/>
+    <nd ref="13997818272"/>
+    <nd ref="13997818271"/>
+    <nd ref="13997818270"/>
+    <nd ref="13997818269"/>
     <nd ref="8402976110"/>
     <nd ref="9560637379"/>
     <nd ref="9560637380"/>
@@ -63696,6 +63671,7 @@
     <nd ref="11873758810"/>
     <nd ref="11873758807"/>
     <nd ref="8402976114"/>
+    <nd ref="13997818272"/>
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
@@ -63704,12 +63680,12 @@
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
-    <tag k="ref" v="2;3"/>
+    <tag k="ref" v="2"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147573" version="6" timestamp="2024-05-03T08:45:16Z" changeset="150825655" uid="13878104" user="Nádudvari Tamás">
+  <way id="907147573" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4808481" lon="9.1624729"/>
     <nd ref="8423644167"/>
     <nd ref="8423644193"/>
@@ -63730,16 +63706,16 @@
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
     <tag k="lit" v="yes"/>
-    <tag k="name:signed" v="no"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="4"/>
+    <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147574" version="6" timestamp="2024-05-03T08:45:16Z" changeset="150825655" uid="13878104" user="Nádudvari Tamás">
+  <way id="907147574" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4807228" lon="9.1622332"/>
     <nd ref="8423644176"/>
     <nd ref="8423644173"/>
@@ -63760,16 +63736,16 @@
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
     <tag k="lit" v="yes"/>
-    <tag k="name:signed" v="no"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="1"/>
+    <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="907147575" version="8" timestamp="2024-05-23T16:28:49Z" changeset="151731882" uid="13878104" user="Nádudvari Tamás">
+  <way id="907147575" version="9" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4807901" lon="9.1623437"/>
     <nd ref="8423644188"/>
     <nd ref="8423644186"/>
@@ -63791,11 +63767,11 @@
     <tag k="covered" v="yes"/>
     <tag k="layer" v="-1"/>
     <tag k="lit" v="yes"/>
-    <tag k="name:signed" v="no"/>
     <tag k="passenger_information_display" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="2;3"/>
+    <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -64353,7 +64329,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="970913663" version="5" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="970913663" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5136923" lon="9.1739147"/>
     <nd ref="8985884333"/>
     <nd ref="3224047379"/>
@@ -64365,12 +64341,13 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="970913665" version="7" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="970913665" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5136705" lon="9.1737828"/>
     <nd ref="8985884334"/>
     <nd ref="3214848882"/>
@@ -64382,8 +64359,39 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="970928914" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4552764" lon="9.1124695"/>
+    <nd ref="8985984003"/>
+    <nd ref="8985983987"/>
+    <nd ref="8985983989"/>
+    <nd ref="8985984002"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="970928915" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4553476" lon="9.1124474"/>
+    <nd ref="8985984005"/>
+    <nd ref="8985983988"/>
+    <nd ref="8985983986"/>
+    <nd ref="8985984004"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
@@ -64401,7 +64409,7 @@
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="971622092" version="8" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="971622092" version="9" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4292186" lon="9.2562007"/>
     <nd ref="8992794548"/>
     <nd ref="8992794533"/>
@@ -64410,12 +64418,13 @@
     <tag k="layer" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="971662712" version="6" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="971662712" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4369469" lon="9.1682005"/>
     <nd ref="9712177581"/>
     <nd ref="8993200535"/>
@@ -64424,10 +64433,12 @@
     <tag k="layer" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="971662713" version="5" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="971662713" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4369518" lon="9.1680661"/>
     <nd ref="8993200542"/>
     <nd ref="8993200538"/>
@@ -64436,6 +64447,38 @@
     <tag k="layer" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="971927620" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4762707" lon="9.1182887"/>
+    <nd ref="8995592554"/>
+    <nd ref="8995592546"/>
+    <nd ref="8995592553"/>
+    <tag k="bench" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="tiles"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="971927621" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4761903" lon="9.1182835"/>
+    <nd ref="8995592556"/>
+    <nd ref="8995592547"/>
+    <nd ref="8995592555"/>
+    <tag k="bench" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-2"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="tiles"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
@@ -64453,7 +64496,7 @@
     <tag k="surface" v="artificial_turf"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="984451678" version="8" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="984451678" version="9" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4842505" lon="9.2348959"/>
     <nd ref="9101840569"/>
     <nd ref="9101840558"/>
@@ -64467,10 +64510,12 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="984451679" version="6" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="984451679" version="7" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4841720" lon="9.2349516"/>
     <nd ref="9101840571"/>
     <nd ref="9101840566"/>
@@ -64484,10 +64529,12 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="985470352" version="9" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="985470352" version="10" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4810629" lon="9.2260228"/>
     <nd ref="9110478998"/>
     <nd ref="9110479006"/>
@@ -64498,10 +64545,12 @@
     <tag k="layer" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="985470355" version="8" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="985470355" version="9" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4811583" lon="9.2259563"/>
     <nd ref="9110479004"/>
     <nd ref="9110479002"/>
@@ -64512,10 +64561,48 @@
     <tag k="layer" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="985546663" version="7" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="985510655" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4893906" lon="9.1273722"/>
+    <nd ref="9110918018"/>
+    <nd ref="9110898014"/>
+    <nd ref="9110898015"/>
+    <nd ref="9110918017"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="985510656" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4893526" lon="9.1272890"/>
+    <nd ref="9110918020"/>
+    <nd ref="9110898016"/>
+    <nd ref="9110898013"/>
+    <nd ref="9110918019"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="985546663" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5213085" lon="9.1686118"/>
     <nd ref="9111245074"/>
     <nd ref="3236590946"/>
@@ -64527,12 +64614,13 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="985546664" version="7" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="985546664" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5212832" lon="9.1685441"/>
     <nd ref="9111245077"/>
     <nd ref="9111245081"/>
@@ -64545,6 +64633,7 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
@@ -64980,6 +65069,68 @@
     <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="1055033280" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4971642" lon="9.1099556"/>
+    <nd ref="9694680601"/>
+    <nd ref="9694680586"/>
+    <nd ref="9694680594"/>
+    <nd ref="9694680600"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1055033281" version="6" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4970906" lon="9.1098761"/>
+    <nd ref="9694680603"/>
+    <nd ref="9694680599"/>
+    <nd ref="9694680589"/>
+    <nd ref="9694680602"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1055653300" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.5010377" lon="9.1016287"/>
+    <nd ref="9700200574"/>
+    <nd ref="9700200570"/>
+    <nd ref="9700200533"/>
+    <nd ref="9700200564"/>
+    <nd ref="9700200573"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1055653301" version="4" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.5010864" lon="9.1016877"/>
+    <nd ref="9700200576"/>
+    <nd ref="9700200559"/>
+    <nd ref="9700200532"/>
+    <nd ref="9700200567"/>
+    <nd ref="9700200575"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-1"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
+    <tag k="tunnel" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
   <way id="1065163687" version="1" timestamp="2022-05-30T13:20:37Z" changeset="121717150" uid="16135246" user="Neneone">
     <center lat="45.5200126" lon="9.1944687"/>
     <nd ref="9782055877"/>
@@ -64987,7 +65138,7 @@
     <tag k="playground" v="zipwire"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="1073872169" version="7" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="1073872169" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4290732" lon="9.2561348"/>
     <nd ref="9850493648"/>
     <nd ref="9850493646"/>
@@ -64996,12 +65147,13 @@
     <tag k="layer" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1074793331" version="12" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="1074793331" version="13" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5112807" lon="9.2605808"/>
     <nd ref="1496374708"/>
     <nd ref="4367024695"/>
@@ -65019,6 +65171,7 @@
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
+    <tag k="covered" v="yes"/>
     <tag k="layer" v="1"/>
     <tag k="level" v="1"/>
     <tag k="lit" v="yes"/>
@@ -65026,12 +65179,12 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="4"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="building_passage"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="1074793332" version="11" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="1074793332" version="12" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5111577" lon="9.2606172"/>
     <nd ref="9858020625"/>
     <nd ref="4367024696"/>
@@ -65050,6 +65203,7 @@
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
+    <tag k="covered" v="yes"/>
     <tag k="layer" v="1"/>
     <tag k="level" v="1"/>
     <tag k="lit" v="yes"/>
@@ -65057,12 +65211,12 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="2;3"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="building_passage"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="1074793333" version="12" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="1074793333" version="13" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5110366" lon="9.2606540"/>
     <nd ref="9858020627"/>
     <nd ref="4367024701"/>
@@ -65082,6 +65236,7 @@
     <tag k="area" v="yes"/>
     <tag k="bench" v="yes"/>
     <tag k="bin" v="yes"/>
+    <tag k="covered" v="yes"/>
     <tag k="layer" v="1"/>
     <tag k="level" v="1"/>
     <tag k="lit" v="yes"/>
@@ -65089,12 +65244,12 @@
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
     <tag k="ref" v="1"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="yes"/>
-    <tag k="tunnel" v="building_passage"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="1074793339" version="7" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="1074793339" version="8" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.5054449" lon="9.2485326"/>
     <nd ref="9858020669"/>
     <nd ref="1498960216"/>
@@ -65112,6 +65267,8 @@
     <tag k="lit" v="yes"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
+    <tag k="surface" v="plastic"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
@@ -65884,7 +66041,7 @@
     <tag k="roof:colour" v="#ACA4A4"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1278089784" version="4" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="1278089784" version="5" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4977425" lon="9.1850300"/>
     <nd ref="11865704348"/>
     <nd ref="3224663669"/>
@@ -65896,12 +66053,13 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1278089785" version="4" timestamp="2026-07-06T15:23:32Z" changeset="185207121" uid="11242131" user="ja+">
+  <way id="1278089785" version="5" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
     <center lat="45.4977279" lon="9.1849641"/>
     <nd ref="11865704350"/>
     <nd ref="4217081067"/>
@@ -65913,6 +66071,7 @@
     <tag k="level" v="-2"/>
     <tag k="public_transport" v="platform"/>
     <tag k="railway" v="platform"/>
+    <tag k="subway" v="yes"/>
     <tag k="surface" v="tiles"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tunnel" v="yes"/>
@@ -67064,6 +67223,54 @@
     <tag k="source" v="https://www.bikemi.com/it/media/eventi-news/news.aspx#bikemi-attive-quattro-nuove-stazioni-23011"/>
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1536554216" version="1" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4353780" lon="9.2380719"/>
+    <nd ref="13997818266"/>
+    <nd ref="8402976083"/>
+    <nd ref="9560637402"/>
+    <nd ref="13997818268"/>
+    <nd ref="13997818267"/>
+    <nd ref="13997818266"/>
+    <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="lit" v="yes"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="1 Tr"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1536554217" version="1" timestamp="2026-07-08T14:50:40Z" changeset="185346240" uid="11242131" user="ja+">
+    <center lat="45.4337325" lon="9.2389313"/>
+    <nd ref="13997818269"/>
+    <nd ref="13997818270"/>
+    <nd ref="13997818271"/>
+    <nd ref="13997818272"/>
+    <nd ref="8402976112"/>
+    <nd ref="11873758808"/>
+    <nd ref="11873758809"/>
+    <nd ref="11928482732"/>
+    <nd ref="8402976111"/>
+    <nd ref="9560637381"/>
+    <nd ref="8402976109"/>
+    <nd ref="13997818269"/>
+    <tag k="area" v="yes"/>
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="covered" v="partial"/>
+    <tag k="lit" v="yes"/>
+    <tag k="passenger_information_display" v="yes"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="railway" v="platform"/>
+    <tag k="ref" v="3"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </way>
 
 </osm>
