@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-15T05:54:02Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-07-16T06:04:30Z" areas="2026-07-15T13:36:12Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3767,18 +3767,19 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1279695347" lat="45.4819876" lon="9.2131304" version="9" timestamp="2025-07-15T09:58:20Z" changeset="168956189" uid="290680" user="wheelmap_visitor">
+  <node id="1279695347" lat="45.4819876" lon="9.2131304" version="10" timestamp="2026-07-15T19:47:42Z" changeset="185806753" uid="14415638" user="PseudonymousFuet">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="20131"/>
     <tag k="addr:street" v="Via Gaspare Spontini"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2022-11-23"/>
+    <tag k="check_date" v="2026-07-15"/>
+    <tag k="check_date:opening_hours" v="2026-07-15"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Spontini"/>
-    <tag k="opening_hours" v="Tu-Th 12:00-14:30, 18:30-22:00; Fr 12:00-14:30, 18:30-22:30; Sa 12:00-15:00, 18:30-22:30; Su 12:00-15:00, 18:30-22:00"/>
+    <tag k="opening_hours" v="Mo-Th 11:30-15:00, 18:30-23:00; Fr 11:30-23:30; Sa 11:30-23:30; Su 11:30-23:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -46989,23 +46990,28 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wheelchair:description" v="one step at the entrance door"/>
   </node>
-  <node id="12070544569" lat="45.4661709" lon="9.1634416" version="3" timestamp="2025-12-09T20:35:52Z" changeset="175731067" uid="13697350" user="c674a">
+  <node id="12070544569" lat="45.4661709" lon="9.1634416" version="4" timestamp="2026-07-16T05:41:10Z" changeset="185824574" uid="1781586" user="fick89">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="20144"/>
     <tag k="addr:street" v="Corso Vercelli"/>
     <tag k="amenity" v="fast_food"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/daginoofficial"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/pizzeriadagino1969/"/>
+    <tag k="contact:facebook" v="daginoofficial"/>
+    <tag k="contact:instagram" v="pizzeriadagino1969"/>
     <tag k="contact:linkedin" v="https://www.linkedin.com/company/pizzeria-da-gino-s-r-l-/"/>
-    <tag k="cuisine" v="pizza"/>
+    <tag k="cuisine" v="pizza;italian;regional;friture"/>
     <tag k="drive_through" v="no"/>
     <tag k="email" v="info@pizzeriadagino.it"/>
     <tag k="fax" v="+39024694886"/>
     <tag k="name" v="Pizzeria Da Gino"/>
     <tag k="opening_hours" v="Mo-Su 10:00-15:00, 16:00-21:00"/>
     <tag k="operator" v="Pizzeria Da Gino S.R.L."/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:pluxee" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
     <tag k="phone" v="+390248004130"/>
+    <tag k="ref:vatin" v="IT03857020154"/>
     <tag k="website" v="https://www.pizzeriadagino.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
