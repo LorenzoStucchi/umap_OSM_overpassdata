@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-22T06:13:00Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-07-23T06:17:51Z" areas="2026-07-22T12:48:09Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -6219,7 +6219,7 @@
     <tag k="website" v="https://negozi.libraccio.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="1795852604" lat="45.4404225" lon="9.0661086" version="5" timestamp="2012-12-09T15:09:23Z" changeset="14213890" uid="708145" user="openpablo3">
+  <node id="1795852604" lat="45.4402940" lon="9.0658781" version="6" timestamp="2026-07-22T19:28:36Z" changeset="186196301" uid="24254495" user="Billy Ray Valentine">
     <tag k="amenity" v="toilets"/>
     <tag k="operator" v="comune milano"/>
     <tag k="wheelchair" v="yes"/>
@@ -37413,7 +37413,11 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9465886245" lat="45.4500757" lon="9.1777997" version="2" timestamp="2023-04-16T17:25:39Z" changeset="134984839" uid="15541433" user="paulbrunner">
+  <node id="9465886245" lat="45.4500757" lon="9.1777997" version="3" timestamp="2026-07-22T16:08:39Z" changeset="186186756" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="20136"/>
+    <tag k="addr:street" v="Via Ascanio Sforza"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2023-04-16"/>
     <tag k="cuisine" v="regional"/>
@@ -37421,9 +37425,9 @@
     <tag k="name" v="Romeo la Pinseria der Colosseo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9465886246" lat="45.4502173" lon="9.1778578" version="4" timestamp="2025-11-03T16:55:22Z" changeset="174157192" uid="13840929" user="aa30mom">
+  <node id="9465886246" lat="45.4503029" lon="9.1778625" version="5" timestamp="2026-07-22T16:08:39Z" changeset="186186756" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="20136"/>
     <tag k="addr:street" v="Via Ascanio Sforza"/>
     <tag k="amenity" v="restaurant"/>
@@ -50811,15 +50815,15 @@
     <tag k="shop" v="erotic"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13380881101" lat="45.4934209" lon="9.2191424" version="2" timestamp="2026-03-20T00:03:35Z" changeset="180133783" uid="2350365" user="Kartibu">
+  <node id="13380881101" lat="45.4934209" lon="9.2191424" version="3" timestamp="2026-07-22T17:25:32Z" changeset="186190553" uid="213831" user="Josef73">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="54"/>
     <tag k="addr:postcode" v="20127"/>
     <tag k="addr:street" v="Viale Monza"/>
     <tag k="amenity" v="bar"/>
     <tag k="name" v="La Cantinetta"/>
-    <tag k="note" v="i am not sure about the opening hours, especially the ones in the morning, they were written on google maps. The ones in the afternoon I am pretty sure about, since then I also pass it by regularily. "/>
-    <tag k="opening_hours" v="Tuesday-Friday: 8-13:00 + 16-00:00, Saturday 8-00:00, Monday 8-13:00"/>
+    <tag k="note" v="i am not sure about the opening hours, especially the ones in the morning, they were written on google maps. The ones in the afternoon I am pretty sure about, since then I also pass it by regularily."/>
+    <tag k="opening_hours" v="Tu-Fr 08:00-13:00,16:00-24:00; Sa 08:00-24:00; Mo 08:00-13:00"/>
     <tag k="phone" v="+39 347 118 3117"/>
     <tag k="takeaway" v="no"/>
     <tag k="wheelchair" v="yes"/>
@@ -52739,6 +52743,14 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="14040143702" lat="45.4504917" lon="9.0697307" version="2" timestamp="2026-07-22T21:27:07Z" changeset="186201819" uid="24254495" user="Billy Ray Valentine">
+    <tag k="access" v="yes"/>
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="fee" v="yes"/>
+    <tag k="fountain" v="drinking"/>
+    <tag k="seasonal" v="no"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
@@ -67506,6 +67518,18 @@
     <tag k="ref" v="3"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </way>
+  <way id="1543062485" version="2" timestamp="2026-07-22T21:26:35Z" changeset="186201795" uid="24254495" user="Billy Ray Valentine">
+    <center lat="45.4503683" lon="9.0664025"/>
+    <nd ref="14040142395"/>
+    <nd ref="14040142396"/>
+    <nd ref="14040142397"/>
+    <nd ref="14040142398"/>
+    <nd ref="14040142395"/>
+    <tag k="access" v="yes"/>
+    <tag k="dog" v="unleashed"/>
+    <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="no"/>
   </way>
 
