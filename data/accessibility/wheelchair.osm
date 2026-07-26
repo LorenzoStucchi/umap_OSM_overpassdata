@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-25T06:08:05Z" areas="2026-07-24T01:16:20Z"/>
+<meta osm_base="2026-07-26T06:24:04Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2760,7 +2760,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="559731854" lat="45.4455769" lon="9.1783550" version="9" timestamp="2026-03-26T18:55:34Z" changeset="180470261" uid="23724596" user="ChimpanBC">
+  <node id="559731854" lat="45.4456573" lon="9.1783682" version="10" timestamp="2026-07-25T14:16:37Z" changeset="186349030" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="5"/>
@@ -3041,7 +3041,7 @@
     <tag k="website" v="https://www.grom.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="687897963" lat="45.4718956" lon="9.1676381" version="15" timestamp="2026-04-16T17:29:40Z" changeset="181424996" uid="13697350" user="c674a">
+  <node id="687897963" lat="45.4718956" lon="9.1676381" version="16" timestamp="2026-07-25T13:37:37Z" changeset="186347005" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="55"/>
@@ -3051,6 +3051,7 @@
     <tag k="brand" v="Carrefour Market"/>
     <tag k="brand:wikidata" v="Q2689639"/>
     <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
+    <tag k="building:levels" v="2"/>
     <tag k="level" v="-1;0"/>
     <tag k="name" v="Carrefour Market"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-22:00; Su 09:00-22:00"/>
@@ -34105,9 +34106,10 @@
     <tag k="website" v="https://www.cafezal.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7704745297" lat="45.4437636" lon="9.1783711" version="11" timestamp="2026-04-11T10:24:20Z" changeset="181182563" uid="23926999" user="PrUsT2">
+  <node id="7704745297" lat="45.4437636" lon="9.1783711" version="12" timestamp="2026-07-25T15:24:29Z" changeset="186352426" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="20136"/>
     <tag k="addr:street" v="Viale Tibaldi"/>
     <tag k="branch" v="TIBALDI"/>
     <tag k="brand" v="Esselunga"/>
@@ -43939,11 +43941,13 @@
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="11243081101" lat="45.4649026" lon="9.1912605" version="3" timestamp="2025-10-23T08:16:56Z" changeset="173661000" uid="13840929" user="aa30mom">
+  <node id="11243081101" lat="45.4649026" lon="9.1912605" version="4" timestamp="2026-07-25T18:59:20Z" changeset="186363195" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via San Raffaele"/>
+    <tag k="brand" v="Regus"/>
+    <tag k="brand:wikidata" v="Q130240418"/>
     <tag k="internet_access" v="yes"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Signature by Regus"/>
@@ -47055,16 +47059,18 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12115242018" lat="45.4657821" lon="9.1511979" version="3" timestamp="2025-08-08T22:05:37Z" changeset="170177620" uid="13697350" user="c674a">
+  <node id="12115242018" lat="45.4657821" lon="9.1511979" version="4" timestamp="2026-07-25T13:37:37Z" changeset="186347005" uid="13697350" user="c674a">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger"/>
     <tag k="name" v="Hamerica's"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="12115247873" lat="45.4658163" lon="9.1511586" version="4" timestamp="2025-09-15T21:00:48Z" changeset="171985977" uid="13697350" user="c674a">
+  <node id="12115247873" lat="45.4658163" lon="9.1511586" version="5" timestamp="2026-07-25T13:37:37Z" changeset="186347005" uid="13697350" user="c674a">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="barbecue"/>
     <tag k="name" v="Mannarino"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="12115255175" lat="45.4655534" lon="9.1519954" version="2" timestamp="2025-07-16T06:48:06Z" changeset="168996880" uid="290680" user="wheelmap_visitor">
@@ -57124,88 +57130,31 @@
     <tag k="ref" v="Edificio 14"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="160136162" version="47" timestamp="2026-06-29T09:45:17Z" changeset="184785202" uid="18266291" user="nicola_alle">
-    <center lat="45.4799824" lon="9.2281852"/>
-    <nd ref="13682093102"/>
-    <nd ref="13682093206"/>
-    <nd ref="13682093103"/>
-    <nd ref="13682093301"/>
-    <nd ref="13682093104"/>
-    <nd ref="13682093105"/>
-    <nd ref="13682185101"/>
-    <nd ref="13682093106"/>
-    <nd ref="13682093107"/>
-    <nd ref="13682093108"/>
-    <nd ref="13891711002"/>
-    <nd ref="13891710803"/>
-    <nd ref="13682093401"/>
-    <nd ref="13891711101"/>
-    <nd ref="13682093109"/>
-    <nd ref="13682093501"/>
-    <nd ref="13682093402"/>
-    <nd ref="13682185203"/>
-    <nd ref="13682093601"/>
+  <way id="160136162" version="49" timestamp="2026-07-25T13:38:02Z" changeset="186347018" uid="18266291" user="nicola_alle">
+    <center lat="45.4799818" lon="9.2281823"/>
+    <nd ref="14049090494"/>
+    <nd ref="14049090495"/>
+    <nd ref="14049090486"/>
+    <nd ref="14049090487"/>
+    <nd ref="14049090498"/>
     <nd ref="13682093403"/>
     <nd ref="13682093502"/>
-    <nd ref="13682093503"/>
-    <nd ref="13682094801"/>
+    <nd ref="14049090493"/>
+    <nd ref="14049090488"/>
     <nd ref="13682093404"/>
     <nd ref="13682093405"/>
-    <nd ref="13682093207"/>
-    <nd ref="13682200301"/>
-    <nd ref="13682093208"/>
-    <nd ref="13972606294"/>
-    <nd ref="13682093504"/>
-    <nd ref="13891735404"/>
-    <nd ref="13891735701"/>
-    <nd ref="13682093505"/>
-    <nd ref="13891735504"/>
-    <nd ref="13682093210"/>
-    <nd ref="13682093602"/>
-    <nd ref="13682094901"/>
-    <nd ref="13682200302"/>
-    <nd ref="13682093506"/>
-    <nd ref="13682274110"/>
-    <nd ref="13895435861"/>
-    <nd ref="5232288815"/>
-    <nd ref="13781347605"/>
-    <nd ref="13682095201"/>
-    <nd ref="13682093211"/>
-    <nd ref="13682095202"/>
-    <nd ref="13682093507"/>
-    <nd ref="13682094902"/>
-    <nd ref="13682093603"/>
-    <nd ref="13682093508"/>
-    <nd ref="13682093212"/>
-    <nd ref="13682093213"/>
-    <nd ref="13857755830"/>
-    <nd ref="13682093214"/>
-    <nd ref="13682093509"/>
-    <nd ref="13682093604"/>
-    <nd ref="13682093110"/>
-    <nd ref="13682093302"/>
-    <nd ref="13781350402"/>
-    <nd ref="5232288002"/>
-    <nd ref="13682274117"/>
-    <nd ref="5232288006"/>
-    <nd ref="13781337803"/>
-    <nd ref="13781347001"/>
-    <nd ref="13682093111"/>
-    <nd ref="13682093407"/>
-    <nd ref="13682093112"/>
-    <nd ref="13682093408"/>
-    <nd ref="13682093113"/>
-    <nd ref="13682093114"/>
-    <nd ref="13891710809"/>
-    <nd ref="13762574703"/>
-    <nd ref="13682093605"/>
-    <nd ref="13762573412"/>
-    <nd ref="13891614403"/>
-    <nd ref="13682093217"/>
-    <nd ref="13970780142"/>
-    <nd ref="13682093409"/>
-    <nd ref="13682093219"/>
-    <nd ref="13682093102"/>
+    <nd ref="14049090497"/>
+    <nd ref="14049129201"/>
+    <nd ref="14049090489"/>
+    <nd ref="14049090496"/>
+    <nd ref="14049090490"/>
+    <nd ref="14049090491"/>
+    <nd ref="14049090492"/>
+    <nd ref="14049090484"/>
+    <nd ref="14049090499"/>
+    <nd ref="14049090485"/>
+    <nd ref="14049090500"/>
+    <nd ref="14049090494"/>
     <tag k="access" v="yes"/>
     <tag k="architect" v="Gio Ponti"/>
     <tag k="building" v="university"/>
@@ -62389,32 +62338,33 @@
     <tag k="toilets:disposal" v="flush"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="540985449" version="8" timestamp="2026-06-26T16:20:12Z" changeset="184654170" uid="18266291" user="nicola_alle">
-    <center lat="45.4799718" lon="9.2283165"/>
-    <nd ref="13685460101"/>
-    <nd ref="13685460201"/>
-    <nd ref="13685489005"/>
-    <nd ref="13685460202"/>
+  <way id="540985449" version="9" timestamp="2026-07-25T11:44:23Z" changeset="186341742" uid="18266291" user="nicola_alle">
+    <center lat="45.4799642" lon="9.2283512"/>
+    <nd ref="13695440237"/>
+    <nd ref="13695440238"/>
+    <nd ref="13695440228"/>
+    <nd ref="13695440229"/>
     <nd ref="13685460301"/>
     <nd ref="13685460302"/>
     <nd ref="13685460401"/>
+    <nd ref="13685460510"/>
     <nd ref="13685460303"/>
+    <nd ref="13685460207"/>
+    <nd ref="13695440233"/>
+    <nd ref="13695445508"/>
+    <nd ref="13891636102"/>
+    <nd ref="13695445223"/>
+    <nd ref="13695445224"/>
+    <nd ref="13695440227"/>
+    <nd ref="13695440239"/>
     <nd ref="13685460501"/>
-    <nd ref="13685460502"/>
-    <nd ref="13685460402"/>
-    <nd ref="13682326707"/>
-    <nd ref="13857444401"/>
-    <nd ref="13682309309"/>
-    <nd ref="13685460601"/>
+    <nd ref="13891636002"/>
     <nd ref="13685460102"/>
-    <nd ref="13685460503"/>
-    <nd ref="13685460504"/>
-    <nd ref="13685460101"/>
+    <nd ref="13695440237"/>
     <tag k="amenity" v="toilets"/>
     <tag k="fee" v="no"/>
-    <tag k="indoor" v="room"/>
     <tag k="level" v="1"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair" v="designated"/>
   </way>
   <way id="548544427" version="2" timestamp="2026-05-18T12:50:00Z" changeset="182830685" uid="23724596" user="ChimpanBC">
     <center lat="45.4561983" lon="9.2201840"/>
@@ -67191,7 +67141,7 @@
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1506932186" version="4" timestamp="2026-06-27T16:37:21Z" changeset="184702481" uid="18266291" user="nicola_alle">
-    <center lat="45.4798754" lon="9.2279042"/>
+    <center lat="45.4798744" lon="9.2279018"/>
     <nd ref="13781336811"/>
     <nd ref="13781337704"/>
     <nd ref="13899935051"/>
@@ -67234,7 +67184,7 @@
     <tag k="wheelchair" v="no"/>
   </way>
   <way id="1506932187" version="3" timestamp="2026-06-27T16:37:21Z" changeset="184702481" uid="18266291" user="nicola_alle">
-    <center lat="45.4798692" lon="9.2279775"/>
+    <center lat="45.4798683" lon="9.2279753"/>
     <nd ref="13907148671"/>
     <nd ref="13907148670"/>
     <nd ref="13907148669"/>
