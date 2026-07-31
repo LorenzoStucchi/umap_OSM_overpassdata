@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-28T06:10:22Z" areas="2026-07-26T23:50:50Z"/>
+<meta osm_base="2026-07-31T06:27:36Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -17374,12 +17374,15 @@
     <tag k="website" v="http://www.matuellaotticodimilano.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3446525186" lat="45.4728011" lon="9.1788992" version="3" timestamp="2021-09-06T12:46:05Z" changeset="110802507" uid="6060820" user="Harvesterify">
+  <node id="3446525186" lat="45.4728011" lon="9.1788992" version="7" timestamp="2026-07-29T19:37:52Z" changeset="186606341" uid="3798707" user="GiulyR98">
+    <tag k="access" v="yes"/>
     <tag k="amenity" v="toilets"/>
-    <tag k="check_date" v="2021-09-06"/>
+    <tag k="changing_table" v="no"/>
+    <tag k="check_date" v="2026-07-29"/>
     <tag k="drinking_water" v="no"/>
     <tag k="fee" v="no"/>
     <tag k="toilets:disposal" v="chemical"/>
+    <tag k="toilets:handwashing" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3446545420" lat="45.4628809" lon="9.1935246" version="2" timestamp="2019-12-21T16:17:32Z" changeset="78716206" uid="89897" user="airon90">
@@ -28732,9 +28735,10 @@
     <tag k="website" v="https://www.ortodibrera.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5334460921" lat="45.4740829" lon="9.1835987" version="10" timestamp="2026-02-23T17:33:49Z" changeset="178954332" uid="23860128" user="GothamRiot">
+  <node id="5334460921" lat="45.4740829" lon="9.1835987" version="12" timestamp="2026-07-29T19:37:22Z" changeset="186606312" uid="3798707" user="GiulyR98">
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+    <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="brand" v="Flower Burger"/>
     <tag k="brand:wikidata" v="Q67168925"/>
@@ -28748,6 +28752,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="self_service" v="partially"/>
     <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
     <tag k="website" v="https://www.flowerburger.it"/>
     <tag k="website:menu" v="https://flowi-menu.netlify.app/"/>
     <tag k="wheelchair" v="no"/>
@@ -30320,26 +30325,19 @@
     <tag k="website" v="https://www.bikemi.com"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="5708706266" lat="45.4510518" lon="9.1938399" version="5" timestamp="2025-10-26T17:17:09Z" changeset="173805047" uid="13697350" user="c674a">
+  <node id="5708706266" lat="45.4510518" lon="9.1938399" version="6" timestamp="2026-07-30T14:25:43Z" changeset="186648010" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:postcode" v="20136"/>
     <tag k="addr:street" v="Viale Bligny"/>
     <tag k="all_you_can_eat" v="yes"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="contact:facebook" v="103219324568271"/>
-    <tag k="contact:phone" v="+39 02 58301860"/>
-    <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/10240101"/>
     <tag k="cuisine" v="sushi"/>
     <tag k="delivery" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Oishii"/>
+    <tag k="name" v="Daimyo"/>
     <tag k="opening_hours" v="Mo 19:00-22:00; Tu-Su 12:00-15:00,19:00-22:00"/>
     <tag k="operator" v="Yi Li S.A.S."/>
     <tag k="outdoor_seating" v="yes"/>
-    <tag k="ref:vatin" v="IT08988700962"/>
-    <tag k="reservation" v="yes"/>
-    <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -41637,10 +41635,11 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10133027509" lat="45.4505401" lon="9.2043575" version="6" timestamp="2026-03-21T17:41:33Z" changeset="180219031" uid="23724596" user="ChimpanBC">
+  <node id="10133027509" lat="45.4505401" lon="9.2043575" version="7" timestamp="2026-07-29T16:25:45Z" changeset="186595196" uid="23724596" user="ChimpanBC">
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="pub"/>
-    <tag k="name" v="Unplug"/>
+    <tag k="check_date" v="2026-07-29"/>
+    <tag k="name" v="Rusty"/>
     <tag k="opening_hours" v="Mo-Su 18:00-01:00"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
@@ -46573,9 +46572,14 @@
     <tag k="material" v="metal"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="11874165569" lat="45.4497637" lon="9.1853099" version="2" timestamp="2024-11-08T13:37:15Z" changeset="158896162" uid="21375245" user="IDunnoWhichNameToPick">
+  <node id="11874165569" lat="45.4496877" lon="9.1852995" version="3" timestamp="2026-07-29T13:15:33Z" changeset="186584306" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="11n03"/>
+    <tag k="addr:postcode" v="20136"/>
+    <tag k="addr:street" v="Via Giovenale"/>
+    <tag k="amenity" v="restaurant"/>
     <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Erbert"/>
+    <tag k="name" v="Erbert Col Moschin"/>
     <tag k="opening_hours" v="Mo-Fr 07:30-21:00; Sa-Su 08:00-20:00"/>
     <tag k="shop" v="health_food"/>
     <tag k="wheelchair" v="yes"/>
@@ -51346,14 +51350,6 @@
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13539160901" lat="45.4454166" lon="9.1822868" version="4" timestamp="2026-05-09T18:32:57Z" changeset="182435977" uid="23724596" user="ChimpanBC">
-    <tag k="name" v="Self service 24h"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="shop" v="tobacco"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="13541074634" lat="45.4772034" lon="9.2280716" version="4" timestamp="2026-02-26T14:31:25Z" changeset="179087553" uid="9054148" user="sanddune94">
     <tag k="door" v="hinged"/>
     <tag k="level" v="1"/>
@@ -52763,6 +52759,41 @@
     <tag k="fee" v="yes"/>
     <tag k="fountain" v="drinking"/>
     <tag k="seasonal" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="14056367899" lat="45.4452431" lon="9.1806654" version="1" timestamp="2026-07-28T14:17:11Z" changeset="186522397" uid="13840929" user="aa30mom">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:street" v="Via Francesco Brioschi"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="contact:email" v="info@tipota.net"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/pages/Tipota-Pub/110774758949396"/>
+    <tag k="name" v="Tipota Pub"/>
+    <tag k="opening_hours" v="18:00-02:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+39 02 835 7777"/>
+    <tag k="source" v="https://www.facebook.com/pages/Tipota-Pub/110774758949396?sk=info"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.tipota.net/"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="14061328127" lat="45.4594431" lon="9.1341707" version="9" timestamp="2026-07-30T11:26:29Z" changeset="186638559" uid="3798707" user="GiulyR98">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/enigmaroommilano"/>
+    <tag k="contact:housenumber" v="29"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/enigmaroom.it"/>
+    <tag k="contact:street" v="Via Raimondo Montecuccoli"/>
+    <tag k="contact:whatsapp" v="+39 346 509 74 54"/>
+    <tag k="email" v="info@enigmaroom.it"/>
+    <tag k="leisure" v="escape_game"/>
+    <tag k="level" v="2"/>
+    <tag k="name" v="Enigma Room"/>
+    <tag k="opening_hours" v="Mo-Fr 14:00-01:00 &quot;su prenotazione&quot;, Sa,Su 12:00-01:00 &quot;su prenotazione&quot;"/>
+    <tag k="phone" v="+39 346 509 74 54"/>
+    <tag k="website" v="https://www.enigmaroom.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -56215,7 +56246,7 @@
     <tag k="wikipedia" v="it:Chiesa di Santa Maria di Caravaggio (Milano)"/>
   </way>
   <way id="135701873" version="8" timestamp="2025-11-16T14:11:13Z" changeset="174729145" uid="13697350" user="c674a">
-    <center lat="45.4496913" lon="9.1886094"/>
+    <center lat="45.4496920" lon="9.1886125"/>
     <nd ref="1489971850"/>
     <nd ref="4048812291"/>
     <nd ref="1489971852"/>
