@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-31T06:27:36Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-08-02T06:21:21Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -3946,6 +3946,18 @@
     <tag k="operator" v="MM S.p.A."/>
     <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1347179131" lat="45.4889025" lon="9.2109699" version="6" timestamp="2026-07-31T18:12:00Z" changeset="186722295" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:street" v="Viale Brianza"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="PizzaBig"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1364451073" lat="45.4680906" lon="9.1771309" version="6" timestamp="2023-10-02T17:31:07Z" changeset="142049925" uid="12500589" user="tg4567">
     <tag k="artist_name" v="Claes Oldenburg, Coosje van Bruggen"/>
@@ -21022,6 +21034,21 @@
     <tag k="source" v="ds959"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="3935587733" lat="45.5020205" lon="9.1999254" version="8" timestamp="2026-07-31T18:17:37Z" changeset="186722295" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:postcode" v="20125"/>
+    <tag k="addr:street" v="Via Arbe"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sushi"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Hinode Sushi"/>
+    <tag k="name:ja" v="日の出寿司ヒノデスシ"/>
+    <tag k="opening_hours" v="Tu-Su 12:00-14:30,18:00-23:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="3935589852" lat="45.5029049" lon="9.1990998" version="4" timestamp="2023-11-03T19:31:38Z" changeset="143588626" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -21916,20 +21943,22 @@
     <tag k="shop" v="shoes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4135079394" lat="45.4519958" lon="9.1414656" version="8" timestamp="2026-06-08T21:14:34Z" changeset="183848228" uid="13697350" user="c674a">
+  <node id="4135079394" lat="45.4519958" lon="9.1414656" version="9" timestamp="2026-07-31T20:23:51Z" changeset="186728607" uid="2370220" user="Paolo pn">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="20146"/>
     <tag k="addr:street" v="Via Salvatore Barzilai"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date" v="2026-07-31"/>
+    <tag k="check_date:opening_hours" v="2026-07-31"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="mapillary" v="178519714152826"/>
     <tag k="name" v="BENU Farmacia n. 42"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-13:00,15:30-19:30; Sa 09:00-13:00,15:30-19:30"/>
     <tag k="ref:msal" v="2677"/>
     <tag k="ref:vatin" v="IT01199250158"/>
     <tag k="source" v="Ministero della Salute"/>
-    <tag k="survey:date" v="2018-04-15"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4141759289" lat="45.4644431" lon="9.1903007" version="8" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
@@ -33082,8 +33111,8 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="6873442471" lat="45.4813159" lon="9.1741392" version="4" timestamp="2026-04-17T17:04:38Z" changeset="181467729" uid="1875845" user="Valerio_Bozzolan">
-    <tag k="check_date" v="2025-05-18"/>
+  <node id="6873442471" lat="45.4813159" lon="9.1741392" version="5" timestamp="2026-07-31T12:31:17Z" changeset="186703068" uid="8922202" user="CJJ2501">
+    <tag k="check_date" v="2026-07-31"/>
     <tag k="check_date:opening_hours" v="2025-05-18"/>
     <tag k="name" v="BBM Boutique"/>
     <tag k="opening_hours:signed" v="no"/>
@@ -33093,7 +33122,7 @@
     <tag k="payment:v_pay" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="payment:visa_electron" v="yes"/>
-    <tag k="shop" v="clothes"/>
+    <tag k="shop" v="toys"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="6875292982" lat="45.4578308" lon="9.1766253" version="7" timestamp="2026-03-23T02:17:03Z" changeset="180278474" uid="2350365" user="Kartibu">
@@ -43248,6 +43277,11 @@
     <tag k="website" v="https://www.dedaspuri.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="10957042919" lat="45.4916458" lon="9.2044474" version="3" timestamp="2026-07-31T18:14:24Z" changeset="186722295" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="name" v="First Milano"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
   <node id="10957057338" lat="45.4866996" lon="9.2182986" version="4" timestamp="2025-01-08T17:02:53Z" changeset="161141239" uid="1875845" user="Valerio_Bozzolan">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="chinese"/>
@@ -44511,7 +44545,8 @@
     <tag k="shop" v="erotic"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11314961115" lat="45.4921492" lon="9.2044753" version="3" timestamp="2025-01-14T17:24:02Z" changeset="161353232" uid="1875845" user="Valerio_Bozzolan">
+  <node id="11314961115" lat="45.4921492" lon="9.2044753" version="4" timestamp="2026-07-31T18:13:36Z" changeset="186722351" uid="1875845" user="Valerio_Bozzolan">
+    <tag k="check_date" v="2026-07-31"/>
     <tag k="name" v="Cardial"/>
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="no"/>
@@ -55345,7 +55380,7 @@
     <tag k="source" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="59590846" version="11" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
+  <way id="59590846" version="12" timestamp="2026-08-01T13:24:48Z" changeset="186763005" uid="13840929" user="aa30mom">
     <center lat="45.4456546" lon="9.1883337"/>
     <nd ref="739257324"/>
     <nd ref="10029725923"/>
@@ -55357,8 +55392,9 @@
     <nd ref="10029725922"/>
     <nd ref="739257326"/>
     <nd ref="10029725919"/>
-    <nd ref="4222236184"/>
+    <nd ref="14066171407"/>
     <nd ref="10029725920"/>
+    <nd ref="4222236184"/>
     <nd ref="739257325"/>
     <nd ref="10029725921"/>
     <nd ref="739257324"/>
@@ -56245,7 +56281,7 @@
     <tag k="wikimedia_commons" v="Category:Santa Maria di Caravaggio (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di Santa Maria di Caravaggio (Milano)"/>
   </way>
-  <way id="135701873" version="8" timestamp="2025-11-16T14:11:13Z" changeset="174729145" uid="13697350" user="c674a">
+  <way id="135701873" version="9" timestamp="2026-07-31T12:28:47Z" changeset="186702942" uid="13840929" user="aa30mom">
     <center lat="45.4496920" lon="9.1886125"/>
     <nd ref="1489971850"/>
     <nd ref="4048812291"/>
@@ -56264,10 +56300,6 @@
     <nd ref="1489971862"/>
     <nd ref="1489971853"/>
     <nd ref="1489971850"/>
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="20136"/>
-    <tag k="addr:street" v="Piazza Angelo Sraffa"/>
     <tag k="building" v="university"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
@@ -63051,15 +63083,19 @@
     <tag k="wikimedia_commons" v="Category:PalaLido"/>
     <tag k="wikipedia" v="it:Palalido (Milano)"/>
   </way>
-  <way id="700481758" version="6" timestamp="2024-09-04T16:48:10Z" changeset="156195200" uid="10521220" user="sNappy_ml">
-    <center lat="45.4465287" lon="9.1888207"/>
+  <way id="700481758" version="7" timestamp="2026-07-31T13:48:12Z" changeset="186707275" uid="13840929" user="aa30mom">
+    <center lat="45.4465296" lon="9.1888226"/>
     <nd ref="6578201997"/>
     <nd ref="6578201998"/>
+    <nd ref="14064106649"/>
+    <nd ref="14064106650"/>
     <nd ref="6578201999"/>
     <nd ref="6578202000"/>
     <nd ref="6578202001"/>
     <nd ref="6578202002"/>
     <nd ref="6578202003"/>
+    <nd ref="14064106652"/>
+    <nd ref="14064106651"/>
     <nd ref="6578202004"/>
     <nd ref="6578202005"/>
     <nd ref="6578202006"/>
@@ -63067,11 +63103,15 @@
     <nd ref="6578202008"/>
     <nd ref="6578202009"/>
     <nd ref="6578202010"/>
+    <nd ref="14064106653"/>
     <nd ref="6578202011"/>
+    <nd ref="14064106646"/>
+    <nd ref="14064106647"/>
     <nd ref="6578202012"/>
     <nd ref="6578202013"/>
     <nd ref="6578202014"/>
     <nd ref="6578202015"/>
+    <nd ref="14064106648"/>
     <nd ref="6578202016"/>
     <nd ref="6578202017"/>
     <nd ref="6578201997"/>
@@ -63095,10 +63135,12 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="704155935" version="4" timestamp="2026-07-08T21:51:39Z" changeset="185371792" uid="717233" user="jacopofar">
-    <center lat="45.4479995" lon="9.1911871"/>
+  <way id="704155935" version="5" timestamp="2026-07-31T14:19:52Z" changeset="186708979" uid="13840929" user="aa30mom">
+    <center lat="45.4480037" lon="9.1911490"/>
     <nd ref="13447263954"/>
+    <nd ref="14064158903"/>
     <nd ref="6611797225"/>
+    <nd ref="14064158902"/>
     <nd ref="6611797226"/>
     <nd ref="6611797227"/>
     <nd ref="6611797228"/>
