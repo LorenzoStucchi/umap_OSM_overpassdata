@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-04T05:49:25Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-08-05T05:48:40Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="262111590" lat="45.0043442" lon="11.6452892">
     <tag k="name" v="Ecomuseo Mulino Pizzon"/>
@@ -88,7 +88,7 @@
     <tag k="addr:postcode" v="56040"/>
     <tag k="addr:street" v="Piazza Cavour"/>
     <tag k="name" v="Ecomuseo dell'Alabastro - Punto Museale Centrale"/>
-    <tag k="opening_hours" v="Apr 01-May 30,Sep 01-Oct 31 Sa,Su 16:00-20:00; Jun 01-Aug 31 17:30-21:00 Sa,Su"/>
+    <tag k="opening_hours" v="Apr 01-May 30,Sep 01-Oct 31 Sa,Su 16:00-20:00; Jun 01-Aug 31 Sa,Su 17:30-21:00"/>
     <tag k="tourism" v="museum"/>
   </node>
   <node id="2837476334" lat="45.5463287" lon="8.1127864">
@@ -421,12 +421,6 @@
     <tag k="addr:city" v="Ortignano Raggiolo"/>
     <tag k="name" v="Ecomuseo del Casentino - Ecomuseo della Castagna di Raggiolo"/>
     <tag k="tourism" v="museum"/>
-  </node>
-  <node id="7319310504" lat="43.7695820" lon="11.9186211">
-    <tag k="addr:city" v="Chiusi della Verna"/>
-    <tag k="name" v="Ecomuseo del Casentino - Ecomuseo della Vallesanta"/>
-    <tag k="tourism" v="museum"/>
-    <tag k="wikidata" v="Q55674264"/>
   </node>
   <node id="7319310508" lat="43.7419202" lon="11.7053532">
     <tag k="addr:city" v="Castel San Niccolò"/>
@@ -846,6 +840,19 @@
   <node id="13965828321" lat="39.8280218" lon="16.3138887">
     <tag k="name" v="Ecomuseo"/>
     <tag k="tourism" v="museum"/>
+  </node>
+  <node id="14073428450" lat="43.7698780" lon="11.9180184">
+    <tag k="addr:city" v="Chiusi della Verna"/>
+    <tag k="addr:postcode" v="52010"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/vallesantacooperativacomunita/"/>
+    <tag k="email" v="ecomuseo@casentino.toscana.it"/>
+    <tag k="name" v="Ecomuseo della Valle Santa"/>
+    <tag k="operator" v="Centro Servizi Rete Ecomuseale del Casentino"/>
+    <tag k="operator:type" v="ngo"/>
+    <tag k="phone" v="+39 05 755 07272"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://ecomuseodelcasentino.it/it/ecomuseo-della-vallesanta"/>
+    <tag k="wikidata" v="Q55674264"/>
   </node>
   <way id="77684413">
     <nd ref="5251774299"/>
