@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-21T04:10:34Z" areas="2026-08-20T09:15:59Z"/>
+<meta osm_base="2026-08-22T04:00:17Z" areas="2026-08-21T04:37:53Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -35845,8 +35845,10 @@
     <tag k="shop" v="greengrocer"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8951026162" lat="45.5009443" lon="9.2213889" version="2" timestamp="2025-07-15T09:37:25Z" changeset="168954708" uid="290680" user="wheelmap_visitor">
+  <node id="8951026162" lat="45.5009443" lon="9.2213889" version="3" timestamp="2026-08-21T17:14:52Z" changeset="187807977" uid="16804109" user="Riccardo Albiero">
+    <tag k="laundry_service" v="yes"/>
     <tag k="name" v="Acqua &amp; Sapone"/>
+    <tag k="self_service" v="no"/>
     <tag k="shop" v="laundry"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -36904,9 +36906,11 @@
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9297221790" lat="45.5010610" lon="9.2214631" version="2" timestamp="2025-07-15T09:37:50Z" changeset="168954741" uid="290680" user="wheelmap_visitor">
+  <node id="9297221790" lat="45.5010610" lon="9.2214631" version="4" timestamp="2026-08-21T17:15:46Z" changeset="187808111" uid="16804109" user="Riccardo Albiero">
     <tag k="amenity" v="charging_station"/>
+    <tag k="bicycle" v="no"/>
     <tag k="brand" v="a2a"/>
+    <tag k="capacity:motorcar" v="2"/>
     <tag k="operator" v="a2a"/>
     <tag k="operator:wikidata" v="Q279978"/>
     <tag k="operator:wikipedia" v="it:A2A"/>
@@ -44138,8 +44142,10 @@
     <tag k="ref" v="274"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11269649679" lat="45.5088545" lon="9.2237614" version="3" timestamp="2026-04-24T19:36:12Z" changeset="181781074" uid="13697350" user="c674a">
+  <node id="11269649679" lat="45.5088545" lon="9.2237614" version="5" timestamp="2026-08-21T17:22:50Z" changeset="187808111" uid="16804109" user="Riccardo Albiero">
     <tag k="amenity" v="charging_station"/>
+    <tag k="bicycle" v="no"/>
+    <tag k="capacity:motorcar" v="2"/>
     <tag k="fee" v="yes"/>
     <tag k="motorcar" v="yes"/>
     <tag k="operator" v="a2a"/>
@@ -55351,7 +55357,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="52524371" version="16" timestamp="2024-03-09T17:40:57Z" changeset="148433227" uid="4059435" user="Desmodromico749">
+  <way id="52524371" version="17" timestamp="2026-08-21T06:12:47Z" changeset="187776833" uid="16804109" user="Riccardo Albiero">
     <center lat="45.5027606" lon="9.2226744"/>
     <nd ref="667474527"/>
     <nd ref="667474566"/>
@@ -55377,7 +55383,7 @@
     <tag k="brand:wikipedia" v="fr:Carrefour Market"/>
     <tag k="building" v="retail"/>
     <tag k="building:levels" v="1"/>
-    <tag k="check_date" v="2024-03-09"/>
+    <tag k="check_date" v="2026-08-21"/>
     <tag k="contact:phone" v="+39 02 2828564"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="internet_access" v="no"/>
