@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-22T03:50:10Z" areas="2026-08-21T13:11:56Z"/>
+<meta osm_base="2026-08-23T03:59:59Z" areas="2026-08-22T15:22:02Z"/>
 
   <way id="7980051" version="26" timestamp="2022-06-21T12:16:40Z" changeset="122665933" uid="8350372" user="Balaabirami">
     <bounds minlat="45.4675638" minlon="9.1816872" maxlat="45.4678256" maxlon="9.1819163"/>
@@ -91939,7 +91939,7 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="1010911599" version="2" timestamp="2022-12-30T13:09:26Z" changeset="130686422" uid="8350372" user="Balaabirami">
+  <way id="1010911599" version="3" timestamp="2026-08-22T11:14:07Z" changeset="187836231" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.5072206" minlon="9.2520158" maxlat="45.5073768" maxlon="9.2522289"/>
     <nd ref="9326574934" lat="45.5073768" lon="9.2522289"/>
     <nd ref="9326574936" lat="45.5073019" lon="9.2521261"/>
@@ -91947,6 +91947,7 @@
     <nd ref="9326574935" lat="45.5072206" lon="9.2520158"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="1010911602" version="4" timestamp="2025-08-06T14:02:52Z" changeset="170060097" uid="8716397" user="f_gonella">
     <bounds minlat="45.5069774" minlon="9.2528353" maxlat="45.5089127" maxlon="9.2551221"/>
@@ -221849,12 +221850,13 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="no"/>
   </way>
-  <way id="1205733072" version="2" timestamp="2025-11-06T19:30:36Z" changeset="174304187" uid="22891821" user="VLD298">
+  <way id="1205733072" version="3" timestamp="2026-08-22T10:57:30Z" changeset="187836231" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.5110616" minlon="9.2553008" maxlat="45.5110755" maxlon="9.2553182"/>
     <nd ref="11173830974" lat="45.5110755" lon="9.2553008"/>
     <nd ref="4622723560" lat="45.5110616" lon="9.2553182"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1205733756" version="2" timestamp="2023-09-27T22:26:44Z" changeset="141840763" uid="18306404" user="over_the_edge">
     <bounds minlat="45.5113445" minlon="9.2555362" maxlat="45.5114393" maxlon="9.2556714"/>
@@ -221864,7 +221866,7 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1205733757" version="5" timestamp="2024-09-19T16:36:45Z" changeset="156829751" uid="717233" user="jacopofar">
+  <way id="1205733757" version="7" timestamp="2026-08-22T10:56:41Z" changeset="187836231" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.5114393" minlon="9.2556714" maxlat="45.5115395" maxlon="9.2558132"/>
     <nd ref="11173815267" lat="45.5115395" lon="9.2558132"/>
     <nd ref="9552945980" lat="45.5114393" lon="9.2556714"/>
@@ -221873,12 +221875,14 @@
     <tag k="bus" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="no"/>
     <tag k="name" v="Via Padova, 353"/>
     <tag k="public_transport" v="platform"/>
     <tag k="shelter" v="yes"/>
+    <tag k="surface" v="asphalt"/>
     <tag k="tactile_paving" v="no"/>
   </way>
-  <way id="1205733885" version="4" timestamp="2024-09-19T16:37:05Z" changeset="156829751" uid="717233" user="jacopofar">
+  <way id="1205733885" version="6" timestamp="2026-08-22T10:59:03Z" changeset="187836231" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.5118235" minlon="9.2559626" maxlat="45.5119522" maxlon="9.2561181"/>
     <nd ref="8729058223" lat="45.5119522" lon="9.2561181"/>
     <nd ref="8729058222" lat="45.5118235" lon="9.2559626"/>
@@ -221887,9 +221891,11 @@
     <tag k="bus" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="no"/>
     <tag k="name" v="Via Padova, 353"/>
     <tag k="public_transport" v="platform"/>
     <tag k="shelter" v="yes"/>
+    <tag k="surface" v="asphalt"/>
     <tag k="tactile_paving" v="no"/>
   </way>
   <way id="1205733886" version="4" timestamp="2024-11-07T10:41:52Z" changeset="158850055" uid="8350372" user="Balaabirami">
@@ -221946,15 +221952,20 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="1205745665" version="1" timestamp="2023-09-07T10:43:19Z" changeset="140934303" uid="8350372" user="Balaabirami">
+  <way id="1205745665" version="6" timestamp="2026-08-22T11:03:14Z" changeset="187836231" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.5101458" minlon="9.2540174" maxlat="45.5103126" maxlon="9.2542461"/>
     <nd ref="11173900500" lat="45.5101458" lon="9.2540174"/>
     <nd ref="11173900499" lat="45.5103126" lon="9.2542461"/>
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="no"/>
     <tag k="bus" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Via Palmanova 221"/>
     <tag k="public_transport" v="platform"/>
     <tag k="shelter" v="no"/>
+    <tag k="surface" v="asphalt"/>
     <tag k="tactile_paving" v="no"/>
   </way>
   <way id="1205745666" version="6" timestamp="2024-09-02T19:51:37Z" changeset="156114701" uid="175882" user="MarcoR">
@@ -221975,13 +221986,17 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1205745667" version="1" timestamp="2023-09-07T10:43:19Z" changeset="140934303" uid="8350372" user="Balaabirami">
+  <way id="1205745667" version="5" timestamp="2026-08-22T11:02:02Z" changeset="187836227" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.5102792" minlon="9.2540252" maxlat="45.5103830" maxlon="9.2541586"/>
     <nd ref="11173900501" lat="45.5103830" lon="9.2541586"/>
     <nd ref="11173900502" lat="45.5102792" lon="9.2540252"/>
+    <tag k="bench" v="no"/>
+    <tag k="bin" v="yes"/>
     <tag k="bus" v="yes"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Via Palmanova 221"/>
     <tag k="public_transport" v="platform"/>
     <tag k="shelter" v="no"/>
     <tag k="surface" v="asphalt"/>
@@ -264309,19 +264324,21 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1448034765" version="1" timestamp="2025-11-06T19:03:56Z" changeset="174303328" uid="22891821" user="VLD298">
+  <way id="1448034765" version="2" timestamp="2026-08-22T11:03:33Z" changeset="187836231" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.5096828" minlon="9.2532378" maxlat="45.5096912" maxlon="9.2532514"/>
     <nd ref="11174412459" lat="45.5096912" lon="9.2532378"/>
     <nd ref="11174412458" lat="45.5096828" lon="9.2532514"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1448034766" version="1" timestamp="2025-11-06T19:03:56Z" changeset="174303328" uid="22891821" user="VLD298">
+  <way id="1448034766" version="2" timestamp="2026-08-22T11:03:31Z" changeset="187836231" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.5096025" minlon="9.2533337" maxlat="45.5096297" maxlon="9.2533793"/>
     <nd ref="11174412457" lat="45.5096297" lon="9.2533337"/>
     <nd ref="2559596535" lat="45.5096025" lon="9.2533793"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1448035634" version="1" timestamp="2025-11-06T19:10:50Z" changeset="174303554" uid="22891840" user="VLD317">
     <bounds minlat="45.4798271" minlon="9.1495049" maxlat="45.4798728" maxlon="9.1495748"/>
