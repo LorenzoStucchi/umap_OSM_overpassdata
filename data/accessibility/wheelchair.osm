@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-29T09:58:50Z" areas="2026-08-29T01:53:18Z"/>
+<meta osm_base="2026-08-30T09:08:46Z" areas="2026-08-30T01:51:05Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -286,7 +286,7 @@
     <tag k="website" v="https://www.benufarma.it/farmacie/milano/store-locator-6852-benu-farmacia-milano-n-32"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="250051812" lat="45.5219373" lon="9.2161433" version="9" timestamp="2024-04-02T06:39:23Z" changeset="149464131" uid="11979968" user="Francesco Zanaboni">
+  <node id="250051812" lat="45.5219373" lon="9.2161433" version="11" timestamp="2026-08-29T16:01:42Z" changeset="188205076" uid="23928020" user="LeoLotus2407">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="336"/>
     <tag k="addr:postcode" v="20126"/>
@@ -294,6 +294,8 @@
     <tag k="amenity" v="cinema"/>
     <tag k="brand" v="UCI"/>
     <tag k="brand:wikidata" v="Q521922"/>
+    <tag k="check_date" v="2026-08-29"/>
+    <tag k="level" v="2"/>
     <tag k="name" v="Uci Cinemas Bicocca"/>
     <tag k="phone:it" v="+39 892960"/>
     <tag k="screen" v="18"/>
@@ -37186,15 +37188,15 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9352676134" lat="45.4636104" lon="9.1902313" version="3" timestamp="2025-02-06T11:10:38Z" changeset="162203685" uid="290680" user="wheelmap_visitor">
-    <tag k="comment:it" v="Ingresso chiuso?"/>
+  <node id="9352676134" lat="45.4636104" lon="9.1902313" version="4" timestamp="2026-08-29T20:02:46Z" changeset="188215799" uid="13697350" user="c674a">
+    <tag k="access" v="no"/>
+    <tag k="disused" v="yes"/>
+    <tag k="disused:railway" v="subway_entrance"/>
     <tag k="name" v="Duomo"/>
-    <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9352676138" lat="45.4636148" lon="9.1897885" version="5" timestamp="2026-05-21T13:19:21Z" changeset="182976155" uid="24135566" user="steta0">
+  <node id="9352676138" lat="45.4636148" lon="9.1897885" version="6" timestamp="2026-08-29T20:02:46Z" changeset="188215799" uid="13697350" user="c674a">
     <tag k="access" v="no"/>
-    <tag k="comment:it" v="Ingresso chiuso?"/>
     <tag k="disused" v="yes"/>
     <tag k="disused:railway" v="subway_entrance"/>
     <tag k="name" v="Duomo"/>
@@ -53084,6 +53086,29 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="14133309715" lat="45.5115360" lon="9.1239698" version="1" timestamp="2026-08-29T14:54:04Z" changeset="188201645" uid="24073115" user="Daredevil4725">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="20157"/>
+    <tag k="addr:street" v="Via Giorgio Stephenson"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="grill;pasta;pizza;pinz;burger"/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="diet:lactose_free" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="email" v="onfire@milanfierehotel.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Onfire Grill And Lounge"/>
+    <tag k="opening_hours" v="Mo-Su 19:30-22:30"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="https://www.milanfierehotel.com/bar-and-restaurant/onfire-restaurant/"/>
+    <tag k="website:menu" v="https://foodboard.it/onfire/antipasti/?language=en"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -60537,6 +60562,38 @@
     <tag k="social_facility" v="nursing_home"/>
     <tag k="social_facility:for" v="senior"/>
     <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="322481788" version="3" timestamp="2026-08-29T14:54:04Z" changeset="188201645" uid="24073115" user="Daredevil4725">
+    <center lat="45.5114967" lon="9.1241883"/>
+    <nd ref="3292582497"/>
+    <nd ref="13753823952"/>
+    <nd ref="3292582494"/>
+    <nd ref="3292582495"/>
+    <nd ref="3292582498"/>
+    <nd ref="13753823959"/>
+    <nd ref="3292582497"/>
+    <tag k="addr:city" v="Milan"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="20157"/>
+    <tag k="addr:street" v="Via Giorgio Stephenson"/>
+    <tag k="alt_name" v="Voco Milan-Fiere"/>
+    <tag k="brand" v="voco"/>
+    <tag k="brand:wikidata" v="Q60750454"/>
+    <tag k="brand:wikipedia" v="en:Voco"/>
+    <tag k="height" v="94"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="landuse" v="commercial"/>
+    <tag k="name" v="Voco Milan - Fiere"/>
+    <tag k="operator" v="IHG"/>
+    <tag k="phone" v="+39 02 89617600"/>
+    <tag k="rooms" v="280"/>
+    <tag k="stars" v="4"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.milanfierehotel.com/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q139505150"/>
   </way>
   <way id="328765290" version="6" timestamp="2026-03-26T16:23:29Z" changeset="180462440" uid="13840929" user="aa30mom">
     <center lat="45.4180943" lon="9.1714162"/>
