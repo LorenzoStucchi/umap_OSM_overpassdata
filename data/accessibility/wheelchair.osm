@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-30T09:08:46Z" areas="2026-08-30T01:51:05Z"/>
+<meta osm_base="2026-08-31T09:31:35Z" areas="2026-08-30T14:34:56Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5782,9 +5782,11 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1697843100" lat="45.4678109" lon="9.1778473" version="5" timestamp="2025-07-15T09:53:25Z" changeset="168955835" uid="290680" user="wheelmap_visitor">
+  <node id="1697843100" lat="45.4678109" lon="9.1778473" version="6" timestamp="2026-08-30T19:25:19Z" changeset="188267688" uid="13697350" user="c674a">
     <tag k="name" v="Edison"/>
     <tag k="office" v="energy_supplier"/>
+    <tag k="operator" v="Edison"/>
+    <tag k="operator:wikidata" v="Q912872"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="1697843131" lat="45.4676381" lon="9.1765622" version="9" timestamp="2026-03-20T22:01:38Z" changeset="180179711" uid="1781586" user="fick89">
@@ -6136,6 +6138,10 @@
     <tag k="source" v="personal survey on site (including phone number)"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="1753249588" lat="45.5033728" lon="9.1867779" version="3" timestamp="2026-08-30T14:35:08Z" changeset="188251203" uid="10893865" user="Emanuele Lorenzo Corti">
+    <tag k="barrier" v="kerb"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="1759392423" lat="45.4831661" lon="9.2034252" version="9" timestamp="2026-04-17T20:06:57Z" changeset="181474731" uid="20047347" user="Sara Newmountain">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -6437,19 +6443,23 @@
     <tag k="shop" v="electronics"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1832528981" lat="45.4686668" lon="9.1823737" version="15" timestamp="2026-01-01T12:31:52Z" changeset="176701368" uid="13697350" user="c674a">
+  <node id="1832528981" lat="45.4686668" lon="9.1823737" version="16" timestamp="2026-08-30T19:25:19Z" changeset="188267688" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="74/76"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Foro Buonaparte"/>
     <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="Milano Cairoli"/>
     <tag k="brand" v="Decathlon"/>
     <tag k="brand:wikidata" v="Q509349"/>
     <tag k="brand:wikipedia" v="en:Decathlon (retailer)"/>
     <tag k="building:levels" v="2"/>
-    <tag k="check_date" v="2025-12-10"/>
+    <tag k="check_date" v="2026-08-30"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Decathlon"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
     <tag k="operator" v="Decathlon"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -22486,12 +22496,15 @@
     <tag k="website" v="https://www.biancolatte.it/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="4184996227" lat="45.4727130" lon="9.1948393" version="2" timestamp="2019-09-13T09:29:27Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="4184996227" lat="45.4727130" lon="9.1948393" version="3" timestamp="2026-08-30T22:46:14Z" changeset="188275710" uid="69259" user="DnaX">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Piazza Cavour"/>
+    <tag k="brand" v="Camicissima"/>
+    <tag k="brand:wikidata" v="Q140471177"/>
+    <tag k="clothes" v="men;shirts"/>
     <tag k="name" v="Camicissima"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="yes"/>
@@ -23035,9 +23048,14 @@
     <tag k="name" v="Morosini"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4228934866" lat="45.4519873" lon="9.2030947" version="4" timestamp="2025-07-15T09:36:24Z" changeset="168954643" uid="290680" user="wheelmap_visitor">
-    <tag k="amenity" v="cafe"/>
+  <node id="4228934866" lat="45.4519873" lon="9.2030947" version="5" timestamp="2026-08-31T06:23:06Z" changeset="188286017" uid="13697350" user="c674a">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="20135"/>
+    <tag k="addr:street" v="Corso Lodi"/>
+    <tag k="amenity" v="restaurant"/>
     <tag k="name" v="Trapizzino"/>
+    <tag k="website" v="https://www.trapizzino.it/trapizzino/trapizzino-milano-corso-lodi/?utm_source=googlemaps&amp;utm_campaign=Local&amp;utm_medium=organic&amp;utm_content=link_home_gmaps"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4230026868" lat="45.4547210" lon="9.2049948" version="3" timestamp="2025-07-15T10:03:15Z" changeset="168956548" uid="290680" user="wheelmap_visitor">
@@ -25900,6 +25918,12 @@
     <tag k="male" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="4612503662" lat="45.4788063" lon="9.2292685" version="3" timestamp="2026-08-31T08:33:51Z" changeset="188291912" uid="16804109" user="Riccardo Albiero">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="4617967833" lat="45.4777017" lon="9.1776717" version="2" timestamp="2020-08-01T13:49:05Z" changeset="88815636" uid="1476146" user="Alecs01">
     <tag k="amenity" v="pub"/>
     <tag k="name" v="Café Etniko"/>
@@ -25911,7 +25935,7 @@
     <tag k="entrance" v="emergency"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4621725131" lat="45.5081486" lon="9.2046511" version="4" timestamp="2025-12-31T08:53:45Z" changeset="176662132" uid="1875845" user="Valerio_Bozzolan">
+  <node id="4621725131" lat="45.5081386" lon="9.2046984" version="5" timestamp="2026-08-30T23:08:50Z" changeset="188276299" uid="24448860" user="Cavaxx">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="80"/>
@@ -25923,7 +25947,9 @@
     <tag k="check_date" v="2025-12-31"/>
     <tag k="leisure" v="fitness_centre"/>
     <tag k="name" v="Anytime Fitness"/>
-    <tag k="website" v="https://www.anytimefitness.it/gyms/it-0022/milano-mi-20125/"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+39 3920200252"/>
+    <tag k="website" v="https://www.anytimefitness.com/it-it/locations/milano-milano-it-0022"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4621725173" lat="45.5081176" lon="9.2042903" version="4" timestamp="2025-11-12T12:07:40Z" changeset="174556431" uid="717233" user="jacopofar">
@@ -33246,18 +33272,20 @@
     <tag k="shop" v="toys"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="6875292982" lat="45.4578308" lon="9.1766253" version="7" timestamp="2026-03-23T02:17:03Z" changeset="180278474" uid="2350365" user="Kartibu">
+  <node id="6875292982" lat="45.4578308" lon="9.1766253" version="8" timestamp="2026-08-30T19:33:43Z" changeset="188268119" uid="14910360" user="MartaMag">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7n01"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Corso Genova"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2026-08-30"/>
     <tag k="contact:facebook" v="https://www.facebook.com/pages/Fiume-Dargento/453735295149704"/>
     <tag k="contact:tripadvisor" v="https://www.tripadvisor.com/Restaurant_Review-g187849-d6527616"/>
     <tag k="contact:yelp" v="https://www.yelp.com/biz/rosticceria-cinese-fiume-d-argento-milano"/>
     <tag k="cuisine" v="chinese"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Fiume d'argento"/>
+    <tag k="opening_hours" v="10:30-15:00,17:30-23:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+39 02 837 5006"/>
     <tag k="takeaway" v="yes"/>
@@ -46866,6 +46894,12 @@
     <tag k="office" v="lawyer"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="11921659382" lat="45.5090796" lon="9.2040602" version="2" timestamp="2026-08-30T23:15:11Z" changeset="188276449" uid="24448860" user="Cavaxx">
+    <tag k="access" v="private"/>
+    <tag k="door" v="yes"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="11925340402" lat="45.4820923" lon="9.1881550" version="2" timestamp="2025-07-15T09:45:45Z" changeset="168955321" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Via Carlo De Cristoforis"/>
@@ -53109,6 +53143,20 @@
     <tag k="website:menu" v="https://foodboard.it/onfire/antipasti/?language=en"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="14135679047" lat="45.4667220" lon="9.1770869" version="1" timestamp="2026-08-30T19:25:19Z" changeset="188267688" uid="13697350" user="c674a">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:instagram" v="pizzeriapositano"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Pizzeria Positano - Milano Cadorna"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="stroller" v="no"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://pizzeriapositano.eu/milano-cadorna/"/>
+    <tag k="website:menu" v="https://pizzeriapositanocadorna.qromo.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -55207,7 +55255,7 @@
     <tag k="wikimedia_commons" v="Category:Waldensian Church (Milan)"/>
     <tag k="wikipedia" v="it:Tempio Valdese (Milano)"/>
   </way>
-  <way id="44448850" version="16" timestamp="2026-04-25T13:10:58Z" changeset="181805825" uid="23724596" user="ChimpanBC">
+  <way id="44448850" version="17" timestamp="2026-08-30T19:25:19Z" changeset="188267688" uid="13697350" user="c674a">
     <center lat="45.4669666" lon="9.1983716"/>
     <nd ref="564924257"/>
     <nd ref="564924259"/>
@@ -55237,7 +55285,6 @@
     <tag k="denomination" v="catholic"/>
     <tag k="name" v="Basilica di San Babila"/>
     <tag k="name:es" v="Basílica de San Babia"/>
-    <tag k="name:it" v="Basilica di San Babila"/>
     <tag k="religion" v="christian"/>
     <tag k="tourism" v="attraction"/>
     <tag k="website" v="http://www.sanbabila.org/"/>
@@ -55267,7 +55314,7 @@
     <tag k="name" v="Padiglione Litta"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="45247611" version="34" timestamp="2025-08-09T08:34:27Z" changeset="170188849" uid="13840929" user="aa30mom">
+  <way id="45247611" version="35" timestamp="2026-08-31T06:23:06Z" changeset="188286017" uid="13697350" user="c674a">
     <center lat="45.4636305" lon="9.1830062"/>
     <nd ref="574437887"/>
     <nd ref="5033959467"/>
@@ -55296,7 +55343,6 @@
     <tag k="building" v="church"/>
     <tag k="denomination" v="ethiopian_orthodox"/>
     <tag k="name" v="Chiesa di Santa Maria del Podone"/>
-    <tag k="name:it" v="Chiesa di Santa Maria del Podone"/>
     <tag k="name:ru" v="Церковь Санта Мария Подоне"/>
     <tag k="religion" v="christian"/>
     <tag k="wheelchair" v="limited"/>
@@ -55375,7 +55421,7 @@
     <tag k="wikimedia_commons" v="Category:San Maurizio al Monastero Maggiore (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Maurizio al Monastero Maggiore"/>
   </way>
-  <way id="46657900" version="10" timestamp="2025-08-03T17:42:02Z" changeset="169917828" uid="13697350" user="c674a">
+  <way id="46657900" version="11" timestamp="2026-08-31T06:23:06Z" changeset="188286017" uid="13697350" user="c674a">
     <center lat="45.4517417" lon="9.2016618"/>
     <nd ref="596332673"/>
     <nd ref="596332676"/>
@@ -55388,9 +55434,9 @@
     <tag k="beauty" v="spa"/>
     <tag k="brand" v="QC Terme"/>
     <tag k="brand:wikidata" v="Q115543071"/>
-    <tag k="building" v="commercial"/>
+    <tag k="building" v="retail"/>
     <tag k="building:levels" v="2"/>
-    <tag k="name" v="Terme Milano QC"/>
+    <tag k="name" v="QC Terme Milano"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
@@ -57664,7 +57710,7 @@
     <tag k="wikimedia_commons" v="Category:San Nicolao (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Nicolao (Milano)"/>
   </way>
-  <way id="166532729" version="4" timestamp="2024-04-04T08:24:46Z" changeset="149558064" uid="21070564" user="Tommaso-S">
+  <way id="166532729" version="5" timestamp="2026-08-30T19:25:19Z" changeset="188267688" uid="13697350" user="c674a">
     <center lat="45.4681596" lon="9.2083739"/>
     <nd ref="1779784955"/>
     <nd ref="1779784949"/>
@@ -57672,6 +57718,7 @@
     <nd ref="1779784954"/>
     <nd ref="1779784955"/>
     <tag k="amenity" v="social_facility"/>
+    <tag k="building" v="yes"/>
     <tag k="name" v="Mensa - Opera San Francesco per i Poveri"/>
     <tag k="opening_hours" v="Mo-Sa 11:30-14:30,18:00-20:30"/>
     <tag k="social_facility" v="soup_kitchen"/>
