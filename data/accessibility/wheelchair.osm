@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-31T09:31:35Z" areas="2026-08-30T14:34:56Z"/>
+<meta osm_base="2026-09-01T08:37:24Z" areas="2026-08-31T18:31:53Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -2942,9 +2942,11 @@
     <tag k="vehicle" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="639780037" lat="45.4852313" lon="9.2025963" version="6" timestamp="2024-04-25T11:02:12Z" changeset="150490202" uid="13365656" user="glemco">
+  <node id="639780037" lat="45.4852313" lon="9.2025963" version="7" timestamp="2026-08-31T17:23:27Z" changeset="188318776" uid="13697350" user="c674a">
     <tag k="amenity" v="drinking_water"/>
     <tag k="man_made" v="water_tap"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="650781282" lat="45.4897938" lon="9.1275658" version="6" timestamp="2022-11-27T08:33:55Z" changeset="129425753" uid="8305310" user="Martinligabue">
@@ -11079,9 +11081,11 @@
     <tag k="panoramax" v="5670678f-0cf9-44e4-8459-ff4776ec3416"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2465543547" lat="45.4851428" lon="9.2027515" version="5" timestamp="2024-04-25T11:02:08Z" changeset="150490202" uid="13365656" user="glemco">
+  <node id="2465543547" lat="45.4851428" lon="9.2027515" version="6" timestamp="2026-08-31T17:23:27Z" changeset="188318776" uid="13697350" user="c674a">
     <tag k="amenity" v="drinking_water"/>
     <tag k="man_made" v="water_tap"/>
+    <tag k="operator" v="MM S.p.A."/>
+    <tag k="operator:wikidata" v="Q3855742"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2471320040" lat="45.4784492" lon="9.1846256" version="4" timestamp="2026-05-12T10:33:02Z" changeset="182547860" uid="9451067" user="b-jazz-bot">
@@ -12677,9 +12681,10 @@
     <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2694879400" lat="45.4851195" lon="9.2158583" version="4" timestamp="2025-07-15T09:15:34Z" changeset="168953273" uid="290680" user="wheelmap_visitor">
-    <tag k="brand" v="Boggi"/>
-    <tag k="name" v="Boggi"/>
+  <node id="2694879400" lat="45.4851195" lon="9.2158583" version="5" timestamp="2026-08-31T17:23:27Z" changeset="188318776" uid="13697350" user="c674a">
+    <tag k="brand" v="BOGGI Milano"/>
+    <tag k="brand:wikidata" v="Q93451035"/>
+    <tag k="name" v="BOGGI Milano"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -23451,15 +23456,15 @@
     <tag k="name" v="Replay - The Stage Fine Dining"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4304781699" lat="45.4839179" lon="9.1896257" version="14" timestamp="2026-05-28T12:31:58Z" changeset="183303646" uid="974272" user="baprischka">
+  <node id="4304781699" lat="45.4839179" lon="9.1896257" version="15" timestamp="2026-08-31T17:23:27Z" changeset="188318776" uid="13697350" user="c674a">
     <tag k="amenity" v="bank"/>
-    <tag k="brand" v="UniCredit Bank"/>
+    <tag k="brand" v="UniCredit"/>
     <tag k="brand:wikidata" v="Q45568"/>
     <tag k="brand:wikipedia" v="en:UniCredit"/>
     <tag k="check_date" v="2026-05-28"/>
     <tag k="level" v="1"/>
     <tag k="level:ref" v="0"/>
-    <tag k="name" v="UniCredit Bank"/>
+    <tag k="name" v="UniCredit"/>
     <tag k="opening_hours" v="Mo-Fr 08:20-13:20,14:30-16:00; PH 08:20-12:45"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -24057,15 +24062,6 @@
     <tag k="phone" v="+39 02 2951 5207"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="4339006288" lat="45.4813412" lon="9.2121447" version="4" timestamp="2024-05-19T13:28:38Z" changeset="151534441" uid="21535740" user="agentcloud">
-    <tag k="brand" v="Zara"/>
-    <tag k="brand:wikidata" v="Q147662"/>
-    <tag k="brand:wikipedia" v="en:Zara (retailer)"/>
-    <tag k="check_date" v="2024-05-19"/>
-    <tag k="name" v="Zara"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4339006290" lat="45.4814597" lon="9.2118389" version="4" timestamp="2025-07-15T10:02:50Z" changeset="168956505" uid="290680" user="wheelmap_visitor">
     <tag k="brand" v="Terranova"/>
@@ -33707,7 +33703,7 @@
     <tag k="name" v="Intesa Sanpaolo"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7090354566" lat="45.4661816" lon="9.1621377" version="6" timestamp="2026-05-04T05:07:05Z" changeset="182186989" uid="13697350" user="c674a">
+  <node id="7090354566" lat="45.4662523" lon="9.1621592" version="7" timestamp="2026-08-31T17:49:33Z" changeset="188320074" uid="13697350" user="c674a">
     <tag k="brand" v="Wind Tre"/>
     <tag k="brand:wikidata" v="Q28119223"/>
     <tag k="name" v="Wind Tre"/>
@@ -38739,7 +38735,7 @@
     <tag k="sport" v="fitness"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9590060042" lat="45.4671168" lon="9.1549537" version="4" timestamp="2025-10-20T19:44:20Z" changeset="173553786" uid="13697350" user="c674a">
+  <node id="9590060042" lat="45.4671168" lon="9.1549537" version="5" timestamp="2026-08-31T17:49:33Z" changeset="188320074" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="20149"/>
@@ -38748,7 +38744,7 @@
     <tag k="brand:wikidata" v="Q1120617"/>
     <tag k="brand:wikipedia" v="en:TIM (brand)"/>
     <tag k="name" v="TIM"/>
-    <tag k="shop" v="mobile_phone"/>
+    <tag k="shop" v="telecommunication"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="9590060043" lat="45.4675084" lon="9.1554994" version="3" timestamp="2025-09-02T21:05:00Z" changeset="171380683" uid="1781586" user="fick89">
@@ -38764,12 +38760,12 @@
     <tag k="ref:vatin" v="IT03324980964"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9590060049" lat="45.4674101" lon="9.1549670" version="2" timestamp="2025-07-15T09:55:37Z" changeset="168956012" uid="290680" user="wheelmap_visitor">
+  <node id="9590060049" lat="45.4674101" lon="9.1549670" version="3" timestamp="2026-08-31T17:49:33Z" changeset="188320074" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20149"/>
     <tag k="addr:street" v="Via Michelangelo Buonarroti"/>
-    <tag k="amenity" v="bar"/>
+    <tag k="amenity" v="cafe"/>
     <tag k="name" v="Square Bar"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -39253,12 +39249,12 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9704088767" lat="45.4667827" lon="9.1581178" version="2" timestamp="2025-07-15T09:46:33Z" changeset="168955366" uid="290680" user="wheelmap_visitor">
+  <node id="9704088767" lat="45.4667827" lon="9.1581178" version="3" timestamp="2026-08-31T17:49:33Z" changeset="188320074" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="40"/>
     <tag k="addr:postcode" v="20145"/>
     <tag k="addr:street" v="Corso Vercelli"/>
-    <tag k="name" v="Matia's fashion outlet"/>
+    <tag k="name" v="Matia's Fashion Outlet"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -42253,7 +42249,7 @@
     <tag k="operator" v="Esselunga"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10538951163" lat="45.4664896" lon="9.1588782" version="7" timestamp="2025-10-20T19:44:20Z" changeset="173553786" uid="13697350" user="c674a">
+  <node id="10538951163" lat="45.4664896" lon="9.1588782" version="8" timestamp="2026-08-31T17:49:33Z" changeset="188320074" uid="13697350" user="c674a">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Via Domenico Cimarosa"/>
@@ -42261,6 +42257,10 @@
     <tag k="brand" v="Esselunga"/>
     <tag k="brand:wikidata" v="Q1059636"/>
     <tag k="name" v="LaEsse"/>
+    <tag k="payment:food_voucher" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+39 02 3658 3740"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.esselunga.it/it-it/negozi/negozio.laesse-milano-corso-vercelli.elir.html"/>
@@ -43546,7 +43546,7 @@
     <tag k="motor_vehicle" v="destination"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10969401631" lat="45.4774517" lon="9.1849796" version="6" timestamp="2026-04-19T08:48:13Z" changeset="181527266" uid="730016" user="Jacob Rosendal Kristensen">
+  <node id="10969401631" lat="45.4774517" lon="9.1849796" version="7" timestamp="2026-08-31T15:50:48Z" changeset="188313927" uid="14910360" user="MartaMag">
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:postcode" v="20121"/>
     <tag k="addr:street" v="Via Statuto"/>
@@ -43556,6 +43556,7 @@
     <tag k="brand:wikidata" v="Q136350648"/>
     <tag k="check_date" v="2025-10-11"/>
     <tag k="cuisine" v="sandwich"/>
+    <tag k="diet:gluten_free" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="All'Antico Vinaio"/>
     <tag k="operator:wikidata" v="Q136350648"/>
@@ -44628,11 +44629,11 @@
     <tag k="shop" v="beauty"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11313996962" lat="45.4786342" lon="9.2095429" version="6" timestamp="2026-05-24T18:19:52Z" changeset="183121265" uid="7550430" user="Britzz">
+  <node id="11313996962" lat="45.4786342" lon="9.2095429" version="7" timestamp="2026-08-31T17:23:27Z" changeset="188318776" uid="13697350" user="c674a">
     <tag k="brand" v="Iliad"/>
     <tag k="brand:wikidata" v="Q55433734"/>
     <tag k="name" v="Iliad"/>
-    <tag k="shop" v="mobile_phone"/>
+    <tag k="shop" v="telecommunication"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="11314028048" lat="45.4791713" lon="9.2100360" version="3" timestamp="2023-11-04T14:37:23Z" changeset="143614303" uid="1875845" user="Valerio_Bozzolan">
@@ -47186,8 +47187,11 @@
     <tag k="website" v="https://world.dolcegabbana.com/it/martini/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11992608593" lat="45.4820530" lon="9.2128199" version="2" timestamp="2025-07-15T09:59:24Z" changeset="168956258" uid="290680" user="wheelmap_visitor">
+  <node id="11992608593" lat="45.4820530" lon="9.2128199" version="3" timestamp="2026-08-31T17:23:27Z" changeset="188318776" uid="13697350" user="c674a">
+    <tag k="brand" v="Camicissima"/>
+    <tag k="brand:wikidata" v="Q140471177"/>
     <tag k="check_date" v="2024-06-19"/>
+    <tag k="clothes" v="men;shirts"/>
     <tag k="name" v="Camicissima"/>
     <tag k="opening_hours" v="10:00-20:00"/>
     <tag k="shop" v="clothes"/>
@@ -55350,12 +55354,26 @@
     <tag k="wikimedia_commons" v="Category:Santa Maria Podone (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di Santa Maria Podone"/>
   </way>
-  <way id="45273065" version="13" timestamp="2022-05-27T10:50:52Z" changeset="121569428" uid="11342958" user="that_dude">
-    <center lat="45.4849051" lon="9.2042101"/>
+  <way id="45273065" version="14" timestamp="2026-08-31T17:23:27Z" changeset="188318776" uid="13697350" user="c674a">
+    <center lat="45.4849244" lon="9.2042288"/>
     <nd ref="1859049841"/>
     <nd ref="574974399"/>
+    <nd ref="14137932087"/>
+    <nd ref="14137932086"/>
+    <nd ref="14137932085"/>
+    <nd ref="14137932084"/>
+    <nd ref="14137932083"/>
+    <nd ref="14137932082"/>
+    <nd ref="14137932081"/>
     <nd ref="574974404"/>
     <nd ref="1859049835"/>
+    <nd ref="14137932080"/>
+    <nd ref="14137932079"/>
+    <nd ref="14137932078"/>
+    <nd ref="14137932077"/>
+    <nd ref="14137932076"/>
+    <nd ref="14137932075"/>
+    <nd ref="14137932074"/>
     <nd ref="1859049841"/>
     <tag k="access" v="yes"/>
     <tag k="amenity" v="parking"/>
