@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-03T07:59:28Z" areas="2026-09-02T23:26:32Z"/>
+<meta osm_base="2026-09-04T08:01:51Z" areas="2026-09-03T19:09:51Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="23" timestamp="2026-06-22T15:31:51Z" changeset="184437631" uid="11242131" user="ja+">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -35072,6 +35072,11 @@
     <tag k="website" v="http://www.clinicaveterinariaturro.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="8530392384" lat="45.5084207" lon="9.2230888" version="3" timestamp="2026-09-03T15:03:06Z" changeset="188477055" uid="16804109" user="Riccardo Albiero">
+    <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="8540526871" lat="45.4783834" lon="9.2323482" version="3" timestamp="2025-01-29T13:58:26Z" changeset="161898650" uid="17843669" user="DomKor">
     <tag k="barrier" v="gate"/>
     <tag k="locked" v="no"/>
@@ -37126,7 +37131,9 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-12:30,15:00-18:00"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9346158070" lat="45.5093717" lon="9.2235081" version="4" timestamp="2025-07-15T09:38:42Z" changeset="168954810" uid="290680" user="wheelmap_visitor">
+  <node id="9346158070" lat="45.5093717" lon="9.2235081" version="5" timestamp="2026-09-03T15:07:40Z" changeset="188477290" uid="16804109" user="Riccardo Albiero">
+    <tag k="female" v="yes"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="Oliva"/>
     <tag k="opening_hours" v="Tu-Fr 08:30-19:00; Sa 08:00-17:30"/>
     <tag k="shop" v="hairdresser"/>
@@ -37137,10 +37144,12 @@
     <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9346158072" lat="45.5092257" lon="9.2234635" version="5" timestamp="2025-07-15T09:39:14Z" changeset="168954863" uid="290680" user="wheelmap_visitor">
+  <node id="9346158072" lat="45.5092257" lon="9.2234635" version="6" timestamp="2026-09-03T15:06:53Z" changeset="188477290" uid="16804109" user="Riccardo Albiero">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:postcode" v="20126"/>
     <tag k="addr:street" v="Viale Monza"/>
+    <tag k="female" v="yes"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="Capelli naturali"/>
     <tag k="opening_hours" v="Mo-Su 09:30-21:00"/>
     <tag k="shop" v="hairdresser"/>
@@ -43929,8 +43938,9 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11117129697" lat="45.4764599" lon="9.1839234" version="3" timestamp="2025-09-15T06:33:22Z" changeset="171947639" uid="22858586" user="paf_veglia">
+  <node id="11117129697" lat="45.4764599" lon="9.1839234" version="4" timestamp="2026-09-03T12:23:27Z" changeset="188469006" uid="23629183" user="Fla13">
     <tag k="check_date" v="2025-09-15"/>
+    <tag k="name" v="Civic"/>
     <tag k="shop" v="newsagent"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -52479,11 +52489,11 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="13738488299" lat="45.4652134" lon="9.1381840" version="3" timestamp="2026-08-28T20:40:15Z" changeset="188169210" uid="13697350" user="c674a">
+  <node id="13738488299" lat="45.4652134" lon="9.1381840" version="4" timestamp="2026-09-03T20:24:00Z" changeset="188495545" uid="3199858" user="Mateusz Konieczny - bot account">
     <tag k="amenity" v="parcel_locker"/>
     <tag k="brand" v="InPost"/>
     <tag k="brand:wikidata" v="Q3182097"/>
-    <tag k="colour" v="White"/>
+    <tag k="colour" v="white"/>
     <tag k="indoor" v="no"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="parcel_mail_in" v="yes"/>
@@ -53095,25 +53105,6 @@
     <tag k="seasonal" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="14056367899" lat="45.4452431" lon="9.1806654" version="1" timestamp="2026-07-28T14:17:11Z" changeset="186522397" uid="13840929" user="aa30mom">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:street" v="Via Francesco Brioschi"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="contact:email" v="info@tipota.net"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/pages/Tipota-Pub/110774758949396"/>
-    <tag k="name" v="Tipota Pub"/>
-    <tag k="opening_hours" v="18:00-02:00"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+39 02 835 7777"/>
-    <tag k="source" v="https://www.facebook.com/pages/Tipota-Pub/110774758949396?sk=info"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="website" v="https://www.tipota.net/"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="14061328127" lat="45.4594431" lon="9.1341707" version="9" timestamp="2026-07-30T11:26:29Z" changeset="186638559" uid="3798707" user="GiulyR98">
     <tag k="air_conditioning" v="yes"/>
     <tag k="contact:facebook" v="https://www.facebook.com/enigmaroommilano"/>
@@ -53180,6 +53171,34 @@
     <tag k="website" v="https://pizzeriapositano.eu/milano-cadorna/"/>
     <tag k="website:menu" v="https://pizzeriapositanocadorna.qromo.it/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="14144464499" lat="45.4509943" lon="9.2289596" version="3" timestamp="2026-09-03T13:53:01Z" changeset="188473459" uid="3798707" user="GiulyR98">
+    <tag k="beds" v="2"/>
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:housenumber" v="51"/>
+    <tag k="contact:postcode" v="20137"/>
+    <tag k="contact:street" v="Via Paolo Maspero"/>
+    <tag k="email" v="gioli@fastwebnet.it"/>
+    <tag k="name" v="B&amp;B Giolì"/>
+    <tag k="phone" v="+39 35 16 49 83 09"/>
+    <tag k="rooms" v="2"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://gioli.altervista.org/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="14145287157" lat="45.4348056" lon="9.2411722" version="7" timestamp="2026-09-03T20:24:18Z" changeset="188495563" uid="3798707" user="GiulyR98">
+    <tag k="contact:city" v="Milano"/>
+    <tag k="contact:housenumber" v="9"/>
+    <tag k="contact:postcode" v="20138"/>
+    <tag k="contact:street" v="Via Luigi Russolo"/>
+    <tag k="description:en" v="Office to rent, meeting rooms and coworking space"/>
+    <tag k="description:it" v="Uffici in affitto, sale riunioni e spazi di coworking"/>
+    <tag k="name" v="Stella 33 - Santa Giulia"/>
+    <tag k="office" v="coworking"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-20:00"/>
+    <tag k="phone" v="+39 02 9974 9975"/>
+    <tag k="website" v="https://stella33.com/ssg-milano-spark-business-district/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
