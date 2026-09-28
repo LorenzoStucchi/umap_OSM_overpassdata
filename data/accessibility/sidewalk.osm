@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-27T09:01:06Z" areas="2026-09-26T02:15:26Z"/>
+<meta osm_base="2026-09-28T09:37:08Z" areas="2026-09-27T13:54:01Z"/>
 
   <way id="7980051" version="26" timestamp="2022-06-21T12:16:40Z" changeset="122665933" uid="8350372" user="Balaabirami">
     <bounds minlat="45.4675638" minlon="9.1816872" maxlat="45.4678256" maxlon="9.1819163"/>
@@ -3992,7 +3992,7 @@
     <tag k="surface" v="paving_stones"/>
     <tag k="tactile_paving" v="no"/>
   </way>
-  <way id="174314169" version="12" timestamp="2024-12-12T07:36:29Z" changeset="160195904" uid="1404750" user="Yiyi_">
+  <way id="174314169" version="13" timestamp="2026-09-28T06:41:29Z" changeset="189661578" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.4643535" minlon="9.1885985" maxlat="45.4648243" maxlon="9.1889281"/>
     <nd ref="1857902571" lat="45.4643573" lon="9.1887213"/>
     <nd ref="6553210265" lat="45.4643535" lon="9.1889281"/>
@@ -4009,6 +4009,7 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="lit" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
   </way>
   <way id="174314170" version="7" timestamp="2023-11-15T12:31:56Z" changeset="144049811" uid="1404750" user="Yiyi_">
     <bounds minlat="45.4646489" minlon="9.1884649" maxlat="45.4647088" maxlon="9.1884654"/>
@@ -45607,7 +45608,7 @@
     <tag k="lit" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="726098785" version="5" timestamp="2026-02-04T16:59:27Z" changeset="178103677" uid="8716397" user="f_gonella">
+  <way id="726098785" version="6" timestamp="2026-09-27T18:49:48Z" changeset="189645739" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.4581507" minlon="9.1691558" maxlat="45.4582712" maxlon="9.1693054"/>
     <nd ref="5544842642" lat="45.4582712" lon="9.1691558"/>
     <nd ref="2588305407" lat="45.4582555" lon="9.1691647"/>
@@ -45618,6 +45619,7 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="726098787" version="4" timestamp="2026-06-14T08:26:46Z" changeset="184084084" uid="13697350" user="c674a">
@@ -103187,13 +103189,15 @@
     <tag k="lit" v="yes"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1030427508" version="4" timestamp="2023-09-26T13:42:55Z" changeset="141775557" uid="8350372" user="Balaabirami">
-    <bounds minlat="45.4682819" minlon="9.1265957" maxlat="45.4686674" maxlon="9.1271033"/>
-    <nd ref="11220221066" lat="45.4682819" lon="9.1266136"/>
-    <nd ref="9505292770" lat="45.4683429" lon="9.1265957"/>
-    <nd ref="9498555780" lat="45.4684708" lon="9.1267915"/>
-    <nd ref="9498555779" lat="45.4686265" lon="9.1270396"/>
+  <way id="1030427508" version="5" timestamp="2026-09-27T12:21:10Z" changeset="189627390" uid="13697350" user="c674a">
+    <bounds minlat="45.4682819" minlon="9.1265957" maxlat="45.4686674" maxlon="9.1282493"/>
+    <nd ref="9513831918" lat="45.4682914" lon="9.1282493"/>
+    <nd ref="9513831919" lat="45.4685860" lon="9.1273206"/>
     <nd ref="9498555778" lat="45.4686674" lon="9.1271033"/>
+    <nd ref="9498555779" lat="45.4686265" lon="9.1270396"/>
+    <nd ref="9498555780" lat="45.4684708" lon="9.1267915"/>
+    <nd ref="9505292770" lat="45.4683429" lon="9.1265957"/>
+    <nd ref="11220221066" lat="45.4682819" lon="9.1266136"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
@@ -104083,15 +104087,6 @@
     <nd ref="9505266298" lat="45.4697730" lon="9.1284719"/>
     <nd ref="9505266293" lat="45.4697610" lon="9.1284562"/>
     <nd ref="9505266296" lat="45.4696991" lon="9.1285279"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-  <way id="1031323422" version="3" timestamp="2022-10-20T09:27:18Z" changeset="127828178" uid="8350372" user="Balaabirami">
-    <bounds minlat="45.4682914" minlon="9.1271033" maxlat="45.4686674" maxlon="9.1282493"/>
-    <nd ref="9513831918" lat="45.4682914" lon="9.1282493"/>
-    <nd ref="9513831919" lat="45.4685860" lon="9.1273206"/>
-    <nd ref="9498555778" lat="45.4686674" lon="9.1271033"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
@@ -107232,23 +107227,24 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1032565673" version="3" timestamp="2025-12-23T03:43:49Z" changeset="176290090" uid="23064770" user="PedestrianMapping_GeoRelay">
-    <bounds minlat="45.4664202" minlon="9.1279422" maxlat="45.4681930" maxlon="9.1285658"/>
-    <nd ref="9513805913" lat="45.4681930" lon="9.1285658"/>
-    <nd ref="9513805912" lat="45.4680422" lon="9.1284669"/>
-    <nd ref="9513805911" lat="45.4680236" lon="9.1284699"/>
-    <nd ref="9513805910" lat="45.4680121" lon="9.1284712"/>
-    <nd ref="9513805909" lat="45.4679961" lon="9.1284635"/>
-    <nd ref="13396602467" lat="45.4674925" lon="9.1281484"/>
-    <nd ref="9513805908" lat="45.4671804" lon="9.1279532"/>
-    <nd ref="9513805907" lat="45.4671708" lon="9.1279801"/>
-    <nd ref="9513805906" lat="45.4671299" lon="9.1280629"/>
-    <nd ref="9513805905" lat="45.4671120" lon="9.1280904"/>
-    <nd ref="9513805904" lat="45.4669994" lon="9.1280253"/>
-    <nd ref="9513805903" lat="45.4669716" lon="9.1279878"/>
-    <nd ref="9514157027" lat="45.4668940" lon="9.1279422"/>
-    <nd ref="9513805899" lat="45.4668136" lon="9.1279536"/>
+  <way id="1032565673" version="4" timestamp="2026-09-27T12:21:10Z" changeset="189627390" uid="13697350" user="c674a">
+    <bounds minlat="45.4664202" minlon="9.1279422" maxlat="45.4682433" maxlon="9.1285658"/>
     <nd ref="9513805898" lat="45.4664202" lon="9.1284759"/>
+    <nd ref="9513805899" lat="45.4668136" lon="9.1279536"/>
+    <nd ref="9514157027" lat="45.4668940" lon="9.1279422"/>
+    <nd ref="9513805903" lat="45.4669716" lon="9.1279878"/>
+    <nd ref="9513805904" lat="45.4669994" lon="9.1280253"/>
+    <nd ref="9513805905" lat="45.4671120" lon="9.1280904"/>
+    <nd ref="9513805906" lat="45.4671299" lon="9.1280629"/>
+    <nd ref="9513805907" lat="45.4671708" lon="9.1279801"/>
+    <nd ref="9513805908" lat="45.4671804" lon="9.1279532"/>
+    <nd ref="13396602467" lat="45.4674925" lon="9.1281484"/>
+    <nd ref="9513805909" lat="45.4679961" lon="9.1284635"/>
+    <nd ref="9513805910" lat="45.4680121" lon="9.1284712"/>
+    <nd ref="9513805911" lat="45.4680236" lon="9.1284699"/>
+    <nd ref="9513805912" lat="45.4680422" lon="9.1284669"/>
+    <nd ref="9513805913" lat="45.4681930" lon="9.1285658"/>
+    <nd ref="9513805916" lat="45.4682433" lon="9.1283936"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
@@ -107809,9 +107805,10 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1032858309" version="12" timestamp="2026-09-25T21:41:50Z" changeset="189563804" uid="13697350" user="c674a">
+  <way id="1032858309" version="13" timestamp="2026-09-27T12:21:10Z" changeset="189627390" uid="13697350" user="c674a">
     <bounds minlat="45.4612478" minlon="9.1285633" maxlat="45.4629855" maxlon="9.1327839"/>
     <nd ref="11051090023" lat="45.4629855" lon="9.1326748"/>
+    <nd ref="14222215897" lat="45.4629855" lon="9.1327416"/>
     <nd ref="9516128094" lat="45.4629828" lon="9.1327617"/>
     <nd ref="9516128093" lat="45.4629671" lon="9.1327809"/>
     <nd ref="9516128092" lat="45.4627851" lon="9.1327839"/>
@@ -107831,7 +107828,7 @@
     <tag k="surface" v="asphalt"/>
   </way>
   <way id="1032858310" version="10" timestamp="2026-09-26T09:17:42Z" changeset="189577939" uid="11976" user="Map47">
-    <bounds minlat="45.4627704" minlon="9.1329571" maxlat="45.4629892" maxlon="9.1335544"/>
+    <bounds minlat="45.4627713" minlon="9.1329634" maxlat="45.4629892" maxlon="9.1335544"/>
     <nd ref="994926507" lat="45.4629892" lon="9.1335248"/>
     <nd ref="13059250715" lat="45.4629835" lon="9.1335436"/>
     <nd ref="9516128102" lat="45.4629727" lon="9.1335500"/>
@@ -107841,9 +107838,9 @@
     <nd ref="994926500" lat="45.4627749" lon="9.1335279"/>
     <nd ref="13990776994" lat="45.4627745" lon="9.1334747"/>
     <nd ref="13273012638" lat="45.4627713" lon="9.1330994"/>
-    <nd ref="9516128099" lat="45.4627704" lon="9.1329923"/>
-    <nd ref="13059250712" lat="45.4627798" lon="9.1329692"/>
-    <nd ref="994926496" lat="45.4627977" lon="9.1329571"/>
+    <nd ref="9516128099" lat="45.4627724" lon="9.1329937"/>
+    <nd ref="13059250712" lat="45.4627821" lon="9.1329789"/>
+    <nd ref="994926496" lat="45.4627999" lon="9.1329665"/>
     <nd ref="13273012637" lat="45.4629555" lon="9.1329634"/>
     <nd ref="994926493" lat="45.4629687" lon="9.1329639"/>
     <nd ref="13059250713" lat="45.4629814" lon="9.1329777"/>
@@ -146740,13 +146737,14 @@
     <tag k="public_transport" v="platform"/>
     <tag k="tactile_paving" v="no"/>
   </way>
-  <way id="1072702663" version="1" timestamp="2022-06-23T14:37:58Z" changeset="122763323" uid="8350372" user="Balaabirami">
+  <way id="1072702663" version="2" timestamp="2026-09-27T18:47:11Z" changeset="189645739" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.4625652" minlon="9.1738837" maxlat="45.4637162" maxlon="9.1745155"/>
     <nd ref="9841710620" lat="45.4625652" lon="9.1738837"/>
     <nd ref="6462172362" lat="45.4625846" lon="9.1738928"/>
     <nd ref="9841722370" lat="45.4637162" lon="9.1745155"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1072703999" version="7" timestamp="2024-05-18T07:45:23Z" changeset="151481248" uid="1875845" user="Valerio_Bozzolan">
     <bounds minlat="45.4673202" minlon="9.1766326" maxlat="45.4675666" maxlon="9.1768086"/>
@@ -179725,14 +179723,6 @@
     <nd ref="13394846248" lat="45.4753083" lon="9.1148733"/>
     <nd ref="10116099070" lat="45.4753047" lon="9.1148838"/>
     <nd ref="9505325202" lat="45.4753149" lon="9.1148905"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-  <way id="1105472548" version="1" timestamp="2022-10-20T09:48:33Z" changeset="127829258" uid="8350372" user="Balaabirami">
-    <bounds minlat="45.4681930" minlon="9.1283936" maxlat="45.4682433" maxlon="9.1285658"/>
-    <nd ref="9513805913" lat="45.4681930" lon="9.1285658"/>
-    <nd ref="9513805916" lat="45.4682433" lon="9.1283936"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
@@ -252800,19 +252790,21 @@
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
   </way>
-  <way id="1418171655" version="1" timestamp="2025-07-28T21:22:47Z" changeset="169637445" uid="22891840" user="VLD317">
+  <way id="1418171655" version="2" timestamp="2026-09-27T18:50:58Z" changeset="189645739" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.4576881" minlon="9.1687823" maxlat="45.4576950" maxlon="9.1687942"/>
     <nd ref="9903851393" lat="45.4576950" lon="9.1687823"/>
     <nd ref="9903851392" lat="45.4576881" lon="9.1687942"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1418171656" version="1" timestamp="2025-07-28T21:22:47Z" changeset="169637445" uid="22891840" user="VLD317">
+  <way id="1418171656" version="2" timestamp="2026-09-27T18:51:06Z" changeset="189645739" uid="16804109" user="Riccardo Albiero">
     <bounds minlat="45.4576538" minlon="9.1687349" maxlat="45.4576641" maxlon="9.1687475"/>
     <nd ref="5544842639" lat="45.4576641" lon="9.1687475"/>
     <nd ref="6510829974" lat="45.4576538" lon="9.1687349"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1418171657" version="2" timestamp="2025-11-07T20:06:11Z" changeset="174349972" uid="18763717" user="Tripsix">
     <bounds minlat="45.4575673" minlon="9.1686356" maxlat="45.4575747" maxlon="9.1686432"/>
@@ -274309,15 +274301,6 @@
     <bounds minlat="45.4661792" minlon="9.1281071" maxlat="45.4664202" maxlon="9.1284759"/>
     <nd ref="9513668067" lat="45.4661792" lon="9.1281071"/>
     <nd ref="9513805898" lat="45.4664202" lon="9.1284759"/>
-    <tag k="footway" v="sidewalk"/>
-    <tag k="highway" v="footway"/>
-    <tag k="surface" v="asphalt"/>
-  </way>
-  <way id="1460652338" version="1" timestamp="2025-12-23T03:43:49Z" changeset="176290090" uid="23064770" user="PedestrianMapping_GeoRelay">
-    <bounds minlat="45.4664202" minlon="9.1284759" maxlat="45.4664587" maxlon="9.1285354"/>
-    <nd ref="9513805898" lat="45.4664202" lon="9.1284759"/>
-    <nd ref="13396602465" lat="45.4664313" lon="9.1284930"/>
-    <nd ref="9513805875" lat="45.4664587" lon="9.1285354"/>
     <tag k="footway" v="sidewalk"/>
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
