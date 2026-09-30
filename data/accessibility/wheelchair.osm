@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-29T09:38:48Z" areas="2026-09-28T16:30:26Z"/>
+<meta osm_base="2026-09-30T09:37:02Z" areas="2026-09-29T07:52:35Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="25" timestamp="2026-09-28T22:55:57Z" changeset="189701847" uid="5164" user="woodpeck">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -7012,18 +7012,18 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1860872116" lat="45.4970521" lon="9.1916746" version="9" timestamp="2026-08-23T17:59:49Z" changeset="187901440" uid="13697350" user="c674a">
+  <node id="1860872116" lat="45.4970521" lon="9.1916746" version="10" timestamp="2026-09-29T16:40:50Z" changeset="189737984" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20159"/>
     <tag k="addr:street" v="Via Gioacchino Murat"/>
     <tag k="amenity" v="pharmacy"/>
-    <tag k="check_date" v="2026-05-24"/>
+    <tag k="check_date" v="2026-09-29"/>
     <tag k="dispensing" v="yes"/>
     <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="BENU Farmacia n. 63"/>
     <tag k="note" v="Farmacia Comunale"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-13:00,15:30-19:30; Sa 09:00-13:00,15:00-19:00"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-13:00,15:30-19:30; Sa 09:00-13:00,15:00-19:00; Su off"/>
     <tag k="operator" v="BENU"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
@@ -7121,7 +7121,7 @@
     <tag k="phone" v="+39 02 7602 2880"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1898336420" lat="45.4546749" lon="9.1810291" version="16" timestamp="2026-09-27T14:54:15Z" changeset="189634653" uid="290680" user="wheelmap_visitor">
+  <node id="1898336420" lat="45.4546749" lon="9.1810291" version="17" timestamp="2026-09-29T12:11:13Z" changeset="189724570" uid="18511019" user="Senihtu">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="3"/>
@@ -7132,7 +7132,7 @@
     <tag k="name:de" v="Diözesanmuseum von Mailand"/>
     <tag k="name:es" v="Museo Diocesano de Milán"/>
     <tag k="name:fr" v="Musée diocésain de Milan"/>
-    <tag k="opening_hours" v="Tu-Su 10:00-18:00; Mo, Jan 01,May 01,Dec 25,26 off"/>
+    <tag k="opening_hours" v="Tu-Su 10:00-18:00; Mo off , Jan 01,May 01,Dec 25,26 off"/>
     <tag k="phone" v="+390289420019"/>
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="tourism" v="museum"/>
@@ -27254,7 +27254,7 @@
     <tag k="ref:vatin" v="08331491210"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4916541765" lat="45.4970425" lon="9.1932776" version="9" timestamp="2026-09-07T10:47:58Z" changeset="188663533" uid="22858586" user="paf_veglia">
+  <node id="4916541765" lat="45.4970425" lon="9.1932776" version="10" timestamp="2026-09-29T16:37:08Z" changeset="189737778" uid="22858586" user="paf_veglia">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="20159"/>
@@ -27262,7 +27262,7 @@
     <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="20"/>
-    <tag k="check_date" v="2026-09-07"/>
+    <tag k="check_date" v="2026-09-29"/>
     <tag k="contact:instagram" v="https://www.instagram.com/bellapizza248"/>
     <tag k="contact:whatsapp" v="+393715798825"/>
     <tag k="cuisine" v="pizza;italian;kebab"/>
@@ -33174,6 +33174,15 @@
     <tag k="ref:vatin" v="IT13195220150"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6630763330" lat="45.4344490" lon="9.2237501" version="5" timestamp="2026-09-29T11:48:17Z" changeset="189723393" uid="23724596" user="ChimpanBC">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Levante"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="6652798487" lat="45.4908677" lon="9.1889100" version="3" timestamp="2023-05-24T17:51:45Z" changeset="136511532" uid="1875845" user="Valerio_Bozzolan">
     <tag k="addr:housenumber" v="3"/>
