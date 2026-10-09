@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-10-08T10:00:06Z" areas="2026-10-07T10:19:21Z"/>
+<meta osm_base="2026-10-09T10:09:49Z" areas="2026-10-08T07:25:51Z"/>
 
   <way id="4604822" version="14" timestamp="2022-05-31T13:14:47Z" changeset="121768289" uid="8350372" user="Balaabirami">
     <bounds minlat="45.4522307" minlon="9.1782887" maxlat="45.4522784" maxlon="9.1782979"/>
@@ -103314,7 +103314,7 @@
     <tag k="highway" v="footway"/>
     <tag k="surface" v="asphalt"/>
   </way>
-  <way id="1037103919" version="1" timestamp="2022-03-04T11:15:00Z" changeset="118088808" uid="8350372" user="Balaabirami">
+  <way id="1037103919" version="2" timestamp="2026-10-09T09:48:54Z" changeset="190241544" uid="23629183" user="Fla13">
     <bounds minlat="45.4858980" minlon="9.1402377" maxlat="45.4859810" maxlon="9.1402823"/>
     <nd ref="9334526598" lat="45.4858980" lon="9.1402377"/>
     <nd ref="9554003580" lat="45.4859062" lon="9.1402421"/>
@@ -103324,7 +103324,7 @@
     <tag k="crossing" v="uncontrolled"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
-    <tag k="surface" v="unpaved"/>
+    <tag k="surface" v="asphalt"/>
   </way>
   <way id="1037103920" version="1" timestamp="2022-03-04T11:15:00Z" changeset="118088808" uid="8350372" user="Balaabirami">
     <bounds minlat="45.4860868" minlon="9.1389249" maxlat="45.4860930" maxlon="9.1391059"/>
@@ -232160,6 +232160,20 @@
     <tag k="crossing:island" v="yes"/>
     <tag k="footway" v="crossing"/>
     <tag k="highway" v="footway"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1566656691" version="1" timestamp="2026-10-08T22:01:03Z" changeset="190224212" uid="18266291" user="nicola_alle">
+    <bounds minlat="45.4791781" minlon="9.2270178" maxlat="45.4791783" maxlon="9.2270689"/>
+    <nd ref="14266052548" lat="45.4791781" lon="9.2270178"/>
+    <nd ref="3455829754" lat="45.4791782" lon="9.2270381"/>
+    <nd ref="14266052549" lat="45.4791783" lon="9.2270689"/>
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="crossing:markings" v="zebra"/>
+    <tag k="footway" v="crossing"/>
+    <tag k="highway" v="footway"/>
+    <tag k="lit" v="yes"/>
+    <tag k="smoothness" v="good"/>
     <tag k="surface" v="asphalt"/>
   </way>
 
