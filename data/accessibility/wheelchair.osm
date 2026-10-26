@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-10-24T08:18:06Z" areas="2026-10-24T01:11:36Z"/>
+<meta osm_base="2026-10-26T08:46:35Z" areas="2026-10-26T04:00:37Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="25" timestamp="2026-09-28T22:55:57Z" changeset="189701847" uid="5164" user="woodpeck">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -5693,7 +5693,7 @@
     <tag k="source" v="Ministero della Salute"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1679571328" lat="45.4791284" lon="9.2278897" version="8" timestamp="2026-03-03T14:58:59Z" changeset="179305989" uid="18266291" user="nicola_alle">
+  <node id="1679571328" lat="45.4791366" lon="9.2278831" version="9" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
     <tag k="brand" v="Banca Popolare di Sondrio"/>
@@ -5703,6 +5703,7 @@
     <tag k="brand:wikipedia" v="en:Banca Popolare di Sondrio"/>
     <tag k="check_date" v="2026-03-03"/>
     <tag k="check_date:opening_hours" v="2023-05-30"/>
+    <tag k="fixme" v="Banca Popolare di Sondrio è stata acquisita da BPER Banca. Bisogna controllare cosa ci sia qua adesso."/>
     <tag k="name" v="Banca Popolare di Sondrio"/>
     <tag k="name:en" v="Banca Popolare di Sondrio"/>
     <tag k="name:it" v="Banca Popolare di Sondrio"/>
@@ -6027,7 +6028,7 @@
     <tag k="motor_vehicle" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1722079008" lat="45.4791634" lon="9.2279217" version="8" timestamp="2026-03-03T15:00:18Z" changeset="179306349" uid="18266291" user="nicola_alle">
+  <node id="1722079008" lat="45.4791633" lon="9.2279318" version="9" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
     <tag k="access" v="permissive"/>
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="permissive"/>
@@ -11844,21 +11845,16 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q111413058"/>
   </node>
-  <node id="2496456233" lat="45.4788607" lon="9.2278430" version="12" timestamp="2026-04-16T13:52:36Z" changeset="181415275" uid="4862063" user="tars4815">
+  <node id="2496456233" lat="45.4789416" lon="9.2278593" version="13" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="bar" v="yes"/>
     <tag k="check_date" v="2026-04-16"/>
-    <tag k="contact:city" v="Milano"/>
-    <tag k="contact:housenumber" v="32"/>
-    <tag k="contact:postcode" v="20100"/>
-    <tag k="contact:street" v="Piazza Leonardo da Vinci"/>
     <tag k="cuisine" v="coffee_shop"/>
-    <tag k="layer" v="-1"/>
     <tag k="level" v="-1"/>
-    <tag k="name" v="SeRist"/>
+    <tag k="name" v="Polidistrict Unico"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-17:30"/>
-    <tag k="operator" v="Serist S.r.l."/>
+    <tag k="operator" v="Compass Group"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
@@ -19210,13 +19206,14 @@
     <tag k="website" v="https://www.pizzeriabistronorin.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3758916386" lat="45.4831178" lon="9.1979400" version="2" timestamp="2019-09-13T10:11:00Z" changeset="74419291" uid="290680" user="wheelmap_visitor">
+  <node id="3758916386" lat="45.4831178" lon="9.1979400" version="3" timestamp="2026-10-25T12:14:22Z" changeset="191008499" uid="32707" user="rettichschnidi">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="20124"/>
     <tag k="addr:street" v="Via Gustavo Fara"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Piada Gallery Caffe'"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3758916398" lat="45.4839773" lon="9.1980915" version="5" timestamp="2023-05-21T19:08:11Z" changeset="136384204" uid="974272" user="baprischka">
@@ -38372,11 +38369,12 @@
     <tag k="website" v="https://www.aismilano.wine/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9530546312" lat="45.4656233" lon="9.2163585" version="3" timestamp="2024-06-23T09:29:57Z" changeset="153058992" uid="1875845" user="Valerio_Bozzolan">
+  <node id="9530546312" lat="45.4656233" lon="9.2163585" version="4" timestamp="2026-10-24T11:42:25Z" changeset="190966805" uid="4903102" user="Superchilum">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="75"/>
     <tag k="addr:postcode" v="20129"/>
     <tag k="addr:street" v="Via Archimede"/>
+    <tag k="check_date" v="2026-10-24"/>
     <tag k="name" v="Hotel Poma"/>
     <tag k="rooms" v="12"/>
     <tag k="stars" v="3"/>
@@ -38385,12 +38383,13 @@
     <tag k="wheelchair" v="no"/>
     <tag k="wikidata" v="Q111123727"/>
   </node>
-  <node id="9530569617" lat="45.4655917" lon="9.2165608" version="3" timestamp="2024-06-23T09:30:17Z" changeset="153058992" uid="1875845" user="Valerio_Bozzolan">
+  <node id="9530569617" lat="45.4655917" lon="9.2165608" version="4" timestamp="2026-10-24T11:42:15Z" changeset="190966805" uid="4903102" user="Superchilum">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="79"/>
     <tag k="addr:postcode" v="20129"/>
     <tag k="addr:street" v="Via Archimede"/>
     <tag k="air_conditioning" v="yes"/>
+    <tag k="check_date" v="2026-10-24"/>
     <tag k="name" v="Hotel Castelletto"/>
     <tag k="rooms" v="14"/>
     <tag k="stars" v="2"/>
@@ -44857,7 +44856,7 @@
     <tag k="website" v="https://silvano.superbexperience.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="11281688349" lat="45.4791633" lon="9.2279031" version="2" timestamp="2026-03-03T15:24:33Z" changeset="179306349" uid="18266291" user="nicola_alle">
+  <node id="11281688349" lat="45.4791633" lon="9.2279068" version="3" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
     <tag k="access" v="permissive"/>
     <tag k="barrier" v="gate"/>
     <tag k="bicycle" v="no"/>
@@ -47694,19 +47693,22 @@
     <tag k="shop" v="tyres"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12002463491" lat="45.4655948" lon="9.2167531" version="4" timestamp="2024-06-23T09:34:40Z" changeset="153058992" uid="1875845" user="Valerio_Bozzolan">
+  <node id="12002463491" lat="45.4655948" lon="9.2167531" version="5" timestamp="2026-10-24T11:42:00Z" changeset="190966805" uid="4903102" user="Superchilum">
+    <tag k="check_date" v="2026-10-24"/>
     <tag k="female" v="yes"/>
     <tag k="male" v="yes"/>
     <tag k="name" v="Claudì"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12002484122" lat="45.4653180" lon="9.2175972" version="2" timestamp="2024-06-23T09:49:30Z" changeset="153058992" uid="1875845" user="Valerio_Bozzolan">
+  <node id="12002484122" lat="45.4653180" lon="9.2175972" version="3" timestamp="2026-10-24T11:40:09Z" changeset="190966805" uid="4903102" user="Superchilum">
+    <tag k="check_date" v="2026-10-24"/>
     <tag k="name" v="Attrazione casa"/>
     <tag k="office" v="estate_agent"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12002494801" lat="45.4653737" lon="9.2176032" version="2" timestamp="2024-06-23T09:49:11Z" changeset="153058992" uid="1875845" user="Valerio_Bozzolan">
+  <node id="12002494801" lat="45.4653737" lon="9.2176032" version="3" timestamp="2026-10-24T11:40:05Z" changeset="190966805" uid="4903102" user="Superchilum">
+    <tag k="check_date" v="2026-10-24"/>
     <tag k="name" v="Compro oro"/>
     <tag k="shop" v="jewelry"/>
     <tag k="wheelchair" v="no"/>
@@ -50756,7 +50758,7 @@
     <tag k="operator" v="ATM Milano"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13169343201" lat="45.4784387" lon="9.2281412" version="7" timestamp="2026-03-04T14:05:56Z" changeset="179351384" uid="22919632" user="matteobott">
+  <node id="13169343201" lat="45.4784489" lon="9.2281319" version="8" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
     <tag k="access" v="yes"/>
     <tag k="check_date" v="2025-09-25"/>
     <tag k="defibrillator:location" v="Su Viale Tonolini, tra l'edificio 2 e l'edificio 4. Collocato a destra rispetto alle scale."/>
@@ -53632,6 +53634,16 @@
     <tag k="website" v="https://www.enigmaroom.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="14074933835" lat="45.4913619" lon="9.2366245" version="2" timestamp="2026-10-24T17:29:41Z" changeset="190981202" uid="18266291" user="nicola_alle">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20132"/>
+    <tag k="addr:street" v="Piazzale Udine"/>
+    <tag k="noname" v="yes"/>
+    <tag k="physically_present" v="no"/>
+    <tag k="shop" v="fashion_accessories"/>
+    <tag k="street_vendor" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="14131030617" lat="45.4700032" lon="9.2299159" version="3" timestamp="2026-08-28T12:03:42Z" changeset="188143766" uid="15264988" user="nicola_yubo">
     <tag k="name" v="Sartoria da Lita"/>
     <tag k="opening_hours" v="Mo-Sa 08:30-20:00"/>
@@ -53903,6 +53915,29 @@
   <node id="14305785495" lat="45.4761311" lon="9.2320496" version="1" timestamp="2026-10-21T10:09:40Z" changeset="190828947" uid="21207235" user="justcivah">
     <tag k="entrance" v="main"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="14316304405" lat="45.4784825" lon="9.2282867" version="1" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
+    <tag k="access" v="permit"/>
+    <tag k="door" v="sliding"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="14316304426" lat="45.4790019" lon="9.2280759" version="1" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="14316304428" lat="45.4790006" lon="9.2280150" version="1" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="14316304432" lat="45.4790841" lon="9.2280940" version="1" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
@@ -56605,7 +56640,7 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q106637312"/>
   </way>
-  <way id="95931669" version="9" timestamp="2026-01-31T17:35:59Z" changeset="177935255" uid="23724596" user="ChimpanBC">
+  <way id="95931669" version="10" timestamp="2026-10-25T20:28:49Z" changeset="191027722" uid="13920670" user="ottanium">
     <center lat="45.4906016" lon="9.2407736"/>
     <nd ref="1111496962"/>
     <nd ref="1111497019"/>
@@ -56615,6 +56650,7 @@
     <nd ref="1111496938"/>
     <nd ref="1111497022"/>
     <nd ref="1111497017"/>
+    <nd ref="14319608029"/>
     <nd ref="1111496966"/>
     <nd ref="1111496988"/>
     <nd ref="1111496980"/>
@@ -69262,14 +69298,15 @@
     <tag k="parcel_pickup" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </way>
-  <way id="1565127376" version="1" timestamp="2026-10-05T08:44:34Z" changeset="190020993" uid="22919632" user="matteobott">
-    <center lat="45.4784975" lon="9.2282384"/>
+  <way id="1565127376" version="2" timestamp="2026-10-24T15:57:01Z" changeset="190978080" uid="18266291" user="nicola_alle">
+    <center lat="45.4784958" lon="9.2282432"/>
     <nd ref="14251454769"/>
     <nd ref="14251454770"/>
+    <nd ref="14316304405"/>
     <nd ref="14251454771"/>
     <nd ref="14251454772"/>
     <nd ref="14251454769"/>
-    <tag k="building" v="yes"/>
+    <tag k="building" v="container"/>
     <tag k="building:levels" v="1"/>
     <tag k="building:material" v="metal"/>
     <tag k="height" v="3"/>
