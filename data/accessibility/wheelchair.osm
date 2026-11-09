@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-11-07T09:55:51Z" areas="2026-11-07T06:15:49Z"/>
+<meta osm_base="2026-11-09T10:57:26Z" areas="2026-11-09T07:23:31Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="25" timestamp="2026-09-28T22:55:57Z" changeset="189701847" uid="5164" user="woodpeck">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -542,7 +542,7 @@
     <tag k="phone" v="+39 02 6416331"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="258034430" lat="45.4492467" lon="9.2057636" version="14" timestamp="2026-08-12T14:49:12Z" changeset="187344719" uid="13840929" user="aa30mom">
+  <node id="258034430" lat="45.4492467" lon="9.2057636" version="15" timestamp="2026-11-07T13:43:41Z" changeset="191604915" uid="13840929" user="aa30mom">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:postcode" v="20135"/>
@@ -557,7 +557,7 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-12:30,15:30-19:30; Sa 08:30-12:30"/>
     <tag k="operator" v="Roma snc"/>
     <tag k="ref:msal" v="2946"/>
-    <tag k="ref:vatin" v="IT04087880961"/>
+    <tag k="ref:vatin" v="IT06700780965"/>
     <tag k="source" v="Ministero della Salute"/>
     <tag k="website" v="https://www.farmaciaroma.org/"/>
     <tag k="wheelchair" v="yes"/>
@@ -798,7 +798,7 @@
     <tag k="website" v="https://www.radetzky.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="269924649" lat="45.4799222" lon="9.1832687" version="16" timestamp="2026-02-28T21:38:57Z" changeset="179188176" uid="23724596" user="ChimpanBC">
+  <node id="269924649" lat="45.4799222" lon="9.1832687" version="17" timestamp="2026-11-09T09:20:02Z" changeset="191685196" uid="6794624" user="Comino">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="13"/>
@@ -806,9 +806,7 @@
     <tag k="addr:street" v="Via Alessandro Volta"/>
     <tag k="amenity" v="pub"/>
     <tag k="check_date" v="2026-02-28"/>
-    <tag k="check_date:currency:XBT" v="2024-09-20"/>
     <tag k="check_date:opening_hours" v="2026-02-28"/>
-    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@scottduff.it"/>
     <tag k="image" v="https://scottduff.it/img/esterno_ScottDuff.jpg"/>
     <tag k="internet_access" v="wlan"/>
@@ -817,9 +815,6 @@
     <tag k="name" v="Scott Duff"/>
     <tag k="opening_hours" v="Mo-Sa 16:30-02:00, Su 15:00-01:00"/>
     <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="no"/>
     <tag k="phone" v="+39 02 29002574"/>
     <tag k="ref:vatin" v="IT01631310677"/>
     <tag k="website" v="https://scottduff.it/"/>
@@ -32644,12 +32639,15 @@
     <tag k="ref:vatin" v="IT04878770967"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6148419438" lat="45.4592388" lon="9.1961176" version="3" timestamp="2025-09-25T20:56:56Z" changeset="172458441" uid="22919632" user="matteobott">
+  <node id="6148419438" lat="45.4590592" lon="9.1961213" version="4" timestamp="2026-11-07T23:10:55Z" changeset="191625540" uid="24739367" user="Claudio Antropico">
     <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="20122"/>
     <tag k="addr:street" v="Via San Barnaba"/>
     <tag k="amenity" v="hospital"/>
-    <tag k="emergency" v="yes"/>
+    <tag k="emergency" v="emergency_ward_entrance"/>
+    <tag k="emergency_ward_entrance" v="all"/>
+    <tag k="entrance" v="yes"/>
     <tag k="healthcare" v="hospital"/>
     <tag k="healthcare:speciality" v="emergency"/>
     <tag k="name" v="Pronto Soccorso"/>
@@ -32680,6 +32678,20 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="tactile_paving" v="no"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6165363171" lat="45.4719687" lon="9.1452982" version="7" timestamp="2026-11-07T23:51:04Z" changeset="191626309" uid="24739367" user="Claudio Antropico">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="20149"/>
+    <tag k="addr:street" v="Piazzale Brescia"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="emergency_ward_entrance;yes"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="name" v="Pronto Soccorso Istituto Auxologico San Luca"/>
+    <tag k="operator" v="Auxologico"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="6176004442" lat="45.5149020" lon="9.2256326" version="6" timestamp="2026-05-12T17:53:40Z" changeset="182567848" uid="15264988" user="nicola_yubo">
     <tag k="addr:city" v="Milano"/>
@@ -48387,6 +48399,21 @@
     <tag k="website" v="https://www.ratana.it/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12344699300" lat="45.4943893" lon="9.2236226" version="3" timestamp="2026-11-08T15:15:45Z" changeset="191650450" uid="23629183" user="Fla13">
+    <tag k="name" v="Torre delle Sirene"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12344764180" lat="45.4954924" lon="9.2260185" version="2" timestamp="2026-11-08T14:55:29Z" changeset="191650450" uid="23629183" user="Fla13">
+    <tag k="name" v="Grande Quercia"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12344842408" lat="45.4958109" lon="9.2258765" version="2" timestamp="2026-11-08T14:48:57Z" changeset="191650450" uid="23629183" user="Fla13">
+    <tag k="name" v="Paulonia"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="12355122385" lat="45.5145077" lon="9.2378316" version="1" timestamp="2024-11-19T13:52:55Z" changeset="159325717" uid="21991459" user="signorz">
     <tag k="blind" v="no"/>
     <tag k="leisure" v="playground"/>
@@ -50726,7 +50753,11 @@
     <tag k="panoramax:0" v="c06965fe-224b-4fe3-a50d-2977547274a1"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="13148875780" lat="45.4788668" lon="9.1905486" version="5" timestamp="2026-04-28T21:04:25Z" changeset="181960257" uid="13697350" user="c674a">
+  <node id="13148875780" lat="45.4788668" lon="9.1905486" version="6" timestamp="2026-11-07T19:19:16Z" changeset="191618817" uid="24739367" user="Claudio Antropico">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="20121"/>
+    <tag k="addr:street" v="Via Castelfidardo"/>
     <tag k="emergency" v="emergency_ward_entrance"/>
     <tag k="emergency_ward_entrance" v="all"/>
     <tag k="entrance" v="yes"/>
@@ -51257,7 +51288,7 @@
     <tag k="shop" v="tobacco"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="13296486814" lat="45.4441365" lon="9.1749720" version="2" timestamp="2026-09-06T19:10:09Z" changeset="188635249" uid="13697350" user="c674a">
+  <node id="13296486814" lat="45.4441365" lon="9.1749720" version="3" timestamp="2026-11-07T19:12:31Z" changeset="191618602" uid="14910360" user="MartaMag">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:postcode" v="20143"/>
@@ -51268,6 +51299,7 @@
     <tag k="brand" v="Doppio Malto"/>
     <tag k="brand:wikidata" v="Q125285187"/>
     <tag k="brewery" v="yes"/>
+    <tag k="check_date" v="2026-11-07"/>
     <tag k="cuisine" v="burger;italian;steak_house"/>
     <tag k="diet:Carne" v="yes"/>
     <tag k="diet:gluten_free" v="yes"/>
@@ -51275,6 +51307,7 @@
     <tag k="internet_access" v="wlan"/>
     <tag k="microbrewery" v="yes"/>
     <tag k="name" v="Doppio Malto"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-15:00,18:00-23:30; Fr 12:00-15:00,18:00-24:30; Sa 12:00-24:30; Su 12:00-23:30"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="phone" v="+390230459059"/>
     <tag k="takeaway" v="yes"/>
@@ -53996,6 +54029,43 @@
     <tag k="railway" v="subway_entrance"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="14356823160" lat="45.4853115" lon="9.2253684" version="1" timestamp="2026-11-07T16:14:45Z" changeset="191612168" uid="24739367" user="Claudio Antropico">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Niccolò Jommelli"/>
+    <tag k="entrance" v="main"/>
+    <tag k="level" v="-1"/>
+    <tag k="ref" v="Ingresso Principale"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="14356823162" lat="45.4853634" lon="9.2253677" version="1" timestamp="2026-11-07T16:14:45Z" changeset="191612168" uid="24739367" user="Claudio Antropico">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Niccolò Jommelli"/>
+    <tag k="entrance" v="main"/>
+    <tag k="fixme" v="non è una porta ma un ascensore"/>
+    <tag k="level" v="-1"/>
+    <tag k="ref" v="Ingresso Disabili"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="14356823163" lat="45.4846303" lon="9.2255282" version="1" timestamp="2026-11-07T16:14:45Z" changeset="191612168" uid="24739367" user="Claudio Antropico">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Niccolò Jommelli"/>
+    <tag k="entrance" v="main"/>
+    <tag k="ref" v="Ingresso CUP"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="14357047806" lat="45.5108307" lon="9.1844026" version="1" timestamp="2026-11-07T18:02:14Z" changeset="191616275" uid="15264988" user="nicola_yubo">
+    <tag k="door" v="hinged"/>
+    <tag k="entrance" v="main"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -54394,7 +54464,7 @@
     <tag k="wikimedia_commons" v="Category:Planetario (Milan)"/>
     <tag k="wikipedia" v="it:Civico Planetario Ulrico Hoepli"/>
   </way>
-  <way id="23801230" version="11" timestamp="2026-08-14T17:39:48Z" changeset="187455863" uid="13697350" user="c674a">
+  <way id="23801230" version="12" timestamp="2026-11-07T20:05:05Z" changeset="191620415" uid="24739367" user="Claudio Antropico">
     <center lat="45.4681075" lon="9.1141770"/>
     <nd ref="257909544"/>
     <nd ref="257909545"/>
@@ -54415,6 +54485,10 @@
     <nd ref="1724436598"/>
     <nd ref="1724436594"/>
     <nd ref="257909544"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="20153"/>
+    <tag k="addr:street" v="Via Pio Secondo"/>
     <tag k="amenity" v="hospital"/>
     <tag k="emergency" v="yes"/>
     <tag k="healthcare" v="hospital"/>
@@ -63868,7 +63942,7 @@
     <tag k="leisure" v="playground"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="515273042" version="12" timestamp="2025-08-25T17:25:54Z" changeset="170989119" uid="13840929" user="aa30mom">
+  <way id="515273042" version="13" timestamp="2026-11-07T20:07:17Z" changeset="191620471" uid="24739367" user="Claudio Antropico">
     <center lat="45.4635012" lon="9.1719085"/>
     <nd ref="576536033"/>
     <nd ref="576541792"/>
@@ -63903,6 +63977,10 @@
     <nd ref="576541843"/>
     <nd ref="576536035"/>
     <nd ref="576536033"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="20123"/>
+    <tag k="addr:street" v="Via San Vittore"/>
     <tag k="amenity" v="hospital"/>
     <tag k="emergency" v="yes"/>
     <tag k="healthcare" v="hospital"/>
@@ -68127,6 +68205,49 @@
     <tag k="website" v="https://www.hilton.com/en/hotels/milgigi-hilton-garden-inn-milan-north/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
+  <way id="1334339360" version="2" timestamp="2026-11-08T14:26:46Z" changeset="191650450" uid="23629183" user="Fla13">
+    <center lat="45.4936536" lon="9.2246340"/>
+    <nd ref="12344699140"/>
+    <nd ref="12344699149"/>
+    <nd ref="12344699148"/>
+    <nd ref="12344699147"/>
+    <nd ref="12344699146"/>
+    <nd ref="12344699145"/>
+    <nd ref="12344699144"/>
+    <nd ref="12344699143"/>
+    <nd ref="12344699142"/>
+    <nd ref="12344699141"/>
+    <nd ref="12344699150"/>
+    <nd ref="12344699151"/>
+    <nd ref="12344699152"/>
+    <nd ref="12344699153"/>
+    <nd ref="12344699154"/>
+    <nd ref="12344699155"/>
+    <nd ref="12344699156"/>
+    <nd ref="12344699157"/>
+    <nd ref="12344699158"/>
+    <nd ref="12344699130"/>
+    <nd ref="12344699129"/>
+    <nd ref="12344699128"/>
+    <nd ref="12344699127"/>
+    <nd ref="12344699131"/>
+    <nd ref="12344699126"/>
+    <nd ref="12344699125"/>
+    <nd ref="12344699124"/>
+    <nd ref="12344699123"/>
+    <nd ref="12344699132"/>
+    <nd ref="12344699133"/>
+    <nd ref="12344699134"/>
+    <nd ref="12344699135"/>
+    <nd ref="12344699136"/>
+    <nd ref="12344699137"/>
+    <nd ref="12344699138"/>
+    <nd ref="12344699139"/>
+    <nd ref="12344699140"/>
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="Ex Piscina"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
   <way id="1335062677" version="2" timestamp="2025-07-15T09:53:53Z" changeset="168955869" uid="290680" user="wheelmap_visitor">
     <center lat="45.4980831" lon="9.2230187"/>
     <nd ref="12351280748"/>
@@ -68387,7 +68508,7 @@
     <tag k="leisure" v="dog_park"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1443890004" version="2" timestamp="2026-05-10T09:50:13Z" changeset="182458005" uid="13697350" user="c674a">
+  <way id="1443890004" version="3" timestamp="2026-11-07T18:51:19Z" changeset="191617957" uid="24739367" user="Claudio Antropico">
     <center lat="45.4777518" lon="9.2307003"/>
     <nd ref="5392981595"/>
     <nd ref="2013377601"/>
@@ -68399,8 +68520,10 @@
     <nd ref="2013377642"/>
     <nd ref="5392981598"/>
     <nd ref="5392981595"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Via Giovanni Celoria"/>
     <tag k="amenity" v="hospital"/>
-    <tag k="emergency" v="no"/>
     <tag k="healthcare" v="hospital"/>
     <tag k="healthcare:speciality" v="neurology"/>
     <tag k="name" v="Istituto Neurologico Carlo Besta"/>
@@ -68912,15 +69035,18 @@
     <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1499574707" version="1" timestamp="2026-04-15T10:47:38Z" changeset="181360370" uid="21768531" user="ASST Grande Ospedale Metropolitano Niguarda">
-    <center lat="45.5109031" lon="9.1844165"/>
-    <nd ref="12198713225"/>
+  <way id="1499574707" version="2" timestamp="2026-11-07T18:02:14Z" changeset="191616275" uid="15264988" user="nicola_yubo">
+    <center lat="45.5108932" lon="9.1844445"/>
+    <nd ref="14357047807"/>
     <nd ref="13732006563"/>
     <nd ref="13732006564"/>
+    <nd ref="14357047806"/>
     <nd ref="13732006565"/>
-    <nd ref="12198713225"/>
-    <tag k="building" v="school"/>
+    <nd ref="14357047807"/>
+    <tag k="building" v="university"/>
     <tag k="name" v="Niguarda Learning Center"/>
+    <tag k="operator" v="Università degli Studi di Milano"/>
+    <tag k="operator:wikidata" v="Q46210"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1506932069" version="7" timestamp="2026-11-05T22:44:05Z" changeset="191534374" uid="18266291" user="nicola_alle">
@@ -69082,7 +69208,7 @@
     <tag k="sport" v="swimming"/>
     <tag k="wheelchair" v="no"/>
   </way>
-  <way id="1510671203" version="1" timestamp="2026-05-08T17:25:58Z" changeset="182393628" uid="13697350" user="c674a">
+  <way id="1510671203" version="2" timestamp="2026-11-07T16:14:45Z" changeset="191612168" uid="24739367" user="Claudio Antropico">
     <center lat="45.4852492" lon="9.2250623"/>
     <nd ref="498796581"/>
     <nd ref="1681302536"/>
@@ -69090,6 +69216,7 @@
     <nd ref="1681302540"/>
     <nd ref="1681302535"/>
     <nd ref="1681302541"/>
+    <nd ref="14356823161"/>
     <nd ref="3719977900"/>
     <nd ref="3719977887"/>
     <nd ref="3719977906"/>
@@ -69100,14 +69227,23 @@
     <nd ref="498796583"/>
     <nd ref="3719977883"/>
     <nd ref="498796582"/>
+    <nd ref="14356823162"/>
+    <nd ref="14356823160"/>
     <nd ref="13809288298"/>
     <nd ref="498796581"/>
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="20131"/>
+    <tag k="addr:street" v="Via Niccolò Jommelli"/>
+    <tag k="alt_name" v="Casa di Cura Santa Rita"/>
     <tag k="amenity" v="hospital"/>
     <tag k="check_date" v="2024-07-20"/>
     <tag k="emergency" v="yes"/>
     <tag k="healthcare" v="hospital"/>
     <tag k="name" v="Istituto Clinico Città Studi"/>
+    <tag k="phone" v="+39 02 23931"/>
     <tag k="source" v="Regione Lombardia - La banca dati territoriali CTR10000 è prodotta da Regione Lombardia - Infrastruttura per l'Informazione Territoriale"/>
+    <tag k="website" v="https://www.ic-cittastudi.it/"/>
     <tag k="wheelchair" v="yes"/>
   </way>
   <way id="1511862313" version="1" timestamp="2026-05-11T06:34:58Z" changeset="182495419" uid="13697350" user="c674a">
