@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-11-09T10:18:26Z" areas="2026-11-09T03:42:51Z"/>
+<meta osm_base="2026-11-12T10:15:38Z" areas="2026-11-12T05:39:32Z"/>
 
   <relation id="41975">
     <bounds minlat="42.2376150" minlon="10.8644751" maxlat="42.3897861" maxlon="11.1175109"/>
@@ -328225,6 +328225,7 @@
       <nd lat="43.5237567" lon="12.0968294"/>
       <nd lat="43.5237106" lon="12.0966194"/>
       <nd lat="43.5236167" lon="12.0965068"/>
+      <nd lat="43.5233953" lon="12.0963837"/>
       <nd lat="43.5232818" lon="12.0963206"/>
       <nd lat="43.5231046" lon="12.0960420"/>
       <nd lat="43.5229166" lon="12.0957088"/>
@@ -328328,6 +328329,7 @@
       <nd lat="43.5237567" lon="12.0968294"/>
       <nd lat="43.5237106" lon="12.0966194"/>
       <nd lat="43.5236167" lon="12.0965068"/>
+      <nd lat="43.5233953" lon="12.0963837"/>
       <nd lat="43.5232818" lon="12.0963206"/>
       <nd lat="43.5231046" lon="12.0960420"/>
       <nd lat="43.5229166" lon="12.0957088"/>
@@ -406798,6 +406800,7 @@
     <tag k="name:it" v="Firenze"/>
     <tag k="name:ko" v="피렌체"/>
     <tag k="name:la" v="Florentia"/>
+    <tag k="name:lld" v="Firënza"/>
     <tag k="name:nl" v="Florence"/>
     <tag k="name:oc" v="Florença"/>
     <tag k="name:pl" v="Florencja"/>
@@ -562320,7 +562323,6 @@
   <relation id="42779">
     <bounds minlat="43.9567124" minlon="10.2358397" maxlat="44.0783619" maxlon="10.3777898"/>
     <member type="node" ref="601456306" role="admin_centre" lat="43.9973334" lon="10.2956470"/>
-    <member type="node" ref="61753534" role="label" lat="44.0115548" lon="10.3135342"/>
     <member type="way" ref="27974220" role="outer">
       <nd lat="43.9874845" lon="10.2406828"/>
       <nd lat="43.9874877" lon="10.2407241"/>
@@ -563895,6 +563897,7 @@
       <nd lat="44.0731688" lon="10.2395855"/>
       <nd lat="44.0717076" lon="10.2396512"/>
     </member>
+    <member type="node" ref="4400102151" role="label" lat="43.9930171" lon="10.3108191"/>
     <tag k="admin_level" v="8"/>
     <tag k="boundary" v="administrative"/>
     <tag k="name" v="Stazzema"/>
@@ -861486,7 +861489,6 @@
       <nd lat="44.4537550" lon="8.9418619"/>
       <nd lat="44.4535010" lon="8.9416046"/>
       <nd lat="44.4533175" lon="8.9415042"/>
-      <nd lat="44.4533175" lon="8.9415042"/>
       <nd lat="44.4533475" lon="8.9413075"/>
       <nd lat="44.4533995" lon="8.9411284"/>
       <nd lat="44.4534305" lon="8.9409115"/>
@@ -906936,6 +906938,12 @@
       <nd lat="44.7177632" lon="10.5606143"/>
       <nd lat="44.7173439" lon="10.5633126"/>
     </member>
+    <member type="way" ref="1578190152" role="outer">
+      <nd lat="44.7185753" lon="10.5394353"/>
+      <nd lat="44.7167142" lon="10.5451544"/>
+      <nd lat="44.7201175" lon="10.5474310"/>
+      <nd lat="44.7189589" lon="10.5503057"/>
+    </member>
     <member type="way" ref="665968284" role="outer">
       <nd lat="44.7245128" lon="10.5265908"/>
       <nd lat="44.7225871" lon="10.5272213"/>
@@ -906948,9 +906956,6 @@
       <nd lat="44.7187653" lon="10.5395428"/>
       <nd lat="44.7186864" lon="10.5394900"/>
       <nd lat="44.7185753" lon="10.5394353"/>
-      <nd lat="44.7167142" lon="10.5451544"/>
-      <nd lat="44.7201175" lon="10.5474310"/>
-      <nd lat="44.7189589" lon="10.5503057"/>
     </member>
     <member type="way" ref="665968287" role="outer">
       <nd lat="44.7252625" lon="10.5073076"/>
@@ -923836,6 +923841,12 @@
       <nd lat="44.7177632" lon="10.5606143"/>
       <nd lat="44.7173439" lon="10.5633126"/>
     </member>
+    <member type="way" ref="1578190152" role="outer">
+      <nd lat="44.7185753" lon="10.5394353"/>
+      <nd lat="44.7167142" lon="10.5451544"/>
+      <nd lat="44.7201175" lon="10.5474310"/>
+      <nd lat="44.7189589" lon="10.5503057"/>
+    </member>
     <member type="way" ref="665968284" role="outer">
       <nd lat="44.7245128" lon="10.5265908"/>
       <nd lat="44.7225871" lon="10.5272213"/>
@@ -923848,9 +923859,6 @@
       <nd lat="44.7187653" lon="10.5395428"/>
       <nd lat="44.7186864" lon="10.5394900"/>
       <nd lat="44.7185753" lon="10.5394353"/>
-      <nd lat="44.7167142" lon="10.5451544"/>
-      <nd lat="44.7201175" lon="10.5474310"/>
-      <nd lat="44.7189589" lon="10.5503057"/>
     </member>
     <member type="way" ref="665968287" role="outer">
       <nd lat="44.7252625" lon="10.5073076"/>
@@ -950774,7 +950782,7 @@
       <nd lat="44.9563234" lon="9.6032060"/>
       <nd lat="44.9567976" lon="9.6015820"/>
       <nd lat="44.9567044" lon="9.6015263"/>
-      <nd lat="44.9568578" lon="9.5998514"/>
+      <nd lat="44.9568578" lon="9.5998746"/>
       <nd lat="44.9573461" lon="9.5970382"/>
       <nd lat="44.9569069" lon="9.5936715"/>
     </member>
@@ -959867,7 +959875,7 @@
       <nd lat="44.9563234" lon="9.6032060"/>
       <nd lat="44.9567976" lon="9.6015820"/>
       <nd lat="44.9567044" lon="9.6015263"/>
-      <nd lat="44.9568578" lon="9.5998514"/>
+      <nd lat="44.9568578" lon="9.5998746"/>
       <nd lat="44.9573461" lon="9.5970382"/>
       <nd lat="44.9569069" lon="9.5936715"/>
     </member>
@@ -959956,6 +959964,7 @@
     <member type="way" ref="730890947" role="outer">
       <nd lat="44.9985065" lon="9.6502467"/>
       <nd lat="44.9983431" lon="9.6515318"/>
+      <nd lat="44.9981932" lon="9.6527277"/>
       <nd lat="44.9979678" lon="9.6545262"/>
       <nd lat="44.9979336" lon="9.6548328"/>
       <nd lat="44.9976807" lon="9.6570994"/>
@@ -971115,6 +971124,7 @@
     <member type="way" ref="730890947" role="outer">
       <nd lat="44.9985065" lon="9.6502467"/>
       <nd lat="44.9983431" lon="9.6515318"/>
+      <nd lat="44.9981932" lon="9.6527277"/>
       <nd lat="44.9979678" lon="9.6545262"/>
       <nd lat="44.9979336" lon="9.6548328"/>
       <nd lat="44.9976807" lon="9.6570994"/>
@@ -1093019,7 +1093029,6 @@
       <nd lat="44.4537550" lon="8.9418619"/>
       <nd lat="44.4535010" lon="8.9416046"/>
       <nd lat="44.4533175" lon="8.9415042"/>
-      <nd lat="44.4533175" lon="8.9415042"/>
       <nd lat="44.4533475" lon="8.9413075"/>
       <nd lat="44.4533995" lon="8.9411284"/>
       <nd lat="44.4534305" lon="8.9409115"/>
@@ -1152964,6 +1152973,7 @@
       <nd lat="45.5032851" lon="12.0014580"/>
       <nd lat="45.5041535" lon="12.0017661"/>
       <nd lat="45.5077184" lon="12.0030287"/>
+      <nd lat="45.5101773" lon="12.0039793"/>
       <nd lat="45.5102522" lon="12.0040083"/>
       <nd lat="45.5102759" lon="12.0039603"/>
       <nd lat="45.5102989" lon="12.0038903"/>
@@ -1446200,6 +1446210,7 @@
     <tag k="admin_level" v="8"/>
     <tag k="boundary" v="administrative"/>
     <tag k="name" v="Agordo"/>
+    <tag k="name:lld" v="Egort"/>
     <tag k="name:ru" v="Агордо"/>
     <tag k="population" v="4068"/>
     <tag k="population:date" v="2026-08-28"/>
@@ -1449672,6 +1449683,7 @@
     <tag k="admin_level" v="8"/>
     <tag k="boundary" v="administrative"/>
     <tag k="name" v="Falcade"/>
+    <tag k="name:lld" v="Falciade"/>
     <tag k="population" v="1727"/>
     <tag k="population:date" v="2026-08-28"/>
     <tag k="postal_code" v="32020"/>
@@ -1462202,6 +1462214,7 @@
     <tag k="boundary" v="administrative"/>
     <tag k="name" v="Pieve di Cadore"/>
     <tag k="name:fur" v="Plêf di Cjadovri"/>
+    <tag k="name:lld" v="Pièe de Ciadura"/>
     <tag k="name:vec" v="Pieve de Cador"/>
     <tag k="population" v="3605"/>
     <tag k="population:date" v="2026-08-28"/>
@@ -1866302,6 +1866315,7 @@
       <nd lat="45.5032851" lon="12.0014580"/>
       <nd lat="45.5041535" lon="12.0017661"/>
       <nd lat="45.5077184" lon="12.0030287"/>
+      <nd lat="45.5101773" lon="12.0039793"/>
       <nd lat="45.5102522" lon="12.0040083"/>
       <nd lat="45.5102759" lon="12.0039603"/>
       <nd lat="45.5102989" lon="12.0038903"/>
