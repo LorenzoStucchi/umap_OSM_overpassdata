@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-11-12T10:55:21Z" areas="2026-11-12T08:55:14Z"/>
+<meta osm_base="2026-11-13T10:38:06Z" areas="2026-11-13T04:27:32Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="25" timestamp="2026-09-28T22:55:57Z" changeset="189701847" uid="5164" user="woodpeck">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -54075,6 +54075,14 @@
     <tag k="survey:date" v="2026-11-11"/>
     <tag k="wheelchair" v="limited"/>
   </node>
+  <node id="14369994830" lat="45.4766771" lon="9.2264249" version="2" timestamp="2026-11-12T12:47:38Z" changeset="191840275" uid="22919632" user="matteobott">
+    <tag k="access" v="private"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="level" v="1"/>
+    <tag k="survey:date" v="2026-11-12"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <way id="4497311" version="13" timestamp="2023-10-02T17:31:08Z" changeset="142049925" uid="12500589" user="tg4567">
     <center lat="45.4684792" lon="9.1567286"/>
     <nd ref="27582760"/>
@@ -69340,7 +69348,7 @@
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="yes"/>
   </way>
-  <way id="1524053329" version="3" timestamp="2026-11-05T22:44:05Z" changeset="191534374" uid="18266291" user="nicola_alle">
+  <way id="1524053329" version="4" timestamp="2026-11-13T07:47:06Z" changeset="191878346" uid="24702244" user="mssuperlol">
     <center lat="45.4799337" lon="9.2283015"/>
     <nd ref="13891614908"/>
     <nd ref="13891614804"/>
@@ -69354,6 +69362,7 @@
     <nd ref="13891614908"/>
     <tag k="access" v="permit"/>
     <tag k="amenity" v="toilets"/>
+    <tag k="fee" v="no"/>
     <tag k="indoor" v="room"/>
     <tag k="level" v="2"/>
     <tag k="ref" v="022b"/>
