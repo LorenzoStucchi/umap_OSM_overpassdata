@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-11-20T11:05:20Z" areas="2026-11-20T09:24:11Z"/>
+<meta osm_base="2026-11-21T10:49:51Z" areas="2026-11-21T06:04:44Z"/>
 
   <node id="21226369" lat="45.4684048" lon="9.1755230" version="25" timestamp="2026-09-28T22:55:57Z" changeset="189701847" uid="5164" user="woodpeck">
     <tag k="description" v="Area STIBM: Mi1"/>
@@ -19027,6 +19027,33 @@
     <tag k="phone" v="+39 02 48317444"/>
     <tag k="short_name" v="CDI"/>
     <tag k="website" v="https://www.cdi.it/it/sedi/cdi_porta_nuova.html"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3748920082" lat="45.4612058" lon="9.2438801" version="4" timestamp="2026-11-20T17:26:31Z" changeset="192237685" uid="10197737" user="Gorignak">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:postcode" v="20138"/>
+    <tag k="addr:street" v="Piazza Artigianato"/>
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="check_date" v="2026-11-20"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/forlagelateria/"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Forlà - Gelateria di quartiere"/>
+    <tag k="opening_hours" v="Tu-Th 13:00-22:00; Fr 13:00-22:30; Sa 09:00-22:30; Su 09:00-22:00; Mo off"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:account_cards" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="phone" v="+39 02 39622003"/>
+    <tag k="start_date" v="2025-05-03"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3753376616" lat="45.4541198" lon="9.2133409" version="13" timestamp="2026-03-26T22:09:04Z" changeset="180477660" uid="2350365" user="Kartibu">
@@ -46262,6 +46289,27 @@
     <tag k="sport" v="table_tennis"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="11613052569" lat="45.4843050" lon="9.2343551" version="10" timestamp="2026-11-20T17:19:35Z" changeset="192237320" uid="18266291" user="nicola_alle">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Burger King"/>
+    <tag k="brand:wikidata" v="Q177054"/>
+    <tag k="changing_table" v="yes"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Burger King"/>
+    <tag k="opening_hours" v="Su-Th 11:30-24:00, Fr,Sa 11:30-01:00"/>
+    <tag k="operator" v="Burger King Restaurants Italia S.p.A."/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="ref:vatin" v="IT08876390967"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="11624869645" lat="45.5160310" lon="9.2244417" version="1" timestamp="2024-02-14T22:34:50Z" changeset="147468975" uid="33407" user="Zaffo80">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="7"/>
@@ -58379,7 +58427,7 @@
     <tag k="wikimedia_commons" v="Category:San Martino in Villapizzone (Milan)"/>
     <tag k="wikipedia" v="it:Chiesa di San Martino in Villapizzone"/>
   </way>
-  <way id="137126440" version="18" timestamp="2026-10-10T11:33:17Z" changeset="190296214" uid="22919632" user="matteobott">
+  <way id="137126440" version="19" timestamp="2026-11-20T16:49:58Z" changeset="192235914" uid="18266291" user="nicola_alle">
     <center lat="45.4796469" lon="9.2291806"/>
     <nd ref="1504140565"/>
     <nd ref="14270348984"/>
@@ -58396,7 +58444,6 @@
     <nd ref="13266821613"/>
     <nd ref="1504140561"/>
     <nd ref="1504140562"/>
-    <nd ref="14270348990"/>
     <nd ref="14270348999"/>
     <nd ref="1504140565"/>
     <tag k="architect" v="Vittoriano Viganò"/>
